@@ -59,10 +59,13 @@ HTML_TEMPLATE = """<!DOCTYPE html>
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
     background: var(--bg);
     color: var(--text);
-    padding-bottom: 40px;
+    padding-bottom: calc(40px + env(safe-area-inset-bottom));
   }}
   header {{
-    padding: 20px 16px 12px;
+    /* En modo "app" (agregado a la pantalla de inicio) el contenido puede
+       quedar debajo del notch/Dynamic Island; env(safe-area-inset-top)
+       empuja el header para que no quede tapado. */
+    padding: calc(20px + env(safe-area-inset-top)) 16px 12px;
     position: sticky;
     top: 0;
     background: var(--bg);
@@ -72,12 +75,25 @@ HTML_TEMPLATE = """<!DOCTYPE html>
   header h1 {{ margin: 0 0 2px; font-size: 20px; }}
   header p {{ margin: 0; font-size: 12px; color: var(--muted); }}
 
+  .buscador {{
+    padding: 12px 16px 0;
+  }}
+  .buscador input {{
+    width: 100%;
+    background: var(--card-bg);
+    color: var(--text);
+    border: 1px solid #2c3234;
+    border-radius: 10px;
+    padding: 10px 12px;
+    font-size: 14px;
+  }}
+  .buscador input::placeholder {{ color: var(--muted); }}
+
   .filters {{
     display: flex;
+    flex-wrap: wrap;
     gap: 8px;
-    overflow-x: auto;
     padding: 12px 16px;
-    -webkit-overflow-scrolling: touch;
   }}
   .filters select {{
     background: var(--card-bg);
@@ -86,7 +102,8 @@ HTML_TEMPLATE = """<!DOCTYPE html>
     border-radius: 10px;
     padding: 8px 10px;
     font-size: 13px;
-    flex-shrink: 0;
+    flex: 1 1 auto;
+    min-width: 0;
   }}
 
   main {{ padding: 0 16px; }}
@@ -198,6 +215,10 @@ HTML_TEMPLATE = """<!DOCTYPE html>
   <p>Actualizado: {actualizado} · {total} beneficios</p>
 </header>
 
+<div class="buscador">
+  <input type="text" id="f-buscar" placeholder="Buscar por comercio o comuna..." autocomplete="off">
+</div>
+
 <div class="filters">
   <select id="f-banco">
     <option value="">Todos los bancos</option>
@@ -217,6 +238,7 @@ HTML_TEMPLATE = """<!DOCTYPE html>
 const DATA = {data_json};
 
 const mainEl = document.getElementById('main');
+const fBuscar = document.getElementById('f-buscar');
 const fBanco = document.getElementById('f-banco');
 const fCategoria = document.getElementById('f-categoria');
 const fDia = document.getElementById('f-dia');
@@ -231,6 +253,20 @@ function unique(arr) {{
 function uniqueDias(arrOfArrays) {{
   const presentes = new Set(arrOfArrays.flat().filter(Boolean));
   return ORDEN_DIAS.filter(d => presentes.has(d));
+}}
+
+function normalizarTexto(str) {{
+  // saca tildes (ej. "Ñuñoa") normalizando a forma descompuesta y
+  // quitando las marcas diacríticas, así se puede buscar sin acentos
+  return (str || '')
+    .normalize('NFD').replace(/[\u0300-\u036f]/g, '')
+    .toLowerCase();
+}}
+
+function coincideBusqueda(b, termino) {{
+  if (!termino) return true;
+  const campos = [b.comercio, ...(b.sucursales || [])].join(' ');
+  return normalizarTexto(campos).includes(termino);
 }}
 
 function fillSelect(select, values) {{
@@ -312,11 +348,13 @@ function render() {{
   const banco = fBanco.value;
   const categoria = fCategoria.value;
   const dia = fDia.value;
+  const busqueda = normalizarTexto(fBuscar.value.trim());
 
   const filtrados = DATA.filter(b =>
     (!banco || b.banco === banco) &&
     (!categoria || (categoria === SIN_CATEGORIA ? !b.categoria : b.categoria === categoria)) &&
-    (!dia || (Array.isArray(b.dia) && b.dia.includes(dia)))
+    (!dia || (Array.isArray(b.dia) && b.dia.includes(dia))) &&
+    coincideBusqueda(b, busqueda)
   );
 
   mainEl.innerHTML = '';
@@ -383,6 +421,7 @@ function render() {{
 }}
 
 [fBanco, fCategoria, fDia].forEach(el => el.addEventListener('change', render));
+fBuscar.addEventListener('input', render);
 render();
 </script>
 
