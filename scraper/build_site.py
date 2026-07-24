@@ -1,15 +1,19 @@
-"""Genera site/index.html + manifest.json a partir del JSON de beneficios.
+"""Genera docs/index.html + manifest.json a partir del JSON de beneficios.
 
 Diseño mobile-first porque el uso real va a ser desde el celular, agregado
 a la pantalla de inicio. Incluye filtros simples por banco, categoría y día
 hechos con JS plano (sin frameworks, para no depender de un build step).
+
+Se llama "docs/" (no "site/") porque GitHub Pages, en el modo "Deploy from
+a branch", solo deja elegir la raíz del repo o una carpeta llamada
+"docs" como origen — no admite un nombre de carpeta arbitrario.
 """
 
 import json
 from pathlib import Path
 
 ROOT = Path(__file__).parent.parent
-SITE_DIR = ROOT / "site"
+SITE_DIR = ROOT / "docs"
 
 MANIFEST = {
     "name": "Beneficios Bancarios",

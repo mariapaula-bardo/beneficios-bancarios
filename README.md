@@ -18,10 +18,10 @@ así que **no sirve `requests` + BeautifulSoup**: hay que usar Playwright
 scraper/
   scrape_bancochile.py   -> abre la página con Playwright, extrae beneficios
   scrape_santander.py    -> ídem para Santander
-  build_site.py          -> junta ambos JSON, genera site/index.html + manifest
+  build_site.py          -> junta ambos JSON, genera docs/index.html + manifest
   run.py                 -> orquesta: scrapea los 2 bancos, guarda data/beneficios.json, build_site
-site/                     -> output publicado por GitHub Pages (se regenera solo)
-.github/workflows/scrape.yml -> cron diario que corre todo y hace commit del site/
+docs/                     -> output publicado por GitHub Pages (se regenera solo)
+.github/workflows/scrape.yml -> cron diario que corre todo y hace commit del docs/
 ```
 
 ## Lo que falta hacer (esto es un esqueleto, no un scraper terminado)
@@ -42,7 +42,7 @@ correctos. Para eso:
 3. Reemplaza los placeholders y corré `python scraper/run.py` localmente para
    validar que el JSON sale bien poblado.
 4. Subí el repo a tu GitHub personal (no al de Maxxa) y activá GitHub Pages
-   apuntando a la carpeta `site/` (rama main o gh-pages, como prefieras).
+   apuntando a la carpeta `docs/` (rama main).
 5. Activá el workflow de Actions (ya viene con cron diario a las 08:00
    Chile, ajustable).
 

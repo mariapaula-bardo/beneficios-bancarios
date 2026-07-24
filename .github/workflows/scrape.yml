@@ -23,19 +23,22 @@ jobs:
         run: |
           pip install -r requirements.txt
           playwright install --with-deps chromium
+          sudo apt-get update && sudo apt-get install -y xvfb
 
+      # Los scrapers usan headless=False a propósito: los sitios de ambos
+      # bancos bloquean Chromium en modo headless real (ver scrape_*.py).
+      # xvfb-run le da una pantalla virtual para que Playwright pueda abrir
+      # el navegador "con cabeza" igual en un runner sin monitor.
       - name: Correr scraper y generar sitio
-        run: python scraper/run.py
+        run: xvfb-run -a python scraper/run.py
 
       - name: Commit y push si hay cambios
         run: |
           git config user.name "beneficios-bot"
           git config user.email "actions@github.com"
-          git add data/beneficios.json site/
+          git add data/beneficios.json docs/
           git diff --staged --quiet || git commit -m "Actualiza beneficios $(date -u +%F)"
           git push
 
   # Nota: para que esto publique en GitHub Pages, andá a Settings > Pages
-  # del repo y elegí "Deploy from a branch" -> main -> carpeta /site
-  # (o agregá un job separado con actions/deploy-pages si preferís el flujo
-  # oficial de Pages con artifact upload).
+  # del repo y elegí "Deploy from a branch" -> main -> carpeta /docs.
