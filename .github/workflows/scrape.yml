@@ -1,0 +1,41 @@
+name: Scrape beneficios bancarios
+
+on:
+  schedule:
+    # 08:00 hora Chile ≈ 11:00 UTC (ajustar si cambia el horario de verano)
+    - cron: "0 11 * * *"
+  workflow_dispatch: {}  # permite correrlo a mano desde la pestaña Actions
+
+permissions:
+  contents: write
+
+jobs:
+  scrape-and-publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instalar dependencias
+        run: |
+          pip install -r requirements.txt
+          playwright install --with-deps chromium
+
+      - name: Correr scraper y generar sitio
+        run: python scraper/run.py
+
+      - name: Commit y push si hay cambios
+        run: |
+          git config user.name "beneficios-bot"
+          git config user.email "actions@github.com"
+          git add data/beneficios.json site/
+          git diff --staged --quiet || git commit -m "Actualiza beneficios $(date -u +%F)"
+          git push
+
+  # Nota: para que esto publique en GitHub Pages, andá a Settings > Pages
+  # del repo y elegí "Deploy from a branch" -> main -> carpeta /site
+  # (o agregá un job separado con actions/deploy-pages si preferís el flujo
+  # oficial de Pages con artifact upload).
