@@ -10,6 +10,7 @@
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 <meta name="apple-mobile-web-app-title" content="Beneficios">
+<meta name="build-timestamp" content="2026-07-24T16:52">
 <link rel="apple-touch-icon" href="icon-192.png">
 
 <style>
@@ -393,6 +394,30 @@ function render() {
 [fBanco, fCategoria, fDia].forEach(el => el.addEventListener('change', render));
 fBuscar.addEventListener('input', render);
 render();
+
+// Las apps agregadas a la pantalla de inicio en iOS a veces reabren la
+// versión que ya tenían cargada en vez de pedirle una nueva al servidor.
+// Acá se chequea en segundo plano si salió una versión más nueva
+// (comparando el build-timestamp embebido) y, si la hay, se recarga sola
+// una vez — así no hace falta borrar y volver a agregar el acceso directo.
+(function comprobarActualizacion() {
+  var metaActual = document.querySelector('meta[name="build-timestamp"]');
+  var buildActual = metaActual && metaActual.content;
+  if (!buildActual) return;
+
+  fetch(location.href, {cache: 'no-store'})
+    .then(function(res) { return res.text(); })
+    .then(function(html) {
+      var fresco = new DOMParser().parseFromString(html, 'text/html');
+      var metaFresco = fresco.querySelector('meta[name="build-timestamp"]');
+      var buildFresco = metaFresco && metaFresco.content;
+      if (!buildFresco || buildFresco === buildActual) return;
+      if (sessionStorage.getItem('build-visto') === buildFresco) return;
+      sessionStorage.setItem('build-visto', buildFresco);
+      location.reload();
+    })
+    .catch(function() {});
+})();
 </script>
 
 </body>
