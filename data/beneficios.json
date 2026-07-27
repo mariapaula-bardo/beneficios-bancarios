@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-07-26T11:55",
+  "actualizado": "2026-07-27T13:32",
   "beneficios": [
     {
       "banco": "Banco de Chile",
@@ -22,6 +22,52 @@
       ],
       "sucursales": [
         "Carampangue #190, Región de los Ríos, Valdivia"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "DHouse",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "40% dto.",
+      "dia": [
+        "Viernes"
+      ],
+      "dia_texto": "viernes",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida viernes 31 de julio y 07 de agosto 2026.",
+      "condiciones": [
+        "40% dto. viernes en compras presenciales.",
+        "Tope de dto. $35.000",
+        "Genera tu código de descuento y preséntalo al momento de pagar.",
+        "400 códigos disponibles para esta promoción.",
+        "Descarga del código estará disponible el día que participe la marca, desde las 00:00 hrs.",
+        "No acumulable con otras promociones.",
+        "Descuento no aplica en categoría mujer y hombre.",
+        "Descuento no aplica para compras con facturas y en cambios.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "L 179, A. Vespucio #399, Región Metropolitana, Maipú",
+        "A. Departamental #01053, Región Metropolitana, La Florida",
+        "A. Vespucio Norte #1789, Región Metropolitana, Huechuraba",
+        "Local #2057, Francisco Bilbao #8750, Región Metropolitana, La Reina",
+        "Camino A Melipilla #9400, Región Metropolitana, Maipú",
+        "Local 1034, Mar Tirreno #5449, Región Metropolitana, Peñalolén",
+        "Local A305, Av. Alameda Bdo. OHiggins 3470, Región Metropolitana, Santiago",
+        "Local 2, San Ignacio 500 Buenaventura, Región Metropolitana, Quilicura",
+        "L.12, Avda. OHiggins 581, Región Metropolitana, Quilicura",
+        "L 502 Easton Center, Eduardo Freí Montalvo 9709, Región Metropolitana, Quilicura",
+        "Local 128, Av. Lo Espejo 943, Región Metropolitana, Lo Espejo",
+        "JVACIO, orge Alessandri S/N Sector Home Center - Lider, Región del Biobío, Concepción",
+        "Av. Ramón Freire #1851, Región de Valparaíso, Quilpué",
+        "Av. Francisco De Aguirre #02, Región de Coquimbo, La Serena",
+        "L.1003, Carretera El Cobre Presidente Frei #750, Región del Libertador Bernardo OHiggins, Rancagua",
+        "Local 9-10-11, Argentina #1, Región de Valparaíso, Valparaíso",
+        "Local 111-112, Av. Parque Industrial 450, Región de los Lagos, Puerto Montt",
+        "Local 23-24, Calle Portal San Pedro 4850, Región del Biobío, Concepción",
+        "Local 109, Av. Einstein 290, Región del Libertador Bernardo OHiggins, Rancagua",
+        "Local Le 18 - Lc 34, Camino Internacional 2440, Región de Valparaíso, Viña del Mar",
+        "Local S17, Av. Lomas De La Luz 4650, Región de Valparaíso, Curauma"
       ]
     },
     {
@@ -743,6 +789,69 @@
       "sucursales": [
         "Manuel Rodríguez #1737, Región de Los Lagos, Osorno"
       ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Hush Puppies Kids",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "40% dto.",
+      "dia": [
+        "Sábado"
+      ],
+      "dia_texto": "sábado",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida sábado 01 y 08 de agosto 2026.",
+      "condiciones": [
+        "40% dto. sábado en compra presencial.",
+        "Tope de dto. $35.000",
+        "Genera tu código de descuento y preséntalo al momento de pagar.",
+        "1.000 códigos disponibles para esta promoción.",
+        "Descarga del código estará disponible el día que participe la marca, desde las 00:00 hrs.",
+        "No acumulable con otras promociones.",
+        "Descuento no aplica en categoria mujer y hombre.",
+        "Descuento no aplica para compras con facturas y en cambios.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Local 2078, PLAZA YUNGAY 609, LOS LAGOS, OSORNO",
+        "Local 147-149, AV.BALMACEDA Nro 2355, ANTOFAGASTA, ANTOFAGASTA",
+        "Local 14, 13 NORTE #871, Valparaiso, VIÑA DEL MAR",
+        "Local 1069, AV. KENNEDY 9001, RM, SANTIAGO",
+        "Local 303-30, AV. KENNEDY 5413, RM, SANTIAGO",
+        "Local 1098, VICU?A MACKENNA #6100, RM, SANTIAGO",
+        "Local 359 - A, AV. AMERICO VESPUCIO N# 399, RM, SANTIAGO",
+        "Local E221-223, J. ALESSANDRI #3.177, BIO-BIO, TALCAHUANO",
+        "Local 30, AV. BDO O HIGGINS Nro 201, MAULE, CURICO",
+        "Local 359, CALLE ISABEL RIQUELME Nro709-745, BIO-BIO, CHILLAN",
+        "BULNES Nro472, ARAUCANIA, TEMUCO",
+        "AV. ALEMANIA 0671 L1034, ARAUCANIA, TEMUCO"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Hush Puppies Kids",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "40% dto.",
+      "dia": [
+        "Sábado"
+      ],
+      "dia_texto": "sábados",
+      "canal": "Online",
+      "vigencia": "Promoción válida sábado 01 y 08 de agosto de 2026.",
+      "condiciones": [
+        "40% dto. los sábados en hushpuppieskids.cl",
+        "Genera tu código e ingrésalo como cupón en hushpuppieskids.cl",
+        "Tope de dto. $35.000",
+        "500 códigos disponibles para esta promoción.",
+        "Descarga del código estará disponible el día que participe la marca, desde las 00:00 hrs.",
+        "No acumulable con otras promociones.",
+        "Descuento no aplica para el valor del despacho.",
+        "Revisa cobertura de despacho en hushpuppieskids.cl",
+        "Descuento no aplica en categoria mujer y hombre.",
+        "Descuento no aplica para compras con facturas y en cambios.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": []
     },
     {
       "banco": "Banco de Chile",
@@ -2158,6 +2267,42 @@
       ],
       "sucursales": [
         "Av. Manuel Montt #1007, Región Metropolitana, Providencia"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Dimeiggs",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "20% dto.",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días en compra",
+      "canal": "Ambos",
+      "vigencia": "Promoción valida hasta el 09 de agosto de 2026.",
+      "condiciones": [
+        "20% dto. en compra presencial y online",
+        "Para compra presencial solicita tu descuento al momento de pagar con tu Tarjeta del Chile.",
+        "Para compra en dimeiggs.cl el descuento aplicará automáticamente ingresando tu Tarjeta en momento de pagar a través del botón de Mercado Pago. ( Descuento no aplica en Webpay)",
+        "Tope de descuento $50.000",
+        "No acumulable con otras promociones u ofertas.",
+        "No aplica en el costo de despacho."
+      ],
+      "sucursales": [
+        "Meiggs 58, Región Metropolitana, Santiago",
+        "Avenida Recoleta 164, Región Metropolitana, Recoleta",
+        "Sergio Roubillard 93, Región Metropolitana, Puente Alto",
+        "Freire 681, Región Metropolitana, Santiago, San Bernardo",
+        "Avenida Chicureo 2300, Región Metropolitana, Chicureo",
+        "Ortuzar 614, Región Metropolitana, Melipilla",
+        "Avenida Vitacura 8951, Región Metropolitana, Vitacura",
+        "Avenida Lo Espejo 943, Región Metropolitana, Maipú",
+        "Avenida La Florida 8988 Mall Vivo La Florida, Región Metropolitana, La Florida",
+        "San Carlos de Ancud 400, locales 27, 28 y 29 (Calle del boulevard), Región Metropolitana, La Florida",
+        "Gran Avenida Jose Miguel Carrera 5321, Región Metropolitana, La Cisterna",
+        "Avenida Bernardo OHiggins 581, Región Metropolitana, Quilicura",
+        "Avenida Los Pajaritos 1613, Región Metropolitana, Maipú",
+        "Avenida Américo Vespucio 399, Región Metropolitana, Maipú"
       ]
     },
     {
@@ -8879,27 +9024,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Termas Cochamó",
-      "categoria": "Entretención y Deportes",
-      "descuento": "20% dto.",
-      "dia": [
-        "Todos los días"
-      ],
-      "dia_texto": "todos los días",
-      "canal": null,
-      "vigencia": "Promoción válida hasta el 31 de marzo de 2027.",
-      "condiciones": [
-        "Vive la energía de nuestras aguas termales naturales, a solo 1 hora de Puerto Varas. Relájate en familia en nuestras 5 piscinas o elige la tranquilidad de nuestras 9 tinajas, rodeadas de imponentes bosques de arrayanes. Descubre el poder revitalizante del agua de mar en nuestra piscina de talasoterapia.",
-        "20% dto. en el ticket de entrada presencial.",
-        "No acumulable con otras promociones.",
-        "Descuento exclusivo pagando con tus Tarjetas del Chile."
-      ],
-      "sucursales": [
-        "Ruta V-69, Kilómetro 41,2, Región de los Lagos, Cochamó"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "THAI EXPRESS",
       "categoria": "Sabores",
       "descuento": "20% dto.",
@@ -9767,31 +9891,6 @@
         "Excluye LOREAL, WAHL, BRAUN"
       ],
       "sucursales": []
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "María Pompón",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": "15% dto adicional.",
-      "dia": [
-        "Lunes",
-        "Miércoles"
-      ],
-      "dia_texto": "lunes y miércoles",
-      "canal": "Ambos",
-      "vigencia": "Promoción válida hasta el 31 de marzo de 2027.",
-      "condiciones": [
-        "María Pompón: Un nuevo mundo romántico, dentro del Slow Fashion Nacional, ropa creada para aquellas mamás que quieren seguir vistiendo a sus hijos como niños más allá de la moda y las tendencias. y Nos inspira a diario mantener la esencia ingenua, versátil y alegre que nos regalan los más pequeños.",
-        "15% dto. adicional lunes y miércoles presencial y online.",
-        "Para compras presenciales solicita tu descuento al momento de pagar.",
-        "Para compras online ingresa los 6 primeros dígitos de tu Tarjeta del Chile en mariapompon.cl",
-        "Descuento exclusivo pagando con tus Tarjetas del Chile."
-      ],
-      "sucursales": [
-        "Nueva Costanera #3900, MOD 292, Región Metropolitana, Vitacura",
-        "Vitacura #6195, Local 74, Región Metropolitana, Vitacura",
-        "Av. Presidente Kenney #5413, Nivel 1 Local 87-A, Región Metropolitana, Las Condes"
-      ]
     },
     {
       "banco": "Banco de Chile",
@@ -15528,6 +15627,82 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "Zapatos.cl",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "40% dto.",
+      "dia": [
+        "Miércoles"
+      ],
+      "dia_texto": "miércoles",
+      "canal": "Online",
+      "vigencia": "Promoción válida para el miércoles 29 de julio y 05 de agosto 2026.",
+      "condiciones": [
+        "40% dto. miércoles en zapatos.cl",
+        "Genera tu código e ingrésalo como cupón en zapatos.cl",
+        "Tope de dto. $35.000",
+        "500 códigos disponibles para esta promoción.",
+        "Descarga del código estará disponible el día que participe la marca, desde las 00:00 hrs.",
+        "No acumulable con otras promociones.",
+        "Descuento no aplica para el valor del despacho.",
+        "Revisa cobertura de despacho en zapatos.cl",
+        "Descuento no aplica en categoria mujer y hombre.",
+        "Descuento no aplica para compras con facturas y en cambios.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Jansport",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "40% dto.",
+      "dia": [
+        "Jueves"
+      ],
+      "dia_texto": "jueves",
+      "canal": "Online",
+      "vigencia": "Promoción válida jueves 30 de julio y 06 de agosto 2026.",
+      "condiciones": [
+        "40% dto. jueves en jansport.cl",
+        "Genera tu código e ingrésalo como cupón en jansport.cl",
+        "Tope de dto. $35.000",
+        "500 códigos disponibles para esta promoción.",
+        "Descarga del código estará disponible el día que participe la marca, desde las 00:00 hrs.",
+        "No acumulable con otras promociones.",
+        "Descuento no aplica en categoria mujer y hombre.",
+        "Descuento no aplica para compras con facturas y en cambios.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Crocs",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "40% dto.",
+      "dia": [
+        "Martes"
+      ],
+      "dia_texto": "martes",
+      "canal": "Online",
+      "vigencia": "Promoción válida martes 28 de julio y 04 de agosto de 2026.",
+      "condiciones": [
+        "40% dto. martes en crocs.cl",
+        "Genera tu código e ingrésalo como cupón en crocs.cl",
+        "Tope de dto. $35.000",
+        "500 códigos disponibles para esta promoción.",
+        "Descarga del código estará disponible el día que participe la marca, desde las 00:00 hrs.",
+        "No acumulable con otras promociones.",
+        "Descuento no aplica para el valor del despacho.",
+        "Revisa cobertura de despacho en crocs.cl",
+        "Descuento no aplica en colaboraciones y categorías mujer y hombre.",
+        "Descuento no aplica para compras con facturas y en cambios.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "Entel",
       "categoria": "Retail y Otras Marcas",
       "descuento": null,
@@ -15863,6 +16038,39 @@
       ],
       "sucursales": [
         "Alférez Real #1485, Región Metropolitana, Providencia"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Marathon",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "20% dto. adicional",
+      "dia": [
+        "Viernes",
+        "Sábado",
+        "Domingo"
+      ],
+      "dia_texto": "viernes a domingo",
+      "canal": "Ambos",
+      "vigencia": "Promoción válida del 27 de julio al 09 de agosto.",
+      "condiciones": [
+        "Tenemos las mejores marcas internacionales en zapatillas, para entrenar con estilo y comodidad.",
+        "20% dto. adicional viernes a domingo en todo calzado, vestuario y accesorios.",
+        "Para compras presenciales solicita tu descuento al momento de pagar con tus Tarjetas Banco de Chile.",
+        "Para compras online, obtén descuento ingresando los seis primeros dígitos de tu tarjeta al momento de finalizar compra en marathon.cl.",
+        "Descuento no aplica para valor del despacho.",
+        "Revisa cobertura de despacho en marathon.cl",
+        "Beneficio no es válido para el Outlet de Estación Central.",
+        "Descuento válido solo en categoría niños y accesorios.",
+        "No acumulable con otras promociones.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Parque Arauco Nivel 1, Avenida Presidente Kennedy #5413, Región Metropolitana, Las Condes",
+        "Costanera Center Nivel 3, Avenida Andrés Bello #2425, Región Metropolitana, Providencia",
+        "Avenida Vicuña Mackena Oriente #6100, Local 2203 Cenco Florida (Ex florida center), Región Metropolitana, La Florida",
+        "Av. Américo Vespucio #399, local 415-B, Región Metropolitana, Maipú",
+        "Benidorm 961 Local 278 - 280, Región de Valparaíso, Viña del Mar"
       ]
     },
     {
@@ -21000,6 +21208,30 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "María Pompón",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "15% dto adicional.",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días",
+      "canal": "Ambos",
+      "vigencia": "Promoción válida hasta el 31 de marzo de 2027.",
+      "condiciones": [
+        "María Pompón: Un nuevo mundo romántico, dentro del Slow Fashion Nacional, ropa creada para aquellas mamás que quieren seguir vistiendo a sus hijos como niños más allá de la moda y las tendencias. y Nos inspira a diario mantener la esencia ingenua, versátil y alegre que nos regalan los más pequeños.",
+        "15% dto. adicional todos los días presencial y online.",
+        "Para compras presenciales solicita tu descuento al momento de pagar.",
+        "Para compras online ingresa los 6 primeros dígitos de tu Tarjeta del Chile en mariapompon.cl",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Nueva Costanera #3900, MOD 292, Región Metropolitana, Vitacura",
+        "Vitacura #6195, Local 74, Región Metropolitana, Vitacura",
+        "Av. Presidente Kenney #5413, Nivel 1 Local 87-A, Región Metropolitana, Las Condes"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "CAFFARENA",
       "categoria": "Retail y Otras Marcas",
       "descuento": "30% dto.",
@@ -21319,6 +21551,83 @@
       "vigencia": null,
       "condiciones": [],
       "sucursales": []
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Calpany",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "40% dto.",
+      "dia": [
+        "Lunes"
+      ],
+      "dia_texto": "lunes",
+      "canal": "Online",
+      "vigencia": "Promoción válida lunes 27 de julio y  03 de agosto de 2026.",
+      "condiciones": [
+        "Obtén 40% dto. lunes en calpany.cl",
+        "Genera tu código e ingrésalo como cupón en calpany.cl",
+        "Tope de dto. $35.000",
+        "500 códigos disponibles para esta promoción.",
+        "Descarga del código estará disponible el día que participe la marca, desde las 00:00 hrs.",
+        "No acumulable con otras promociones.",
+        "Descuento no aplica para el valor del despacho.",
+        "Revisa cobertura de despacho en calpany.cl",
+        "Descuento no aplica en categoria mujer y hombre.",
+        "Descuento no aplica para compras con facturas y en cambios.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Crocs",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "40% dto.",
+      "dia": [
+        "Martes"
+      ],
+      "dia_texto": "martes",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida martes 28 de julio y 04 de agosto 2026.",
+      "condiciones": [
+        "40% dto. martes en compras presenciales.",
+        "Tope de dto. $35.000",
+        "Genera tu código de descuento y preséntalo al momento de pagar.",
+        "1.000 códigos disponibles para esta promoción.",
+        "Descarga del código estará disponible el día que participe la marca, desde las 00:00 hrs.",
+        "No acumulable con otras promociones.",
+        "Descuento no aplica en colaboraciones y categorías mujer y hombre.",
+        "Descuento no aplica para compras con facturas y en cambios.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "AV PRESIDENTE KENNEDY #9001, LOCAL 2012 ALTO LAS CONDES, Región Metropolitana, Las Condes",
+        "AV. LIBERTAD #1348, LOCAL 236 MARINA ARAUCO, Región de Valparaíso, Viña del Mar",
+        "Crocs - Costanera Center LOCAL 4145, AV. ANDRES BELLO #2447, Región Metropolitana, Providencia",
+        "Crocs - Mall Plaza Vespucio LOCAL 049-050, AV. VICUNA MACKENNA #7110, Región Metropolitana, La Florida",
+        "Crocs - Outlet Buenaventura LOCAL 133, CALLE SAN IGNACIO #300, Región Metropolitana, Quilicura"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Termas Cochamó",
+      "categoria": "Entretención y Deportes",
+      "descuento": "20% dto.",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días",
+      "canal": null,
+      "vigencia": "Promoción válida hasta el 31 de marzo de 2027.",
+      "condiciones": [
+        "Vive la energía de nuestras aguas termales naturales, a solo 1 hora de Puerto Varas. Relájate en familia en nuestras 5 piscinas o elige la tranquilidad de nuestras 9 tinajas, rodeadas de imponentes bosques de arrayanes. Descubre el poder revitalizante del agua de mar en nuestra piscina de talasoterapia.",
+        "20% dto. en el ticket de entrada presencial.",
+        "No acumulable con otras promociones.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Ruta V-69, Kilómetro 41,2, Región de los Lagos, Cochamó"
+      ]
     },
     {
       "banco": "Banco Santander",
