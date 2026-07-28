@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-07-27T13:32",
+  "actualizado": "2026-07-28T12:31",
   "beneficios": [
     {
       "banco": "Banco de Chile",
@@ -2830,30 +2830,6 @@
         "Travel Duty"
       ],
       "sucursales": []
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Tortas Amelia",
-      "categoria": "Sabores",
-      "descuento": "20% dto.",
-      "dia": [
-        "Todos los días"
-      ],
-      "dia_texto": "todos los días en compra",
-      "canal": "Ambos",
-      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
-      "condiciones": [
-        "En Tortas Amelia Donoso nos dedicamos hace más de 25 años a preparar finas tortas tradicionales con los más exquisitos ingredientes caseros. elaboramos nuestras tortas y postres artesanalmente con productos finos de primer nivel: manjar de campo, crema pastelera, el tradicional huevomol, merengues y otras delicias de la antigua cocina. Nuestra especialidad son las tortas de milhojas, merengues mazapán y bizcochuelos. Encarga tu torta tradicional y lúcete en tus fiestas familiares.",
-        "20% dto. todos los días en compra presencial y online.",
-        "Para compras presenciales solicita tu dto. al momento de pagar.",
-        "Para compras online ingresa el código AMELIABCH como cupón de descuento en tortasamelia.cl",
-        "No acumulable con otras promociones.",
-        "No aplica para el valor del despacho.",
-        "Beneficio exclusivo pagando con tus Tarjetas del Chile."
-      ],
-      "sucursales": [
-        "Blaise Cendrars #7147, Región Metropolitana, Vitacura"
-      ]
     },
     {
       "banco": "Banco de Chile",
@@ -9148,6 +9124,31 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "Tortas Amelia",
+      "categoria": "Sabores",
+      "descuento": "20% dto.",
+      "dia": [
+        "Martes",
+        "Viernes"
+      ],
+      "dia_texto": "martes y viernes",
+      "canal": "Ambos",
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
+      "condiciones": [
+        "En Tortas Amelia Donoso nos dedicamos hace más de 25 años a preparar finas tortas tradicionales con los más exquisitos ingredientes caseros. elaboramos nuestras tortas y postres artesanalmente con productos finos de primer nivel: manjar de campo, crema pastelera, el tradicional huevomol, merengues y otras delicias de la antigua cocina. Nuestra especialidad son las tortas de milhojas, merengues mazapán y bizcochuelos. Encarga tu torta tradicional y lúcete en tus fiestas familiares.",
+        "20% dto. martes y viernes presencial y online.",
+        "Para compras presenciales solicita tu dto. al momento de pagar.",
+        "Para compras online ingresa el código AMELIABCH como cupón de descuento en tortasamelia.cl",
+        "No acumulable con otras promociones.",
+        "No aplica para el valor del despacho.",
+        "Beneficio exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Blaise Cendrars #7147, Región Metropolitana, Vitacura"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "Travesía",
       "categoria": "Sabores",
       "descuento": "20% dto.",
@@ -10853,22 +10854,6 @@
       "sucursales": [
         "ASTURIAS 180, RM, LAS CONDES"
       ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Despacho gratis",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "En Travel Tienda y Travel Duty con tu nuevo Plan Travel Infinite o Travel Black",
-      "canal": null,
-      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
-      "condiciones": [
-        "Despacho gratis Travel Duty y Travel Tienda al contratar un nuevo Plan de Tarjeta de Crédito Travel Infitite y Travel Black Banco de Chile.",
-        "Plan Travel Infinite: 2 despachos gratis al mes",
-        "Plan Travel Black: 1 despacho gratis al mes."
-      ],
-      "sucursales": []
     },
     {
       "banco": "Banco de Chile",
@@ -13154,30 +13139,6 @@
       "sucursales": [
         "Avenida San Martín #667, Región de Valparaíso, Viña del Mar"
       ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Creado en Chile",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": "15% dto. adicional",
-      "dia": [
-        "Jueves",
-        "Viernes",
-        "Sábado",
-        "Domingo"
-      ],
-      "dia_texto": "jueves a domingo",
-      "canal": "Online",
-      "vigencia": "Promoción válida hasta el 31 de mayo de 2027.",
-      "condiciones": [
-        "Creado en Chile ofrece una experiencia de compra de regalos con diseño, identidad local e impacto social, a través de una cuidada curatoría de productos que conectan a las personas con el alma de Chile: artesanía, ilustración, aromas, decoración, joyas, cuidado personal, libros, sabores y mucho más. Regalar local es regalar con sentido.",
-        "15% dto. adicional de jueves a domingo en creadoenchile.cl ingresando los 6 primeros dígitos de tu Tarjeta del Chile como código de descuento.",
-        "Descuento no aplica para valor del despacho.",
-        "Revisa cobertura de despacho en creadoenchile.cl",
-        "Beneficio no aplica en campañas de Cyber y Black.",
-        "Descuento exclusivo pagando con tus Tarjetas del Chile."
-      ],
-      "sucursales": []
     },
     {
       "banco": "Banco de Chile",
@@ -15627,56 +15588,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Zapatos.cl",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": "40% dto.",
-      "dia": [
-        "Miércoles"
-      ],
-      "dia_texto": "miércoles",
-      "canal": "Online",
-      "vigencia": "Promoción válida para el miércoles 29 de julio y 05 de agosto 2026.",
-      "condiciones": [
-        "40% dto. miércoles en zapatos.cl",
-        "Genera tu código e ingrésalo como cupón en zapatos.cl",
-        "Tope de dto. $35.000",
-        "500 códigos disponibles para esta promoción.",
-        "Descarga del código estará disponible el día que participe la marca, desde las 00:00 hrs.",
-        "No acumulable con otras promociones.",
-        "Descuento no aplica para el valor del despacho.",
-        "Revisa cobertura de despacho en zapatos.cl",
-        "Descuento no aplica en categoria mujer y hombre.",
-        "Descuento no aplica para compras con facturas y en cambios.",
-        "Descuento exclusivo pagando con tus Tarjetas del Chile."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Jansport",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": "40% dto.",
-      "dia": [
-        "Jueves"
-      ],
-      "dia_texto": "jueves",
-      "canal": "Online",
-      "vigencia": "Promoción válida jueves 30 de julio y 06 de agosto 2026.",
-      "condiciones": [
-        "40% dto. jueves en jansport.cl",
-        "Genera tu código e ingrésalo como cupón en jansport.cl",
-        "Tope de dto. $35.000",
-        "500 códigos disponibles para esta promoción.",
-        "Descarga del código estará disponible el día que participe la marca, desde las 00:00 hrs.",
-        "No acumulable con otras promociones.",
-        "Descuento no aplica en categoria mujer y hombre.",
-        "Descuento no aplica para compras con facturas y en cambios.",
-        "Descuento exclusivo pagando con tus Tarjetas del Chile."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "Crocs",
       "categoria": "Retail y Otras Marcas",
       "descuento": "40% dto.",
@@ -16461,6 +16372,30 @@
         "Precio referencial $46.500",
         "Además, si lo necesitas puedes comprar tu acceso en tienda.travel.cl o con tu ejecutiva Travel Club.",
         "Beneficio Salones VIP Nacionales válidos para Tarjetas de Crédito y Débito hasta el 31 de diciembre de 2026. Beneficios Planes Cuenta Corriente Cordillera y Océano del Banco de Chile hasta el 30 de junio de 2026. Para todas las tarjetas y titulares de planes de cuenta corriente cordillera y océano se autorizará el ingreso al Salón previa validación de vigencia y condición de titularidad de las tarjetas. Los beneficios no son acumulables. Las condiciones y vigencias de los beneficios pueden ser modificadas sin previo aviso bastando para ello modificar la presente web. El servicio de salones VIP es responsabilidad de cada operador. Todo lo anterior sin responsabilidad alguna para Banco de Chile ni en la ulterior atención que ello demande. Todo lo anterior sin responsabilidad alguna para Banco de Chile ni en la ulterior atención que ello demande. La contratación de productos bancarios está sujeta a evaluación comercial previa del Banco de Chile. La contratación conjunta de los productos señalados sólo es requisito para acceder a la presente oferta sin embargo éstos siempre pueden contratarse separadamente."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Creado en Chile",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "15% dto. adicional",
+      "dia": [
+        "Jueves",
+        "Viernes",
+        "Sábado",
+        "Domingo"
+      ],
+      "dia_texto": "jueves a domingo",
+      "canal": "Online",
+      "vigencia": "Promoción válida hasta el 31 de mayo de 2027.",
+      "condiciones": [
+        "Creado en Chile ofrece una experiencia de compra de regalos con diseño, identidad local e impacto social, a través de una cuidada curatoría de productos que conectan a las personas con el alma de Chile: artesanía, ilustración, aromas, decoración, joyas, cuidado personal, libros, sabores y mucho más. Regalar local es regalar con sentido.",
+        "15% dto. adicional de jueves a domingo en creadoenchile.cl ingresando los 6 primeros dígitos de tu Tarjeta del Chile como código de descuento.",
+        "Descuento no aplica para valor del despacho.",
+        "Revisa cobertura de despacho en creadoenchile.cl",
+        "Beneficio no aplica en campañas de Cyber y Black.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
       ],
       "sucursales": []
     },
@@ -18768,29 +18703,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Augusta",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Lunes"
-      ],
-      "dia_texto": "lunes de julio",
-      "canal": null,
-      "vigencia": "Promoción válida desde el 01 al 31 de julio de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial 40% dto. todos los lunes de julio",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dcto. $50.000 por mesa"
-      ],
-      "sucursales": [
-        "Paso Hondo #209, Región del Bío Bío, Concepción"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "Riccione",
       "categoria": "Sabores",
       "descuento": "40% dto.",
@@ -20037,6 +19949,29 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "Augusta",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Lunes"
+      ],
+      "dia_texto": "lunes de agosto",
+      "canal": null,
+      "vigencia": "Promoción válida desde el 01 al 31 de agosto de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. todos los lunes de agosto",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dcto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Paso Hondo #209, Región del Bío Bío, Concepción"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "Magnolia - Huérfanos",
       "categoria": "Sabores",
       "descuento": "50% dto.",
@@ -20239,6 +20174,33 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "The Color Shop",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "20% dto.",
+      "dia": [
+        "Miércoles"
+      ],
+      "dia_texto": "miércoles",
+      "canal": "Ambos",
+      "vigencia": "Promoción válida hasta el 30 de junio 2027.",
+      "condiciones": [
+        "The Color Shop es una tienda especializada en artículos de arte, papelería y creatividad. Ofrece una amplia variedad de marcadores, cuadernos, pinturas y materiales para artistas, destacando por su selección de productos de calidad y un ambiente acogedor para los amantes del arte.",
+        "20% dto. los miércoles en compra presencial y en thecolorshop.cl",
+        "Para compra presencial solicita tu descuento al momento de pagar.",
+        "Para compra online ingresa los 6 primeros dígitos de tu Tarjeta como cupón de descuento.",
+        "Descuento no aplica para valor del despacho.",
+        "Revisa cobertura de despacho en thecolorshop.cl",
+        "No acumulable con otras promociones.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Mall Plaza Los Dominicos, Av. Padre Hurtado Sur #875, Región Metropolitana, Las Condes",
+        "MUT, Av. Apoquindo #2730, Región Metropolitana, Las Condes",
+        "Dos Caracoles Local 28B, Av Nueva de Lyon #45, Región Metropolitana, Providencia"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "Ozuna - 24 de septiembre",
       "categoria": "Entretención y Deportes",
       "descuento": null,
@@ -20346,6 +20308,34 @@
       ],
       "sucursales": [
         "Vicente Pérez Rosales #1290, Región de los Lagos, Puerto Varas"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Clínica Kibido",
+      "categoria": "Salud y Belleza",
+      "descuento": "Hasta 30% dto.",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 30 de junio de 2027.",
+      "condiciones": [
+        "Kibido es un centro estético y de salud integral en Chicureo que se distingue por ofrecer tratamientos 100% personalizados, diseñados según las necesidades y objetivos de cada paciente. Su enfoque multidisciplinario reúne en un solo lugar dermatología, dermatología estética, nutricionistas, nutriólogos, odontólogos, ortodoncistas, psicólogos, cosmetólogas y medicina general, permitiendo una atención completa, cercana y de alta calidad.",
+        "30% dto. en el Arancel Clínico de Ortodoncia (estudio inicial, instalación de aparatos, controles mensuales y contención).",
+        "10% dto. en consultas médicas presenciales (Medicina General, Dermatología, Nutrición y Nutriología).",
+        "10% dto. sobre honorarios médicos en procedimientos dermatológicos (peeling químico, láserterapia, Sculptra, HarmonyCa, Dermapen, toxina botulínica, toma de biopsia y ácido hialurónico).",
+        "10% dto. en procedimientos de cosmetología (tratamientos de hidratación, limpiezas faciales y depilación láser).",
+        "Excluye costos de insumos, productos y materiales (ej. Sculptra, HarmonyCa y ácido hialurónico).",
+        "No incluye confección de alineadores invisibles, insumos específicos, radiografías ni costos de laboratorio externo.",
+        "Excluye atención de Carolina Gómez Núñez, dermatóloga.",
+        "Solicita tu descuento al momento de pagar.",
+        "No acumulable con otras promociones.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Puerta oriente 361, oficina 512 C Edificio Da Vinci, Puertas de Chicureo, Región Metropolitana, Chicureo"
       ]
     },
     {
@@ -21580,6 +21570,32 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "Jansport",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "40% dto.",
+      "dia": [
+        "Jueves"
+      ],
+      "dia_texto": "jueves",
+      "canal": "Online",
+      "vigencia": "Promoción válida jueves 30 de julio y 06 de agosto 2026.",
+      "condiciones": [
+        "40% dto. jueves en jansport.cl",
+        "Genera tu código e ingrésalo como cupón en jansport.cl",
+        "Tope de dto. $35.000",
+        "500 códigos disponibles para esta promoción.",
+        "Descarga del código estará disponible el día que participe la marca, desde las 00:00 hrs.",
+        "No acumulable con otras promociones.",
+        "Descuento no aplica para el valor del despacho.",
+        "Revisa cobertura de despacho en jansport.cl",
+        "Descuento no aplica en categoria mujer y hombre.",
+        "Descuento no aplica para compras con facturas y en cambios.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "Crocs",
       "categoria": "Retail y Otras Marcas",
       "descuento": "40% dto.",
@@ -21610,6 +21626,32 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "Zapatos.cl",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "40% dto.",
+      "dia": [
+        "Miércoles"
+      ],
+      "dia_texto": "miércoles",
+      "canal": "Online",
+      "vigencia": "Promoción válida para el miércoles 29 de julio y 05 de agosto 2026.",
+      "condiciones": [
+        "40% dto. miércoles en zapatos.cl",
+        "Genera tu código e ingrésalo como cupón en zapatos.cl",
+        "Tope de dto. $35.000",
+        "500 códigos disponibles para esta promoción.",
+        "Descarga del código estará disponible el día que participe la marca, desde las 00:00 hrs.",
+        "No acumulable con otras promociones.",
+        "Descuento no aplica para el valor del despacho.",
+        "Revisa cobertura de despacho en zapatos.cl",
+        "Descuento no aplica en categoria mujer y hombre.",
+        "Descuento no aplica para compras con facturas y en cambios.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "Termas Cochamó",
       "categoria": "Entretención y Deportes",
       "descuento": "20% dto.",
@@ -21628,6 +21670,107 @@
       "sucursales": [
         "Ruta V-69, Kilómetro 41,2, Región de los Lagos, Cochamó"
       ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Despacho gratis",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "En Travel Tienda y Travel Duty con tu nuevo Plan Travel Infinite o Travel Black",
+      "canal": null,
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
+      "condiciones": [
+        "Despacho gratis Travel Duty y Travel Tienda al contratar un nuevo Plan de Tarjeta de Crédito Travel Infitite y Travel Black Banco de Chile.",
+        "Plan Travel Infinite: 2 despachos gratis al mes.",
+        "Plan Travel Black: 1 despacho gratis al mes."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Visa Days",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "40% dcto.",
+      "dia": [],
+      "dia_texto": "Hasta  en tiendas adheridas",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Tus marcas favoritas con descuentos exclusivos pagando con visa.",
+        "Exclusivo pagando con tus Tarjetas de Crédito y Débito Santander Visa.",
+        "Válido para compras presenciales en Mall Marina, Mall Curicó, Mall del Centro Concepción, Parque Arauco, Arauco Maipú.",
+        "Marcas destacadas: Hush Puppies Kids, Limonada, Opaline, Colloky, Baby Rosen, Chuck E. Cheese, Nacional Librería, La Papeleria, Pichintún y más",
+        "No acumulable a otras promociones."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Nevados de Chillán - Visa",
+      "categoria": "Viajes",
+      "descuento": "20% dcto",
+      "dia": [
+        "Jueves"
+      ],
+      "dia_texto": "todos los jueves",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Aprovecha esta temporada en lugares únicos como Nevados de Chillán.",
+        "Exclusivo pagando con tus Tarjetas de Crédito y Débito Santander Visa.",
+        "Es válido en presencial en el punto de venta ubicado en Centro de Nevados de Chillán y en www.nevadosdechillan.com",
+        "Ruta N-55 hasta llegar al Centro de Ski (a 80 kms de ciudad de Chillán), Chillán.",
+        "20% de descuento los días jueves en tickets diarios.",
+        "Excepción de los días 16 al 23 de julio del 2026 y 13 de agosto del 2026.",
+        "El descuento será reflejado en el ticket al momento de pago.",
+        "Stock disponible: 4,000 tickets por la Temporada de Invierno 2026.",
+        "No acumulable con otras promociones.",
+        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Rubaiyat",
+      "categoria": "Sabores",
+      "descuento": "30% dcto.",
+      "dia": [],
+      "dia_texto": "en exclusiva experiencia gastronómica Rubaiyat",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Exclusivo pagando online con tus Tarjetas de Crédito The Platinum Card American Express® y WorldMember Santander LATAM Pass American Express.",
+        "Válido para la experiencia gastronómica \"Rubaiyat Invita\", en el marco de la celebración de los 10 años de Rubaiyat Chile.",
+        "Evento a realizarse el 28 de julio de 2026 en Rubaiyat Chile, Av. Nueva Costanera 4031, Vitacura.",
+        "Valor referencial: $120.000 por persona antes del descuento.",
+        "Cupos limitados, sujetos a disponibilidad y asignados por orden de inscripción.",
+        "Reserva previa a través del formulario habilitado para la actividad.",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Cosecha del Mar",
+      "categoria": "Sabores",
+      "descuento": "40% dcto.",
+      "dia": [
+        "Viernes"
+      ],
+      "dia_texto": "todos los viernes",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "¡Explora el mundo del salmón!",
+        "Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass.",
+        "Válido en local, pagando con tu tarjeta física.",
+        "Av. La Dehesa 2035, Lo Barnechea y Decher 161, Puerto Varas.",
+        "Tope de dcto. mensual $100.000",
+        "No acumulable a otras promociones.",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​"
+      ],
+      "sucursales": []
     },
     {
       "banco": "Banco Santander",
@@ -22241,26 +22384,6 @@
     },
     {
       "banco": "Banco Santander",
-      "comercio": "Rubaiyat",
-      "categoria": "Sabores",
-      "descuento": "30% dcto.",
-      "dia": [],
-      "dia_texto": "en exclusiva experiencia gastronómica Rubaiyat",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Exclusivo pagando online con tus Tarjetas de Crédito The Platinum Card American Express® y WorldMember Santander LATAM Pass American Express.",
-        "Válido para la experiencia gastronómica \"Rubaiyat Invita\", en el marco de la celebración de los 10 años de Rubaiyat Chile.",
-        "Evento a realizarse el 28 de julio de 2026 en Rubaiyat Chile, Av. Nueva Costanera 4031, Vitacura.",
-        "Valor referencial: $120.000 por persona antes del descuento.",
-        "Cupos limitados, sujetos a disponibilidad y asignados por orden de inscripción.",
-        "Reserva previa a través del formulario habilitado para la actividad.",
-        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​"
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
       "comercio": "Dr. Pet",
       "categoria": "Mascotas",
       "descuento": "30% dcto.",
@@ -22279,31 +22402,6 @@
         "Exclusivo en alimentos secos. Excluye la marca de alimentos Brit Care.",
         "Te pedirán los primeros 6 dígitos de tu tarjeta al momento de pagar.",
         "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Nevados de Chillán - Visa",
-      "categoria": "Viajes",
-      "descuento": "20% dcto",
-      "dia": [
-        "Jueves"
-      ],
-      "dia_texto": "todos los jueves",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Aprovecha esta temporada en lugares únicos como Nevados de Chillán.",
-        "Exclusivo pagando con tus Tarjetas de Crédito y Débito Santander Visa.",
-        "Es válido en presencial en el punto de venta ubicado en Centro de Nevados de Chillán y en www.nevadosdechillan.com",
-        "Ruta N-55 hasta llegar al Centro de Ski (a 80 kms de ciudad de Chillán), Chillán.",
-        "20% de descuento los días jueves en tickets diarios.",
-        "Excepción de los días 16 al 23 de julio del 2026 y 13 de agosto del 2026.",
-        "El descuento será reflejado en el ticket al momento de pago.",
-        "Stock disponible: 4,000 tickets por la Temporada de Invierno 2026.",
-        "No acumulable con otras promociones.",
-        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
       ],
       "sucursales": []
     },
@@ -26248,28 +26346,6 @@
         "No es acumulable con otras promociones.",
         "CAE 1,46% Calculado por un monto referencial de compra de $1.000.000 en 12 cuotas. Costo total del Crédito: $1.007.920. Operación afecta a impuesto al crédito a cargo del cliente.",
         "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto serán de exclusiva responsabilidad de los comercios adheridos a la promoción sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Cosecha del Mar",
-      "categoria": "Sabores",
-      "descuento": "40% dcto.",
-      "dia": [
-        "Viernes"
-      ],
-      "dia_texto": "todos los viernes",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "¡Explora el mundo del salmón!",
-        "Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass.",
-        "Válido en local.",
-        "Av. La Dehesa 2035, Lo Barnechea y Decher 161, Puerto Varas.",
-        "Tope de dcto. $100.000",
-        "No acumulable a otras promociones.",
-        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​"
       ],
       "sucursales": []
     },
