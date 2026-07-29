@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-07-28T12:31",
+  "actualizado": "2026-07-29T12:55",
   "beneficios": [
     {
       "banco": "Banco de Chile",
@@ -3025,18 +3025,6 @@
         "Avenida Las Condes #12751, local 1 y 7, Región Metropolitana, Las Condes",
         "Gerónimo de Alderete #1567, Región Metropolitana, Vitacura"
       ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Robbie Williams 27 de septiembre 2026",
-      "categoria": "Entretención y Deportes",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "Compra tus entradas con los mejores beneficios de tus Tarjetas del Chile",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [],
-      "sucursales": []
     },
     {
       "banco": "Banco de Chile",
@@ -8525,6 +8513,18 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "Robbie Williams 27 de septiembre 2026",
+      "categoria": "Entretención y Deportes",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "Compra tus entradas con los mejores beneficios de tus Tarjetas del Chile",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "Rocker Burger",
       "categoria": "Sabores",
       "descuento": "20% dto.",
@@ -10162,29 +10162,6 @@
         "Eshopex, 20% dto. en flete internacional."
       ],
       "sucursales": []
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Farmex",
-      "categoria": "Salud y Belleza",
-      "descuento": "Hasta 20% dto.",
-      "dia": [
-        "Todos los días"
-      ],
-      "dia_texto": "todos los días",
-      "canal": "Online",
-      "vigencia": "Promoción válida hasta el 28 de febrero de 2027.",
-      "condiciones": [
-        "20% dto en Mascarillas, Vacuna contra la influenza y Test de antígenos.",
-        "10% dto en todo Farmex.",
-        "No acumulable con otras promociones.",
-        "Beneficio exclusivo en compra online en farmex.cl ingresando los 6 primeros dígitos como código de dto.",
-        "Beneficio exclusivo pagando con tus Tarjetas del Chile.",
-        "Descuento no aplica en envío."
-      ],
-      "sucursales": [
-        "Coquimbo 1201, REGIÓN METROPOLITANA, Santiago, +56 9 9347 6836"
-      ]
     },
     {
       "banco": "Banco de Chile",
@@ -15608,6 +15585,31 @@
         "Revisa cobertura de despacho en crocs.cl",
         "Descuento no aplica en colaboraciones y categorías mujer y hombre.",
         "Descuento no aplica para compras con facturas y en cambios.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "NIKE",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "30% dto. adicional",
+      "dia": [
+        "Martes",
+        "Jueves",
+        "Domingo"
+      ],
+      "dia_texto": "martes, jueves y domingo",
+      "canal": "Online",
+      "vigencia": "Promoción válida hasta el 09 de agosto de 2026.",
+      "condiciones": [
+        "30% dto. adicional martes, jueves y domingo online.",
+        "Revisa los productos con descuentos en nike.cl/bancodechile",
+        "Tu descuento se verá reflejado al momento de ingresar tu Tarjeta del Chile al realizar el pago.",
+        "Antes de pagar confirma que estas en el sitio nike.cl/bancodechile y que el descuento esté aplicado.",
+        "Revisa cobertura de despacho en Nike.cl",
+        "Descuento no aplica al valor del despacho.",
+        "Tope de dto. $60.000",
         "Descuento exclusivo pagando con tus Tarjetas del Chile."
       ],
       "sucursales": []
@@ -21688,6 +21690,440 @@
       "sucursales": []
     },
     {
+      "banco": "Banco de Chile",
+      "comercio": "3 cuotas sin interés en todas tus compras",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "con tus Tarjetas del Chile",
+      "canal": null,
+      "vigencia": "Promoción válida hasta el 31 de agosto 2026",
+      "condiciones": [],
+      "sucursales": [
+        "Av. La Dehesa #1822, Of 803, Región Metropolitana, Lo Barnechea"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Farmex",
+      "categoria": "Salud y Belleza",
+      "descuento": "Hasta 15% dto.",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días",
+      "canal": "Online",
+      "vigencia": "Promoción válida hasta el 28 de febrero de 2027.",
+      "condiciones": [
+        "15% dto. en vitaminas, minerales y suplementos ingresando el código CHILE15 como cupón de dto.",
+        "10% dto. en toda la web ingresando el código CHILE10 como cupón de dto.",
+        "No acumulable con otras promociones.",
+        "Beneficio exclusivo en compra online en farmex.cl",
+        "Beneficio exclusivo pagando con tus Tarjetas del Chile.",
+        "Descuento no aplica en el valor del despacho."
+      ],
+      "sucursales": [
+        "Coquimbo 1201, REGIÓN METROPOLITANA, Santiago, +56 9 9347 6836"
+      ]
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "La Maestranza",
+      "categoria": "Sabores",
+      "descuento": "40% dcto.",
+      "dia": [
+        "Sábado"
+      ],
+      "dia_texto": "todos los sábados",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Hamburguesas premium Recuerda que:",
+        "Exclusivo con tus Tarjetas de Crédito Santander.",
+        "Válido para consumo en local.",
+        "Av.Vitacura 5468, Las Condes.",
+        "Presidente Kennedy 9001, Vitacura.",
+        "No acumulable a otras promociones.",
+        "Pide tu descuento al momento de pagar.",
+        "Descuento máximo por pedido de $40.000.",
+        "Se excluyen propinas, menús, happy hours.",
+        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "MIT Burger",
+      "categoria": "Sabores",
+      "descuento": "40% dcto.",
+      "dia": [
+        "Viernes"
+      ],
+      "dia_texto": "todos los viernes",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Las más ricas hamb urguesas smash Recuerda que:",
+        "Exclusivo pagando con tus Tarjetas de Crédito Santander.",
+        "Válido para consumo en local.",
+        "Direcciones:",
+        "- Mall Sport: Avenida las Condes 13451, Las Condes",
+        "- Mall CasacostaneraNueva Costanera 3900, Vitacura",
+        "- Mall Plaza Vespucio: Froilan Roa 7107, La Florida",
+        "- Patio Andino Lifestyle Center:Av Paseo Pie Andino 4850, Lo Barnechea",
+        "- MUT: Av Apoquindo 2730, Las Condes",
+        "Tope de descuento de $40.000.",
+        "No acumulable a otras promociones.",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "De Pura Madre",
+      "categoria": "Sabores",
+      "descuento": "40% dcto.",
+      "dia": [
+        "Viernes"
+      ],
+      "dia_texto": "todos los viernes",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "¡Las mejores pizzas y pan de masa madre!",
+        "Exclusivo con tus Tarjetas de Crédito Santander.",
+        "Válido presencial en Vitacura 5321",
+        "No acumulable a otras promociones.",
+        "Pide tu descuento al momento de pagar.",
+        "Descuento máximo por pedido de $40.000",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Majka",
+      "categoria": "Sabores",
+      "descuento": "40% dcto.",
+      "dia": [
+        "Jueves"
+      ],
+      "dia_texto": "todos los jueves",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Cocina fusión y de autor",
+        "Exclusivo con tus Tarjetas de Crédito Santander.",
+        "Válido en local",
+        "Principe de Gales 7102, La Reina",
+        "No acumulable con otras promociones.",
+        "Descuento máximo por pedido de $40.000",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Chicken Love You",
+      "categoria": "Sabores",
+      "descuento": "40% dcto.",
+      "dia": [
+        "Miércoles"
+      ],
+      "dia_texto": "todos los miércoles",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Los mejores sandwich de pollo frito.",
+        "Exclusivo con tus Tarjetas de Crédito Santander",
+        "Válido para consumo en locales y online.",
+        "No acumulable a otras promociones.",
+        "Pide tu descuento al momento de pagar.",
+        "Descuento máximo por pedido de $40.000",
+        "Ingresa los 6 primeros dígitos de tu Tarjeta como código de descuento.",
+        "Se excluyen propinas, menús y happy hours.",
+        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Streat Burger",
+      "categoria": "Sabores",
+      "descuento": "40% dcto.",
+      "dia": [
+        "Miércoles"
+      ],
+      "dia_texto": "todos los miércoles",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Streat Makes You Happy",
+        "Exclusivo con tus Tarjetas de Crédito Santander.",
+        "Válido en locales presenciales y en delivery a través de PedidosYa",
+        "Válido en locales Santiago y Carretera.",
+        "Válido dos cupones semanales por persona.",
+        "Excluye categoría helados y combo full.",
+        "No acumulable con otras promociones.",
+        "Descuento máximo por pedido de $40.000",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Kobo Sushi",
+      "categoria": "Sabores",
+      "descuento": "40% dcto.",
+      "dia": [
+        "Miércoles"
+      ],
+      "dia_texto": "todos los miércoles",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Delicada comida de Japón con la frescura y del toque picante del Perú",
+        "Exclusivo con tus Tarjetas de Crédito Santander.",
+        "Válido para consumo en local y en www.kobo.cl",
+        "No acumulable a otras promociones.",
+        "Ingresa los 6 primeros dígitos de tu Tarjeta como código de descuento.",
+        "Descuento máximo por pedido de $40.000.",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Giullietta",
+      "categoria": "Sabores",
+      "descuento": "30% dcto.",
+      "dia": [
+        "Martes"
+      ],
+      "dia_texto": "todos los martes",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "La pasión italiana servida en cada plato.",
+        "Exclusivo con tus Tarjetas de Crédito y Débito Santander.",
+        "Válido en local, desde las 19 horas en adelante.",
+        "Av. Vicuña Mackenna 7110, La Florida",
+        "No acumulable con otras promociones.",
+        "Descuento máximo por pedido de $40.000",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Sushi Nikkei 17",
+      "categoria": "Sabores",
+      "descuento": "40% dcto.",
+      "dia": [
+        "Martes"
+      ],
+      "dia_texto": "todos los martes",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Mejores restaurantes de cocina nikkei de Santiago.",
+        "Exclusivo con tus Tarjetas de Crédito Santander.",
+        "Valido en local",
+        "Los Piñones 011, Providencia.",
+        "No acumulable a otras promociones.",
+        "Pide tu descuento al momento de pagar en local.",
+        "Descuento máximo por pedido de $40.000.",
+        "Se excluyen propinas, menús, happy hours.",
+        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Jardín Mallinkrodt",
+      "categoria": "Sabores",
+      "descuento": null,
+      "dia": [
+        "Martes"
+      ],
+      "dia_texto": "40%. dcto. todos los martes",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Conoce toda la gastronomía global y coctelería innovadora.",
+        "Exclusivo pagando con tus Tarjetas de Crédito Santander.",
+        "Válido para consumo en local.",
+        "Av. Vitacura 6780, local F01, Vitacura.",
+        "Mallinkrodt 170, Providencia.",
+        "Tope de descuento de $40.000.",
+        "No acumulable a otras promociones.",
+        "Se excluyen propinas, menús, happy hours.",
+        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Social Bar",
+      "categoria": "Sabores",
+      "descuento": "40% dcto.",
+      "dia": [
+        "Lunes"
+      ],
+      "dia_texto": "todos los lunes",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Burgas, drinks y el good food mood que ya amas.",
+        "Exclusivo con tus Tarjetas de Crédito Santander.",
+        "Válido para consumo en local",
+        "Av. Vitacura 3396, Vitacura.",
+        "No acumulable a otras promociones.",
+        "Pide tu descuento al momento de pagar.",
+        "Descuento máximo por pedido de $40.000.",
+        "Se excluyen propinas, menús, happy hours.",
+        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Pettra",
+      "categoria": "Sabores",
+      "descuento": null,
+      "dia": [
+        "Martes"
+      ],
+      "dia_texto": "40% de dcto. todos los martes",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Restaurante",
+        "Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander.",
+        "Válido en local.",
+        "Av. Imperial 0561, Puerto Varas.",
+        "Descuento máximo de $100.000",
+        "No acumulable con otras promociones.",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Corrales del Sur",
+      "categoria": "Sabores",
+      "descuento": "30% dcto.",
+      "dia": [
+        "Jueves"
+      ],
+      "dia_texto": "todos los jueves",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "¡El mejor Angus nacional en Corrales del Sur!",
+        "Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass.",
+        "Válido para consumo en local y en www.corralesdelsur.cl.",
+        "Exclusivo en carnes Corrales del Sur y embutidos.",
+        "No acumulable a otras promociones.",
+        "Ingresa los primeros 6 dígitos de tu Tarjeta como código de descuento.",
+        "Descuento máximo por pedido de $100.000.",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Juan Esparraguito",
+      "categoria": "Sabores",
+      "descuento": "30% dcto.",
+      "dia": [
+        "Miércoles"
+      ],
+      "dia_texto": "todos los miércoles",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Mucho más que frutas y verduras, productos de temporada y seleccionados uno a uno",
+        "Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass.",
+        "Válido en www.juanesparraguito.com",
+        "No acumulable a otras promociones.",
+        "Ingresa los 6 primeros dígitos de tu tarjeta como código de descuento.",
+        "Descuento máximo por pedido de $100.000",
+        "Exclusivo en frutas y verduras.",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Demencia",
+      "categoria": "Sabores",
+      "descuento": null,
+      "dia": [
+        "Martes"
+      ],
+      "dia_texto": "40%. dcto. todos los martes",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Decoración circense y alta gastronomía, coctelería de autor y shows en vivo.",
+        "Exclusivo pagando con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass.",
+        "Válido para consumo en local.",
+        "Av. Vitacura 3520, Vitacura.",
+        "Tope de descuento de $100.000.",
+        "No acumulable a otras promociones.",
+        "Se excluyen propinas, menús, happy hours.",
+        "Descuento válido todos los miércoles desde desde el 01 de marzo de 2026 hasta el 31 de mayo de 2026, ambas fechas inclusive, para consumos realizados en el establecimiento en el horario de atención de público del restaurante. Exclusivo para clientes que paguen con las Tarjetas de Crédito Santander de American Express indicadas seguidamente y que soliciten el descuento al momento de pagar presencialmente. Beneficio consistente en un descuento de un 50% del total del consumo (excluida propina) con un tope de $50.000.- diarios por cuenta y por mes. Beneficio no aplicable: (a) Al consumo de cigarrillos y de cualquier otro producto de tabaco y, (b) A consumos hechos por un mismo grupo de personas que pagan el total dividido o por mesa. El consumo podrá pagarse utilizando más de una de las Tarjetas American Express® incluidas en el beneficio. Las Tarjetas Santander de American Express admitidas son: The Platinum Card®, WorldMember Limited ECO, WorldMember ECO y Platinum LATAM Pass ECO. No se aceptarán las tarjetas de formato horizontal. Ni American Express ni Servicios Empresariales Orsan S.A. se responsabilizan por los productos y/o servicios ofrecidos por los establecimientos y/o adquiridos en ellos. Descuento no acumulable e intransferible. No válido para consumos para llevar, delivery o pedidos a través de plataformas externas. El comercio se reserva el derecho de aplicar el beneficio en días festivos, feriados y con significancia comercial, sea general o particular del restorán. Listado de establecimientos adheridos en www.AmericanExpress.cl. American Express es una marca de American Express. Las Tarjetas son emitidas por Banco Santander bajo licencia de American Express."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Aquality",
+      "categoria": "Sabores",
+      "descuento": "40% dcto.",
+      "dia": [
+        "Martes"
+      ],
+      "dia_texto": "todos los martes y acumula 1 Milla LATAM Pass adicional",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "¡Compra pescados y mariscos congelados de calidad superior! Además, acumula 1 Milla LATAM Pass adicional del 01 al 07 de cada mes.",
+        "Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass.",
+        "Válido en www.aqualitysoluciones.cl",
+        "No acumulable a otras promociones.",
+        "Ingresando los 6 primeros dígitos de tu Tarjeta como código de descuento.",
+        "Despacho aplica en Región Metropolitana y Punto de retiro aplica en Chicureo y Concón.",
+        "Descuento máximo por pedido de $100.000.",
+        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. La bonificación de millas estructural se realizará según nivel y tarjeta de Crédito Santander LATAM Pass del cliente, más 1 milla adicional por dólar gastado por compras realizadas en campaña. Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio; la administración del programa LATAM Pass es de exclusiva responsabilidad de LATAM Airlines Group S.A. sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl. Conoce más sobre Santander Rewards y su reglamento en: https://banco.santander.cl/rewards."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "El Mundo del Vino",
+      "categoria": "Sabores",
+      "descuento": "40% dcto.",
+      "dia": [
+        "Lunes"
+      ],
+      "dia_texto": "todos los lunes en viñas seleccionadas",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "¡El mejor vino para ti!",
+        "Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass.",
+        "Válido para compras en local y www.elmundodelvino.cl",
+        "No acumulable a otras promociones.",
+        "En viñas seleccionadas: Concha y Toro, Clos de Luz, Barón Philippe, Tres Palacio, Las Veletas, San Pedro, Tarapaca, Miguel Torres, Errazuriz, Arboleda.",
+        "Ingresando los 6 primeros dígitos de tu Tarjeta como código de descuento.",
+        "Descuento máximo por pedido de $100.000",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​"
+      ],
+      "sucursales": []
+    },
+    {
       "banco": "Banco Santander",
       "comercio": "Visa Days",
       "categoria": "Retail y Otras Marcas",
@@ -21746,28 +22182,6 @@
         "Valor referencial: $120.000 por persona antes del descuento.",
         "Cupos limitados, sujetos a disponibilidad y asignados por orden de inscripción.",
         "Reserva previa a través del formulario habilitado para la actividad.",
-        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​"
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Cosecha del Mar",
-      "categoria": "Sabores",
-      "descuento": "40% dcto.",
-      "dia": [
-        "Viernes"
-      ],
-      "dia_texto": "todos los viernes",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "¡Explora el mundo del salmón!",
-        "Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass.",
-        "Válido en local, pagando con tu tarjeta física.",
-        "Av. La Dehesa 2035, Lo Barnechea y Decher 161, Puerto Varas.",
-        "Tope de dcto. mensual $100.000",
-        "No acumulable a otras promociones.",
         "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​"
       ],
       "sucursales": []
@@ -22541,53 +22955,6 @@
     },
     {
       "banco": "Banco Santander",
-      "comercio": "Sushi Nikkei 17",
-      "categoria": "Sabores",
-      "descuento": "40% dcto.",
-      "dia": [
-        "Martes"
-      ],
-      "dia_texto": "todos los martes",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Mejores restaurantes de cocina nikkei de Santiago.",
-        "Exclusivo con tus Tarjetas de Crédito Santander.",
-        "Valido en local",
-        "Los Piñones 011, Providencia.",
-        "No acumulable a otras promociones.",
-        "Pide tu descuento al momento de pagar en local.",
-        "Descuento máximo por pedido de $40.000.",
-        "Se excluyen propinas, menús, happy hours.",
-        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Demencia",
-      "categoria": "Sabores",
-      "descuento": null,
-      "dia": [
-        "Martes"
-      ],
-      "dia_texto": "40%. dcto. todos los martes",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Decoración circense y alta gastronomía, coctelería de autor y shows en vivo.",
-        "Exclusivo pagando con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass.",
-        "Válido para consumo en local.",
-        "Av. Vitacura 3520, Vitacura.",
-        "Tope de descuento de $100.000.",
-        "No acumulable a otras promociones.",
-        "Se excluyen propinas, menús, happy hours.",
-        "Descuento válido todos los miércoles desde desde el 01 de marzo de 2026 hasta el 31 de mayo de 2026, ambas fechas inclusive, para consumos realizados en el establecimiento en el horario de atención de público del restaurante. Exclusivo para clientes que paguen con las Tarjetas de Crédito Santander de American Express indicadas seguidamente y que soliciten el descuento al momento de pagar presencialmente. Beneficio consistente en un descuento de un 50% del total del consumo (excluida propina) con un tope de $50.000.- diarios por cuenta y por mes. Beneficio no aplicable: (a) Al consumo de cigarrillos y de cualquier otro producto de tabaco y, (b) A consumos hechos por un mismo grupo de personas que pagan el total dividido o por mesa. El consumo podrá pagarse utilizando más de una de las Tarjetas American Express® incluidas en el beneficio. Las Tarjetas Santander de American Express admitidas son: The Platinum Card®, WorldMember Limited ECO, WorldMember ECO y Platinum LATAM Pass ECO. No se aceptarán las tarjetas de formato horizontal. Ni American Express ni Servicios Empresariales Orsan S.A. se responsabilizan por los productos y/o servicios ofrecidos por los establecimientos y/o adquiridos en ellos. Descuento no acumulable e intransferible. No válido para consumos para llevar, delivery o pedidos a través de plataformas externas. El comercio se reserva el derecho de aplicar el beneficio en días festivos, feriados y con significancia comercial, sea general o particular del restorán. Listado de establecimientos adheridos en www.AmericanExpress.cl. American Express es una marca de American Express. Las Tarjetas son emitidas por Banco Santander bajo licencia de American Express."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
       "comercio": "Melt Pizzas",
       "categoria": "Sabores",
       "descuento": "45% dcto.",
@@ -22737,28 +23104,6 @@
     },
     {
       "banco": "Banco Santander",
-      "comercio": "Giullietta",
-      "categoria": "Sabores",
-      "descuento": "30% dcto.",
-      "dia": [
-        "Martes"
-      ],
-      "dia_texto": "todos los martes",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "La pasión italiana servida en cada plato.",
-        "Exclusivo con tus Tarjetas de Crédito y Débito Santander.",
-        "Válido en local, desde las 19 horas en adelante.",
-        "Av. Vicuña Mackenna 7110, La Florida",
-        "No acumulable con otras promociones.",
-        "Descuento máximo por pedido de $40.000",
-        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​"
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
       "comercio": "Hotel UNAI",
       "categoria": "Viajes",
       "descuento": "25% dcto.",
@@ -22848,28 +23193,6 @@
         "El descuento será reflejado en el ticket al momento de pago.",
         "No acumulable con otras promociones.",
         "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Atakama",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": "25% dcto.",
-      "dia": [
-        "Todos los días"
-      ],
-      "dia_texto": "todos los días",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Equipamiento, vestuario y accesorios para salidas al aire libre",
-        "Exclusivo pagando con tus Tarjetas de Crédito y Débito Santander.",
-        "Válido en tiendas y www.atakamaoutdoor.cl",
-        "Acumulable con otras descuentos de productos (no acumulable con otros cupones)",
-        "Excluye categoría Pantuflas.",
-        "Ingresa los 6 primeros dígitos de tu Tarjeta como código de descuento",
-        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
       ],
       "sucursales": []
     },
@@ -23340,50 +23663,6 @@
     },
     {
       "banco": "Banco Santander",
-      "comercio": "De Pura Madre",
-      "categoria": "Sabores",
-      "descuento": "40% dcto.",
-      "dia": [
-        "Viernes"
-      ],
-      "dia_texto": "todos los viernes",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "¡Las mejores pizzas y pan de masa madre!",
-        "Exclusivo con tus Tarjetas de Crédito Santander.",
-        "Válido presencial en Vitacura 5321",
-        "No acumulable a otras promociones.",
-        "Pide tu descuento al momento de pagar.",
-        "Descuento máximo por pedido de $40.000",
-        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​"
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Vicenzo Cucina",
-      "categoria": "Sabores",
-      "descuento": "40% dcto.",
-      "dia": [
-        "Jueves"
-      ],
-      "dia_texto": "todos los jueves",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Vicenzo Cucina",
-        "Exclusivo con tus Tarjetas de Crédito Santander.",
-        "Válido en local",
-        "Av. Apoquindo 6554, Las Condes.",
-        "No acumulable con otras promociones.",
-        "Descuento máximo por pedido de $40.000",
-        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​"
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
       "comercio": "Al Pesto",
       "categoria": "Sabores",
       "descuento": "40% dcto.",
@@ -23458,53 +23737,6 @@
         "Ingresa el cupón SANTANDER15 , como código de descuento al comprar por la web.",
         "Excluye Metaspeed y Colaboraciones.",
         "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Pettra",
-      "categoria": "Sabores",
-      "descuento": null,
-      "dia": [
-        "Martes"
-      ],
-      "dia_texto": "40% de dcto. todos los martes",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Restaurante",
-        "Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander.",
-        "Válido en local.",
-        "Av. Imperial 0561, Puerto Varas.",
-        "Descuento máximo de $100.000",
-        "No acumulable con otras promociones.",
-        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​"
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "La Maestranza",
-      "categoria": "Sabores",
-      "descuento": "40% dcto.",
-      "dia": [
-        "Sábado"
-      ],
-      "dia_texto": "todos los sábados",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Hamburguesas premium Recuerda que:",
-        "Exclusivo con tus Tarjetas de Crédito Santander.",
-        "Válido para consumo en local.",
-        "Av.Vitacura 5468, Las Condes.",
-        "Presidente Kennedy 9001, Vitacura.",
-        "No acumulable a otras promociones.",
-        "Pide tu descuento al momento de pagar.",
-        "Descuento máximo por pedido de $40.000.",
-        "Se excluyen propinas, menús, happy hours.",
-        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
       ],
       "sucursales": []
     },
@@ -23732,30 +23964,6 @@
     },
     {
       "banco": "Banco Santander",
-      "comercio": "Jardín Mallinkrodt",
-      "categoria": "Sabores",
-      "descuento": null,
-      "dia": [
-        "Martes"
-      ],
-      "dia_texto": "40%. dcto. todos los martes",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Conoce toda la gastronomía global y coctelería innovadora.",
-        "Exclusivo pagando con tus Tarjetas de Crédito Santander.",
-        "Válido para consumo en local.",
-        "Av. Vitacura 6780, local F01, Vitacura.",
-        "Mallinkrodt 170, Providencia.",
-        "Tope de descuento de $40.000.",
-        "No acumulable a otras promociones.",
-        "Se excluyen propinas, menús, happy hours.",
-        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
       "comercio": "Dominga Bistró",
       "categoria": "Sabores",
       "descuento": "40% dcto.",
@@ -23903,33 +24111,6 @@
         "Exclusivo pagando con tus Tarjetas de Crédito Santander.",
         "Válido para consumo en local.",
         "Av San Martin 459, Viña del Mar",
-        "Tope de descuento de $40.000.",
-        "No acumulable a otras promociones.",
-        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "MIT Burger",
-      "categoria": "Sabores",
-      "descuento": "40% dcto.",
-      "dia": [
-        "Viernes"
-      ],
-      "dia_texto": "todos los viernes",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Las más ricas hamb urguesas smash Recuerda que:",
-        "Exclusivo pagando con tus Tarjetas de Crédito Santander.",
-        "Válido para consumo en local.",
-        "Direcciones:",
-        "- Mall Sport: Avenida las Condes 13451, Las Condes",
-        "- Mall CasacostaneraNueva Costanera 3900, Vitacura",
-        "- Mall Plaza Vespucio: Froilan Roa 7107, La Florida",
-        "- Patio Andino Lifestyle Center:Av Paseo Pie Andino 4850, Lo Barnechea",
-        "- MUT: Av Apoquindo 2730, Las Condes",
         "Tope de descuento de $40.000.",
         "No acumulable a otras promociones.",
         "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
@@ -24367,28 +24548,6 @@
     },
     {
       "banco": "Banco Santander",
-      "comercio": "Majka",
-      "categoria": "Sabores",
-      "descuento": "40% dcto.",
-      "dia": [
-        "Jueves"
-      ],
-      "dia_texto": "todos los jueves",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Cocina fusión y de autor",
-        "Exclusivo con tus Tarjetas de Crédito Santander.",
-        "Válido en local",
-        "Principe de Gales 7102, La Reina",
-        "No acumulable con otras promociones.",
-        "Descuento máximo por pedido de $40.000",
-        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​"
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
       "comercio": "Restaurante Hotel AWA",
       "categoria": "Sabores",
       "descuento": "40% dcto.",
@@ -24618,54 +24777,6 @@
     },
     {
       "banco": "Banco Santander",
-      "comercio": "Chicken Love You",
-      "categoria": "Sabores",
-      "descuento": "40% dcto.",
-      "dia": [
-        "Miércoles"
-      ],
-      "dia_texto": "todos los miércoles",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Los mejores sandwich de pollo frito.",
-        "Exclusivo con tus Tarjetas de Crédito Santander",
-        "Válido para consumo en locales y online.",
-        "No acumulable a otras promociones.",
-        "Pide tu descuento al momento de pagar.",
-        "Descuento máximo por pedido de $40.000",
-        "Ingresa los 6 primeros dígitos de tu Tarjeta como código de descuento.",
-        "Se excluyen propinas, menús y happy hours.",
-        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Streat Burger",
-      "categoria": "Sabores",
-      "descuento": "40% dcto.",
-      "dia": [
-        "Miércoles"
-      ],
-      "dia_texto": "todos los miércoles",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Streat Makes You Happy",
-        "Exclusivo con tus Tarjetas de Crédito Santander.",
-        "Válido en locales presenciales y en delivery a través de PedidosYa",
-        "Válido en locales Santiago y Carretera.",
-        "Válido dos cupones semanales por persona.",
-        "Excluye categoría helados y combo full.",
-        "No acumulable con otras promociones.",
-        "Descuento máximo por pedido de $40.000",
-        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​"
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
       "comercio": "Bozzo",
       "categoria": "Sabores",
       "descuento": "40% dcto.",
@@ -24828,29 +24939,6 @@
         "No acumulable a otras promociones.",
         "Ingresa los primeros 6 dígitos de tu Tarjeta como código de descuento.",
         "Descuento máximo por pedido de $40.000."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "El Mundo del Vino",
-      "categoria": "Sabores",
-      "descuento": "40% dcto.",
-      "dia": [
-        "Lunes"
-      ],
-      "dia_texto": "todos los lunes en viñas seleccionadas",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "¡El mejor vino para ti!",
-        "Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass.",
-        "Válido para compras en local y www.elmundodelvino.cl",
-        "No acumulable a otras promociones.",
-        "En viñas seleccionadas: Concha y Toro, Ventisquero, Clos de Luz, Barón Philippe, Tres Palacio, Las Veletas, Santa Rita, Miguel Torres, Errazuriz.",
-        "Ingresando los 6 primeros dígitos de tu Tarjeta como código de descuento.",
-        "Descuento máximo por pedido de $100.000",
-        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​"
       ],
       "sucursales": []
     },
@@ -26258,30 +26346,6 @@
     },
     {
       "banco": "Banco Santander",
-      "comercio": "Social Bar",
-      "categoria": "Sabores",
-      "descuento": "40% dcto.",
-      "dia": [
-        "Lunes"
-      ],
-      "dia_texto": "todos los lunes",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Burgas, drinks y el good food mood que ya amas.",
-        "Exclusivo con tus Tarjetas de Crédito Santander.",
-        "Válido para consumo en local",
-        "Av. Vitacura 3396, Vitacura.",
-        "No acumulable a otras promociones.",
-        "Pide tu descuento al momento de pagar.",
-        "Descuento máximo por pedido de $40.000.",
-        "Se excluyen propinas, menús, happy hours.",
-        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
       "comercio": "iPhone for Life",
       "categoria": "Cuotas Sin Interés",
       "descuento": null,
@@ -26406,75 +26470,6 @@
         "No es acumulable con otras promociones.",
         "CAE 1,51% Calculado por un monto referencial de compra de $1.000.000 en 24 cuotas. Costo total del Crédito: $1.015.840. Operación afecta a impuesto al crédito a cargo del cliente.",
         "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Corrales del Sur",
-      "categoria": "Sabores",
-      "descuento": "30% dcto.",
-      "dia": [
-        "Jueves"
-      ],
-      "dia_texto": "todos los jueves",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "¡El mejor Angus nacional en Corrales del Sur!",
-        "Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass.",
-        "Válido para consumo en local y en www.corralesdelsur.cl.",
-        "Exclusivo en carnes Corrales del Sur y embutidos.",
-        "No acumulable a otras promociones.",
-        "Ingresa los primeros 6 dígitos de tu Tarjeta como código de descuento.",
-        "Descuento máximo por pedido de $100.000.",
-        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​"
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Juan Esparraguito",
-      "categoria": "Sabores",
-      "descuento": "30% dcto.",
-      "dia": [
-        "Miércoles"
-      ],
-      "dia_texto": "todos los miércoles",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Mucho más que frutas y verduras, productos de temporada y seleccionados uno a uno",
-        "Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass.",
-        "Válido en www.juanesparraguito.com",
-        "No acumulable a otras promociones.",
-        "Ingresa los 6 primeros dígitos de tu tarjeta como código de descuento.",
-        "Descuento máximo por pedido de $100.000",
-        "Exclusivo en frutas y verduras.",
-        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​"
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Aquality",
-      "categoria": "Sabores",
-      "descuento": "40% dcto.",
-      "dia": [
-        "Martes"
-      ],
-      "dia_texto": "todos los martes y acumula 1 Milla LATAM Pass adicional",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "¡Compra pescados y mariscos congelados de calidad superior! Además, acumula 1 Milla LATAM Pass adicional del 01 al 07 de cada mes.",
-        "Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass.",
-        "Válido en www.aqualitysoluciones.cl",
-        "No acumulable a otras promociones.",
-        "Ingresando los 6 primeros dígitos de tu Tarjeta como código de descuento.",
-        "Despacho aplica en Región Metropolitana y Punto de retiro aplica en Chicureo y Concón.",
-        "Descuento máximo por pedido de $100.000.",
-        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. La bonificación de millas estructural se realizará según nivel y tarjeta de Crédito Santander LATAM Pass del cliente, más 1 milla adicional por dólar gastado por compras realizadas en campaña. Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio; la administración del programa LATAM Pass es de exclusiva responsabilidad de LATAM Airlines Group S.A. sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl. Conoce más sobre Santander Rewards y su reglamento en: https://banco.santander.cl/rewards."
       ],
       "sucursales": []
     },
@@ -27783,28 +27778,6 @@
         "No acumulable a otras promociones.",
         "Se excluyen propinas, menús, happy hours.",
         "Descuento válido todos los lunes desde desde el 01 de junio de 2026 hasta el 31 de agosto de 2026, ambas fechas inclusive, para consumos realizados en el establecimiento en el horario de atención de público del restaurante. Exclusivo para clientes que paguen con las Tarjetas de Crédito Santander de American Express indicadas seguidamente y que soliciten el descuento al momento de pagar presencialmente. Beneficio consistente en un descuento de un 50% del total del consumo (excluida propina) con un tope de $50.000.- diarios por cuenta y por mes. Beneficio no aplicable: (a) Al consumo de cigarrillos y de cualquier otro producto de tabaco y, (b) A consumos hechos por un mismo grupo de personas que pagan el total dividido o por mesa. El consumo podrá pagarse utilizando más de una de las Tarjetas American Express® incluidas en el beneficio. Las Tarjetas Santander de American Express admitidas son: The Platinum Card®, WorldMember Limited ECO, WorldMember ECO y Platinum LATAM Pass ECO. No se aceptarán las tarjetas de formato horizontal. Ni American Express ni Servicios Empresariales Orsan S.A. se responsabilizan por los productos y/o servicios ofrecidos por los establecimientos y/o adquiridos en ellos. Descuento no acumulable e intransferible. No válido para consumos para llevar, delivery o pedidos a través de plataformas externas. El comercio se reserva el derecho de aplicar el beneficio en días festivos, feriados y con significancia comercial, sea general o particular del restorán. Listado de establecimientos adheridos en www.AmericanExpress.cl. American Express es una marca de American Express. Las Tarjetas son emitidas por Banco Santander bajo licencia de American Express."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Raidho",
-      "categoria": "Sabores",
-      "descuento": "40% dcto.",
-      "dia": [
-        "Viernes"
-      ],
-      "dia_texto": "todos los viernes",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Un nuevo viaje culinario hacia sabores inolvidables",
-        "Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass.",
-        "Válido en local.",
-        "Camino Las Rastras Km 7, Talca",
-        "No acumulable a otras promociones.",
-        "Descuento máximo de $100.000.",
-        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​"
       ],
       "sucursales": []
     },
