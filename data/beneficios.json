@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-07-29T12:55",
+  "actualizado": "2026-07-30T12:23",
   "beneficios": [
     {
       "banco": "Banco de Chile",
@@ -6420,25 +6420,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "IRONSIDE",
-      "categoria": "Entretención y Deportes",
-      "descuento": "10% dto. adicional",
-      "dia": [
-        "Todos los días"
-      ],
-      "dia_texto": "todos los días",
-      "canal": null,
-      "vigencia": "Promoción válida hasta el 31 de octubre de 2026.",
-      "condiciones": [
-        "En IRONSIDE, estamos en una misión apasionada para elevar el estándar del equipamiento deportivo y redefinir la experiencia del fitness para una comunidad de miembros comprometidos.",
-        "10% dto adicional todos los días.",
-        "Exclusivo en ironside.cl ingresando los 6 primeros dígitos de tu Tarjeta como código de descuento.",
-        "Beneficio exclusivo pagando con tus Tarjetas del Chile."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "Jardin Mahuzier",
       "categoria": "Sabores",
       "descuento": "20% dto.",
@@ -11656,34 +11637,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Vestuario y calzado Clientes Plan Océano",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": "40% dto.",
-      "dia": [],
-      "dia_texto": "en grandes marcas de vestuario y calzado",
-      "canal": null,
-      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
-      "condiciones": [
-        "Para disfrutar de este beneficio ingresa al link ."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Vestuario y calzado Clientes Plan Cordillera",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": "30% dto.",
-      "dia": [],
-      "dia_texto": "en grandes marcas de vestuario y calzado",
-      "canal": null,
-      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
-      "condiciones": [
-        "Para disfrutar de este beneficio ingresa al link ."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "TRAVEL SKY PLUS",
       "categoria": "Viajes",
       "descuento": null,
@@ -11993,6 +11946,25 @@
         "Paga hasta en 24 cuotas sin interés",
         "Descuento exclusivo pagando con tus Tarjetas Crédito del Chile.",
         "Para una compra referencial de $1.500.000 en 24 cuotas CAE: 0,77% Valor cuota: $62.500 Costo total $1.512.000"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "IRONSIDE",
+      "categoria": "Entretención y Deportes",
+      "descuento": "10% dto. adicional",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días",
+      "canal": null,
+      "vigencia": "Promoción válida hasta el 31 de octubre de 2026.",
+      "condiciones": [
+        "En IRONSIDE, estamos en una misión apasionada para elevar el estándar del equipamiento deportivo y redefinir la experiencia del fitness para una comunidad de miembros comprometidos.",
+        "10% dto adicional todos los días.",
+        "Exclusivo en ironside.cl ingresando los 6 primeros dígitos de tu Tarjeta como código de descuento.",
+        "Beneficio exclusivo pagando con tus Tarjetas del Chile."
       ],
       "sucursales": []
     },
@@ -13222,6 +13194,34 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "Vestuario y calzado Clientes Plan Cordillera",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "30% dto.",
+      "dia": [],
+      "dia_texto": "en grandes marcas de vestuario y calzado",
+      "canal": null,
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
+      "condiciones": [
+        "Para disfrutar de este beneficio ingresa al link ."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Vestuario y calzado Clientes Plan Océano",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "40% dto.",
+      "dia": [],
+      "dia_texto": "en grandes marcas de vestuario y calzado",
+      "canal": null,
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
+      "condiciones": [
+        "Para disfrutar de este beneficio ingresa al link ."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "Mora Pavic",
       "categoria": "Salud y Belleza",
       "descuento": "Hasta 50% dto.",
@@ -14163,81 +14163,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Pescados Capitales",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Martes"
-      ],
-      "dia_texto": "martes de julio",
-      "canal": null,
-      "vigencia": "Promoción válida desde el 01 al 31 de julio de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial 40% dto. todos los martes de julio",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dto. $50.000 por mesa"
-      ],
-      "sucursales": [
-        "Av. Nueva Costanera #3723, Región Metropolitana, Vitacura"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Santa Brasa",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Martes"
-      ],
-      "dia_texto": "martes de julio sucursales de Alonso de Córdova y Concón",
-      "canal": null,
-      "vigencia": "Promoción válida desde el 01 al 31 de julio de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial 40% dto. todos los martes de julio",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dto. $50.000 por mesa"
-      ],
-      "sucursales": [
-        "Alonso de Córdova #4260, Región Metropolitana, Vitacura",
-        "Sta. Elena #671, Región de Valparaíso, Concón"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Sakura",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Martes"
-      ],
-      "dia_texto": "martes de julio",
-      "canal": "Ambos",
-      "vigencia": "Promoción válida desde el 01 al 31 de julio de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial 40% dto. todos los martes de julio presencial y online",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "Para compra online ingresa los 6 primeros dígitos de tu Tarjeta como código de descuento.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dto. $50.000 por mesa"
-      ],
-      "sucursales": [
-        "Av. Cristobal Colón #4401, Región Metropolitana, Las Condes",
-        "Camino Del Monje 10530 - B, Región Metropolitana, Lo Barnechea",
-        "Av. La Plaza #590 - Local 118, Región Metropolitana, Las Condes",
-        "San Damián #20 - Local 7, Región Metropolitana, Las Condes",
-        "Av. Luis Pasteur #5515 - Local 6, Región Metropolitana, Vitacura"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "Slayer - 10 de diciembre de 2026",
       "categoria": "Entretención y Deportes",
       "descuento": null,
@@ -14602,30 +14527,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "La Previa Bar",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Lunes",
-        "Martes"
-      ],
-      "dia_texto": "lunes y martes de julio",
-      "canal": null,
-      "vigencia": "Promoción válida desde el 01 al 31 de julio de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial 40% dto. lunes y martes de julio",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dto. $50.000 por mesa"
-      ],
-      "sucursales": [
-        "Avenida Alemania #01765, Región de la Araucanía, Temuco"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "Fogo Antofagasta",
       "categoria": "Sabores",
       "descuento": "40% dto.",
@@ -14970,29 +14871,6 @@
         "Local 13, Avda España 1210, Región del Maule, Curicó",
         "Paseo Hacienda Local E6, Avda Pehuenche 1161, Región del Maule, Talca"
       ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Rappi",
-      "categoria": "Sabores",
-      "descuento": "Hasta 25% dto adicional.",
-      "dia": [
-        "Todos los días"
-      ],
-      "dia_texto": "todos los días",
-      "canal": null,
-      "vigencia": "Promoción válida hasta el 31 de julio de 2026.",
-      "condiciones": [
-        "Hasta 25% dto adicional. todos los días pagando con tus Tarjetas del Chile. 20% dto. En la categoría de restaurantes Ingresando el código BCHRAPPIJUL26R 25% dto. En todas las categorías (excepto restaurantes) Ingresando el código BCHRAPPIJUL26 ¿Cómo obtener estos descuentos? 1- Ingresa a la APP RAPPI, elige tu favorito y agrégalo al carrito. 2- Al momento del pago ingresa tu código en la sección Cupones y paga con tu Tarjeta de crédito o Débito del Chile. 3- ¡Recibe tu pedido y disfruta!",
-        "Válido para 1 uso por usuario para cada cupón.",
-        "Compra mínima: $7.000.",
-        "Tope de descuento: $5.000.",
-        "El descuento se verá reflejado al momento de la compra",
-        "No es acumulable con Rappi Créditos.",
-        "Descuento no acumulable en el costo de envío",
-        "El beneficio es acumulable con otros descuentos de la aplicación."
-      ],
-      "sucursales": []
     },
     {
       "banco": "Banco de Chile",
@@ -16352,33 +16230,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Salones VIP Nacionales",
-      "categoria": "Viajes",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "Aprende como acceder a este beneficio",
-      "canal": null,
-      "vigencia": "Beneficio válido según condiciones comerciales.",
-      "condiciones": [
-        "Salón Pacific Club Iquique",
-        "Harmony Lounge Calama",
-        "Salón Pacific Club Antofagasta",
-        "Salón Pacific Club La Serena",
-        "Salón Pacific Club Concepción",
-        "Salón Pacific Club Temuco",
-        "Salón Pacific Club Puerto Montt",
-        "Salón Pacific Club Punta Arenas",
-        "Si tienes un plan de Cuenta Corriente Cordillera u Océano contarás con una Tarjeta de Débito que te permitirá obtener 50% de descuento en la tarifa para ti y tus acompañantes.",
-        "Beneficio exclusivo canjeando tu acceso acá:",
-        "Debes comprar tu acceso a tarifa preferencial por $22.180",
-        "Precio referencial $46.500",
-        "Además, si lo necesitas puedes comprar tu acceso en tienda.travel.cl o con tu ejecutiva Travel Club.",
-        "Beneficio Salones VIP Nacionales válidos para Tarjetas de Crédito y Débito hasta el 31 de diciembre de 2026. Beneficios Planes Cuenta Corriente Cordillera y Océano del Banco de Chile hasta el 30 de junio de 2026. Para todas las tarjetas y titulares de planes de cuenta corriente cordillera y océano se autorizará el ingreso al Salón previa validación de vigencia y condición de titularidad de las tarjetas. Los beneficios no son acumulables. Las condiciones y vigencias de los beneficios pueden ser modificadas sin previo aviso bastando para ello modificar la presente web. El servicio de salones VIP es responsabilidad de cada operador. Todo lo anterior sin responsabilidad alguna para Banco de Chile ni en la ulterior atención que ello demande. Todo lo anterior sin responsabilidad alguna para Banco de Chile ni en la ulterior atención que ello demande. La contratación de productos bancarios está sujeta a evaluación comercial previa del Banco de Chile. La contratación conjunta de los productos señalados sólo es requisito para acceder a la presente oferta sin embargo éstos siempre pueden contratarse separadamente."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "Creado en Chile",
       "categoria": "Retail y Otras Marcas",
       "descuento": "15% dto. adicional",
@@ -16446,29 +16297,6 @@
       ],
       "sucursales": [
         "Aeropuerto Arturo Merino Benitez, Región Metropolitana, Pudahuel"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "La Negra Restaurant",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Martes"
-      ],
-      "dia_texto": "martes de julio",
-      "canal": null,
-      "vigencia": "Promoción válida desde el 01 al 31 de julio de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial 40% dto. martes de julio",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dto. $50.000 por mesa"
-      ],
-      "sucursales": [
-        "Av. Senador Humberto Palza Corvacho #4040, Región de Arica y Parinacota, Arica"
       ]
     },
     {
@@ -16950,52 +16778,6 @@
       ],
       "sucursales": [
         "Av. Francisco Bilbao 1947, RM, Providencia"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Piwen",
-      "categoria": "Sabores",
-      "descuento": "25% dto.",
-      "dia": [
-        "Miércoles"
-      ],
-      "dia_texto": "miércoles",
-      "canal": "Ambos",
-      "vigencia": "Promoción válida hasta el 31 de mayo de 2027.",
-      "condiciones": [
-        "Piwén es una marca chilena dedicada a ofrecer alimentos ricos, naturales y de alta calidad, pensados para acompañar una vida más saludable sin perder el placer de comer bien. Encuentra frutos secos, snacks, chocolates, regalos y productos seleccionados con una propuesta cercana, equilibrada y llena de sabor.",
-        "Genera tu código de descuento y preséntalo al momento de pagar o ingrésalo en piwen.cl",
-        "Descuento no aplica para valor del despacho.",
-        "Revisa cobertura de despacho en piwen.cl",
-        "No acumulable con otras promociones.",
-        "Descuento exclusivo pagando con tus Tarjetas del Chile."
-      ],
-      "sucursales": [
-        "Complejo Enea Pudahuel, Río Itata 9654, Región Metropolitana, Pudahuel",
-        "Av. Luis Pasteur 6058 Local 4 y 5, Región Metropolitana, Vitacura",
-        "Av. Santa María 407, Región Metropolitana, Recoleta",
-        "José Joaquín Prieto Vial 5610, Región Metropolitana, San Miguel",
-        "Av. Providencia 2131, Región Metropolitana, Providencia",
-        "Av. Apoquindo 4566, Región Metropolitana, Las Condes",
-        "Huérfanos 602 Local 2, Región Metropolitana, Santiago Centro",
-        "Luis Thayer Ojeda 0180, Región Metropolitana, Providencia",
-        "Serafín Zamora 49, Región Metropolitana, La Florida",
-        "Av. Providencia 2316, Región Metropolitana, Providencia",
-        "Pedro de Valdivia 3387 Local 1, Región Metropolitana, Ñuñoa",
-        "Apumanque, Av. Manquehue Sur 31 Local 206, Región Metropolitana, Las Condes",
-        "Paseo Pie Andino 4770 Local C, Región Metropolitana, Lo Barnechea",
-        "Av. Larraín 5862 MP 1511, Región Metropolitana, La Reina",
-        "Metro Los Dominicos, Av. Apoquindo 8613 Módulo 1, Región Metropolitana, Las Condes",
-        "Metro Plaza de Maipú, Av. Los Pajaritos 1921 Módulo 2, Región Metropolitana, Maipú",
-        "Metro Manquehue, Av. Apoquindo 5875, Región Metropolitana, Las Condes",
-        "Metro Manuel Montt, Av. Providencia 1337, Región Metropolitana, Providencia",
-        "Metro Moneda, Av. Libertador Bernardo OHiggins 1330, Región Metropolitana, Santiago Centro",
-        "Metro Pedro de Valdivia, Av. Providencia 1880, Región Metropolitana, Providencia",
-        "Metro Plaza de Puente Alto, Av. Concha y Toro 265, Región Metropolitana, Puente Alto",
-        "Metro Tobalaba, Av. Providencia 2700, Región Metropolitana, Providencia",
-        "Metro Metro Universidad de Chile,, Región Metropolitana, Santiago Centro",
-        "Alianza Cristiana y Misionera 255, Región de Los Lagos, Puerto Montt"
       ]
     },
     {
@@ -17677,6 +17459,52 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "Piwen",
+      "categoria": "Sabores",
+      "descuento": "25% dto.",
+      "dia": [
+        "Miércoles"
+      ],
+      "dia_texto": "miércoles",
+      "canal": "Ambos",
+      "vigencia": "Promoción válida hasta el 31 de mayo de 2027.",
+      "condiciones": [
+        "Piwén es una marca chilena dedicada a ofrecer alimentos ricos, naturales y de alta calidad, pensados para acompañar una vida más saludable sin perder el placer de comer bien. Encuentra frutos secos, snacks, chocolates, regalos y productos seleccionados con una propuesta cercana, equilibrada y llena de sabor.",
+        "Genera tu código de descuento y preséntalo al momento de pagar o ingrésalo en piwen.cl",
+        "Descuento no aplica para valor del despacho.",
+        "Revisa cobertura de despacho en piwen.cl",
+        "No acumulable con otras promociones.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Complejo Enea Pudahuel, Río Itata 9654, Región Metropolitana, Pudahuel",
+        "Av. Luis Pasteur 6058 Local 4 y 5, Región Metropolitana, Vitacura",
+        "Av. Santa María 407, Región Metropolitana, Recoleta",
+        "José Joaquín Prieto Vial 5610, Región Metropolitana, San Miguel",
+        "Av. Providencia 2131, Región Metropolitana, Providencia",
+        "Av. Apoquindo 4566, Región Metropolitana, Las Condes",
+        "Huérfanos 602 Local 2, Región Metropolitana, Santiago Centro",
+        "Luis Thayer Ojeda 0180, Región Metropolitana, Providencia",
+        "Serafín Zamora 49, Región Metropolitana, La Florida",
+        "Av. Providencia 2316, Región Metropolitana, Providencia",
+        "Pedro de Valdivia 3387 Local 1, Región Metropolitana, Ñuñoa",
+        "Apumanque, Av. Manquehue Sur 31 Local 206, Región Metropolitana, Las Condes",
+        "Paseo Pie Andino 4770 Local C, Región Metropolitana, Lo Barnechea",
+        "Av. Larraín 5862 MP 1511, Región Metropolitana, La Reina",
+        "Metro Los Dominicos, Av. Apoquindo 8613 Módulo 1, Región Metropolitana, Las Condes",
+        "Metro Plaza de Maipú, Av. Los Pajaritos 1921 Módulo 2, Región Metropolitana, Maipú",
+        "Metro Manquehue, Av. Apoquindo 5875, Región Metropolitana, Las Condes",
+        "Metro Manuel Montt, Av. Providencia 1337, Región Metropolitana, Providencia",
+        "Metro Moneda, Av. Libertador Bernardo OHiggins 1330, Región Metropolitana, Santiago Centro",
+        "Metro Pedro de Valdivia, Av. Providencia 1880, Región Metropolitana, Providencia",
+        "Metro Plaza de Puente Alto, Av. Concha y Toro 265, Región Metropolitana, Puente Alto",
+        "Metro Tobalaba, Av. Providencia 2700, Región Metropolitana, Providencia",
+        "Metro Metro Universidad de Chile,, Región Metropolitana, Santiago Centro",
+        "Alianza Cristiana y Misionera 255, Región de Los Lagos, Puerto Montt"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "Lebol Restobar",
       "categoria": "Sabores",
       "descuento": "20% dto.",
@@ -17974,24 +17802,6 @@
         "Moneda 782, RM, Santiago",
         "San Antonio 263, RM, Santiago"
       ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Mercado Carozzi",
-      "categoria": "Sabores",
-      "descuento": "Desde 20% dto.",
-      "dia": [
-        "Todos los días"
-      ],
-      "dia_texto": "todos los días",
-      "canal": "Online",
-      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
-      "condiciones": [
-        "Mercado Carozzi es la tienda online de Carozzi, creado para facilitarte la vida llevándote los productos que más te gustan de forma directa para que los compartas en tu hogar. Acá podrás ser el primero en comprar algunas de nuestras innovaciones, disfrutar de formatos exclusivos y hasta encontrarte con sorpresas geniales.",
-        "Como acceder: Registrándose a través del siguiente link, www.mercadocarozzi.cl/amigos-carozzi, colocando toda la información que el formulario solicita y registrándose dentro del Grupo Beneficio correspondiente a Banco de Chile. Después, cuando estés registrado, verás directamente los precios oferta en la pagina sin ser necesario el ingreso de cupones o códigos.",
-        "No considera accesorios y packs."
-      ],
-      "sucursales": []
     },
     {
       "banco": "Banco de Chile",
@@ -18799,6 +18609,29 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "La Negra Restaurant",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Martes"
+      ],
+      "dia_texto": "martes de agosto",
+      "canal": null,
+      "vigencia": "Promoción válida desde el 01 al 31 de agosto de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. martes de agosto",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Av. Senador Humberto Palza Corvacho #4040, Región de Arica y Parinacota, Arica"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "FLIXBUS",
       "categoria": "Viajes",
       "descuento": "20% dto.",
@@ -19113,6 +18946,81 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "Pescados Capitales",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Martes"
+      ],
+      "dia_texto": "martes de agosto",
+      "canal": null,
+      "vigencia": "Promoción válida desde el 01 al 31 de agosto de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. todos los martes de agosto",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Av. Nueva Costanera #3723, Región Metropolitana, Vitacura"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Santa Brasa",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Martes"
+      ],
+      "dia_texto": "martes de agosto sucursales de Alonso de Córdova y Concón",
+      "canal": null,
+      "vigencia": "Promoción válida desde el 01 al 31 de agosto de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. todos los martes de agosto",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Alonso de Córdova #4260, Región Metropolitana, Vitacura",
+        "Sta. Elena #671, Región de Valparaíso, Concón"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Sakura",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Martes"
+      ],
+      "dia_texto": "martes de agosto",
+      "canal": "Ambos",
+      "vigencia": "Promoción válida desde el 01 al 31 de agosto de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. todos los martes de agosto presencial y online",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "Para compra online ingresa los 6 primeros dígitos de tu Tarjeta como código de descuento.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Av. Cristobal Colón #4401, Región Metropolitana, Las Condes",
+        "Camino Del Monje 10530 - B, Región Metropolitana, Lo Barnechea",
+        "Av. La Plaza #590 - Local 118, Región Metropolitana, Las Condes",
+        "San Damián #20 - Local 7, Región Metropolitana, Las Condes",
+        "Av. Luis Pasteur #5515 - Local 6, Región Metropolitana, Vitacura"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "Adidas",
       "categoria": "Retail y Otras Marcas",
       "descuento": "30% dto. adicional",
@@ -19137,17 +19045,18 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "YADO BY ASIA",
+      "comercio": "La Previa Bar",
       "categoria": "Sabores",
       "descuento": "40% dto.",
       "dia": [
+        "Lunes",
         "Martes"
       ],
-      "dia_texto": "martes de julio",
+      "dia_texto": "lunes y martes de agosto",
       "canal": null,
-      "vigencia": "Promoción válida desde el 01 al 31 de julio de 2026.",
+      "vigencia": "Promoción válida desde el 01 al 31 de agosto de 2026.",
       "condiciones": [
-        "Válido para consumo presencial 40% dto. todos los martes de julio",
+        "Válido para consumo presencial 40% dto. lunes y martes de agosto",
         "Solicita el descuento al momento de pagar en el restaurant.",
         "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
         "No acumulable con otras promociones.",
@@ -19155,8 +19064,31 @@
         "Tope dto. $50.000 por mesa"
       ],
       "sucursales": [
-        "Tomas Bonilla #815, Región de Tarapacá, Iquique"
+        "Avenida Alemania #01765, Región de la Araucanía, Temuco"
       ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Rappi",
+      "categoria": "Sabores",
+      "descuento": "Hasta 25% dto adicional.",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días",
+      "canal": null,
+      "vigencia": "Promoción válida hasta el 31 de julio de 2026.",
+      "condiciones": [
+        "Hasta 25% dto adicional. todos los días pagando con tus Tarjetas del Chile. 20% dto. En la categoría de restaurantes Ingresando el código BCHRAPPIJUL26R 25% dto. En todas las categorías (excepto restaurantes) Ingresando el código BCHRAPPIJUL26 ¿Cómo obtener estos descuentos? 1- Ingresa a la APP RAPPI, elige tu favorito y agrégalo al carrito. 2- Al momento del pago ingresa tu código en la sección Cupones y paga con tu Tarjeta de crédito o Débito del Chile. 3- ¡Recibe tu pedido y disfruta!",
+        "Válido para 1 uso por usuario para cada cupón.",
+        "Compra mínima: $7.000.",
+        "Tope de descuento: $5.000.",
+        "El descuento se verá reflejado al momento de la compra",
+        "No es acumulable con Rappi Créditos.",
+        "Descuento no acumulable en el costo de envío",
+        "El beneficio es acumulable con otros descuentos de la aplicación."
+      ],
+      "sucursales": []
     },
     {
       "banco": "Banco de Chile",
@@ -19321,32 +19253,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "PedidosYA",
-      "categoria": "Sabores",
-      "descuento": "30% dto. adicional",
-      "dia": [
-        "Todos los días"
-      ],
-      "dia_texto": "todos los días en PedidosYa Market",
-      "canal": null,
-      "vigencia": "Promoción válida hasta el 31 de julio de 2026.",
-      "condiciones": [
-        "Disfruta 30% dto. adicional todos los días en PedidosYa Market pagando con tus Tarjetas del Chile.",
-        "30% de descuento en toda la categoría ingresando BCHPEYA0726 todos los días pagando con tus Tarjetas del Chile.",
-        "Válido para 1 uso mensual por usuario.",
-        "Sin mínimo de compra.",
-        "Tope de descuento $5.000.",
-        "El descuento se verá reflejado al momento de la compra.",
-        "Ingresa a PedidosYa, Selecciona PedidosYa Market.",
-        "Elige tus productos.",
-        "Ingresa el cupón BCHPEYA0726 y verás el descuento reflejado de manera automática.",
-        "Al pagar, ingresa tu Tarjeta de Crédito o Débito del Chile o selecciónala si ya está ingresada (ingresa tu código de seguridad).",
-        "Recibe tu pedido y disfrútalo."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "Transvip",
       "categoria": "Viajes",
       "descuento": null,
@@ -19401,6 +19307,29 @@
       ],
       "sucursales": [
         "Almagro #593, Región de la Araucanía, Purén"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "YADO BY ASIA",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Martes"
+      ],
+      "dia_texto": "martes de agosto",
+      "canal": null,
+      "vigencia": "Promoción válida desde el 01 al 31 de agosto de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. todos los martes de agosto",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Tomas Bonilla #815, Región de Tarapacá, Iquique"
       ]
     },
     {
@@ -19567,30 +19496,6 @@
         "Valdivia LOCAL 2074, CALLE ARAUCO 561, Región de Los Ríos, Valdivia",
         "Av. Angamos 745, Nivel 1 Local 1028, Región de Antofagasta, Antofagasta"
       ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Shell",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": "$100 dto. por litro",
-      "dia": [],
-      "dia_texto": "de combustible pagando con tus Tarjetas de Crédito",
-      "canal": null,
-      "vigencia": "Promoción válida los miércoles 1, 8, 15, 22 y 29 de Julio de 2026, o hasta agotar stock.",
-      "condiciones": [
-        "Promoción válida los miércoles 1, 8, 15, 22 y 29 de Julio 2026 o hasta agotar stock.",
-        "⁠Disfruta de la ruta igual que tu destino pagando con tus Tarjetas de Crédito del Chile en la nueva App Shell:",
-        "$100 de descuento por litro de combustible.",
-        "Pagando con tus Tarjetas de Crédito a través de la Nueva App Shell.",
-        "2 usos por cliente durante el período de la promoción.",
-        "Tope de descuento hasta 70 litros por carga.",
-        "¿Cómo obtener tu descuento?",
-        "1.Descarga la nueva App Shell desde tu teléfono móvil.",
-        "2.Enrola tu Tarjeta de Crédito Banco de Chile en la sección Billetera.",
-        "3.Solicita al atendedor pagar con la App Shell y selecciona tu descuento Banco de Chile antes de pagar.",
-        "4.El descuento se aplicará automáticamente al momento del pago."
-      ],
-      "sucursales": []
     },
     {
       "banco": "Banco de Chile",
@@ -19827,6 +19732,32 @@
         "Canjea tu código en muvix.cl o directamente en la boletería presencial del cine.",
         "Máximo 6 entradas mensuales por cliente.",
         "Excluye preventas y películas con restricción del distribuidor."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "PedidosYA",
+      "categoria": "Sabores",
+      "descuento": "30% dto. adicional",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días en PedidosYa Market",
+      "canal": null,
+      "vigencia": "Promoción válida hasta el 31 de julio de 2026.",
+      "condiciones": [
+        "Disfruta 30% dto. adicional todos los días en PedidosYa Market pagando con tus Tarjetas del Chile.",
+        "30% de descuento en toda la categoría ingresando BCHPEYA0726 todos los días pagando con tus Tarjetas del Chile.",
+        "Válido para 1 uso mensual por usuario.",
+        "Sin mínimo de compra.",
+        "Tope de descuento $5.000.",
+        "El descuento se verá reflejado al momento de la compra.",
+        "Ingresa a PedidosYa, Selecciona PedidosYa Market.",
+        "Elige tus productos.",
+        "Ingresa el cupón BCHPEYA0726 y verás el descuento reflejado de manera automática.",
+        "Al pagar, ingresa tu Tarjeta de Crédito o Débito del Chile o selecciónala si ya está ingresada (ingresa tu código de seguridad).",
+        "Recibe tu pedido y disfrútalo."
       ],
       "sucursales": []
     },
@@ -20137,6 +20068,24 @@
       "canal": null,
       "vigencia": null,
       "condiciones": [],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Mercado Carozzi",
+      "categoria": "Sabores",
+      "descuento": "Desde 20% dto.",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días",
+      "canal": "Online",
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
+      "condiciones": [
+        "Mercado Carozzi es la tienda online de Carozzi, creado para facilitarte la vida llevándote los productos que más te gustan de forma directa para que los compartas en tu hogar. Acá podrás ser el primero en comprar algunas de nuestras innovaciones, disfrutar de formatos exclusivos y hasta encontrarte con sorpresas geniales.",
+        "Como acceder: Registrándose a través del siguiente link, www.mercadocarozzi.cl/amigos-carozzi, colocando toda la información que el formulario solicita y registrándose dentro del Grupo Beneficio correspondiente a Banco de Chile. Después, cuando estés registrado, verás directamente los precios oferta en la pagina sin ser necesario el ingreso de cupones o códigos.",
+        "No considera accesorios y packs."
+      ],
       "sucursales": []
     },
     {
@@ -21727,6 +21676,377 @@
       ]
     },
     {
+      "banco": "Banco de Chile",
+      "comercio": "Salones VIP Pacific Club Nacional",
+      "categoria": "Viajes",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "Aprende como acceder a este beneficio",
+      "canal": null,
+      "vigencia": "Beneficio válido según condiciones comerciales.",
+      "condiciones": [
+        "Salón Pacific Club Iquique",
+        "Harmony Lounge Calama",
+        "Salón Pacific Club Antofagasta",
+        "Salón Pacific Club La Serena",
+        "Salón Pacific Club Concepción",
+        "Salón Pacific Club Temuco",
+        "Salón Pacific Club Puerto Montt",
+        "Salón Pacific Club Punta Arenas",
+        "Si tienes un plan de Cuenta Corriente Cordillera u Océano contarás con una Tarjeta de Débito que te permitirá obtener 50% de descuento en la tarifa para ti y tus acompañantes.",
+        "Beneficio exclusivo canjeando tu acceso acá:",
+        "Debes comprar tu acceso a tarifa preferencial por $22.180",
+        "Precio referencial $46.500",
+        "Además, si lo necesitas puedes comprar tu acceso en tienda.travel.cl o con tu ejecutiva Travel Club.",
+        "Beneficio Salones VIP Nacionales válidos para Tarjetas de Crédito y Débito hasta el 31 de diciembre de 2026. Beneficios Planes Cuenta Corriente Cordillera y Océano del Banco de Chile hasta el 30 de junio de 2026. Para todas las tarjetas y titulares de planes de cuenta corriente cordillera y océano se autorizará el ingreso al Salón previa validación de vigencia y condición de titularidad de las tarjetas. Los beneficios no son acumulables. Las condiciones y vigencias de los beneficios pueden ser modificadas sin previo aviso bastando para ello modificar la presente web. El servicio de salones VIP es responsabilidad de cada operador. Todo lo anterior sin responsabilidad alguna para Banco de Chile ni en la ulterior atención que ello demande. Todo lo anterior sin responsabilidad alguna para Banco de Chile ni en la ulterior atención que ello demande. La contratación de productos bancarios está sujeta a evaluación comercial previa del Banco de Chile. La contratación conjunta de los productos señalados sólo es requisito para acceder a la presente oferta sin embargo éstos siempre pueden contratarse separadamente."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Impulsa Solar",
+      "categoria": "Cuotas Sin Interés",
+      "descuento": null,
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "3 a 48 cuotas sin interés todos los días y acumula 1 milla LATAM Pass adicional por dólar gastado",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "¡Equipa tu hogar con los mejores robots de cocina, licuadoras y más!",
+        "Exclusivo pagando con tus Tarjetas de Crédito Santander LATAM Pass.",
+        "Válido online",
+        "Acumula 1 milla LATAM Pass adicional por dólar gastado pagando con tus Tarjetas de Crédito Santander LATAM Pass",
+        "CAE 1,54% Calculado por un monto referencial de compra de $1.000.000 en 48 cuotas. Costo total del Crédito: $1.031.680. Operación afecta a impuesto al crédito a cargo del cliente.",
+        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "SOLARBOSCH",
+      "categoria": "Cuotas Sin Interés",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "3 a 48 cuotas sin interés y 1 Milla más por dólar gastado",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "SOLARBOSCH",
+        "Exclusivo pagando con tus Tarjetas de Crédito Santander.",
+        "Válido online",
+        "Acumula 1 milla LATAM Pass adicional por dólar gastado pagando con tus tarjetas de crédito Santander LATAM Pass",
+        "CAE 1,54% Calculado por un monto referencial de compra de $1.000.000 en 48 cuotas. Costo total del Crédito: $1.031.680. Operación afecta a impuesto al crédito a cargo del cliente.",
+        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Garmin",
+      "categoria": "Cuotas Sin Interés",
+      "descuento": "10% dcto",
+      "dia": [],
+      "dia_texto": ", 3 a 12 cuotas sin interés y acumula 1 Milla LATAM Pass adicional",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Descubre lo mejor en relojes inteligentes especializados en Running, Trekking, Montañismo, Outdoor, etc.",
+        "Exclusivo pagando con tus Tarjetas de Crédito Santander y Tarjeta de Crédito Santander Empresas.",
+        "Válido en tiendas y https://garminstore.cl/collections/santander",
+        "10% dcto. válido en productos seleccionados.",
+        "Ingresa los 6 primeros dígitos de tu tarjeta como código de descuento.",
+        "Acumulación de 1 milla adicional válido en todas las compras y exclusivo pagando con tus Tarjetas de Crédito Santander LATAM Pass.",
+        "CAE 1,46% Calculado por un monto referencial de compra de $1.000.000 en 12 cuotas. Costo total del Crédito: $1.007.920. Operación afecta a impuesto al crédito a cargo del cliente.",
+        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. La bonificación de millas estructural se realizará según nivel y tarjeta de Crédito Santander LATAM Pass del cliente, más 1 milla adicional por dólar gastado por compras realizadas en campaña. Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio; la administración del programa LATAM Pass es de exclusiva responsabilidad de LATAM Airlines Group S.A. sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl. Conoce más sobre Santander Rewards y su reglamento en: https://banco.santander.cl/rewards."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Powermania",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "Paga de 3 a 48 cuotas sin interés y acumula 1 Milla LATAM Pass adicional",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "El poder es tuyo",
+        "Exclusivo pagando con tus Tarjetas de Crédito Santander LATAM Pass.",
+        "Válido en www.powermania.cl y www.airemania.cl",
+        "Exclusivo para compras a través de Webpay.",
+        "No acumulable con otras promociones.",
+        "CAE 1,54% y Monto Total a pagar de $1.031.680, anunciados son ejemplares y corresponden a compra de monto de $1.000.000 cursada en modalidad de pago de 48 cuotas mensuales, y consideran impuestos.",
+        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. La bonificación de millas estructural se realizará según nivel y tarjeta de Crédito Santander LATAM Pass del cliente, más 1 milla adicional por dólar gastado por compras realizadas en campaña. Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio; la administración del programa LATAM Pass es de exclusiva responsabilidad de LATAM Airlines Group S.A. sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl. Conoce más sobre Santander Rewards y su reglamento en: https://banco.santander.cl/rewards."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Thomas",
+      "categoria": "Cuotas Sin Interés",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "3 a 36 cuotas sin interés y acumula 1 Milla LATAM Pass adicional ",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Exclusivo con tus Tarjeta de Crédito y Tarjetas de Crédito Santander Empresas.",
+        "Válido online en www.thomas.cl",
+        "Acumulación de 1 milla adicional válido en todas las compras y exclusivo pagando con tus Tarjetas de Crédito Santander LATAM Pass.",
+        "CAE 1,53% Calculado por un monto referencial de compra de $1.000.000 en 36 cuotas. Costo total del Crédito: $1.023.760. Operación afecta a impuesto al crédito a cargo del cliente.",
+        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. La bonificación de millas estructural se realizará según nivel y tarjeta de Crédito Santander LATAM Pass del cliente, más 1 milla adicional por dólar gastado por compras realizadas en campaña. Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio; la administración del programa LATAM Pass es de exclusiva responsabilidad de LATAM Airlines Group S.A. sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl. Conoce más sobre Santander Rewards y su reglamento en: https://banco.santander.cl/rewards."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Nikon",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "Acumula 1 Milla LATAM Pass adicional",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "¡Captura increíbles momentos junto a Nikon!",
+        "Exclusivo pagando con tus Tarjetas de Crédito Santander LATAM Pass.",
+        "Es válido en www.nikoncenter.cl",
+        "No es acumulable con otras promociones.",
+        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. La bonificación de millas estructural se realizará según nivel y tarjeta de Crédito Santander LATAM Pass del cliente, más 1 milla adicional por dólar gastado por compras realizadas en campaña. Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio; la administración del programa LATAM Pass es de exclusiva responsabilidad de LATAM Airlines Group S.A. sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl. Conoce más sobre Santander Rewards y su reglamento en: https://banco.santander.cl/rewards."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Lhotse",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "Acumula 1 Milla LATAM Pass adicional",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "¡Equípate para tus aventuras veraniegas! Smartwatch, audífonos, cámaras y más.",
+        "Exclusivo pagando con tus Tarjetas de Crédito Santander LATAM Pass.",
+        "Válido en www.lhotsestore.cl",
+        "No acumulable con otras promociones.",
+        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. La bonificación de millas estructural se realizará según nivel y tarjeta de Crédito Santander LATAM Pass del cliente, más 1 milla adicional por dólar gastado por compras realizadas en campaña. Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio; la administración del programa LATAM Pass es de exclusiva responsabilidad de LATAM Airlines Group S.A. sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl. Conoce más sobre Santander Rewards y su reglamento en: https://banco.santander.cl/rewards."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "UnionX",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "Acumula 1 Milla LATAM Pass adicional",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "¡Lleva contigo el verano comprando tus productos favoritos en UnionX!",
+        "Exclusivo pagando con tus Tarjetas de Crédito Santander LATAM Pass.",
+        "Válido en www.unionx.cl",
+        "No acumulable con otras promociones.",
+        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. La bonificación de millas estructural se realizará según nivel y tarjeta de Crédito Santander LATAM Pass del cliente, más 1 milla adicional por dólar gastado por compras realizadas en campaña. Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio; la administración del programa LATAM Pass es de exclusiva responsabilidad de LATAM Airlines Group S.A. sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl. Conoce más sobre Santander Rewards y su reglamento en: https://banco.santander.cl/rewards."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Secret",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "Acumula 1 Milla LATAM Pass adicional",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "¡La fiesta nunca ha sido tan chic! ¡Carteras que ofrecen una mezcla única de diseño artístico y práctico!",
+        "Exclusivo pagando con tus Tarjetas de Crédito Santander LATAM Pass.",
+        "Válido en www.carterasecret.cl",
+        "No acumulable con otras promociones.",
+        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. La bonificación de millas estructural se realizará según nivel y tarjeta de Crédito Santander LATAM Pass del cliente, más 1 milla adicional por dólar gastado por compras realizadas en campaña. Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio; la administración del programa LATAM Pass es de exclusiva responsabilidad de LATAM Airlines Group S.A. sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl. Conoce más sobre Santander Rewards y su reglamento en: https://banco.santander.cl/rewards."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Simplit",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "Acumula 1 Milla LATAM Pass adicional",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Todos los artículos, accesorios y utensilios que necesitas para equipar tu cocina. Despachos a todo Chile.",
+        "Exclusivo pagando con tus Tarjetas de Crédito Santander LATAM Pass.",
+        "Válido en www.simplithome.cl",
+        "No acumulable con otras promociones.",
+        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. La bonificación de millas estructural se realizará según nivel y tarjeta de Crédito Santander LATAM Pass del cliente, más 1 milla adicional por dólar gastado por compras realizadas en campaña. Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio; la administración del programa LATAM Pass es de exclusiva responsabilidad de LATAM Airlines Group S.A. sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl. Conoce más sobre Santander Rewards y su reglamento en: https://banco.santander.cl/rewards."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Saxoline",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "20% dcto.",
+      "dia": [
+        "Miércoles"
+      ],
+      "dia_texto": "todos los miércoles, acumula 1 milla LATAM Pass adicional",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "¡Compra tu equipaje y accesorios favoritos!",
+        "Exclusivo con tus Tarjetas de Crédito y Débito Santander.",
+        "Válido en www.saxoline.cl",
+        "Acumulación de millas exclusivo con tus Tarjetas de Crédito Santander LATAM Pass.",
+        "Ingresar los 6 primeros dígitos de tu tarjeta como código de descuento.",
+        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. La bonificación de millas estructural se realizará según nivel y tarjeta de Crédito Santander LATAM Pass del cliente, más 1 milla adicional por dólar gastado por compras realizadas en campaña. Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio; la administración del programa LATAM Pass es de exclusiva responsabilidad de LATAM Airlines Group S.A. sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl. Conoce más sobre Santander Rewards y su reglamento en: https://banco.santander.cl/rewards."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Samsonite",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "Acumula 1 Milla LATAM Pass adicional",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "¡Compra tu equipaje y accesorios favoritos para tu próximo viaje!",
+        "Exclusivo pagando con tus Tarjetas de Crédito Santander LATAM Pass.",
+        "Válido en www.samsonite.cl",
+        "No acumulable con otras promociones.",
+        "Ingresando los 6 primeros dígitos de tu Tarjeta como código de descuento.",
+        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. La bonificación de millas estructural se realizará según nivel y tarjeta de Crédito Santander LATAM Pass del cliente, más 1 milla adicional por dólar gastado por compras realizadas en campaña. Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio; la administración del programa LATAM Pass es de exclusiva responsabilidad de LATAM Airlines Group S.A. sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl. Conoce más sobre Santander Rewards y su reglamento en: https://banco.santander.cl/rewards."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Aquality",
+      "categoria": "Sabores",
+      "descuento": "40% dcto.",
+      "dia": [
+        "Martes"
+      ],
+      "dia_texto": "todos los martes y acumula 1 Milla LATAM Pass adicional",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "¡Compra pescados y mariscos congelados de calidad superior! Además, acumula 1 Milla LATAM Pass adicional del 01 al 07 de cada mes.",
+        "Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass.",
+        "Válido en www.aqualitysoluciones.cl",
+        "No acumulable a otras promociones.",
+        "Ingresando los 6 primeros dígitos de tu Tarjeta como código de descuento.",
+        "Despacho aplica en Región Metropolitana y Punto de retiro aplica en Chicureo y Concón.",
+        "Descuento máximo por pedido de $100.000.",
+        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. La bonificación de millas estructural se realizará según nivel y tarjeta de Crédito Santander LATAM Pass del cliente, más 1 milla adicional por dólar gastado por compras realizadas en campaña. Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio; la administración del programa LATAM Pass es de exclusiva responsabilidad de LATAM Airlines Group S.A. sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl. Conoce más sobre Santander Rewards y su reglamento en: https://banco.santander.cl/rewards."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Sound Advisors",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "Acumula 2 Millas LATAM Pass adicionales",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "¡Compra tu sistema de audio HiFi favoritos en Sound Advisors!",
+        "Exclusivo pagando con tus Tarjetas de Crédito Santander LATAM Pass.",
+        "Válido en www.soundadvisors.cl.",
+        "No acumulable con otras promociones.",
+        "Ingresa los 6 primeros dígitos de tu Tarjeta como código de descuento.",
+        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. La bonificación de millas estructural se realizará según nivel y tarjeta de Crédito Santander LATAM Pass del cliente, más 2 millas adicionales por dólar gastado por compras realizadas en campaña. Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio; la administración del programa LATAM Pass es de exclusiva responsabilidad de LATAM Airlines Group S.A. sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl. Conoce más sobre Santander Rewards y su reglamento en: https://banco.santander.cl/rewards."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Moulinex",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "Acumula 1 Milla LATAM Pass adicional",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "¡Equipa tu hogar con los mejores robots de cocina, licuadoras y más!",
+        "Exclusivo pagando con tus Tarjetas de Crédito Santander LATAM Pass.",
+        "Válido en www.tefalstore.cl y tiendas físicas.",
+        "No es acumulable con otras promociones.",
+        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. La bonificación de millas estructural se realizará según nivel y tarjeta de Crédito Santander LATAM Pass del cliente, más 1 milla adicional por dólar gastado por compras realizadas en campaña. Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio; la administración del programa LATAM Pass es de exclusiva responsabilidad de LATAM Airlines Group S.A. sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl. Conoce más sobre Santander Rewards y su reglamento en: https://banco.santander.cl/rewards."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Krups",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "Acumula 1 Milla LATAM Pass adicional",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "¡Descubre un increíble mundo de productos de café y desayuno!",
+        "Exclusivo pagando con tus Tarjetas de Crédito Santander LATAM Pass.",
+        "Válido en www.tefalstore.cl y tiendas físicas.",
+        "No es acumulable con otras promociones.",
+        "Ingresando los 6 primeros dígitos de tu Tarjeta como código de descuento.",
+        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. La bonificación de millas estructural se realizará según nivel y tarjeta de Crédito Santander LATAM Pass del cliente, más 1 milla adicional por dólar gastado por compras realizadas en campaña. Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio; la administración del programa LATAM Pass es de exclusiva responsabilidad de LATAM Airlines Group S.A. sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl. Conoce más sobre Santander Rewards y su reglamento en: https://banco.santander.cl/rewards."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Rowenta",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "Acumula 1 Milla LATAM Pass adicional",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "¡Disfruta tu hogar con los mejores electrodomésticos!",
+        "Exclusivo pagando con tus Tarjetas de Crédito Santander LATAM Pass.",
+        "Válido en www.tefalstore.cl y tiendas físicas",
+        "No es acumulable con otras promociones.",
+        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. La bonificación de millas estructural se realizará según nivel y tarjeta de Crédito Santander LATAM Pass del cliente, más 1 milla adicional por dólar gastado por compras realizadas en campaña. Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio; la administración del programa LATAM Pass es de exclusiva responsabilidad de LATAM Airlines Group S.A. sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl. Conoce más sobre Santander Rewards y su reglamento en: https://banco.santander.cl/rewards."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Tefal",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "Acumula 1 Milla LATAM Pass adicional",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "¡Encuentra lo mejor para tu cocina aquí!",
+        "Exclusivo pagando con tus Tarjetas de Crédito Santander LATAM Pass.",
+        "Válido en www.tefalstore.cl y tiendas físicas.",
+        "No es acumulable con otras promociones.",
+        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. La bonificación de millas estructural se realizará según nivel y tarjeta de Crédito Santander LATAM Pass del cliente, más 1 milla adicional por dólar gastado por compras realizadas en campaña. Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio; la administración del programa LATAM Pass es de exclusiva responsabilidad de LATAM Airlines Group S.A. sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl. Conoce más sobre Santander Rewards y su reglamento en: https://banco.santander.cl/rewards."
+      ],
+      "sucursales": []
+    },
+    {
       "banco": "Banco Santander",
       "comercio": "La Maestranza",
       "categoria": "Sabores",
@@ -22074,29 +22394,6 @@
         "No acumulable a otras promociones.",
         "Se excluyen propinas, menús, happy hours.",
         "Descuento válido todos los miércoles desde desde el 01 de marzo de 2026 hasta el 31 de mayo de 2026, ambas fechas inclusive, para consumos realizados en el establecimiento en el horario de atención de público del restaurante. Exclusivo para clientes que paguen con las Tarjetas de Crédito Santander de American Express indicadas seguidamente y que soliciten el descuento al momento de pagar presencialmente. Beneficio consistente en un descuento de un 50% del total del consumo (excluida propina) con un tope de $50.000.- diarios por cuenta y por mes. Beneficio no aplicable: (a) Al consumo de cigarrillos y de cualquier otro producto de tabaco y, (b) A consumos hechos por un mismo grupo de personas que pagan el total dividido o por mesa. El consumo podrá pagarse utilizando más de una de las Tarjetas American Express® incluidas en el beneficio. Las Tarjetas Santander de American Express admitidas son: The Platinum Card®, WorldMember Limited ECO, WorldMember ECO y Platinum LATAM Pass ECO. No se aceptarán las tarjetas de formato horizontal. Ni American Express ni Servicios Empresariales Orsan S.A. se responsabilizan por los productos y/o servicios ofrecidos por los establecimientos y/o adquiridos en ellos. Descuento no acumulable e intransferible. No válido para consumos para llevar, delivery o pedidos a través de plataformas externas. El comercio se reserva el derecho de aplicar el beneficio en días festivos, feriados y con significancia comercial, sea general o particular del restorán. Listado de establecimientos adheridos en www.AmericanExpress.cl. American Express es una marca de American Express. Las Tarjetas son emitidas por Banco Santander bajo licencia de American Express."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Aquality",
-      "categoria": "Sabores",
-      "descuento": "40% dcto.",
-      "dia": [
-        "Martes"
-      ],
-      "dia_texto": "todos los martes y acumula 1 Milla LATAM Pass adicional",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "¡Compra pescados y mariscos congelados de calidad superior! Además, acumula 1 Milla LATAM Pass adicional del 01 al 07 de cada mes.",
-        "Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass.",
-        "Válido en www.aqualitysoluciones.cl",
-        "No acumulable a otras promociones.",
-        "Ingresando los 6 primeros dígitos de tu Tarjeta como código de descuento.",
-        "Despacho aplica en Región Metropolitana y Punto de retiro aplica en Chicureo y Concón.",
-        "Descuento máximo por pedido de $100.000.",
-        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. La bonificación de millas estructural se realizará según nivel y tarjeta de Crédito Santander LATAM Pass del cliente, más 1 milla adicional por dólar gastado por compras realizadas en campaña. Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio; la administración del programa LATAM Pass es de exclusiva responsabilidad de LATAM Airlines Group S.A. sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl. Conoce más sobre Santander Rewards y su reglamento en: https://banco.santander.cl/rewards."
       ],
       "sucursales": []
     },
@@ -22996,67 +23293,6 @@
         "No acumulable a otras promociones.",
         "Se excluyen propinas, menús, happy hours.",
         "Descuento válido todos los miércoles desde desde el 01 de junio de 2026 hasta el 31 de agosto de 2026, ambas fechas inclusive, para consumos realizados en el establecimiento en el horario de atención de público del restaurante. Exclusivo para clientes que paguen con las Tarjetas de Crédito Santander de American Express indicadas seguidamente y que soliciten el descuento al momento de pagar presencialmente. Beneficio consistente en un descuento de un 50% del total del consumo (excluida propina) con un tope de $50.000.- diarios por cuenta y por mes. Beneficio no aplicable: (a) Al consumo de cigarrillos y de cualquier otro producto de tabaco y, (b) A consumos hechos por un mismo grupo de personas que pagan el total dividido o por mesa. El consumo podrá pagarse utilizando más de una de las Tarjetas American Express® incluidas en el beneficio. Las Tarjetas Santander de American Express admitidas son: The Platinum Card®, WorldMember Limited ECO, WorldMember ECO y Platinum LATAM Pass ECO. No se aceptarán las tarjetas de formato horizontal. Ni American Express ni Servicios Empresariales Orsan S.A. se responsabilizan por los productos y/o servicios ofrecidos por los establecimientos y/o adquiridos en ellos. Descuento no acumulable e intransferible. No válido para consumos para llevar, delivery o pedidos a través de plataformas externas. El comercio se reserva el derecho de aplicar el beneficio en días festivos, feriados y con significancia comercial, sea general o particular del restorán. Listado de establecimientos adheridos en www.AmericanExpress.cl. American Express es una marca de American Express. Las Tarjetas son emitidas por Banco Santander bajo licencia de American Express."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "SOLARBOSCH",
-      "categoria": "Cuotas Sin Interés",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "3 a 48 cuotas sin interés y 1 Milla más por dólar gastado",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "SOLARBOSCH",
-        "Exclusivo pagando con tus Tarjetas de Crédito Santander.",
-        "Válido online",
-        "Acumula 1 milla LATAM Pass adicional por dólar gastado pagando con tus tarjetas de crédito Santander LATAM Pass",
-        "CAE 1,54% Calculado por un monto referencial de compra de $1.000.000 en 48 cuotas. Costo total del Crédito: $1.031.680. Operación afecta a impuesto al crédito a cargo del cliente.",
-        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Impulsa Solar",
-      "categoria": "Cuotas Sin Interés",
-      "descuento": null,
-      "dia": [
-        "Todos los días"
-      ],
-      "dia_texto": "3 a 48 cuotas sin interés todos los días y acumula 1 milla LATAM Pass adicional por dólar gastado",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "¡Equipa tu hogar con los mejores robots de cocina, licuadoras y más!",
-        "Exclusivo pagando con tus Tarjetas de Crédito Santander LATAM Pass.",
-        "Válido online",
-        "Acumula 1 milla LATAM Pass adicional por dólar gastado pagando con tus Tarjetas de Crédito Santander LATAM Pass",
-        "CAE 1,54% Calculado por un monto referencial de compra de $1.000.000 en 48 cuotas. Costo total del Crédito: $1.031.680. Operación afecta a impuesto al crédito a cargo del cliente.",
-        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Saxoline",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": "20% dcto.",
-      "dia": [
-        "Miércoles"
-      ],
-      "dia_texto": "todos los miércoles, acumula 1 milla LATAM Pass adicional",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "¡Compra tu equipaje y accesorios favoritos!",
-        "Exclusivo con tus Tarjetas de Crédito y Débito Santander.",
-        "Válido en www.saxoline.cl",
-        "Acumulación de millas exclusivo con tus Tarjetas de Crédito Santander LATAM Pass.",
-        "Ingresar los 6 primeros dígitos de tu tarjeta como código de descuento.",
-        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. La bonificación de millas estructural se realizará según nivel y tarjeta de Crédito Santander LATAM Pass del cliente, más 1 milla adicional por dólar gastado por compras realizadas en campaña. Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio; la administración del programa LATAM Pass es de exclusiva responsabilidad de LATAM Airlines Group S.A. sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl. Conoce más sobre Santander Rewards y su reglamento en: https://banco.santander.cl/rewards."
       ],
       "sucursales": []
     },
@@ -25148,227 +25384,6 @@
     },
     {
       "banco": "Banco Santander",
-      "comercio": "Krups",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "Acumula 1 Milla LATAM Pass adicional",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "¡Descubre un increíble mundo de productos de café y desayuno!",
-        "Exclusivo pagando con tus Tarjetas de Crédito Santander LATAM Pass.",
-        "Válido en www.tefalstore.cl y tiendas físicas.",
-        "No es acumulable con otras promociones.",
-        "Ingresando los 6 primeros dígitos de tu Tarjeta como código de descuento.",
-        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. La bonificación de millas estructural se realizará según nivel y tarjeta de Crédito Santander LATAM Pass del cliente, más 1 milla adicional por dólar gastado por compras realizadas en campaña. Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio; la administración del programa LATAM Pass es de exclusiva responsabilidad de LATAM Airlines Group S.A. sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl. Conoce más sobre Santander Rewards y su reglamento en: https://banco.santander.cl/rewards."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Powermania",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "Paga de 3 a 48 cuotas sin interés y acumula 1 Milla LATAM Pass adicional",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "El poder es tuyo",
-        "Exclusivo pagando con tus Tarjetas de Crédito Santander LATAM Pass.",
-        "Válido en www.powermania.cl y www.airemania.cl",
-        "Exclusivo para compras a través de Webpay.",
-        "No acumulable con otras promociones.",
-        "CAE 1,54% y Monto Total a pagar de $1.031.680, anunciados son ejemplares y corresponden a compra de monto de $1.000.000 cursada en modalidad de pago de 48 cuotas mensuales, y consideran impuestos.",
-        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. La bonificación de millas estructural se realizará según nivel y tarjeta de Crédito Santander LATAM Pass del cliente, más 1 milla adicional por dólar gastado por compras realizadas en campaña. Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio; la administración del programa LATAM Pass es de exclusiva responsabilidad de LATAM Airlines Group S.A. sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl. Conoce más sobre Santander Rewards y su reglamento en: https://banco.santander.cl/rewards."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Nikon",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "Acumula 1 Milla LATAM Pass adicional",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "¡Captura increíbles momentos junto a Nikon!",
-        "Exclusivo pagando con tus Tarjetas de Crédito Santander LATAM Pass.",
-        "Es válido en www.nikoncenter.cl",
-        "No es acumulable con otras promociones.",
-        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. La bonificación de millas estructural se realizará según nivel y tarjeta de Crédito Santander LATAM Pass del cliente, más 1 milla adicional por dólar gastado por compras realizadas en campaña. Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio; la administración del programa LATAM Pass es de exclusiva responsabilidad de LATAM Airlines Group S.A. sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl. Conoce más sobre Santander Rewards y su reglamento en: https://banco.santander.cl/rewards."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Lhotse",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "Acumula 1 Milla LATAM Pass adicional",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "¡Equípate para tus aventuras veraniegas! Smartwatch, audífonos, cámaras y más.",
-        "Exclusivo pagando con tus Tarjetas de Crédito Santander LATAM Pass.",
-        "Válido en www.lhotsestore.cl",
-        "No acumulable con otras promociones.",
-        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. La bonificación de millas estructural se realizará según nivel y tarjeta de Crédito Santander LATAM Pass del cliente, más 1 milla adicional por dólar gastado por compras realizadas en campaña. Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio; la administración del programa LATAM Pass es de exclusiva responsabilidad de LATAM Airlines Group S.A. sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl. Conoce más sobre Santander Rewards y su reglamento en: https://banco.santander.cl/rewards."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "UnionX",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "Acumula 1 Milla LATAM Pass adicional",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "¡Lleva contigo el verano comprando tus productos favoritos en UnionX!",
-        "Exclusivo pagando con tus Tarjetas de Crédito Santander LATAM Pass.",
-        "Válido en www.unionx.cl",
-        "No acumulable con otras promociones.",
-        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. La bonificación de millas estructural se realizará según nivel y tarjeta de Crédito Santander LATAM Pass del cliente, más 1 milla adicional por dólar gastado por compras realizadas en campaña. Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio; la administración del programa LATAM Pass es de exclusiva responsabilidad de LATAM Airlines Group S.A. sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl. Conoce más sobre Santander Rewards y su reglamento en: https://banco.santander.cl/rewards."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Simplit",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "Acumula 1 Milla LATAM Pass adicional",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Todos los artículos, accesorios y utensilios que necesitas para equipar tu cocina. Despachos a todo Chile.",
-        "Exclusivo pagando con tus Tarjetas de Crédito Santander LATAM Pass.",
-        "Válido en www.simplithome.cl",
-        "No acumulable con otras promociones.",
-        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. La bonificación de millas estructural se realizará según nivel y tarjeta de Crédito Santander LATAM Pass del cliente, más 1 milla adicional por dólar gastado por compras realizadas en campaña. Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio; la administración del programa LATAM Pass es de exclusiva responsabilidad de LATAM Airlines Group S.A. sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl. Conoce más sobre Santander Rewards y su reglamento en: https://banco.santander.cl/rewards."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Secret",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "Acumula 1 Milla LATAM Pass adicional",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "¡La fiesta nunca ha sido tan chic! ¡Carteras que ofrecen una mezcla única de diseño artístico y práctico!",
-        "Exclusivo pagando con tus Tarjetas de Crédito Santander LATAM Pass.",
-        "Válido en www.carterasecret.cl",
-        "No acumulable con otras promociones.",
-        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. La bonificación de millas estructural se realizará según nivel y tarjeta de Crédito Santander LATAM Pass del cliente, más 1 milla adicional por dólar gastado por compras realizadas en campaña. Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio; la administración del programa LATAM Pass es de exclusiva responsabilidad de LATAM Airlines Group S.A. sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl. Conoce más sobre Santander Rewards y su reglamento en: https://banco.santander.cl/rewards."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Samsonite",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "Acumula 1 Milla LATAM Pass adicional",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "¡Compra tu equipaje y accesorios favoritos para tu próximo viaje!",
-        "Exclusivo pagando con tus Tarjetas de Crédito Santander LATAM Pass.",
-        "Válido en www.samsonite.cl",
-        "No acumulable con otras promociones.",
-        "Ingresando los 6 primeros dígitos de tu Tarjeta como código de descuento.",
-        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. La bonificación de millas estructural se realizará según nivel y tarjeta de Crédito Santander LATAM Pass del cliente, más 1 milla adicional por dólar gastado por compras realizadas en campaña. Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio; la administración del programa LATAM Pass es de exclusiva responsabilidad de LATAM Airlines Group S.A. sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl. Conoce más sobre Santander Rewards y su reglamento en: https://banco.santander.cl/rewards."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Sound Advisors",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "Acumula 2 Millas LATAM Pass adicionales",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "¡Compra tu sistema de audio HiFi favoritos en Sound Advisors!",
-        "Exclusivo pagando con tus Tarjetas de Crédito Santander LATAM Pass.",
-        "Válido en www.soundadvisors.cl.",
-        "No acumulable con otras promociones.",
-        "Ingresa los 6 primeros dígitos de tu Tarjeta como código de descuento.",
-        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. La bonificación de millas estructural se realizará según nivel y tarjeta de Crédito Santander LATAM Pass del cliente, más 2 millas adicionales por dólar gastado por compras realizadas en campaña. Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio; la administración del programa LATAM Pass es de exclusiva responsabilidad de LATAM Airlines Group S.A. sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl. Conoce más sobre Santander Rewards y su reglamento en: https://banco.santander.cl/rewards."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Moulinex",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "Acumula 1 Milla LATAM Pass adicional",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "¡Equipa tu hogar con los mejores robots de cocina, licuadoras y más!",
-        "Exclusivo pagando con tus Tarjetas de Crédito Santander LATAM Pass.",
-        "Válido en www.tefalstore.cl y tiendas físicas.",
-        "No es acumulable con otras promociones.",
-        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. La bonificación de millas estructural se realizará según nivel y tarjeta de Crédito Santander LATAM Pass del cliente, más 1 milla adicional por dólar gastado por compras realizadas en campaña. Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio; la administración del programa LATAM Pass es de exclusiva responsabilidad de LATAM Airlines Group S.A. sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl. Conoce más sobre Santander Rewards y su reglamento en: https://banco.santander.cl/rewards."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Rowenta",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "Acumula 1 Milla LATAM Pass adicional",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "¡Disfruta tu hogar con los mejores electrodomésticos!",
-        "Exclusivo pagando con tus Tarjetas de Crédito Santander LATAM Pass.",
-        "Válido en www.tefalstore.cl y tiendas físicas",
-        "No es acumulable con otras promociones.",
-        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. La bonificación de millas estructural se realizará según nivel y tarjeta de Crédito Santander LATAM Pass del cliente, más 1 milla adicional por dólar gastado por compras realizadas en campaña. Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio; la administración del programa LATAM Pass es de exclusiva responsabilidad de LATAM Airlines Group S.A. sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl. Conoce más sobre Santander Rewards y su reglamento en: https://banco.santander.cl/rewards."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Tefal",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "Acumula 1 Milla LATAM Pass adicional",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "¡Encuentra lo mejor para tu cocina aquí!",
-        "Exclusivo pagando con tus Tarjetas de Crédito Santander LATAM Pass.",
-        "Válido en www.tefalstore.cl y tiendas físicas.",
-        "No es acumulable con otras promociones.",
-        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. La bonificación de millas estructural se realizará según nivel y tarjeta de Crédito Santander LATAM Pass del cliente, más 1 milla adicional por dólar gastado por compras realizadas en campaña. Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio; la administración del programa LATAM Pass es de exclusiva responsabilidad de LATAM Airlines Group S.A. sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl. Conoce más sobre Santander Rewards y su reglamento en: https://banco.santander.cl/rewards."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
       "comercio": "DBS",
       "categoria": "Salud y Belleza",
       "descuento": "15% dcto",
@@ -25695,27 +25710,6 @@
     },
     {
       "banco": "Banco Santander",
-      "comercio": "Garmin",
-      "categoria": "Cuotas Sin Interés",
-      "descuento": "10% dcto",
-      "dia": [],
-      "dia_texto": ", 3 a 12 cuotas sin interés y acumula 1 Milla LATAM Pass adicional",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Descubre lo mejor en relojes inteligentes especializados en Running, Trekking, Montañismo, Outdoor, etc.",
-        "Exclusivo pagando con tus Tarjetas de Crédito Santander y Tarjeta de Crédito Santander Empresas.",
-        "Válido en tiendas y https://garminstore.cl/collections/santander",
-        "10% dcto. válido en productos seleccionados.",
-        "Ingresa los 6 primeros dígitos de tu tarjeta como código de descuento.",
-        "Acumulación de 1 milla adicional válido en todas las compras y exclusivo pagando con tus Tarjetas de Crédito Santander LATAM Pass.",
-        "CAE 1,46% Calculado por un monto referencial de compra de $1.000.000 en 12 cuotas. Costo total del Crédito: $1.007.920. Operación afecta a impuesto al crédito a cargo del cliente.",
-        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. La bonificación de millas estructural se realizará según nivel y tarjeta de Crédito Santander LATAM Pass del cliente, más 1 milla adicional por dólar gastado por compras realizadas en campaña. Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio; la administración del programa LATAM Pass es de exclusiva responsabilidad de LATAM Airlines Group S.A. sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl. Conoce más sobre Santander Rewards y su reglamento en: https://banco.santander.cl/rewards."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
       "comercio": "Siegen",
       "categoria": "Cuotas Sin Interés",
       "descuento": null,
@@ -25727,24 +25721,6 @@
         "3 a 36 cuotas sin interés y acumula 1 milla LATAM Pass adicional por dólar gastado",
         "Exclusivo pagando con tus Tarjetas de Crédito Santander y Tarjeta de Crédito Santander Empresas.",
         "Válido online en www.siegen.cl",
-        "Acumulación de 1 milla adicional válido en todas las compras y exclusivo pagando con tus Tarjetas de Crédito Santander LATAM Pass.",
-        "CAE 1,53% Calculado por un monto referencial de compra de $1.000.000 en 36 cuotas. Costo total del Crédito: $1.023.760. Operación afecta a impuesto al crédito a cargo del cliente.",
-        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. La bonificación de millas estructural se realizará según nivel y tarjeta de Crédito Santander LATAM Pass del cliente, más 1 milla adicional por dólar gastado por compras realizadas en campaña. Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio; la administración del programa LATAM Pass es de exclusiva responsabilidad de LATAM Airlines Group S.A. sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl. Conoce más sobre Santander Rewards y su reglamento en: https://banco.santander.cl/rewards."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Thomas",
-      "categoria": "Cuotas Sin Interés",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "3 a 36 cuotas sin interés y acumula 1 Milla LATAM Pass adicional ",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Exclusivo con tus Tarjeta de Crédito y Tarjetas de Crédito Santander Empresas.",
-        "Válido online en www.thomas.cl",
         "Acumulación de 1 milla adicional válido en todas las compras y exclusivo pagando con tus Tarjetas de Crédito Santander LATAM Pass.",
         "CAE 1,53% Calculado por un monto referencial de compra de $1.000.000 en 36 cuotas. Costo total del Crédito: $1.023.760. Operación afecta a impuesto al crédito a cargo del cliente.",
         "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. La bonificación de millas estructural se realizará según nivel y tarjeta de Crédito Santander LATAM Pass del cliente, más 1 milla adicional por dólar gastado por compras realizadas en campaña. Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio; la administración del programa LATAM Pass es de exclusiva responsabilidad de LATAM Airlines Group S.A. sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl. Conoce más sobre Santander Rewards y su reglamento en: https://banco.santander.cl/rewards."
