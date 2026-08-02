@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-01T11:58",
+  "actualizado": "2026-08-02T11:53",
   "beneficios": [
     {
       "banco": "Banco de Chile",
@@ -21497,6 +21497,94 @@
     },
     {
       "banco": "Banco Santander",
+      "comercio": "Santa Brasa",
+      "categoria": "Sabores",
+      "descuento": "40% dcto.",
+      "dia": [
+        "Jueves"
+      ],
+      "dia_texto": "todos los jueves",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Increíbles cortes de carne.",
+        "Exclusivo con tus Tarjetas de Crédito Santander.",
+        "Válido para consumo en local.",
+        "Av. Italia 1485, Providencia",
+        "Tope de descuento de $40.000.",
+        "No acumulable a otras promociones.",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Vicenzo Cucina",
+      "categoria": "Sabores",
+      "descuento": "40% dcto.",
+      "dia": [
+        "Jueves"
+      ],
+      "dia_texto": "todos los jueves",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Vicenzo Cucina",
+        "Exclusivo con tus Tarjetas de Crédito Santander.",
+        "Válido en local",
+        "Av. Apoquindo 6554, Las Condes.",
+        "No acumulable con otras promociones.",
+        "Descuento máximo por pedido de $40.000",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Cosecha del Mar",
+      "categoria": "Sabores",
+      "descuento": "40% dcto.",
+      "dia": [
+        "Viernes"
+      ],
+      "dia_texto": "todos los viernes",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "¡Explora el mundo del salmón!",
+        "Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass.",
+        "Válido en local, pagando con tu tarjeta física.",
+        "Av. La Dehesa 2035, Lo Barnechea y Decher 161, Puerto Varas.",
+        "Tope de dcto. mensual $100.000",
+        "No acumulable a otras promociones.",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Kevin Bacon",
+      "categoria": "Sabores",
+      "descuento": "40% dcto.",
+      "dia": [
+        "Lunes"
+      ],
+      "dia_texto": "todos los lunes",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Kevin Bacon",
+        "Exclusivo con tus Tarjetas de Crédito Santander.",
+        "Válido en local, delivery web y retiro en local.",
+        "Av. Pdte. Kennedy 5601, piso 4 terraza, Las Condes.",
+        "No acumulable con otras promociones.",
+        "Descuento máximo por pedido de $40.000",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
       "comercio": "Jeronimo",
       "categoria": "Sabores",
       "descuento": null,
@@ -21769,7 +21857,7 @@
         "Experimenta relajo y naturaleza",
         "Exclusivo pagando con tus Tarjetas de Crédito Santander.",
         "Válido en www.termaschillan.cl",
-        "Válido para reservas entre el 01 de agosto y el 15 de agosto",
+        "Válido para reservas entre el 01 al 30 de septiembre",
         "Km 80 ruta 55, Chillán.",
         "Ingresa los 6 primeros dígitos de tu Tarjeta como código de descuento.",
         "No es acumulable con otras promociones.",
