@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-03T13:33",
+  "actualizado": "2026-08-04T12:53",
   "beneficios": [
     {
       "banco": "Banco de Chile",
@@ -15221,39 +15221,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Marathon",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": "20% dto. adicional",
-      "dia": [
-        "Viernes",
-        "Sábado",
-        "Domingo"
-      ],
-      "dia_texto": "viernes a domingo",
-      "canal": "Ambos",
-      "vigencia": "Promoción válida del 27 de julio al 09 de agosto.",
-      "condiciones": [
-        "Tenemos las mejores marcas internacionales en zapatillas, para entrenar con estilo y comodidad.",
-        "20% dto. adicional viernes a domingo en todo calzado, vestuario y accesorios.",
-        "Para compras presenciales solicita tu descuento al momento de pagar con tus Tarjetas Banco de Chile.",
-        "Para compras online, obtén descuento ingresando los seis primeros dígitos de tu tarjeta al momento de finalizar compra en marathon.cl.",
-        "Descuento no aplica para valor del despacho.",
-        "Revisa cobertura de despacho en marathon.cl",
-        "Beneficio no es válido para el Outlet de Estación Central.",
-        "Descuento válido solo en categoría niños y accesorios.",
-        "No acumulable con otras promociones.",
-        "Descuento exclusivo pagando con tus Tarjetas del Chile."
-      ],
-      "sucursales": [
-        "Parque Arauco Nivel 1, Avenida Presidente Kennedy #5413, Región Metropolitana, Las Condes",
-        "Costanera Center Nivel 3, Avenida Andrés Bello #2425, Región Metropolitana, Providencia",
-        "Avenida Vicuña Mackena Oriente #6100, Local 2203 Cenco Florida (Ex florida center), Región Metropolitana, La Florida",
-        "Av. Américo Vespucio #399, local 415-B, Región Metropolitana, Maipú",
-        "Benidorm 961 Local 278 - 280, Región de Valparaíso, Viña del Mar"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "Petrizzio",
       "categoria": "Salud y Belleza",
       "descuento": "30% dto.",
@@ -18739,6 +18706,30 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "Shell",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "$100 dto. por litro",
+      "dia": [],
+      "dia_texto": "de combustible pagando con tus Tarjetas de Crédito",
+      "canal": null,
+      "vigencia": "Promoción válida los miércoles 5, 12, 19 y 26 de Agosto de 2026, o hasta agotar stock.",
+      "condiciones": [
+        "Promoción válida los miércoles 5, 12, 19 y 26 de Agosto de 2026, o hasta agotar stock.",
+        "⁠Disfruta de la ruta igual que tu destino pagando con tus Tarjetas de Crédito del Chile en la nueva App Shell:",
+        "$100 de descuento por litro de combustible.",
+        "Pagando con tus Tarjetas de Crédito a través de la Nueva App Shell.",
+        "2 usos por cliente durante el período de la promoción.",
+        "Tope de descuento hasta 70 litros por carga.",
+        "¿Cómo obtener tu descuento?",
+        "1.Descarga la nueva App Shell desde tu teléfono móvil.",
+        "2.Enrola tu Tarjeta de Crédito Banco de Chile en la sección Billetera.",
+        "3.Solicita al atendedor pagar con la App Shell y selecciona tu descuento Banco de Chile antes de pagar.",
+        "4.El descuento se aplicará automáticamente al momento del pago."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "YMA Dólares-Premio",
       "categoria": "Dólares-Premio",
       "descuento": null,
@@ -19407,33 +19398,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "The Color Shop",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": "20% dto.",
-      "dia": [
-        "Miércoles"
-      ],
-      "dia_texto": "miércoles",
-      "canal": "Ambos",
-      "vigencia": "Promoción válida hasta el 30 de junio 2027.",
-      "condiciones": [
-        "The Color Shop es una tienda especializada en artículos de arte, papelería y creatividad. Ofrece una amplia variedad de marcadores, cuadernos, pinturas y materiales para artistas, destacando por su selección de productos de calidad y un ambiente acogedor para los amantes del arte.",
-        "20% dto. los miércoles en compra presencial y en thecolorshop.cl",
-        "Para compra presencial solicita tu descuento al momento de pagar.",
-        "Para compra online ingresa los 6 primeros dígitos de tu Tarjeta como cupón de descuento.",
-        "Descuento no aplica para valor del despacho.",
-        "Revisa cobertura de despacho en thecolorshop.cl",
-        "No acumulable con otras promociones.",
-        "Descuento exclusivo pagando con tus Tarjetas del Chile."
-      ],
-      "sucursales": [
-        "Mall Plaza Los Dominicos, Av. Padre Hurtado Sur #875, Región Metropolitana, Las Condes",
-        "MUT, Av. Apoquindo #2730, Región Metropolitana, Las Condes",
-        "Dos Caracoles Local 28B, Av Nueva de Lyon #45, Región Metropolitana, Providencia"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "Ozuna - 24 de septiembre",
       "categoria": "Entretención y Deportes",
       "descuento": null,
@@ -19569,6 +19533,32 @@
       ],
       "sucursales": [
         "Puerta oriente 361, oficina 512 C Edificio Da Vinci, Puertas de Chicureo, Región Metropolitana, Chicureo"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Clínica Dental 3Dent",
+      "categoria": "Salud y Belleza",
+      "descuento": "Hasta 80% dto.",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 30 de junio de 2027.",
+      "condiciones": [
+        "Más de 30 años cuidando sonrisas en Concepción. Accede a beneficios exclusivos con hasta 80% dto. en una amplia variedad de prestaciones dentales, incluyendo ortodoncia, implantes, odontopediatría e higiene dental. Además, las personas mayores de 18 años pueden acceder a una evaluación inicial sin costo.",
+        "Higiene dental",
+        "Radiografias bitewing",
+        "Ortodoncia",
+        "Implantes dentales",
+        "Odontopediatría",
+        "Solicita tu descuento al momento de pagar.",
+        "No acumulable con otras promociones.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Orompello #226, Región del Biobío, Concepción"
       ]
     },
     {
@@ -20270,32 +20260,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Calpany",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": "40% dto.",
-      "dia": [
-        "Lunes"
-      ],
-      "dia_texto": "lunes",
-      "canal": "Online",
-      "vigencia": "Promoción válida lunes 27 de julio y  03 de agosto de 2026.",
-      "condiciones": [
-        "Obtén 40% dto. lunes en calpany.cl",
-        "Genera tu código e ingrésalo como cupón en calpany.cl",
-        "Tope de dto. $35.000",
-        "500 códigos disponibles para esta promoción.",
-        "Descarga del código estará disponible el día que participe la marca, desde las 00:00 hrs.",
-        "No acumulable con otras promociones.",
-        "Descuento no aplica para el valor del despacho.",
-        "Revisa cobertura de despacho en calpany.cl",
-        "Descuento no aplica en categoria mujer y hombre.",
-        "Descuento no aplica para compras con facturas y en cambios.",
-        "Descuento exclusivo pagando con tus Tarjetas del Chile."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "Jansport",
       "categoria": "Retail y Otras Marcas",
       "descuento": "40% dto.",
@@ -20395,6 +20359,65 @@
       ],
       "sucursales": [
         "Ruta V-69, Kilómetro 41,2, Región de los Lagos, Cochamó"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Marathon",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "20% dto. adicional",
+      "dia": [
+        "Viernes",
+        "Sábado",
+        "Domingo"
+      ],
+      "dia_texto": "viernes a domingo",
+      "canal": "Ambos",
+      "vigencia": "Promoción válida del 27 de julio al 09 de agosto.",
+      "condiciones": [
+        "Tenemos las mejores marcas internacionales en zapatillas, para entrenar con estilo y comodidad.",
+        "20% dto. adicional de viernes a domingo en calzado, vestuario y accesorios en la categoría niños.",
+        "Para compras presenciales solicita tu descuento al momento de pagar con tus Tarjetas Banco de Chile.",
+        "Para compras online, obtén descuento ingresando los seis primeros dígitos de tu tarjeta al momento de finalizar compra en marathon.cl.",
+        "Descuento no aplica para valor del despacho.",
+        "Revisa cobertura de despacho en marathon.cl",
+        "Beneficio no es válido para el Outlet de Estación Central.",
+        "Descuento válido solo en categoría niños y accesorios.",
+        "No acumulable con otras promociones.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Parque Arauco Nivel 1, Avenida Presidente Kennedy #5413, Región Metropolitana, Las Condes",
+        "Costanera Center Nivel 3, Avenida Andrés Bello #2425, Región Metropolitana, Providencia",
+        "Avenida Vicuña Mackena Oriente #6100, Local 2203 Cenco Florida (Ex florida center), Región Metropolitana, La Florida",
+        "Av. Américo Vespucio #399, local 415-B, Región Metropolitana, Maipú",
+        "Benidorm 961 Local 278 - 280, Región de Valparaíso, Viña del Mar"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "The Color Shop",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "20% dto.",
+      "dia": [],
+      "dia_texto": "en compra",
+      "canal": "Ambos",
+      "vigencia": "Promoción válida hasta el 30 de junio 2027.",
+      "condiciones": [
+        "The Color Shop es una tienda especializada en artículos de arte, papelería y creatividad. Ofrece una amplia variedad de marcadores, cuadernos, pinturas y materiales para artistas, destacando por su selección de productos de calidad y un ambiente acogedor para los amantes del arte.",
+        "20% dto. los miércoles en compras presenciales.",
+        "20% dto. todos los días en compras online en thecolorshop.cl",
+        "Para compras presenciales solicita tu descuento al momento de pagar.",
+        "Para compras online ingresa los 6 primeros dígitos de tu Tarjeta como cupón de descuento.",
+        "Descuento no aplica para el valor del despacho.",
+        "Revisa cobertura de despacho en thecolorshop.cl",
+        "No acumulable con otras promociones.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Mall Plaza Los Dominicos, Av. Padre Hurtado Sur #875, Región Metropolitana, Las Condes",
+        "MUT, Av. Apoquindo #2730, Región Metropolitana, Las Condes",
+        "Dos Caracoles Local 28B, Av Nueva de Lyon #45, Región Metropolitana, Providencia"
       ]
     },
     {
@@ -21793,6 +21816,542 @@
     },
     {
       "banco": "Banco Santander",
+      "comercio": "Kaufmann",
+      "categoria": "Cuotas Sin Interés",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "13 a 48 cuotas sin interés",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Mercedes Benz, Smart y Seminuevos",
+        "Exclusivo con tus Tarjetas de Crédito Santander Chile.",
+        "Válido en concesionarias Kaufmann en compras de autos Mercedes Benz, Smart y Seminuevos.",
+        "CAE 0,8%: Monto Total a pagar de $10.080.000, son referenciales y corresponden a una compra por $10.000.000 cursada en modalidad de pago de 48 cuotas mensuales, y consideran impuestos.",
+        "Se excluyen de la promoción los autos Seminuevos de sucursal JPN.",
+        "Vigencia de la promoción hasta el 31 de agosto de 2026, válido para autos nuevos Mercedes Benz, Smart y Seminuevos. Se excluyen de la promoción los autos Seminuevos de sucursal JPN. CAE 0,8%: Monto Total a pagar de $10.080.000, son referenciales y corresponden a una compra por $10.000.000 cursada en modalidad de pago de 48 cuotas mensuales, y consideran impuestos. Límite mensual de compras que da derecho a acumulación de millas LATAM Pass; The Platinum Card American Express Santander LATAM Pass: monto menor entre: (a) la cantidad de 60.000 Dólares en cada periodo de facturación, y (b) el monto del respectivo cupo de la Tarjeta. Límite mensual de compras que da derecho a acumulación WorldMember Limited Santander LATAM Pass: monto menor entre: (a) la cantidad de 30.000 Dólares en cada periodo de facturación, y (b) el monto del respectivo cupo de la Tarjeta. Consulte por otros eventuales cargos. La acumulación de millas y otros beneficios no financieros anunciados son responsabilidad de LATAM AIRLINES GROUP S.A. o de terceros que los otorguen, sin que corresponda a Banco Santander Chile intervención alguna en ello, ni en la ulterior atención que ello demande. Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Kaufmann",
+      "categoria": "Cuotas Sin Interés",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "13 a 48 cuotas sin interés",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Mercedes Benz, Smart y Seminuevos",
+        "Exclusivo con tus Tarjetas de Crédito Santander Chile.",
+        "Válido en concesionarias Kaufmann en compras de autos Mercedes Benz, Smart y Seminuevos.",
+        "CAE 0,8%: Monto Total a pagar de $10.080.000, son referenciales y corresponden a una compra por $10.000.000 cursada en modalidad de pago de 48 cuotas mensuales, y consideran impuestos.",
+        "Se excluyen de la promoción los autos Seminuevos de sucursal JPN.",
+        "Vigencia de la promoción hasta el 31 de agosto de 2026, válido para autos nuevos Mercedes Benz, Smart y Seminuevos. Se excluyen de la promoción los autos Seminuevos de sucursal JPN. CAE 0,8%: Monto Total a pagar de $10.080.000, son referenciales y corresponden a una compra por $10.000.000 cursada en modalidad de pago de 48 cuotas mensuales, y consideran impuestos. Límite mensual de compras que da derecho a acumulación de millas LATAM Pass; The Platinum Card American Express Santander LATAM Pass: monto menor entre: (a) la cantidad de 60.000 Dólares en cada periodo de facturación, y (b) el monto del respectivo cupo de la Tarjeta. Límite mensual de compras que da derecho a acumulación WorldMember Limited Santander LATAM Pass: monto menor entre: (a) la cantidad de 30.000 Dólares en cada periodo de facturación, y (b) el monto del respectivo cupo de la Tarjeta. Consulte por otros eventuales cargos. La acumulación de millas y otros beneficios no financieros anunciados son responsabilidad de LATAM AIRLINES GROUP S.A. o de terceros que los otorguen, sin que corresponda a Banco Santander Chile intervención alguna en ello, ni en la ulterior atención que ello demande. Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "El Colorado - Visa",
+      "categoria": "Viajes",
+      "descuento": "30% dcto.",
+      "dia": [
+        "Lunes",
+        "Martes",
+        "Miércoles",
+        "Jueves",
+        "Viernes"
+      ],
+      "dia_texto": "Hasta  de lunes a viernes",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "La temporada de invierno se disfruta al máximo gracias a Visa. Usa tus Tarjetas Santander Visa en El Colorado y obtén beneficios exclusivos.",
+        "Exclusivo pagando con tus Tarjetas de Crédito y Débito Santander Visa.",
+        "Es válido en presencial en el punto de venta ubicado en Centro de Montaña El Colorado y en www.elcolorado.cl",
+        "El Colorado 503, Lo Barnechea.",
+        "30% de descuento jueves en tickets diarios.",
+        "A excepción de las dos semanas de vacaciones de invierno escolares 2026 fijadas año a año por el Ministerio de Educación para la Región Metropolitana más la semana inmediatamente siguiente a aquellas .",
+        "15% de descuento lunes a viernes en tickets diarios.",
+        "15% de descuento en clases colectivas de ski y snowboard.",
+        "15% de descuento en rental de equipos completos.",
+        "El descuento será reflejado en el ticket al momento de pago.",
+        "No acumulable con otras promociones.",
+        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Farellones - Visa",
+      "categoria": "Viajes",
+      "descuento": "30% dcto.",
+      "dia": [
+        "Lunes",
+        "Martes",
+        "Miércoles",
+        "Jueves",
+        "Viernes"
+      ],
+      "dia_texto": "Hasta  de lunes a viernes",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Este invierno, súbete a la entretención gracias a Visa. Visita el Centro de Montaña Farellones, usa tus Tarjetas Santander Visa, aprovecha descuentos exclusivos.",
+        "Exclusivo pagando con tus Tarjetas de Crédito y Débito Santander Visa.",
+        "Es válido en presencial en el punto de venta ubicado en Centro de Montaña Farellones y en www.centrofarellones.cl",
+        "Cam. Valle Nevado 1800, Lo Barnechea.",
+        "30% de descuento jueves en tickets de acceso.",
+        "A excepción de las dos semanas de vacaciones de invierno escolares 2026 fijadas año a año por el Ministerio de Educación para la Región Metropolitana más la semana inmediatamente siguiente a aquellas",
+        "15% de descuento lunes a viernes en tickets de acceso.",
+        "El descuento será reflejado en el ticket al momento de pago.",
+        "No acumulable con otras promociones.",
+        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Nevados de Chillán - Visa",
+      "categoria": "Viajes",
+      "descuento": "20% dcto",
+      "dia": [
+        "Jueves"
+      ],
+      "dia_texto": "todos los jueves",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Aprovecha esta temporada en lugares únicos como Nevados de Chillán.",
+        "Exclusivo pagando con tus Tarjetas de Crédito y Débito Santander Visa.",
+        "Es válido en presencial en el punto de venta ubicado en Centro de Nevados de Chillán y en www.nevadosdechillan.com",
+        "Ruta N-55 hasta llegar al Centro de Ski (a 80 kms de ciudad de Chillán), Chillán.",
+        "20% de descuento los días jueves en tickets diarios.",
+        "Excepción de los días 16 al 23 de julio del 2026 y 13 de agosto del 2026.",
+        "El descuento será reflejado en el ticket al momento de pago.",
+        "Stock disponible: 4,000 tickets por la Temporada de Invierno 2026.",
+        "No acumulable con otras promociones.",
+        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Corralco - VISA",
+      "categoria": "Viajes",
+      "descuento": null,
+      "dia": [
+        "Lunes",
+        "Martes",
+        "Miércoles",
+        "Jueves",
+        "Viernes"
+      ],
+      "dia_texto": "25% de dcto. de lunes a viernes",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Vive Corralco este invierno",
+        "Exclusivo con tus Tarjetas de Crédito y Débito Santander VISA.",
+        "Ruta 181, 4700000 El Colorado, Curacautín.",
+        "25% de descuento lunes a viernes en tickets de acceso.",
+        "A excepción de las siguientes fechas: 1 al 31 de julio; 14 al 18 de septiembre.",
+        "El descuento será reflejado en el ticket al momento de pago.",
+        "No acumulable con otras promociones.",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​​"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "La Parva - Visa",
+      "categoria": "Viajes",
+      "descuento": "30% dcto.",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "Hasta  todos los días",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Aprovecha los beneficios exclusivos esta temporada gracias a Visa. Sube a La Parva, usa tus Tarjetas Santander Visa y disfruta de beneficios únicos.",
+        "Exclusivo pagando con tus Tarjetas de Crédito y Débito Santander Visa.",
+        "15% de descuento todos los días en tickets Flex.",
+        "30% de descuento miércoles y jueves en tickets Flex.",
+        "Excepción de festivos y el periodo y el período comprendido entre el 23 de junio y el 03 de julio de 2026, ambas fechas inclusive.",
+        "15% de descuento en clases de ski/snowboard.",
+        "15% de descuento en arriendo de equipos completos.",
+        "El descuento será reflejado en el ticket al momento de pago.",
+        "No acumulable con otras promociones.",
+        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Pillán - Visa",
+      "categoria": "Viajes",
+      "descuento": "30% dcto.",
+      "dia": [
+        "Lunes",
+        "Martes",
+        "Miércoles",
+        "Jueves",
+        "Viernes"
+      ],
+      "dia_texto": "Hasta  de lunes a viernes",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Conéctate con la naturaleza, el deporte y la aventura este invierno gracias a Visa. Visita el Centro de Montaña Pillán, ubicado en la Región de La Araucanía, al pie del imponente volcán Villarrica y aprovecha los beneficios de tu Tarjeta Santander Visa.",
+        "Exclusivo pagando con tus Tarjetas de Crédito y Débito Santander Visa.",
+        "Es válido en presencial en el punto de venta ubicado en Centro de Montaña Pillán y en www.centropillan.cl",
+        "Camino El Volcán, kilómetro 16, Villarica",
+        "30% de descuento viernes en tickets diarios.",
+        "A excepción de las dos semanas de vacaciones de invierno escolares 2026 fijadas año a año por el Ministerio de Educación para la Región Metropolitana, más la semana inmediatamente siguiente a aquellas, y el 15 de agosto de 2026",
+        "15% de descuento lunes a viernes en tickets diarios.",
+        "15% de descuento en clases colectivas de ski y snowboard.",
+        "15% de descuento en rental de equipos completos.",
+        "El descuento será reflejado en el ticket al momento de pago.",
+        "No acumulable con otras promociones.",
+        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Hotel Cabaña del Lago",
+      "categoria": "Viajes",
+      "descuento": "40% dcto.",
+      "dia": [
+        "Miércoles"
+      ],
+      "dia_texto": "todos los miércoles",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Exclusivo con tus Tarjetas de Crédito Santander.",
+        "Válido en local.",
+        "Klenner 195, Puerto Varas",
+        "No acumulable con otras promociones.",
+        "Descuento máximo por pedido de $40.000",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Inca Pescador",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "40% dcto.",
+      "dia": [
+        "Miércoles"
+      ],
+      "dia_texto": "todos los miércoles",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Exclusivo con tus Tarjetas de Crédito Santander.",
+        "Válido en local.",
+        "Barros Arana 1030, Osorno",
+        "Los Colonos 1005, Puerto Varas",
+        "No acumulable con otras promociones.",
+        "Descuento máximo por pedido de $40.000",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "La Pampa",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "40% dcto.",
+      "dia": [
+        "Miércoles"
+      ],
+      "dia_texto": "todos los miércoles",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Carne y vino",
+        "Exclusivo con tus Tarjetas de Crédito Santander.",
+        "Válido en local.",
+        "Av. San Martín 135-175",
+        "No acumulable con otras promociones.",
+        "Descuento máximo por pedido de $40.000",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Fogón Austral",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "40% dcto.",
+      "dia": [
+        "Martes"
+      ],
+      "dia_texto": "todos los martes",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Cortes de carne premium cuidadosamente seleccionados y preparados",
+        "Exclusivo con tus Tarjetas de Crédito Santander.",
+        "Válido en local.",
+        "Chesterton 7380, las condes",
+        "No acumulable con otras promociones.",
+        "Descuento máximo por pedido de $40.000",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Club Terraza Costanera",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "40% dcto.",
+      "dia": [
+        "Miércoles"
+      ],
+      "dia_texto": "todos los miércoles",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Exclusivo con tus Tarjetas de Crédito Santander.",
+        "Válido en local.",
+        "Av. República de Croacia 0520, Antofagasta",
+        "No acumulable con otras promociones.",
+        "Descuento máximo por pedido de $40.000",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Casa Mar Sushi",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "40% dcto.",
+      "dia": [
+        "Miércoles"
+      ],
+      "dia_texto": "todos los miércoles",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Exclusivo con tus Tarjetas de Crédito Santander.",
+        "Válido en local.",
+        "Av. Blanca Estela 1927, Concón",
+        "No acumulable con otras promociones.",
+        "Descuento máximo por pedido de $40.000",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Sabores de Machu Pichu",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "40% dcto.",
+      "dia": [
+        "Miércoles"
+      ],
+      "dia_texto": "todos los miércoles",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Exclusivo con tus Tarjetas de Crédito Santander.",
+        "Válido en local.",
+        "Los acacios 85, San Pedro de la Paz",
+        "No acumulable con otras promociones.",
+        "Descuento máximo por pedido de $40.000",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Zamai",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "40% dcto.",
+      "dia": [
+        "Miércoles"
+      ],
+      "dia_texto": "todos los miércoles",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Exclusivo con tus Tarjetas de Crédito Santander.",
+        "Válido en local.",
+        "La Concepción 415, Quillota",
+        "No acumulable con otras promociones.",
+        "Descuento máximo por pedido de $40.000",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Holy Moly",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "40% dcto.",
+      "dia": [
+        "Sábado"
+      ],
+      "dia_texto": "todos los sábados",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Hamburguesería al mejor estilo americano.",
+        "Exclusivo con tus Tarjetas de Crédito Santander.",
+        "Válido en local, delivery web y retiro en local.",
+        "Av hernando de aguirre 129, Providencia",
+        "Merced 318, Santiago",
+        "No acumulable con otras promociones.",
+        "Descuento máximo por pedido de $40.000",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Ruta 41",
+      "categoria": "Sabores",
+      "descuento": "40% dcto.",
+      "dia": [
+        "Viernes"
+      ],
+      "dia_texto": "todos los viernes",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Ruta 41",
+        "Exclusivo con tus Tarjetas de Crédito Santander.",
+        "Válido en local, delivery web y retiro en local.",
+        "Av Vitacura 3708, Vitacura.",
+        "No acumulable con otras promociones.",
+        "Descuento máximo por pedido de $40.000",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Demencia",
+      "categoria": "Sabores",
+      "descuento": null,
+      "dia": [
+        "Martes"
+      ],
+      "dia_texto": "40%. dcto. todos los martes",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Decoración circense y alta gastronomía, coctelería de autor y shows en vivo.",
+        "Exclusivo pagando con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass.",
+        "Válido para consumo en local.",
+        "Av. Vitacura 3520, Vitacura.",
+        "Tope de descuento de $100.000.",
+        "No acumulable a otras promociones.",
+        "Se excluyen propinas, menús, happy hours.",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "El Dorado",
+      "categoria": "Sabores",
+      "descuento": "40% dcto",
+      "dia": [
+        "Domingo"
+      ],
+      "dia_texto": "todos los domingos",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Desayunos, Brunch, restaurante y bar",
+        "Exclusivo pagando con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass.",
+        "Válido para consumo en local.",
+        "Barros 348, Concepción",
+        "Tope de descuento de $100.000.",
+        "No acumulable a otras promociones.",
+        "Se excluyen propinas, menús, happy hours.",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Miscelaneo",
+      "categoria": "Sabores",
+      "descuento": null,
+      "dia": [
+        "Viernes"
+      ],
+      "dia_texto": "40%. dcto. todos los viernes",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Comida para compartir",
+        "Exclusivo con tus Tarjetas de Crédito Santander",
+        "Válido para consumo en local.",
+        "Santa María 5870, Vitacura.",
+        "Tope de descuento de $40.000.",
+        "No acumulable a otras promociones.",
+        "Se excluyen propinas, menús, happy hours.",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Cascade Bistró",
+      "categoria": "Sabores",
+      "descuento": null,
+      "dia": [
+        "Jueves"
+      ],
+      "dia_texto": "40%. dcto. todos los jueves",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Calidad, más de 50 años de tradición y una renovada carta",
+        "Exclusivo con tus Tarjetas de Crédito Santander.",
+        "Válido para compras en local.",
+        "Costanera Sur S.J.E. de Balaguer 6400 local 8, Vitacura",
+        "No acumulable a otras promociones.",
+        "Descuento máximo por pedido de $40.000",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Bar La Virgen",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "40% dcto.",
+      "dia": [
+        "Sábado"
+      ],
+      "dia_texto": "todos los sábados",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Bar en Santiago, Viña del Mar, Pichilemu",
+        "Exclusivo con tus Tarjetas de Crédito Santander.",
+        "Válido en local.",
+        "40% dcto. los sábados en Santiago.",
+        "40% dcto. los miércoles en regiones.",
+        "No acumulable con otras promociones.",
+        "Descuento máximo por pedido de $40.000",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
       "comercio": "miCoca-Cola.cl",
       "categoria": "Retail y Otras Marcas",
       "descuento": "25% dcto.",
@@ -22190,28 +22749,6 @@
         "Ingresa los 6 primeros dígitos de tu Tarjeta como código de descuento.",
         "No es acumulable con otras promociones.",
         "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Ruta 41",
-      "categoria": "Sabores",
-      "descuento": "40% dcto.",
-      "dia": [
-        "Viernes"
-      ],
-      "dia_texto": "todos los viernes",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Ruta 41",
-        "Exclusivo con tus Tarjetas de Crédito Santander.",
-        "Válido en local, delivery web y retiro en local.",
-        "Av Vitacura 3708, Vitacura.",
-        "No acumulable con otras promociones.",
-        "Descuento máximo por pedido de $40.000",
-        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​"
       ],
       "sucursales": []
     },
@@ -23230,30 +23767,6 @@
         "Descuento máximo por pedido de $40.000.",
         "Se excluyen propinas, menús, happy hours.",
         "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Madre Pizza",
-      "categoria": "Sabores",
-      "descuento": "30% dcto.",
-      "dia": [
-        "Miércoles"
-      ],
-      "dia_texto": "todos los miércoles",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Pizza artesanal con masa madre",
-        "Exclusivo con tus Tarjetas de Crédito y Débito Santander.",
-        "Válido en local con retiro en tienda o delivery propio .",
-        "Pedro Calvo Barros 5338, Ñuñoa.",
-        "No acumulable a otras promociones.",
-        "Pide tu descuento al momento de pagar.",
-        "Descuento máximo por pedido de $40.000.",
-        "Ingresa los 6 primeros dígitos de tu Tarjeta como código de descuento.",
-        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl ​​"
       ],
       "sucursales": []
     },
@@ -26813,29 +27326,6 @@
     },
     {
       "banco": "Banco Santander",
-      "comercio": "Demencia",
-      "categoria": "Sabores",
-      "descuento": null,
-      "dia": [
-        "Martes"
-      ],
-      "dia_texto": "40%. dcto. todos los martes",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Decoración circense y alta gastronomía, coctelería de autor y shows en vivo.",
-        "Exclusivo pagando con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass.",
-        "Válido para consumo en local.",
-        "Av. Vitacura 3520, Vitacura.",
-        "Tope de descuento de $100.000.",
-        "No acumulable a otras promociones.",
-        "Se excluyen propinas, menús, happy hours.",
-        "Descuento válido todos los miércoles desde desde el 01 de marzo de 2026 hasta el 31 de mayo de 2026, ambas fechas inclusive, para consumos realizados en el establecimiento en el horario de atención de público del restaurante. Exclusivo para clientes que paguen con las Tarjetas de Crédito Santander de American Express indicadas seguidamente y que soliciten el descuento al momento de pagar presencialmente. Beneficio consistente en un descuento de un 50% del total del consumo (excluida propina) con un tope de $50.000.- diarios por cuenta y por mes. Beneficio no aplicable: (a) Al consumo de cigarrillos y de cualquier otro producto de tabaco y, (b) A consumos hechos por un mismo grupo de personas que pagan el total dividido o por mesa. El consumo podrá pagarse utilizando más de una de las Tarjetas American Express® incluidas en el beneficio. Las Tarjetas Santander de American Express admitidas son: The Platinum Card®, WorldMember Limited ECO, WorldMember ECO y Platinum LATAM Pass ECO. No se aceptarán las tarjetas de formato horizontal. Ni American Express ni Servicios Empresariales Orsan S.A. se responsabilizan por los productos y/o servicios ofrecidos por los establecimientos y/o adquiridos en ellos. Descuento no acumulable e intransferible. No válido para consumos para llevar, delivery o pedidos a través de plataformas externas. El comercio se reserva el derecho de aplicar el beneficio en días festivos, feriados y con significancia comercial, sea general o particular del restorán. Listado de establecimientos adheridos en www.AmericanExpress.cl. American Express es una marca de American Express. Las Tarjetas son emitidas por Banco Santander bajo licencia de American Express."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
       "comercio": "El Mundo del Vino",
       "categoria": "Sabores",
       "descuento": "40% dcto.",
@@ -26872,31 +27362,6 @@
         "Válido para compras presenciales en Mall Marina, Mall Curicó, Mall del Centro Concepción, Parque Arauco, Arauco Maipú.",
         "Marcas destacadas: Hush Puppies Kids, Limonada, Opaline, Colloky, Baby Rosen, Chuck E. Cheese, Nacional Librería, La Papeleria, Pichintún y más",
         "No acumulable a otras promociones."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Nevados de Chillán - Visa",
-      "categoria": "Viajes",
-      "descuento": "20% dcto",
-      "dia": [
-        "Jueves"
-      ],
-      "dia_texto": "todos los jueves",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Aprovecha esta temporada en lugares únicos como Nevados de Chillán.",
-        "Exclusivo pagando con tus Tarjetas de Crédito y Débito Santander Visa.",
-        "Es válido en presencial en el punto de venta ubicado en Centro de Nevados de Chillán y en www.nevadosdechillan.com",
-        "Ruta N-55 hasta llegar al Centro de Ski (a 80 kms de ciudad de Chillán), Chillán.",
-        "20% de descuento los días jueves en tickets diarios.",
-        "Excepción de los días 16 al 23 de julio del 2026 y 13 de agosto del 2026.",
-        "El descuento será reflejado en el ticket al momento de pago.",
-        "Stock disponible: 4,000 tickets por la Temporada de Invierno 2026.",
-        "No acumulable con otras promociones.",
-        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
       ],
       "sucursales": []
     },
@@ -27698,67 +28163,6 @@
         "No acumulable a otras promociones.",
         "Se excluyen propinas, menús, happy hours.",
         "Descuento válido todos los lunes desde desde el 01 de junio de 2026 hasta el 31 de agosto de 2026, ambas fechas inclusive, para consumos realizados en el establecimiento en el horario de atención de público del restaurante. Exclusivo para clientes que paguen con las Tarjetas de Crédito Santander de American Express indicadas seguidamente y que soliciten el descuento al momento de pagar presencialmente. Beneficio consistente en un descuento de un 50% del total del consumo (excluida propina) con un tope de $50.000.- diarios por cuenta y por mes. Beneficio no aplicable: (a) Al consumo de cigarrillos y de cualquier otro producto de tabaco y, (b) A consumos hechos por un mismo grupo de personas que pagan el total dividido o por mesa. El consumo podrá pagarse utilizando más de una de las Tarjetas American Express® incluidas en el beneficio. Las Tarjetas Santander de American Express admitidas son: The Platinum Card®, WorldMember Limited ECO, WorldMember ECO y Platinum LATAM Pass ECO. No se aceptarán las tarjetas de formato horizontal. Ni American Express ni Servicios Empresariales Orsan S.A. se responsabilizan por los productos y/o servicios ofrecidos por los establecimientos y/o adquiridos en ellos. Descuento no acumulable e intransferible. No válido para consumos para llevar, delivery o pedidos a través de plataformas externas. El comercio se reserva el derecho de aplicar el beneficio en días festivos, feriados y con significancia comercial, sea general o particular del restorán. Listado de establecimientos adheridos en www.AmericanExpress.cl. American Express es una marca de American Express. Las Tarjetas son emitidas por Banco Santander bajo licencia de American Express."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Louis Tomlinson",
-      "categoria": "Entretención y Deportes",
-      "descuento": "20% dcto.",
-      "dia": [],
-      "dia_texto": "En entradas",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Louis Tomlinson vuelve a Chile. No te pierda su regreso el 31 de Marzo de 2027, en el Movistar Arena.",
-        "Preventa Santander: 25 al 27 de mayo de 2026 o hasta agotar stock",
-        "Exclusivo pagando con tus Tarjetas de Crédito y Débito Santander.",
-        "Válido en www.puntoticket.cl",
-        "Tope de 4 entradas por RUT de cliente.",
-        "Ingresa los 6 primeros dígitos de tu Tarjeta como código de descuento.",
-        "No acumulable con otras promociones.",
-        "Promoción válida para compras realizadas solo en puntoticket.com/louis-tomlinson-live-scl-2027 pagando con Tarjetas Santander e ingresando como código de descuento los primeros 6 dígitos de la Tarjeta. Tope de 4 entradas por RUT de cliente. Stock disponible para el 20% de descuento: 2400 entradas. Descuento no aplica al cargo por servicio. El único canal de venta autorizado es www.puntoticket.com, cualquier otro canal puede perjudicar al consumidor. DG Medios no se responsabiliza por transacciones realizadas fuera del canal de venta oficial. La garantía, servicio y calidad del producto es de exclusiva responsabilidad de DG Medios y de la venta de entradas es Punto Ticket SpA sin responsabilidad para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Ed Sheeran",
-      "categoria": "Entretención y Deportes",
-      "descuento": "20% dcto.",
-      "dia": [],
-      "dia_texto": "En entradas",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Exclusivo pagando con tus Tarjetas de Crédito y Débito Santander.",
-        "Válido en www.ticketmaster.cl",
-        "Tope de 4 entradas por RUT de cliente.",
-        "Ingresa los 6 primeros dígitos de tu Tarjeta como código de descuento.",
-        "No acumulable con otras promociones.",
-        "Preventa Santander: 04 al 06 de mayo de 2026 (o hasta agotar stock*)",
-        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Aespa",
-      "categoria": "Entretención y Deportes",
-      "descuento": "20% dcto.",
-      "dia": [],
-      "dia_texto": "en entradas",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Disfruta del concierto, tour 2026 de Aespa",
-        "Exclusivo pagando con tus Tarjetas de Crédito y Débito Santander.",
-        "Válido en www.puntoticket.com",
-        "Tope de 4 entradas por RUT de cliente.",
-        "Ingresa los 6 primeros dígitos de tu Tarjeta como código de descuento.",
-        "No acumulable con otras promociones.",
-        "Promoción válida para compras realizadas solo en puntoticket.com/kali-uchis-live-scl-2026, exclusivo pagando con Tarjetas Santander e ingresando como código de descuento los primeros 6 dígitos de la Tarjeta. Tope de 4 entradas por RUT de cliente. (*) Stock disponible para el 20% de descuento: 2200 entradas. Descuento no aplica al cargo por servicio. El único canal de venta autorizado es www.puntoticket.com, cualquier otro canal puede perjudicar al consumidor. DG Medios no se responsabiliza por transacciones realizadas fuera del canal de venta oficial. La garantía, servicio y calidad del producto es de exclusiva responsabilidad de DG Medios y de la venta de entradas es Punto Ticket SpA sin responsabilidad para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
       ],
       "sucursales": []
     }
