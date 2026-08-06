@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-05T12:47",
+  "actualizado": "2026-08-06T12:51",
   "beneficios": [
     {
       "banco": "Banco de Chile",
@@ -7828,37 +7828,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "OrangePet",
-      "categoria": "Mascotas",
-      "descuento": "Hasta 20% dto.",
-      "dia": [
-        "Martes",
-        "Miércoles"
-      ],
-      "dia_texto": "martes y miércoles",
-      "canal": "Tienda física",
-      "vigencia": "Promoción válida hasta el 31 de julio de 2027.",
-      "condiciones": [
-        "OrangePet es una tienda especializada en productos, servicios y bienestar integral para mascotas. Nuestro compromiso es entregar una experiencia cercana, confiable y profesional, acompañando a cada tutor en el cuidado de sus animales con una amplia variedad de alimentos, accesorios, farmacia veterinaria y atención personalizada. Con enfoque en calidad, amor por los animales y constante innovación, OrangePet se ha convertido en un aliado esencial para quienes buscan lo mejor para sus mascotas.",
-        "20% dto. en accesorios",
-        "15% dto. en farmacia veterinaria",
-        "10% dto. en alimentos",
-        "Beneficio excluye ventas nocturnas, Cyber Day y Orange Day",
-        "Solicita tu descuento al momento de pagar.",
-        "No acumulable con otras promociones.",
-        "Descuento exclusivo pagando con tus Tarjetas del Chile."
-      ],
-      "sucursales": [
-        "Av Ecuador #539, Región de Ñuble, Chillán",
-        "Vicente Méndez #1545 Local 1308, Región de Ñuble, Chillán",
-        "Camino al venado #560, local A3, Región del Biobío, Concepción",
-        "Ramon Carrasco #99 lote 25D, Región del Biobío, Concepción",
-        "Av Juan Bosco #2239, Local 1 esquina Los Carrera, Región del Biobío, Concepción",
-        "Av. Vitacura #5812, Región Metropolitana, Vitacura"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "Origami",
       "categoria": "Sabores",
       "descuento": "20% dto.",
@@ -8715,6 +8684,23 @@
         "Eliecer Parada #1222, Región Metropolitana, Providencia",
         "Sebastián Elcano #1955, Región Metropolitana, Las Condes"
       ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "SmellWell",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "20% dto.",
+      "dia": [],
+      "dia_texto": "en compras",
+      "canal": "Online",
+      "vigencia": "Promoción válida hasta el 31 de julio de 2027.",
+      "condiciones": [
+        "SmellWell es una solución natural 3 en 1 que absorbe eficazmente la humedad, elimina los olores y deja un aroma fresco de larga duración. ¡Simplemente déjalos en tus zapatos, equipo o bolso y experimenta una verdadera diferencia!",
+        "Obtén descuento ingresando los seis primeros dígitos de tu tarjeta al momento de finalizar compra en smellwell.cl",
+        "Descuento no aplica para el valor del despacho del producto y no es acumulable con otras promociones.",
+        "Beneficio exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": []
     },
     {
       "banco": "Banco de Chile",
@@ -18580,55 +18566,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Poliglota",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": "Hasta 68% dto.",
-      "dia": [
-        "Todos los días"
-      ],
-      "dia_texto": "todos los días",
-      "canal": "Online",
-      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
-      "condiciones": [
-        "Poliglota es la plataforma líder en aprendizaje de idiomas en Latinoamérica, con más de 40.000 estudiantes y 450 empresas clientes. Ofrecemos clases en vivo con interacción en tiempo real, con práctica conversacional y acceso a herramientas digitales, todo con hasta un 68% dto exclusivo pagando con tus Tarjetas del Chile en poliglota.org/banco-de-chile",
-        "Valor precio normal: $659.900",
-        "Valor cliente Banco de Chile: $349.900",
-        "Valor precio normal: $999.900",
-        "Valor cliente Banco de Chile: $399.900",
-        "Valor precio normal: $1.499.900",
-        "Valor Precio Banco de Chile: $479.900",
-        "Evaluación de nivel.",
-        "Sesiones de práctica guiadas.",
-        "Sesiones de prácticas conversacionales ilimitadas.",
-        "Plataforma para monitorear tu progreso.",
-        "Avance de nivel mensual, acorde a desempeño.",
-        "Contenido complementario para revisar 24/7.",
-        "Compañeros de todas partes del mundo.",
-        "Puedes aprender más de un idioma.",
-        "Valor precio normal: $879.900",
-        "Valor cliente Banco de Chile: $579.900",
-        "Se incluye al plan 16 créditos de PoliAI.",
-        "Valor precio normal: $1.159.900",
-        "Valor cliente Banco de Chile: $829.900",
-        "Se incluye al plan 32 créditos de PoliAI.",
-        "Valor precio normal: $1.599.900",
-        "Valor clientes Banco de Chile: $1.299.900",
-        "Se incluye al plan 48 créditos de PoliAI.",
-        "Sesiones de práctica guiadas 1 a 1.",
-        "Flexibilidad horaria.",
-        "Ciclos de 12 sesiones.",
-        "Clases de 45 minutos.",
-        "Evaluación de nivel.",
-        "Sesiones de prácticas conversacionales ilimitadas.",
-        "Plataforma para monitorear tu progreso.",
-        "Avance de nivel mensual, acorde a desempeño.",
-        "Contenido complementario para revisar 24/7.",
-        "Compañeros de todas partes del mundo."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "Viña Undurraga",
       "categoria": "Sabores",
       "descuento": "55% dto.",
@@ -18847,26 +18784,6 @@
       "canal": null,
       "vigencia": null,
       "condiciones": [],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "La Barra",
-      "categoria": "Sabores",
-      "descuento": "30% dto. adicional",
-      "dia": [],
-      "dia_texto": "del 3 al 5 de agosto",
-      "canal": null,
-      "vigencia": "Promoción válida del 3 al 5 de agosto de 2026.",
-      "condiciones": [
-        "30% dto. adicional a otros descuentos pagando con tus Tarjetas del Chile del del 3 al 5 de agosto en labarra.cl y App La Barra",
-        "Ingresa a labarra.cl o App La Barra",
-        "Paga a través del Botón de Pago Banco de Chile con tus Tarjetas de Crédito o Débito del Banco de Chile. ¡Recibe tu pedido y disfruta!",
-        "2 transacciones por cliente durante la vigencia de la promoción. Tope de dto. $60.000 por transacción.",
-        "Con tus Tarjetas de Crédito puedes pagar en 3 cuotas sin interés",
-        "Para una compra referencial de $100.000 en 3 cuotas de $33.333, CAE: 1,19%. Costo Total: $100.198",
-        "Tus compras en esta campaña tienen doble acumulación de Dólares-Premio."
-      ],
       "sucursales": []
     },
     {
@@ -20014,6 +19931,37 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "OrangePet",
+      "categoria": "Mascotas",
+      "descuento": "Hasta 20% dto.",
+      "dia": [
+        "Martes",
+        "Miércoles"
+      ],
+      "dia_texto": "martes y miércoles",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 31 de julio de 2027.",
+      "condiciones": [
+        "OrangePet es una tienda especializada en productos, servicios y bienestar integral para mascotas. Nuestro compromiso es entregar una experiencia cercana, confiable y profesional, acompañando a cada tutor en el cuidado de sus animales con una amplia variedad de alimentos, accesorios, farmacia veterinaria y atención personalizada. Con enfoque en calidad, amor por los animales y constante innovación, OrangePet se ha convertido en un aliado esencial para quienes buscan lo mejor para sus mascotas.",
+        "20% dto. en accesorios",
+        "15% dto. en farmacia veterinaria",
+        "10% dto. en alimentos",
+        "Beneficio excluye ventas nocturnas, Cyber Day y Orange Day",
+        "Solicita tu descuento al momento de pagar.",
+        "No acumulable con otras promociones.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Av Ecuador #539, Región de Ñuble, Chillán",
+        "Vicente Méndez #1545 Local 1308, Región de Ñuble, Chillán",
+        "Camino al venado #560, local A3, Región del Biobío, Concepción",
+        "Ramon Carrasco #99 lote 25D, Región del Biobío, Concepción",
+        "Av Juan Bosco #2239, Local 1 esquina Los Carrera, Región del Biobío, Concepción",
+        "Av. Vitacura #5812, Región Metropolitana, Vitacura"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "BUG ME",
       "categoria": "Mascotas",
       "descuento": "20% dto.",
@@ -20272,32 +20220,6 @@
         "No acumulable con otras promociones.",
         "Descuento no aplica para el valor del despacho.",
         "Revisa cobertura de despacho en jansport.cl",
-        "Descuento no aplica en categoria mujer y hombre.",
-        "Descuento no aplica para compras con facturas y en cambios.",
-        "Descuento exclusivo pagando con tus Tarjetas del Chile."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Zapatos.cl",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": "40% dto.",
-      "dia": [
-        "Miércoles"
-      ],
-      "dia_texto": "miércoles",
-      "canal": "Online",
-      "vigencia": "Promoción válida para el miércoles 29 de julio y 05 de agosto 2026.",
-      "condiciones": [
-        "40% dto. miércoles en zapatos.cl",
-        "Genera tu código e ingrésalo como cupón en zapatos.cl",
-        "Tope de dto. $35.000",
-        "500 códigos disponibles para esta promoción.",
-        "Descarga del código estará disponible el día que participe la marca, desde las 00:00 hrs.",
-        "No acumulable con otras promociones.",
-        "Descuento no aplica para el valor del despacho.",
-        "Revisa cobertura de despacho en zapatos.cl",
         "Descuento no aplica en categoria mujer y hombre.",
         "Descuento no aplica para compras con facturas y en cambios.",
         "Descuento exclusivo pagando con tus Tarjetas del Chile."
@@ -20715,31 +20637,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Capri",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Martes",
-        "Miércoles"
-      ],
-      "dia_texto": "martes y miércoles de agosto",
-      "canal": null,
-      "vigencia": "Promoción válida desde el 01 al 31 de julio de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial 40% dto. martes y miércoles de agosto",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dto. $50.000 por mesa"
-      ],
-      "sucursales": [
-        "Gerónimo de Alderete 1423, Región Metropolitana, Vitacura",
-        "El Rodeo #13052, Región Metropolitana, Lo Barnechea"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "Curunina Kids",
       "categoria": "Entretención y Deportes",
       "descuento": "25% dto.",
@@ -20997,6 +20894,31 @@
       ],
       "sucursales": [
         "Av Guillermo Ulriksen #2845, Región de Coquimbo, La Serena"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Capri",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Martes",
+        "Miércoles"
+      ],
+      "dia_texto": "martes y miércoles de agosto",
+      "canal": null,
+      "vigencia": "Promoción válida desde el 01 al 31 de agosto de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. martes y miércoles de agosto",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Gerónimo de Alderete 1423, Región Metropolitana, Vitacura",
+        "El Rodeo #13052, Región Metropolitana, Lo Barnechea"
       ]
     },
     {
@@ -21897,16 +21819,280 @@
       "vigencia": "Promoción válida hasta el 31 de agosto de 2026.",
       "condiciones": [
         "Disfruta 30% dto. adicional todos los días en PedidosYa Market pagando con tus Tarjetas del Chile.",
-        "30% de descuento en toda la categoría ingresando BCHPEYA0886 todos los días pagando con tus Tarjetas del Chile.",
+        "30% de descuento en toda la categoría ingresando BCHPEYA0826 todos los días pagando con tus Tarjetas del Chile.",
         "Válido para 1 uso mensual por usuario.",
         "Sin mínimo de compra.",
         "Tope de descuento $5.000.",
         "El descuento se verá reflejado al momento de la compra.",
         "Ingresa a PedidosYa, Selecciona PedidosYa Market.",
         "Elige tus productos.",
-        "Ingresa el cupón BCHPEYA0886 y verás el descuento reflejado de manera automática.",
+        "Ingresa el cupón BCHPEYA0826 y verás el descuento reflejado de manera automática.",
         "Al pagar, ingresa tu Tarjeta de Crédito o Débito del Chile o selecciónala si ya está ingresada (ingresa tu código de seguridad).",
         "Recibe tu pedido y disfrútalo."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "En el día del Niño",
+      "categoria": "Entretención y Deportes",
+      "descuento": "Hasta 40% dto.",
+      "dia": [],
+      "dia_texto": "pagando con tus Tarjetas Visa",
+      "canal": null,
+      "vigencia": "Promoción válida únicamente para compras presenciales realizadas los días 7 y 8 de agosto de 2026.",
+      "condiciones": [
+        "En el día del Niño, Celebra con descuentos exclusivos pagando con pagando con tus Tarjetas Visa Banco de Chile, promoción Valida viernes 7 y sábado 8 de agosto 2026.",
+        "HASTA 40% dto en TIENDAS ADHERIDAS en compras presenciales.",
+        "Pagar presencialmente con una tarjeta Visa en los comercios adheridos participantes.",
+        "Viernes 7 y sábado 8 de Agosto 2026 en Mall Marina, Mall Curicó, Mall del Centro Concepción, Parque Arauco, Arauco Maipú.",
+        "Marcas Adheridas: Hush Puppies Kids, Limonada, Opaline, Colloky, Baby Rosen, Chuck E. Cheese, Nacional Librería, La Papelaria, Pichintún ¡Y muchas más!"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Poliglota",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "Hasta 70% dto.",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días",
+      "canal": "Online",
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
+      "condiciones": [
+        "Poliglota es la plataforma líder en aprendizaje de idiomas en Latinoamérica, con más de 50.000 estudiantes y 550 empresas clientes. Ofrecemos clases en vivo con interacción en tiempo real, con práctica conversacional y acceso a herramientas digitales, todo con hasta un 70% dto. exclusivo pagando con tus Tarjetas del Chile en poliglota.org/banco-de-chile",
+        "Evaluación de nivel.",
+        "Sesiones de práctica guiadas.",
+        "Sesiones de prácticas conversacionales ilimitadas.",
+        "Plataforma para monitorear tu progreso.",
+        "Avance de nivel mensual, acorde a desempeño.",
+        "Contenido complementario para revisar 24/7.",
+        "Compañeros de todas partes del mundo.",
+        "Puedes aprender más de un idioma.",
+        "Incluye al plan 16 créditos de PoliAI + clases de club de conversación ilimitadas.",
+        "Se incluye al plan 32 créditos de PoliAI + clases de club de conversación ilimitadas.",
+        "Se incluye al plan 48 créditos de PoliAI + clases de club de conversación ilimitadas.",
+        "Sesiones de práctica guiadas 1 a 1.",
+        "Flexibilidad horaria.",
+        "Ciclos de 12 sesiones.",
+        "Clases de 45 minutos.",
+        "Evaluación de nivel.",
+        "Sesiones de prácticas conversacionales ilimitadas.",
+        "Avance de nivel mensual, acorde a desempeño.",
+        "Contenido complementario para revisar 24/7.",
+        "Compañeros de todas partes del mundo."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Portal Motores",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "25% de dcto y 50% de dcto en plan anual comercios",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Registrándote en la app de Portal Motores obtendrás un 20% de descuento en servicios para tu auto y 50% de descuento en plan anual para comercios automotrices.",
+        "Agenda servicios FULL a domicilio desde Portal Motores y paga menos usando tu Tarjeta Santander.",
+        "Beneficio Santander Empresas :",
+        "50% de descuento en plan anual comercios. Precio normal 129.990 + IVA. Precio clientes Santander 64.990 + IVA",
+        "Ingresa los 6 primeros dígitos de tu Tarjeta empresa Santander.",
+        "Exclusivo con tus Tarjetas de Crédito Santander Empresas.",
+        "Beneficios Santander:",
+        "Exclusivo con tus Tarjetas de Crédito y Débito Santander.",
+        "25% de descuento en cualquiera de los servicios FULL para tu auto en Portal Motores.",
+        "Válido en www.portalmotores.cl y app.",
+        "Ingresa los 6 primeros dígitos de tu Tarjeta Santander como código de descuento.",
+        "Descuento máximo de $100.000 . Máximo 1 uso por usuario .",
+        "No acumulable con otras promociones."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Mitta",
+      "categoria": "Viajes",
+      "descuento": "35% dcto.",
+      "dia": [],
+      "dia_texto": "en arriendo diario",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "¡Arriendos de autos con precios únicos!",
+        "Exclusivo con tus Tarjetas de Crédito y Débito Santander.",
+        "Válido en www.mitta.cl",
+        "Ingresando los 6 primeros dígitos de tu Tarjeta como código de descuento.",
+        "Promoción sujeta a disponibilidad de categorías. La tarifa publicada incluye CDW (colisión) que no es descontable. Descuento aplica solamente en arriendos de personas naturales. No aplica sobre opcionales y servicios adicionales (seguros, TAG, bencina, cargo aeropuerto, impuesto).",
+        "No acumulable a otras promociones.",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​​"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "JPT Luxury",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "20% dcto",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Tienda de anteojos de marcas lujo y fashion",
+        "Válido con Tarjetas de Crédito y Débito Santander.",
+        "Exclusivo en Tienda JPT de Costanera Center.",
+        "Excluye marca Cartier. Descuento no acumulable con otras ofertas/promociones.",
+        "Tope de $200.000 de dcto.",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Mindset",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "20% dcto.",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Artículos y accesorios deportivos",
+        "Exclusivo pagando con tus Tarjetas de Crédito y Débito Santander.",
+        "Válido en www.mindsetchile.com",
+        "Ingresa los 6 primeros dígitos de tu Tarjeta como código de descuento.",
+        "No acumulable con otras promociones.",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Kaufmann",
+      "categoria": "Cuotas Sin Interés",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "13 a 48 cuotas sin interés",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Mercedes Benz, smart y Seminuevos",
+        "Exclusivo con tus Tarjetas de Crédito Santander Chile.",
+        "Válido en concesionarias Kaufmann en compras de autos Mercedes Benz, smart y Seminuevos.",
+        "CAE 0,8%: Monto Total a pagar de $10.080.000, son referenciales y corresponden a una compra por $10.000.000 cursada en modalidad de pago de 48 cuotas mensuales, y consideran impuestos.",
+        "Se excluyen de la promoción los autos Seminuevos de sucursal JPN.",
+        "Vigencia de la promoción hasta el 31 de agosto de 2026, válido para autos nuevos Mercedes Benz, smart y Seminuevos. Se excluyen de la promoción los autos Seminuevos de sucursal JPN. CAE 0,8%: Monto Total a pagar de $10.080.000, son referenciales y corresponden a una compra por $10.000.000 cursada en modalidad de pago de 48 cuotas mensuales, y consideran impuestos. Límite mensual de compras que da derecho a acumulación de millas LATAM Pass; The Platinum Card American Express Santander LATAM Pass: monto menor entre: (a) la cantidad de 60.000 Dólares en cada periodo de facturación, y (b) el monto del respectivo cupo de la Tarjeta. Límite mensual de compras que da derecho a acumulación WorldMember Limited Santander LATAM Pass: monto menor entre: (a) la cantidad de 30.000 Dólares en cada periodo de facturación, y (b) el monto del respectivo cupo de la Tarjeta. Consulte por otros eventuales cargos. La acumulación de millas y otros beneficios no financieros anunciados son responsabilidad de LATAM AIRLINES GROUP S.A. o de terceros que los otorguen, sin que corresponda a Banco Santander Chile intervención alguna en ello, ni en la ulterior atención que ello demande. Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "&Beyond Vira Vira",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "25% dcto",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Exclusivo lodge de lujo ubicado en la Región de La Araucanía, donde la naturaleza, la aventura y la tranquilidad se unen para ofrecer una experiencia única.",
+        "Exclusivo pagando con tu Tarjetas de Crédito WorldMember Santander.",
+        "Reservando a través de la página Vira Vira - Bookings",
+        "Válido para estadías del 01 de agosto hasta el 31 de marzo de 2027",
+        "Blackout/período de exclusión: 20 de diciembre de 2026 al 6 de enero de 2027.",
+        "Estadía mínima de 2 noches.",
+        "Ingresa los 6 primeros dígitos de tu Tarjeta como código de descuento.",
+        "No acumulable a otras promociones.",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "PedidosYa Market",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "30% dcto.",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "PedidosYa Market es tu mejor opción.",
+        "Exclusivo con tus Tarjetas Crédito y Débito Santander.",
+        "Válido online.",
+        "Cupón de descuento: STNDER0826",
+        "No acumulable con otros descuentos o promociones.",
+        "Un cupón de descuento por usuario mensual."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Saxoline - Día del Niño",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "20% dcto",
+      "dia": [
+        "Miércoles"
+      ],
+      "dia_texto": "todos los miércoles y 1 milla adicional por dólar gastado",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Saxoline",
+        "Exclusivo pagando con tus Tarjetas de Crédito y Débito Santander LATAM Pass.",
+        "Válido en www.saxoline.cl",
+        "No acumulable a descuentos y promociones vigentes",
+        "Acumulación incremental de millas aplica para TC Santander LATAM Pass-",
+        "Ingresa los 6 primeros dígitos de tu Tarjeta como código de descuento.",
+        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. La bonificación de millas estructural se realizará según nivel y tarjeta de Crédito Santander LATAM Pass del cliente, más 1 milla adicional por dólar gastado por compras realizadas en campaña. Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio; la administración del programa LATAM Pass es de exclusiva responsabilidad de LATAM Airlines Group S.A. sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl. Conoce más sobre Santander Rewards y su reglamento en: https://banco.santander.cl/rewards."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Visa Days",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "40% dcto.",
+      "dia": [],
+      "dia_texto": "Hasta  en tiendas adheridas",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Tus marcas favoritas con descuentos exclusivos pagando con visa.",
+        "Exclusivo pagando con tus Tarjetas de Crédito y Débito Santander Visa.",
+        "Válido para compras presenciales en Mall Marina, Mall Curicó, Mall del Centro Concepción, Parque Arauco, Arauco Maipú.",
+        "Marcas destacadas: Hush Puppies Kids, Limonada, Opaline, Colloky, Baby Rosen, Chuck E. Cheese, Nacional Librería, La Papeleria, Pichintún y más",
+        "No acumulable a otras promociones."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Dior",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "3 a 12 cuotas sin interés y acumula 1 Milla LATAM Pass adicional",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Dior",
+        "Exclusivo pagando con tus Tarjetas de Crédito Santander LATAM Pass.",
+        "Válido en shop.dior.cl",
+        "Acumulación de 1 milla adicional válido en todas las compras y exclusivo pagando con tus Tarjetas de Crédito Santander LATAM Pass.",
+        "CAE 1,46% Calculado por un monto referencial de compra de $1.000.000 en 12 cuotas. Costo total del Crédito: $1.007.920. Operación afecta a impuesto al crédito a cargo del cliente."
       ],
       "sucursales": []
     },
@@ -21968,50 +22154,6 @@
         "Exclusivo pagando con tus Tarjetas de Crédito y Débito Santander.",
         "Válido en www.wedance.cl y presencial",
         "Código de descuento: SANTANDERWEDANCE",
-        "No acumulable a otras promociones.",
-        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Auralis",
-      "categoria": "Salud y Belleza",
-      "descuento": "15% dcto",
-      "dia": [
-        "Martes"
-      ],
-      "dia_texto": "todos los martes",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Herramientas y cosmética Capilar",
-        "Exclusivo pagando con tus Tarjetas de Crédito y Débito Santander.",
-        "Válido en www.auralis.cl",
-        "Se excluyen eventos cyber, black y eventos de descuentos internos de la marca.",
-        "Ingresa los 6 primeros dígitos de tu Tarjeta como código de descuento.",
-        "No acumulable a otras promociones.",
-        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "&Beyond Vira Vira",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": "25% dcto",
-      "dia": [
-        "Todos los días"
-      ],
-      "dia_texto": "todos los días",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Exclusivo lodge de lujo ubicado en la Región de La Araucanía, donde la naturaleza, la aventura y la tranquilidad se unen para ofrecer una experiencia única.",
-        "Exclusivo pagando con tu Tarjetas de Crédito WorldMember Santander.",
-        "Reservando a través de la página Vira Vira - Bookings",
-        "Válido para estadías del 01 de agosto hasta el 20 de diciembre 2026",
-        "Ingresa los 6 primeros dígitos de tu Tarjeta como código de descuento.",
         "No acumulable a otras promociones.",
         "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
       ],
@@ -22388,28 +22530,6 @@
     },
     {
       "banco": "Banco Santander",
-      "comercio": "Saxoline - Día del Niño",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": "20% dcto",
-      "dia": [
-        "Miércoles"
-      ],
-      "dia_texto": "todos los miércoles y 1 milla adicional por dólar gastado",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Saxoline",
-        "Exclusivo pagando con tus Tarjetas de Crédito Santander LATAM Pass.",
-        "Válido en www.saxoline.cl",
-        "No acumulable a descuentos y promociones vigentes",
-        "Acumulación incremental de millas aplica para TC Santander LATAM Pass-",
-        "Ingresa los 6 primeros dígitos de tu Tarjeta como código de descuento.",
-        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. La bonificación de millas estructural se realizará según nivel y tarjeta de Crédito Santander LATAM Pass del cliente, más 1 milla adicional por dólar gastado por compras realizadas en campaña. Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio; la administración del programa LATAM Pass es de exclusiva responsabilidad de LATAM Airlines Group S.A. sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl. Conoce más sobre Santander Rewards y su reglamento en: https://banco.santander.cl/rewards."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
       "comercio": "IMOTO - Día del Niño",
       "categoria": "Cuotas Sin Interés",
       "descuento": null,
@@ -22424,25 +22544,6 @@
         "No acumulable con otras promociones. Hasta agotar stock disponible.",
         "CAE 1,51% Calculado por un monto referencial de compra de $1.000.000 en 24 cuotas. Costo total del Crédito: $1.015.840. Operación afecta a impuesto al crédito a cargo del cliente.",
         "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Kaufmann",
-      "categoria": "Cuotas Sin Interés",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "13 a 48 cuotas sin interés",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Mercedes Benz, Smart y Seminuevos",
-        "Exclusivo con tus Tarjetas de Crédito Santander Chile.",
-        "Válido en concesionarias Kaufmann en compras de autos Mercedes Benz, Smart y Seminuevos.",
-        "CAE 0,8%: Monto Total a pagar de $10.080.000, son referenciales y corresponden a una compra por $10.000.000 cursada en modalidad de pago de 48 cuotas mensuales, y consideran impuestos.",
-        "Se excluyen de la promoción los autos Seminuevos de sucursal JPN.",
-        "Vigencia de la promoción hasta el 31 de agosto de 2026, válido para autos nuevos Mercedes Benz, Smart y Seminuevos. Se excluyen de la promoción los autos Seminuevos de sucursal JPN. CAE 0,8%: Monto Total a pagar de $10.080.000, son referenciales y corresponden a una compra por $10.000.000 cursada en modalidad de pago de 48 cuotas mensuales, y consideran impuestos. Límite mensual de compras que da derecho a acumulación de millas LATAM Pass; The Platinum Card American Express Santander LATAM Pass: monto menor entre: (a) la cantidad de 60.000 Dólares en cada periodo de facturación, y (b) el monto del respectivo cupo de la Tarjeta. Límite mensual de compras que da derecho a acumulación WorldMember Limited Santander LATAM Pass: monto menor entre: (a) la cantidad de 30.000 Dólares en cada periodo de facturación, y (b) el monto del respectivo cupo de la Tarjeta. Consulte por otros eventuales cargos. La acumulación de millas y otros beneficios no financieros anunciados son responsabilidad de LATAM AIRLINES GROUP S.A. o de terceros que los otorguen, sin que corresponda a Banco Santander Chile intervención alguna en ello, ni en la ulterior atención que ello demande. Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
       ],
       "sucursales": []
     },
@@ -23052,12 +23153,13 @@
       "vigencia": null,
       "condiciones": [
         "Venta de bebestible con amplio portafolio del mercado",
-        "Exclusivo con tus Tarjetas de Crédito y Débito Santander pagando con Oneclick",
+        "Exclusivo con tus Tarjetas de Crédito y Débito Santander pagando con Webpay Oneclick",
         "Válido en labarra.cl o en la app",
-        "Descuento automático en el carro pagando con Oneclick",
+        "Descuento automático en el carro pagando con Webpay Oneclick",
         "No acumulable con cupones de descuento.",
-        "Acumulación incremental de millas exclusivo pagando con Tarjetas de Crédito Santander LATAM Pass a través de Oneclick",
-        "Descuento máximo por pedido de $40.000.",
+        "Acumulación incremental de millas exclusivo pagando con Tarjetas de Crédito Santander LATAM Pass a través de Webpay Oneclick",
+        "Una transacción por cliente al día.",
+        "Descuento máximo por pedido de $20.000.",
         "Promoción válida solo para compras realizadas los días jueves de agosto 2026 en www.labarra.cl o en la app a través de Oneclick. Acumulación incremental de millas pagando con Tarjetas de Crédito Santander LATAM Pass. La bonificación de millas estructural se realizará según nivel y tarjeta de Crédito Santander LATAM Pass del cliente, más 1 milla adicional por dólar gastado por compras realizadas en campaña. La acreditación de Millas LATAM Pass se realizará en el mes siguiente de la compra. Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad de los comercios. La administración del programa LATAM Pass es de exclusiva responsabilidad de LATAM Airlines Group S.A. sin responsabilidad ni injerencia alguna para Banco Santander. Conoce más sobre Santander Rewards y su reglamento en: https:banco.santander.cl/rewards."
       ],
       "sucursales": []
@@ -24684,33 +24786,6 @@
     },
     {
       "banco": "Banco Santander",
-      "comercio": "Portal Motores",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "25% de dcto y 50% de dcto en plan anual comercios",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Registrándote en la app de Portal Motores obtendrás un 20% de descuento en servicios para tu auto y 50% de descuento en plan anual para comercios automotrices.",
-        "Agenda servicios FULL a domicilio desde Portal Motores y paga menos usando tu Tarjeta Santander.",
-        "Beneficio Santander Empresas :",
-        "50% de descuento en plan anual comercios. Precio normal 129.990 + IVA. Precio clientes Santander 64.990 + IVA",
-        "Ingresa los 6 primeros dígitos de tu Tarjeta empresa Santander.",
-        "Exclusivo con tus Tarjetas de Crédito Santander Empresas.",
-        "Beneficios Santander:",
-        "Exclusivo con tus Tarjetas de Crédito y Débito Santander.",
-        "25% de descuento en cualquiera de los servicios FULL para tu auto en Portal Motores.",
-        "Precio final desde $179.990 , con servicio en sucursal, a domicilio o con retiro del vehículo.",
-        "Válido en www.portalmotores.cl y app.",
-        "Ingresa los 6 primeros dígitos de tu Tarjeta Santander como código de descuento.",
-        "Descuento máximo de $100.000 . Máximo 1 uso por usuario .",
-        "No acumulable con otras promociones."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
       "comercio": "Petrizzio",
       "categoria": "Salud y Belleza",
       "descuento": "25% dcto.",
@@ -24757,27 +24832,6 @@
         "SANTANDERPET , como código de descuento al comprar por la web .",
         "No acumulable con otras promociones.",
         "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "PedidosYa Market",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": "20% dcto.",
-      "dia": [
-        "Todos los días"
-      ],
-      "dia_texto": "todos los días",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "PedidosYa Market es tu mejor opción.",
-        "Exclusivo con tus Tarjetas Crédito y Débito Santander.",
-        "Válido online.",
-        "Cupón de descuento: STNDER0826",
-        "No acumulable con otros descuentos o promociones.",
-        "Un cupón de descuento por usuario mensual."
       ],
       "sucursales": []
     },
@@ -24888,47 +24942,6 @@
         "Exclusivo en www.mizos.cl",
         "No aplica sobre packs.",
         "Ingresa el cupón SANTANDERMIZOS , como código de descuento al comprar por la web.",
-        "No acumulable con otras promociones.",
-        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Mitta",
-      "categoria": "Viajes",
-      "descuento": "30% dcto.",
-      "dia": [],
-      "dia_texto": "en arriendo diario",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "¡Arriendos de autos con precios únicos!",
-        "Exclusivo con tus Tarjetas de Crédito y Débito Santander.",
-        "Válido en www.mitta.cl",
-        "Ingresando los 6 primeros dígitos de tu Tarjeta como código de descuento.",
-        "Promoción sujeta a disponibilidad de categorías. La tarifa publicada incluye CDW (colisión) que no es descontable. Descuento aplica solamente en arriendos de personas naturales. No aplica sobre opcionales y servicios adicionales (seguros, TAG, bencina, cargo aeropuerto, impuesto).",
-        "No acumulable a otras promociones.",
-        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​​"
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Mindset",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": "20% dcto.",
-      "dia": [
-        "Todos los días"
-      ],
-      "dia_texto": "todos los días",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Artículos y accesorios deportivos",
-        "Exclusivo pagando con tus Tarjetas de Crédito y Débito Santander.",
-        "Válido en www.mindsetchile.com",
-        "Ingresa el cupón SANTANDER20 , como código de descuento al comprar por la web.",
         "No acumulable con otras promociones.",
         "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
       ],
@@ -25148,27 +25161,6 @@
         "Válido en www.kafibody.com",
         "No acumulable a otras promociones.",
         "Ingresa el cupón PLAYERASANTANDER , como código de descuento al comprar por la web.",
-        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "JPT Luxury",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": "20% dcto",
-      "dia": [
-        "Todos los días"
-      ],
-      "dia_texto": "todos los días",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Tienda de anteojos de marcas lujo y fashion",
-        "Válido con Tarjetas de Crédito y Débito Santander.",
-        "Exclusivo en tiendas.",
-        "Excluye marca Cartier. Descuento no acumulable con otras ofertas/promociones.",
-        "Tope de $200.000 de dcto.",
         "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
       ],
       "sucursales": []
@@ -27697,24 +27689,6 @@
         "Ingresando los 6 primeros dígitos de tu Tarjeta como código de descuento.",
         "Descuento máximo por pedido de $100.000",
         "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​"
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Visa Days",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": "40% dcto.",
-      "dia": [],
-      "dia_texto": "Hasta  en tiendas adheridas",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Tus marcas favoritas con descuentos exclusivos pagando con visa.",
-        "Exclusivo pagando con tus Tarjetas de Crédito y Débito Santander Visa.",
-        "Válido para compras presenciales en Mall Marina, Mall Curicó, Mall del Centro Concepción, Parque Arauco, Arauco Maipú.",
-        "Marcas destacadas: Hush Puppies Kids, Limonada, Opaline, Colloky, Baby Rosen, Chuck E. Cheese, Nacional Librería, La Papeleria, Pichintún y más",
-        "No acumulable a otras promociones."
       ],
       "sucursales": []
     },
