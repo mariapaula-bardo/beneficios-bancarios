@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-06T12:51",
+  "actualizado": "2026-08-07T11:38",
   "beneficios": [
     {
       "banco": "Banco de Chile",
@@ -10579,27 +10579,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Club Fogo Antofagasta",
-      "categoria": "Sabores",
-      "descuento": "20% dto.",
-      "dia": [
-        "Miércoles"
-      ],
-      "dia_texto": "miércoles",
-      "canal": null,
-      "vigencia": "Promoción válida hasta el 30 de septiembre de 2026.",
-      "condiciones": [
-        "Fogo Antofagasta, un clásico de la ciudad con 11 años encantando con sus exquisitos platos, tablas, picoteos fríos y calientes, un lugar donde puedes además disfrutar de una espectacular vista al océano pacifico y sus hermosos atardeceres. Contamos con salones interiores y terrazas, aquí pueden disfrutar adultos y niños, un lugar cálido y acogedor pensado para que puedas disfrutar de una rica comida y ricos cocteles. Fogo, un clásico de Antofagasta.",
-        "20% dto miércoles.",
-        "No acumulable con otras ofertas, menú y/o promociones.",
-        "Beneficios exclusivo pagando con tus Tarjetas del Chile."
-      ],
-      "sucursales": [
-        "Avenida Republica de Croacia 048, Antofagasta, Antofagasta"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "Holy Burger and Bar",
       "categoria": "Sabores",
       "descuento": "20% dto.",
@@ -16518,94 +16497,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Piwen",
-      "categoria": "Sabores",
-      "descuento": "25% dto.",
-      "dia": [
-        "Miércoles"
-      ],
-      "dia_texto": "miércoles",
-      "canal": "Ambos",
-      "vigencia": "Promoción válida hasta el 31 de mayo de 2027.",
-      "condiciones": [
-        "Piwén es una marca chilena dedicada a ofrecer alimentos ricos, naturales y de alta calidad, pensados para acompañar una vida más saludable sin perder el placer de comer bien. Encuentra frutos secos, snacks, chocolates, regalos y productos seleccionados con una propuesta cercana, equilibrada y llena de sabor.",
-        "Genera tu código de descuento y preséntalo al momento de pagar o ingrésalo en piwen.cl",
-        "Descuento no aplica para valor del despacho.",
-        "Revisa cobertura de despacho en piwen.cl",
-        "No acumulable con otras promociones.",
-        "Descuento exclusivo pagando con tus Tarjetas del Chile."
-      ],
-      "sucursales": [
-        "Complejo Enea Pudahuel, Río Itata 9654, Región Metropolitana, Pudahuel",
-        "Av. Luis Pasteur 6058 Local 4 y 5, Región Metropolitana, Vitacura",
-        "Av. Santa María 407, Región Metropolitana, Recoleta",
-        "José Joaquín Prieto Vial 5610, Región Metropolitana, San Miguel",
-        "Av. Providencia 2131, Región Metropolitana, Providencia",
-        "Av. Apoquindo 4566, Región Metropolitana, Las Condes",
-        "Huérfanos 602 Local 2, Región Metropolitana, Santiago Centro",
-        "Luis Thayer Ojeda 0180, Región Metropolitana, Providencia",
-        "Serafín Zamora 49, Región Metropolitana, La Florida",
-        "Av. Providencia 2316, Región Metropolitana, Providencia",
-        "Pedro de Valdivia 3387 Local 1, Región Metropolitana, Ñuñoa",
-        "Apumanque, Av. Manquehue Sur 31 Local 206, Región Metropolitana, Las Condes",
-        "Paseo Pie Andino 4770 Local C, Región Metropolitana, Lo Barnechea",
-        "Av. Larraín 5862 MP 1511, Región Metropolitana, La Reina",
-        "Metro Los Dominicos, Av. Apoquindo 8613 Módulo 1, Región Metropolitana, Las Condes",
-        "Metro Plaza de Maipú, Av. Los Pajaritos 1921 Módulo 2, Región Metropolitana, Maipú",
-        "Metro Manquehue, Av. Apoquindo 5875, Región Metropolitana, Las Condes",
-        "Metro Manuel Montt, Av. Providencia 1337, Región Metropolitana, Providencia",
-        "Metro Moneda, Av. Libertador Bernardo OHiggins 1330, Región Metropolitana, Santiago Centro",
-        "Metro Pedro de Valdivia, Av. Providencia 1880, Región Metropolitana, Providencia",
-        "Metro Plaza de Puente Alto, Av. Concha y Toro 265, Región Metropolitana, Puente Alto",
-        "Metro Tobalaba, Av. Providencia 2700, Región Metropolitana, Providencia",
-        "Metro Metro Universidad de Chile,, Región Metropolitana, Santiago Centro",
-        "Alianza Cristiana y Misionera 255, Región de Los Lagos, Puerto Montt"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Dockers",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": "20% dto.",
-      "dia": [
-        "Lunes",
-        "Martes"
-      ],
-      "dia_texto": "lunes y martes",
-      "canal": "Ambos",
-      "vigencia": "Promoción válida hasta el 31 de octubre de 2026.",
-      "condiciones": [
-        "20% dto. los lunes y martes en compra presencial y en www.dockers.cl/collections/promo",
-        "Para compra presencial solicita tu descuento al momento de pagar.",
-        "Para compra online descarga tu código e ingrésalo en dockers.cl/collections/promo al momento de pagar.",
-        "Descuento no aplica para valor del despacho.",
-        "Revisa cobertura de despacho en https://www.dockers.cl",
-        "Descuento exclusivo pagando con tus Tarjetas del Chile."
-      ],
-      "sucursales": [
-        "Av. Balmaceda 2355, Antofagasta, Antofagasta",
-        "Av. Vicente Méndez 1545, Región del Bíobio, Ñuble",
-        "San Pedro de la Paz, Región del Bíobio, Concepción",
-        "Av. los Carrera Poniente 301, Región del Bíobio, Concepción",
-        "Av. Pdte. Jorge Alessandri Rodriguez 3177, Región del Bíobio, Talcahuano",
-        "Av. Lomas de la Luz 4650, Región de Valparaiso, Curauma",
-        "Av. Libertad 1348, Región de Valparaiso, Viña del Mar",
-        "Illapel 10, Región de Los Lagos, Puerto Montt",
-        "Av. Pdte. Kennedy 5413, Región Metropolitana, Vitacura",
-        "Av. Pdte. Kennedy Lateral 9001, Región Metropolitana, Las Condes",
-        "Av. Andrés Bello 2425, Región Metropolitana, Providencia",
-        "San Ignacio 500, Región Metropolitana, Quilicura",
-        "Av. La Dehesa 1445, Región Metropolitana, Lo Barnechea",
-        "Av. Larraín 5862, Región Metropolitana, La Reina",
-        "Av. Padre Hurtado Sur 875, Región Metropolitana, Las Condes",
-        "Av. Américo Vespucio 1501, Región Metropolitana, Cerrillos",
-        "Av. Américo Vespucio 1737, Región Metropolitana, Huechuraba",
-        "Av. Alemania 671, Regipon de la Araucanía, Temuco",
-        "Arauco 561, Región de Los Ríos, Valdivia"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "Lebol Restobar",
       "categoria": "Sabores",
       "descuento": "20% dto.",
@@ -18374,30 +18265,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Riccione",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Jueves"
-      ],
-      "dia_texto": "jueves de agosto",
-      "canal": null,
-      "vigencia": "Promoción válida desde el 01 al 31 de agosto de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial.",
-        "40% dto. todos los jueves de agosto",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dto. $50.000 por mesa"
-      ],
-      "sucursales": [
-        "Avenida Pablo Neruda 2451, Región de La Araucanía, Temuco"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "DESI AVOCCO",
       "categoria": "Retail y Otras Marcas",
       "descuento": "30% dto.",
@@ -19125,6 +18992,30 @@
       ],
       "sucursales": [
         "Diego Portales #318, Región de los Los Lagos, Puerto Varas"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "La Barquera",
+      "categoria": "Sabores",
+      "descuento": "20% dto.",
+      "dia": [
+        "Martes",
+        "Miércoles",
+        "Jueves"
+      ],
+      "dia_texto": "martes a jueves",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 30 de junio de 2027.",
+      "condiciones": [
+        "La Barquera, ubicada en Enjoy Antofagasta, destaca por su gastronomía y privilegiada vista al mar. Cuenta con pizzas a la piedra, pastas, carnes y preparaciones de calidad, en un ambiente ideal para compartir en pareja, con amigos, en familia o en reuniones.",
+        "20% dto. martes a jueves compra presencial.",
+        "Solicita tu descuento al momento de pagar.",
+        "No acumulable con otras promociones.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Avenida Angamos #1605, Región de Antofagasta, Antofagasta"
       ]
     },
     {
@@ -20198,32 +20089,6 @@
       "canal": null,
       "vigencia": null,
       "condiciones": [],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Jansport",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": "40% dto.",
-      "dia": [
-        "Jueves"
-      ],
-      "dia_texto": "jueves",
-      "canal": "Online",
-      "vigencia": "Promoción válida jueves 30 de julio y 06 de agosto 2026.",
-      "condiciones": [
-        "40% dto. jueves en jansport.cl",
-        "Genera tu código e ingrésalo como cupón en jansport.cl",
-        "Tope de dto. $35.000",
-        "500 códigos disponibles para esta promoción.",
-        "Descarga del código estará disponible el día que participe la marca, desde las 00:00 hrs.",
-        "No acumulable con otras promociones.",
-        "Descuento no aplica para el valor del despacho.",
-        "Revisa cobertura de despacho en jansport.cl",
-        "Descuento no aplica en categoria mujer y hombre.",
-        "Descuento no aplica para compras con facturas y en cambios.",
-        "Descuento exclusivo pagando con tus Tarjetas del Chile."
-      ],
       "sucursales": []
     },
     {
@@ -21766,20 +21631,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "10% dto. Adicional",
-      "categoria": "Viajes",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "Solo por el 5 de agosto",
-      "canal": null,
-      "vigencia": "Promoción válida hasta el 5 de agosto de 2026.",
-      "condiciones": [
-        "Solo por este 5 de agosto, recibe un 10% de dcto. adicional en SKY."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "Salones VIP Nacionales",
       "categoria": "Viajes",
       "descuento": null,
@@ -21849,6 +21700,96 @@
         "Marcas Adheridas: Hush Puppies Kids, Limonada, Opaline, Colloky, Baby Rosen, Chuck E. Cheese, Nacional Librería, La Papelaria, Pichintún ¡Y muchas más!"
       ],
       "sucursales": []
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Piwen",
+      "categoria": "Sabores",
+      "descuento": "25% dto.",
+      "dia": [
+        "Miércoles"
+      ],
+      "dia_texto": "miércoles",
+      "canal": "Ambos",
+      "vigencia": "Promoción válida hasta el 31 de mayo de 2027.",
+      "condiciones": [
+        "Piwén es una marca chilena dedicada a ofrecer alimentos ricos, naturales y de alta calidad, pensados para acompañar una vida más saludable sin perder el placer de comer bien. Encuentra frutos secos, snacks, chocolates, regalos y productos seleccionados con una propuesta cercana, equilibrada y llena de sabor.",
+        "25% dto. miércoles en compra presencial y en piwen.cl",
+        "Para compra presencial indica los 6 primeros dígitos de tus Tarjetas del Chile al momento de pagar.",
+        "Para compra online genera tu código de descuento e ingrésalo en piwen.cl",
+        "Descuento no aplica para valor del despacho.",
+        "Revisa cobertura de despacho en piwen.cl",
+        "No acumulable con otras promociones.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Complejo Enea Pudahuel, Río Itata 9654, Región Metropolitana, Pudahuel",
+        "Av. Luis Pasteur 6058 Local 4 y 5, Región Metropolitana, Vitacura",
+        "Av. Santa María 407, Región Metropolitana, Recoleta",
+        "José Joaquín Prieto Vial 5610, Región Metropolitana, San Miguel",
+        "Av. Providencia 2131, Región Metropolitana, Providencia",
+        "Av. Apoquindo 4566, Región Metropolitana, Las Condes",
+        "Huérfanos 602 Local 2, Región Metropolitana, Santiago Centro",
+        "Luis Thayer Ojeda 0180, Región Metropolitana, Providencia",
+        "Serafín Zamora 49, Región Metropolitana, La Florida",
+        "Av. Providencia 2316, Región Metropolitana, Providencia",
+        "Pedro de Valdivia 3387 Local 1, Región Metropolitana, Ñuñoa",
+        "Apumanque, Av. Manquehue Sur 31 Local 206, Región Metropolitana, Las Condes",
+        "Paseo Pie Andino 4770 Local C, Región Metropolitana, Lo Barnechea",
+        "Av. Larraín 5862 MP 1511, Región Metropolitana, La Reina",
+        "Metro Los Dominicos, Av. Apoquindo 8613 Módulo 1, Región Metropolitana, Las Condes",
+        "Metro Plaza de Maipú, Av. Los Pajaritos 1921 Módulo 2, Región Metropolitana, Maipú",
+        "Metro Manquehue, Av. Apoquindo 5875, Región Metropolitana, Las Condes",
+        "Metro Manuel Montt, Av. Providencia 1337, Región Metropolitana, Providencia",
+        "Metro Moneda, Av. Libertador Bernardo OHiggins 1330, Región Metropolitana, Santiago Centro",
+        "Metro Pedro de Valdivia, Av. Providencia 1880, Región Metropolitana, Providencia",
+        "Metro Plaza de Puente Alto, Av. Concha y Toro 265, Región Metropolitana, Puente Alto",
+        "Metro Tobalaba, Av. Providencia 2700, Región Metropolitana, Providencia",
+        "Metro Metro Universidad de Chile,, Región Metropolitana, Santiago Centro",
+        "Alianza Cristiana y Misionera 255, Región de Los Lagos, Puerto Montt"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Dockers",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "20% dto.",
+      "dia": [
+        "Lunes",
+        "Martes"
+      ],
+      "dia_texto": "lunes y martes",
+      "canal": "Ambos",
+      "vigencia": "Promoción válida hasta el 31 de octubre de 2026.",
+      "condiciones": [
+        "20% dto. los lunes y martes en compra presencial y en www.dockers.cl/collections/promo",
+        "Para compra presencial solicita tu descuento al momento de pagar.",
+        "Para compra online descarga tu código e ingrésalo en dockers.cl/collections/promo al momento de pagar.",
+        "Descuento no aplica para valor del despacho.",
+        "Revisa cobertura de despacho en https://www.dockers.cl",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Av. Balmaceda 2355, Antofagasta, Antofagasta",
+        "Av. Vicente Méndez 1545, Región del Bíobio, Ñuble",
+        "San Pedro de la Paz, Región del Bíobio, Concepción",
+        "Av. los Carrera Poniente 301, Región del Bíobio, Concepción",
+        "Av. Pdte. Jorge Alessandri Rodriguez 3177, Región del Bíobio, Talcahuano",
+        "Av. Lomas de la Luz 4650, Región de Valparaiso, Curauma",
+        "Av. Libertad 1348, Región de Valparaiso, Viña del Mar",
+        "Illapel 10, Región de Los Lagos, Puerto Montt",
+        "Av. Pdte. Kennedy 5413, Región Metropolitana, Vitacura",
+        "Av. Pdte. Kennedy Lateral 9001, Región Metropolitana, Las Condes",
+        "Av. Andrés Bello 2425, Región Metropolitana, Providencia",
+        "San Ignacio 500, Región Metropolitana, Quilicura",
+        "Av. La Dehesa 1445, Región Metropolitana, Lo Barnechea",
+        "Av. Larraín 5862, Región Metropolitana, La Reina",
+        "Av. Padre Hurtado Sur 875, Región Metropolitana, Las Condes",
+        "Av. Américo Vespucio 1501, Región Metropolitana, Cerrillos",
+        "Av. Américo Vespucio 1737, Región Metropolitana, Huechuraba",
+        "Av. Alemania 671, Regipon de la Araucanía, Temuco",
+        "Arauco 561, Región de Los Ríos, Valdivia"
+      ]
     },
     {
       "banco": "Banco de Chile",
