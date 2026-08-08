@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-07T11:38",
+  "actualizado": "2026-08-08T11:20",
   "beneficios": [
     {
       "banco": "Banco de Chile",
@@ -22,52 +22,6 @@
       ],
       "sucursales": [
         "Carampangue #190, Región de los Ríos, Valdivia"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "DHouse",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": "40% dto.",
-      "dia": [
-        "Viernes"
-      ],
-      "dia_texto": "viernes",
-      "canal": "Tienda física",
-      "vigencia": "Promoción válida viernes 31 de julio y 07 de agosto 2026.",
-      "condiciones": [
-        "40% dto. viernes en compras presenciales.",
-        "Tope de dto. $35.000",
-        "Genera tu código de descuento y preséntalo al momento de pagar.",
-        "400 códigos disponibles para esta promoción.",
-        "Descarga del código estará disponible el día que participe la marca, desde las 00:00 hrs.",
-        "No acumulable con otras promociones.",
-        "Descuento no aplica en categoría mujer y hombre.",
-        "Descuento no aplica para compras con facturas y en cambios.",
-        "Descuento exclusivo pagando con tus Tarjetas del Chile."
-      ],
-      "sucursales": [
-        "L 179, A. Vespucio #399, Región Metropolitana, Maipú",
-        "A. Departamental #01053, Región Metropolitana, La Florida",
-        "A. Vespucio Norte #1789, Región Metropolitana, Huechuraba",
-        "Local #2057, Francisco Bilbao #8750, Región Metropolitana, La Reina",
-        "Camino A Melipilla #9400, Región Metropolitana, Maipú",
-        "Local 1034, Mar Tirreno #5449, Región Metropolitana, Peñalolén",
-        "Local A305, Av. Alameda Bdo. OHiggins 3470, Región Metropolitana, Santiago",
-        "Local 2, San Ignacio 500 Buenaventura, Región Metropolitana, Quilicura",
-        "L.12, Avda. OHiggins 581, Región Metropolitana, Quilicura",
-        "L 502 Easton Center, Eduardo Freí Montalvo 9709, Región Metropolitana, Quilicura",
-        "Local 128, Av. Lo Espejo 943, Región Metropolitana, Lo Espejo",
-        "JVACIO, orge Alessandri S/N Sector Home Center - Lider, Región del Biobío, Concepción",
-        "Av. Ramón Freire #1851, Región de Valparaíso, Quilpué",
-        "Av. Francisco De Aguirre #02, Región de Coquimbo, La Serena",
-        "L.1003, Carretera El Cobre Presidente Frei #750, Región del Libertador Bernardo OHiggins, Rancagua",
-        "Local 9-10-11, Argentina #1, Región de Valparaíso, Valparaíso",
-        "Local 111-112, Av. Parque Industrial 450, Región de los Lagos, Puerto Montt",
-        "Local 23-24, Calle Portal San Pedro 4850, Región del Biobío, Concepción",
-        "Local 109, Av. Einstein 290, Región del Libertador Bernardo OHiggins, Rancagua",
-        "Local Le 18 - Lc 34, Camino Internacional 2440, Región de Valparaíso, Viña del Mar",
-        "Local S17, Av. Lomas De La Luz 4650, Región de Valparaíso, Curauma"
       ]
     },
     {
@@ -15042,85 +14996,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "LIPPI",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": "30% dto.",
-      "dia": [
-        "Miércoles"
-      ],
-      "dia_texto": "miércoles",
-      "canal": "Tienda física",
-      "vigencia": "Promoción válida hasta el 30 de noviembre de 2026.",
-      "condiciones": [
-        "Equípate para recorrer la cordillera de los Andes con productos diseñados para rendir en su terreno. Nacimos entre montañas, aprendemos de ellas y estamos comprometidos con su cuidado. Queremos inspirarte a explorar su fuerza salvaje, conectar con su naturaleza única y vivir experiencias que se quedan para siempre.",
-        "30% dto. los miércoles en compra presencial.",
-        "Tope de dto. $50.000",
-        "Solicita tu descuento al momento de pagar presentando los 6 primeros dígitos de tu tarjeta como cupón de descuento.",
-        "No acumulable con otras promociones.",
-        "Descuento exclusivo pagando con tus Tarjetas del Chile."
-      ],
-      "sucursales": [
-        "Tienda Lippi Pucón, Avenida OHiggins #112, Región de la Araucanía, Pucón",
-        "Tienda Lippi Alto Las Condes, Avenida Kennedy #9001, Región Metropolitana, Las Condes",
-        "Tienda Lippi Mall Sport, Avenida Las Condes #13451, Región Metropolitana, Las Condes",
-        "Tienda Geography, BuenaventuraSan Ignacio #500, Región Metropolitana, Quilicura",
-        "Tienda Lippi El Trébol, Avda. Jorge Alessandri #3177, Región del Biobío, Talcahuano",
-        "Tienda Lippi Vespucio, Vicuña Mackenna Oriente #7110, Región Metropolitana, La Florida",
-        "Tienda Lippi Arauco Maipú, Avenida Américo Vespucio #399, Región Metropolitana, Maipú",
-        "Tienda Lippi Costanera, Avenida Andrés Bello #2447, Región Metropolitana, Providencia",
-        "Tienda Geography Quilin, Mar Tirreno #3349, Región Metropolitana, Peñalolén",
-        "Tienda Lippi Portal Temuco, Avenida Alemania #0671, Región de la Araucanía, Temuco",
-        "Tienda Lippi Mall Concepción, Barros Arana #1080, Región del Biobío, Concepción",
-        "Tienda Haka Honu Osorno, Plaza Yungay #609, Región de Los Lagos, Osorno",
-        "Tienda Lippi Calama, Avenida Blamaceda #3242, Región de Antofagasta, Calama",
-        "Tienda Lippi La Serena, Avenida Alberto Solari #1400, Región de Coquimbo, La Serena",
-        "Tienda Geography Puerto Montt, Urmeneta #580, Región de Los Lagos, Puerto Montt",
-        "Tienda Lippi Plaza Egaña, Larrain #5862, Región Metropolitana, La Reina",
-        "Tienda Geography Vivo, MaipuAv Lo Espejo #943, Región Metropolitana, Maipú",
-        "Tienda Lippi Copiapo, Maipu #0110, Región de Atacama, Copiapó",
-        "Tienda Lippi Open Plaza Rancagua, Teniente Coronel Jose Bernardo Cuevas #405, Región Libertador General Bernardo OHiggins, Rancagua",
-        "Tienda Geography Easton Outlet Mall, Eduardo Frei Montalva #9709 y #9719, Región Metropolitana, Quilicura",
-        "Tienda Lippi Punta Arenas, Eduardo Frei Montalva #01110, Región de Magallanes y de la Antártica Chilena, Punta Arenas",
-        "Tienda Lippi Florida Center, Av. Vicuna Mackenna #6100, Región Metropolitana, La Florida",
-        "Tienda Lippi Mall Plaza Los Angeles, Calle Valdivia #440, Región del Biobío, Los Angeles",
-        "Tienda Geography Mid Mall Maipú, Camino Melipilla #15900, Región Metropolitana, Maipú",
-        "Calle Ignacio Serrano #574, Región de Los Lagos, Castro",
-        "Calle Illapel #10, Región de Los Lagos, Puerto Montt",
-        "Calle Juan Soler Manfredini #31, Región de Los Lagos, Puerto Montt",
-        "Plaza Yungay #609, Región de Los Lagos, Puerto Montt",
-        "Avenida Ferrocarril Km 3.5 camino a Alerce, Región de Los Lagos, Puerto Montt",
-        "Avenida la Dehesa #1445, Región Metropolitana, Lo Barnechea",
-        "Carlos Valdovinos #200, Región Metropolitana, San Joaquín",
-        "Avenida La Florida, ex Macul #8988, Región Metropolitana, La Florida",
-        "Avenida Padre Hurtado Sur #875, Región Metropolitana, Las Condes",
-        "Huerfanos #830, Región Metropolitana, Santiago",
-        "Avenida Andrés Bello #2447, Región Metropolitana, Providencia",
-        "Avenida Independencia #565, Región Metropolitana, Independencia",
-        "Gran Avenida Jose Miguel Carrera #6150, Región Metropolitana, San Miguel",
-        "Avenida Kennedy #5601, Región Metropolitana, Las Condes",
-        "Paseo Puente #689, Región Metropolitana, Santiago",
-        "Carretera El Cobre, Presidente Frei #750, Región Libertador General Bernardo OHiggins, San Fernando",
-        "Bernardo Ohiggins #701, Región Libertador General Bernardo OHiggins, Rancagua",
-        "Calle Arauco #561, Región de Los Ríos, Valdivia",
-        "Calle Errazuriz #1040, Región de Los Ríos, Valdivia",
-        "Av. Picarte #422, Región de Los Ríos, Valdivia",
-        "Camino a la Cantera #2325, Región de Coquimbo, Coquimbo",
-        "5 Norte Esquina Calle Regimiento Arica, Región de Coquimbo, La Serena",
-        "Varela #1524, Región de Coquimbo, Coquimbo",
-        "Camino Internacional #2440, Región de Valparaíso, Viña del Mar",
-        "Av Santa Teresa #683, Región de Valparaíso, Los Andes",
-        "14 Norte #976, Región de Valparaíso, Viña del Mar",
-        "Avda Valparaiso #1070, Región de Valparaíso, Viña del Mar",
-        "Avenida Carlos Prats #0901, Región del Biobío, Coronel",
-        "Avda. Jorge Alessandri #3177, Región del Biobío, Talcahuano",
-        "Av Circunvalacion Oriente #1055, Región del Maule, Talca",
-        "Av. Colin #635, Región del Maule, Talca",
-        "Manuel Montt #455, Región del Maule, Curico",
-        "Avenida Héroes de La Concepción #2555, Región de Tarapacá, Iquique"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "EL VOLCAN",
       "categoria": "Retail y Otras Marcas",
       "descuento": "20% dto.",
@@ -17376,29 +17251,6 @@
       ],
       "sucursales": [
         "Raúl Labbe #12559, Región Metropolitana, Lo Barnechea"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Barrica 94",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Sábado"
-      ],
-      "dia_texto": "sábado de agosto",
-      "canal": null,
-      "vigencia": "Promoción válida desde el 01 al 31 de agosto de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial 40% dto. sábado de agosto",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dto. $50.000 por mesa"
-      ],
-      "sucursales": [
-        "Av. José Alcalde Délano #10533, local 1508, Región Metropolitana, Lo Barnechea"
       ]
     },
     {
@@ -20295,37 +20147,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "HAKA HONU",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": "30% dto.",
-      "dia": [
-        "Martes"
-      ],
-      "dia_texto": "martes",
-      "canal": "Tienda física",
-      "vigencia": "Promoción válida hasta el 30 de noviembre de 2026.",
-      "condiciones": [
-        "Haka Honu, es un llamado a salir, a explorar lo desconocido, y descubrir la belleza que nos rodea. Es el impulso que nos mueve a conocer, amar y proteger la naturaleza, porque cuando vivimos fuera, nos volvemos parte de ella. Atrévete a sentir el aire libre, a caminar nuevos senderos, a descubrir la vida natural. Cada uno de nuestros productos está hecho para acompañarte en esa aventura. Porque fuera es donde todo comienza. Vive Fuera para explorar. Vive Fuera para proteger lo que amas.",
-        "30% dto. los martes en compra presencial.",
-        "Tope de dto. $50.000",
-        "Solicita tu descuento al momento de pagar presentando los 6 primeros dígitos de tu tarjeta como cupón de descuento.",
-        "No acumulable con otras promociones.",
-        "Descuento exclusivo pagando con tus Tarjetas del Chile."
-      ],
-      "sucursales": [
-        "Arauco #561, Local 194, Región de los Ríos, Valdivia",
-        "Av. Jorge Alessandri #3177, Local F102, Región del Biobío, Talcahuano",
-        "Avenida Andrés Bello #2447, Local 4161, Región Metropolitana, Providencia",
-        "Juan Soler Manfredini #31, Local 114, Región de Los Lagos, Puerto Montt",
-        "Av. Pdte. Kennedy #5601, Local L1-14, Región Metropolitana, Las Condes",
-        "Plazuela Yungay #609, Local 3037, Región de Los Lagos, Osorno",
-        "Avenida Padre Hurtado Sur #875, Local A-3061-A, Región Metropolitana, Las Condes",
-        "Av. Vicuña Mackenna #7110, Local 1137-1145, Región Metropolitana, La Florida",
-        "Calle Pedro Aguirre Cerda #10.578, Locales 218-222, Región de Antofagasta, Antofagasta"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "Domino’s Pizza",
       "categoria": "Sabores",
       "descuento": "40% dto.",
@@ -20429,6 +20250,29 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "Barrica 94",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Sábado"
+      ],
+      "dia_texto": "sábado de agosto",
+      "canal": null,
+      "vigencia": "Promoción válida desde el 01 al 31 de agosto de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. sábado de agosto",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Av. José Alcalde Délano #10533, local 1508, Región Metropolitana, Lo Barnechea"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "Porfirio",
       "categoria": "Sabores",
       "descuento": "40% dto.",
@@ -20498,6 +20342,29 @@
       ],
       "sucursales": [
         "Isidora Goyenechea #2939, Región Metropolitana, Las Condes"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Bold Barber Lounge Club",
+      "categoria": "Salud y Belleza",
+      "descuento": "20% dto.",
+      "dia": [
+        "Lunes",
+        "Martes"
+      ],
+      "dia_texto": "lunes y martes",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 31 de julio 2027.",
+      "condiciones": [
+        "Bold Barber Lounge Club es una barbería especializada en cortes de cabello, servicios de barba y cuidado masculino. Ofrece una experiencia con atención personalizada, profesionales altamente capacitados, productos de primera calidad y un ambiente diseñado para que disfrutes cada visita.",
+        "20% dto. lunes y martes en todos los servicios.",
+        "Solicita tu descuento al momento de pagar.",
+        "No acumulable con otras promociones.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Balmoral #309, Local 5, Región Metropolitana, Las Condes"
       ]
     },
     {
@@ -20739,30 +20606,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Jardín Ulriksen",
-      "categoria": "Sabores",
-      "descuento": "40% dto",
-      "dia": [
-        "Martes"
-      ],
-      "dia_texto": "martes de agosto",
-      "canal": null,
-      "vigencia": "Promoción válida desde el 01 al 31 de agosto de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial.",
-        "40% dto. martes de agosto",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dto. $50.000 por mesa"
-      ],
-      "sucursales": [
-        "Av Guillermo Ulriksen #2845, Región de Coquimbo, La Serena"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "Capri",
       "categoria": "Sabores",
       "descuento": "40% dto.",
@@ -20784,6 +20627,30 @@
       "sucursales": [
         "Gerónimo de Alderete 1423, Región Metropolitana, Vitacura",
         "El Rodeo #13052, Región Metropolitana, Lo Barnechea"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Jardín Ulriksen",
+      "categoria": "Sabores",
+      "descuento": "40% dto",
+      "dia": [
+        "Lunes"
+      ],
+      "dia_texto": "lunes de agosto",
+      "canal": null,
+      "vigencia": "Promoción válida desde el 01 al 31 de agosto de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial.",
+        "40% dto. lunes de agosto",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Av Guillermo Ulriksen #2845, Región de Coquimbo, La Serena"
       ]
     },
     {
@@ -21751,48 +21618,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Dockers",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": "20% dto.",
-      "dia": [
-        "Lunes",
-        "Martes"
-      ],
-      "dia_texto": "lunes y martes",
-      "canal": "Ambos",
-      "vigencia": "Promoción válida hasta el 31 de octubre de 2026.",
-      "condiciones": [
-        "20% dto. los lunes y martes en compra presencial y en www.dockers.cl/collections/promo",
-        "Para compra presencial solicita tu descuento al momento de pagar.",
-        "Para compra online descarga tu código e ingrésalo en dockers.cl/collections/promo al momento de pagar.",
-        "Descuento no aplica para valor del despacho.",
-        "Revisa cobertura de despacho en https://www.dockers.cl",
-        "Descuento exclusivo pagando con tus Tarjetas del Chile."
-      ],
-      "sucursales": [
-        "Av. Balmaceda 2355, Antofagasta, Antofagasta",
-        "Av. Vicente Méndez 1545, Región del Bíobio, Ñuble",
-        "San Pedro de la Paz, Región del Bíobio, Concepción",
-        "Av. los Carrera Poniente 301, Región del Bíobio, Concepción",
-        "Av. Pdte. Jorge Alessandri Rodriguez 3177, Región del Bíobio, Talcahuano",
-        "Av. Lomas de la Luz 4650, Región de Valparaiso, Curauma",
-        "Av. Libertad 1348, Región de Valparaiso, Viña del Mar",
-        "Illapel 10, Región de Los Lagos, Puerto Montt",
-        "Av. Pdte. Kennedy 5413, Región Metropolitana, Vitacura",
-        "Av. Pdte. Kennedy Lateral 9001, Región Metropolitana, Las Condes",
-        "Av. Andrés Bello 2425, Región Metropolitana, Providencia",
-        "San Ignacio 500, Región Metropolitana, Quilicura",
-        "Av. La Dehesa 1445, Región Metropolitana, Lo Barnechea",
-        "Av. Larraín 5862, Región Metropolitana, La Reina",
-        "Av. Padre Hurtado Sur 875, Región Metropolitana, Las Condes",
-        "Av. Américo Vespucio 1501, Región Metropolitana, Cerrillos",
-        "Av. Américo Vespucio 1737, Región Metropolitana, Huechuraba",
-        "Av. Alemania 671, Regipon de la Araucanía, Temuco",
-        "Arauco 561, Región de Los Ríos, Valdivia"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "Poliglota",
       "categoria": "Retail y Otras Marcas",
       "descuento": "Hasta 70% dto.",
@@ -21824,6 +21649,270 @@
         "Avance de nivel mensual, acorde a desempeño.",
         "Contenido complementario para revisar 24/7.",
         "Compañeros de todas partes del mundo."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "La Hacienda Talca",
+      "categoria": "Sabores",
+      "descuento": "20% dto.",
+      "dia": [
+        "Viernes"
+      ],
+      "dia_texto": "viernes",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 31 de marzo de 2027.",
+      "condiciones": [
+        "La Hacienda Talca es un restaurante especializado en carnes, ideal para disfrutar en familia o con amigos en un ambiente acogedor y con una atención cercana.",
+        "20% dto. viernes en compra presencial.",
+        "Tope dto. $40.000",
+        "No válido para menú, Happy Hour ni otras promociones vigentes.",
+        "Solicita tu descuento al momento de pagar.",
+        "No acumulable con otras promociones.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Avda. Pehuenche Norte #1143, Región del Maule, Talca"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "LIPPI",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "30% dto.",
+      "dia": [
+        "Miércoles"
+      ],
+      "dia_texto": "miércoles",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 30 de noviembre de 2026.",
+      "condiciones": [
+        "Equípate para recorrer la cordillera de los Andes con productos diseñados para rendir en su terreno. Nacimos entre montañas, aprendemos de ellas y estamos comprometidos con su cuidado. Queremos inspirarte a explorar su fuerza salvaje, conectar con su naturaleza única y vivir experiencias que se quedan para siempre.",
+        "30% dto. los miércoles en compra presencial.",
+        "Tope de dto. $50.000",
+        "Solicita tu descuento al momento de pagar presentando los 6 primeros dígitos de tu tarjeta como cupón de descuento.",
+        "No acumulable con otras promociones.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Avenida OHiggins #112, Región de La Araucanía, Temuco",
+        "Avenida Kennedy #9001, Región Metropolitana, Las Condes",
+        "San Ignacio #500, Región Metropolitana, Santiago",
+        "Avda. Jorge Alessandri #3177, Región del Biobío, Talcahuano",
+        "Av. Américo Vespucio #399, Región Metropolitana, Huechuraba",
+        "Avenida Andrés Bello #2447, Región Metropolitana, Providencia",
+        "Mar Tirreno #3349, Región Metropolitana, Pudahuel",
+        "Avenida Alemania #0671, Región de La Araucanía, Temuco",
+        "Barros Arana #1080, Región del Biobío, Concepción",
+        "Avenida Balmaceda #3242, Región de Antofagasta, Calama",
+        "Avenida Alberto Solari #1400, Región de Coquimbo, La Serena",
+        "Urmeneta #580, Región de Los Lagos, Puerto Montt",
+        "Larraín #5862, Región Metropolitana, La Reina",
+        "Av. Lo Espejo #943, Región Metropolitana, Lo Espejo",
+        "Maipú #0110, Región de Atacama, Copiapó",
+        "Teniente Coronel José Bernardo Cuevas #405, Región de OHiggins, Rancagua",
+        "Eduardo Frei Montalva #9709 y #9719, Región Metropolitana, Quilicura",
+        "Eduardo Frei Montalva #01110, Región de Magallanes, Punta Arenas",
+        "Av. Vicuña Mackenna #6100, Región Metropolitana, La Florida",
+        "Calle Valdivia #440, Región del Biobío, Los Ángeles",
+        "Camino Melipilla #15900, Región Metropolitana, Maipú",
+        "Calle Ignacio Serrano #574, Región de Los Lagos, Puerto Montt",
+        "Calle Illapel #10, Región de Los Lagos, Puerto Montt",
+        "Carretera El Cobre, Presidente Frei #750, Región de OHiggins, Rancagua",
+        "Bernardo OHiggins #701, Región de OHiggins, San Fernando",
+        "Camino a la Cantera #2325, Región de Coquimbo, Coquimbo",
+        "Camino Internacional #2440, Región de Valparaíso, Viña del Mar",
+        "Avenida La Dehesa #1445, Región Metropolitana, Lo Barnechea",
+        "5 Norte esq. Regimiento Arica S/N, Región de Coquimbo, La Serena",
+        "Carlos Valdovinos #200, Región Metropolitana, San Joaquín",
+        "Avenida Carlos Prats #0901, Región del Biobío, Coronel",
+        "Calle Arauco #561, Región de Los Ríos, Valdivia",
+        "Avenida La Florida (ex Macul) #8988, Región Metropolitana, La Florida",
+        "Avenida Héroes de La Concepción #2555, Región de Tarapacá, Iquique",
+        "Las Quilas #1624-1648, Región de La Araucanía, Temuco",
+        "Rudecindo Ortega #01780, Región de La Araucanía, Temuco",
+        "Huérfanos #830, Región Metropolitana, Santiago",
+        "Varela #1524, Región de Coquimbo, Coquimbo",
+        "El Roble #770, Región de Ñuble, Chillán",
+        "Av. Santa Teresa #683, Región de Valparaíso, Los Andes",
+        "Av. Colín #635, Región del Maule, Talca",
+        "Calle Errázuriz #1040, Región de Los Ríos, Valdivia",
+        "14 Norte #976, Región de Valparaíso, Viña del Mar",
+        "Avenida Independencia #565, Región Metropolitana, Independencia",
+        "Avenida Ferrocarril S/N Km 3.5 camino a Alerce, Región de Los Lagos, Puerto Montt",
+        "Calle San Francisco #666, Región de Los Lagos, Puerto Montt",
+        "Gran Avenida José Miguel Carrera #6150, Región Metropolitana, La Cisterna",
+        "Avda. Valparaíso #1070, Región de Valparaíso, Villa Alemana",
+        "Manuel Montt #455, Región del Maule, Curicó",
+        "Av. Zenteno #21, Región de Antofagasta, Calama",
+        "Paseo Puente #689, Región Metropolitana, Santiago",
+        "Avda. Vicente Méndez #1545, Región de Ñuble, Chillán",
+        "Plaza Yungay #609, Región de Los Lagos, Osorno",
+        "Av. Picarte #422, Región de Los Ríos, Valdivia",
+        "Avenida Presidente Kennedy #5413, Región Metropolitana, Las Condes",
+        "Av. Padre Hurtado Sur #875, Región Metropolitana, Las Condes",
+        "Avenida Portal de San Pedro #4850, Región del Biobío, San Pedro de la Paz",
+        "Avenida Apoquindo #2730, Región Metropolitana, Las Condes",
+        "Avenida Vicuña Mackenna #7110, Región Metropolitana, La Florida",
+        "Av. Los Carrera Poniente #301, Región del Biobío, Concepción",
+        "Av. Libertador Bernardo OHiggins #3470, Región Metropolitana, Estación Central",
+        "Avenida Las Condes #13451, Región Metropolitana, Las Condes",
+        "Pedro Aguirre Cerda #10578, Región de Antofagasta, Antofagasta",
+        "Av. Concha y Toro #3909, Región Metropolitana, Puente Alto",
+        "Av. Presidente Kennedy #2702, Región de OHiggins, Rancagua",
+        "Av. Circunvalación Oriente #1055, Región del Maule, Talca",
+        "Francisco Bilbao #434, Región de La Araucanía, Temuco"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "HAKA HONU",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "30% dto.",
+      "dia": [
+        "Martes"
+      ],
+      "dia_texto": "martes",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 30 de noviembre de 2026.",
+      "condiciones": [
+        "Haka Honu, es un llamado a salir, a explorar lo desconocido, y descubrir la belleza que nos rodea. Es el impulso que nos mueve a conocer, amar y proteger la naturaleza, porque cuando vivimos fuera, nos volvemos parte de ella. Atrévete a sentir el aire libre, a caminar nuevos senderos, a descubrir la vida natural. Cada uno de nuestros productos está hecho para acompañarte en esa aventura. Porque fuera es donde todo comienza. Vive Fuera para explorar. Vive Fuera para proteger lo que amas.",
+        "30% dto. los martes en compra presencial.",
+        "Tope de dto. $50.000",
+        "Solicita tu descuento al momento de pagar presentando los 6 primeros dígitos de tu tarjeta como cupón de descuento.",
+        "No acumulable con otras promociones.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Avenida OHiggins #112, Región de La Araucanía, Temuco",
+        "San Ignacio #500, Región Metropolitana, Santiago",
+        "Av. Américo Vespucio #399, Región Metropolitana, Huechuraba",
+        "Mar Tirreno #3349, Región Metropolitana, Pudahuel",
+        "Avenida Alemania #0671, Región de La Araucanía, Temuco",
+        "Barros Arana #1080, Región del Biobío, Concepción",
+        "Avenida Balmaceda #3242, Región de Antofagasta, Calama",
+        "Avenida Alberto Solari #1400, Región de Coquimbo, La Serena",
+        "Urmeneta #580, Región de Los Lagos, Puerto Montt",
+        "Larraín #5862, Región Metropolitana, La Reina",
+        "Av. Lo Espejo #943, Región Metropolitana, Lo Espejo",
+        "Maipú #0110, Región de Atacama, Copiapó",
+        "Teniente Coronel José Bernardo Cuevas #405, Región de OHiggins, Rancagua",
+        "Eduardo Frei Montalva #9709 y #9719, Región Metropolitana, Quilicura",
+        "Eduardo Frei Montalva #01110, Región de Magallanes, Punta Arenas",
+        "Av. Vicuña Mackenna #6100, Región Metropolitana, La Florida",
+        "Calle Valdivia #440, Región del Biobío, Los Ángeles",
+        "Camino Melipilla #15900, Región Metropolitana, Maipú",
+        "Calle Ignacio Serrano #574, Región de Los Lagos, Puerto Montt",
+        "Carretera El Cobre, Presidente Frei #750, Región de OHiggins, Rancagua",
+        "Bernardo OHiggins #701, Región de OHiggins, San Fernando",
+        "Calle Arauco #561, Región de Los Ríos, Valdivia",
+        "Camino a la Cantera #2325, Región de Coquimbo, Coquimbo",
+        "Camino Internacional #2440, Región de Valparaíso, Viña del Mar",
+        "Avenida La Dehesa #1445, Región Metropolitana, Lo Barnechea",
+        "5 Norte Esquina Calle Regimiento Arica S/N, Región de Coquimbo, La Serena",
+        "Carlos Valdovinos #200, Región Metropolitana, San Joaquín",
+        "Avenida Carlos Prats #0901, Región del Biobío, Coronel",
+        "Avenida La Florida (ex Macul) #8988, Región Metropolitana, La Florida",
+        "Avenida Héroes de La Concepción #2555, Región de Tarapacá, Iquique",
+        "Las Quilas #1624-1648, Región de La Araucanía, Temuco",
+        "Rudecindo Ortega #01780, Región de La Araucanía, Temuco",
+        "Huérfanos #830, Región Metropolitana, Santiago",
+        "Varela #1524, Región de Coquimbo, Coquimbo",
+        "El Roble #770, Región de Ñuble, Chillán",
+        "Av. Santa Teresa #683, Región de Valparaíso, Los Andes",
+        "Avda. Jorge Alessandri #3177, Región del Biobío, Talcahuano",
+        "Av. Colín #635, Región del Maule, Talca",
+        "Avenida Andrés Bello #2447, Región Metropolitana, Providencia",
+        "Calle Errázuriz #1040, Región de Los Ríos, Valdivia",
+        "14 Norte #976, Región de Valparaíso, Viña del Mar",
+        "Avenida Independencia #565, Región Metropolitana, Independencia",
+        "Calle Juan Soler Manfredini #31, Región de Los Lagos, Puerto Montt",
+        "Avenida Ferrocarril S/N Km 3.5 camino a Alerce, Región de Los Lagos, Puerto Montt",
+        "Calle San Francisco #666, Región de Los Lagos, Puerto Montt",
+        "Gran Avenida José Miguel Carrera #6150, Región Metropolitana, La Cisterna",
+        "Avda. Valparaíso #1070, Región de Valparaíso, Villa Alemana",
+        "Avenida Kennedy #5601, Región Metropolitana, Vitacura",
+        "Manuel Montt #455, Región del Maule, Curicó",
+        "Av. Zenteno #21, Región de Antofagasta, Calama",
+        "Paseo Puente #689, Región Metropolitana, Santiago",
+        "Avda. Vicente Méndez #1545, Región de Ñuble, Chillán",
+        "Av. Picarte #422, Región de Los Ríos, Valdivia",
+        "Plaza Yungay #609, Región de Los Lagos, Osorno",
+        "Av. Padre Hurtado Sur #875, Región Metropolitana, Las Condes",
+        "Avenida Portal de San Pedro #4850, Región del Biobío, San Pedro de la Paz",
+        "Avenida Apoquindo #2730, Región Metropolitana, Las Condes",
+        "Avenida Vicuña Mackenna #7110, Región Metropolitana, La Florida",
+        "Av. Los Carrera Poniente #301, Región del Biobío, Concepción",
+        "Av. Libertador Bernardo OHiggins #3470, Región Metropolitana, Estación Central",
+        "Avenida Las Condes #13451, Región Metropolitana, Las Condes",
+        "Pedro Aguirre Cerda #10578, Región de Antofagasta, Antofagasta",
+        "Av. Concha y Toro #3909, Región Metropolitana, Puente Alto",
+        "Av. Presidente Kennedy #2702, Región de OHiggins, Rancagua",
+        "Av. Carlos León Briceño #103, Región de Valparaíso, Quillota",
+        "Francisco Bilbao #434, Región de La Araucanía, Temuco"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Dockers",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "20% dto.",
+      "dia": [
+        "Lunes",
+        "Martes"
+      ],
+      "dia_texto": "lunes y martes",
+      "canal": "Ambos",
+      "vigencia": "Promoción válida hasta el 31 de agosto de 2026.",
+      "condiciones": [
+        "20% dto. los lunes y martes en compra presencial y en www.dockers.cl/collections/promo",
+        "Para compra presencial solicita tu descuento al momento de pagar.",
+        "Para compra online descarga tu código e ingrésalo en dockers.cl/collections/promo al momento de pagar.",
+        "Descuento no aplica para valor del despacho.",
+        "Revisa cobertura de despacho en https://www.dockers.cl",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Av. Balmaceda 2355, Antofagasta, Antofagasta",
+        "Av. Vicente Méndez 1545, Región del Bíobio, Ñuble",
+        "San Pedro de la Paz, Región del Bíobio, Concepción",
+        "Av. los Carrera Poniente 301, Región del Bíobio, Concepción",
+        "Av. Pdte. Jorge Alessandri Rodriguez 3177, Región del Bíobio, Talcahuano",
+        "Av. Lomas de la Luz 4650, Región de Valparaiso, Curauma",
+        "Av. Libertad 1348, Región de Valparaiso, Viña del Mar",
+        "Illapel 10, Región de Los Lagos, Puerto Montt",
+        "Av. Pdte. Kennedy 5413, Región Metropolitana, Vitacura",
+        "Av. Pdte. Kennedy Lateral 9001, Región Metropolitana, Las Condes",
+        "Av. Andrés Bello 2425, Región Metropolitana, Providencia",
+        "San Ignacio 500, Región Metropolitana, Quilicura",
+        "Av. La Dehesa 1445, Región Metropolitana, Lo Barnechea",
+        "Av. Larraín 5862, Región Metropolitana, La Reina",
+        "Av. Padre Hurtado Sur 875, Región Metropolitana, Las Condes",
+        "Av. Américo Vespucio 1501, Región Metropolitana, Cerrillos",
+        "Av. Américo Vespucio 1737, Región Metropolitana, Huechuraba",
+        "Av. Alemania 671, Regipon de la Araucanía, Temuco",
+        "Arauco 561, Región de Los Ríos, Valdivia"
+      ]
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Wedance",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "20% dcto",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "En WeDance aprenderás coreografías mientras haces ejercicio, mejoras tu fuerza, movilidad y coordinación, y te regalas una hora para desconectarte de la rutina. No necesitas experiencia previa: solo ganas de moverte, pasarlo bien y salir con más energía.",
+        "Exclusivo pagando con tus Tarjetas de Crédito y Débito Santander.",
+        "Válido en www.wedance.cl y presencial",
+        "Código de descuento: SANTANDERWEDANCE",
+        "No acumulable a otras promociones.",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
       ],
       "sucursales": []
     },
@@ -22075,27 +22164,6 @@
         "Válido en tiendas físicas y www.roda.cl en productos seleccionados.",
         "No acumulable con otras promociones. Hasta agotar stock disponible.",
         "Ingresa los 6 primeros dígitos de tu Tarjeta como código de descuento.",
-        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Wedance",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": "20% dcto",
-      "dia": [
-        "Todos los días"
-      ],
-      "dia_texto": "todos los días",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Espacio para bailar",
-        "Exclusivo pagando con tus Tarjetas de Crédito y Débito Santander.",
-        "Válido en www.wedance.cl y presencial",
-        "Código de descuento: SANTANDERWEDANCE",
-        "No acumulable a otras promociones.",
         "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
       ],
       "sucursales": []
