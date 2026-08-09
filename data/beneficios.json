@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-08T11:20",
+  "actualizado": "2026-08-09T11:20",
   "beneficios": [
     {
       "banco": "Banco de Chile",
@@ -743,69 +743,6 @@
       "sucursales": [
         "Manuel Rodríguez #1737, Región de Los Lagos, Osorno"
       ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Hush Puppies Kids",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": "40% dto.",
-      "dia": [
-        "Sábado"
-      ],
-      "dia_texto": "sábado",
-      "canal": "Tienda física",
-      "vigencia": "Promoción válida sábado 01 y 08 de agosto 2026.",
-      "condiciones": [
-        "40% dto. sábado en compra presencial.",
-        "Tope de dto. $35.000",
-        "Genera tu código de descuento y preséntalo al momento de pagar.",
-        "1.000 códigos disponibles para esta promoción.",
-        "Descarga del código estará disponible el día que participe la marca, desde las 00:00 hrs.",
-        "No acumulable con otras promociones.",
-        "Descuento no aplica en categoria mujer y hombre.",
-        "Descuento no aplica para compras con facturas y en cambios.",
-        "Descuento exclusivo pagando con tus Tarjetas del Chile."
-      ],
-      "sucursales": [
-        "Local 2078, PLAZA YUNGAY 609, LOS LAGOS, OSORNO",
-        "Local 147-149, AV.BALMACEDA Nro 2355, ANTOFAGASTA, ANTOFAGASTA",
-        "Local 14, 13 NORTE #871, Valparaiso, VIÑA DEL MAR",
-        "Local 1069, AV. KENNEDY 9001, RM, SANTIAGO",
-        "Local 303-30, AV. KENNEDY 5413, RM, SANTIAGO",
-        "Local 1098, VICU?A MACKENNA #6100, RM, SANTIAGO",
-        "Local 359 - A, AV. AMERICO VESPUCIO N# 399, RM, SANTIAGO",
-        "Local E221-223, J. ALESSANDRI #3.177, BIO-BIO, TALCAHUANO",
-        "Local 30, AV. BDO O HIGGINS Nro 201, MAULE, CURICO",
-        "Local 359, CALLE ISABEL RIQUELME Nro709-745, BIO-BIO, CHILLAN",
-        "BULNES Nro472, ARAUCANIA, TEMUCO",
-        "AV. ALEMANIA 0671 L1034, ARAUCANIA, TEMUCO"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Hush Puppies Kids",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": "40% dto.",
-      "dia": [
-        "Sábado"
-      ],
-      "dia_texto": "sábados",
-      "canal": "Online",
-      "vigencia": "Promoción válida sábado 01 y 08 de agosto de 2026.",
-      "condiciones": [
-        "40% dto. los sábados en hushpuppieskids.cl",
-        "Genera tu código e ingrésalo como cupón en hushpuppieskids.cl",
-        "Tope de dto. $35.000",
-        "500 códigos disponibles para esta promoción.",
-        "Descarga del código estará disponible el día que participe la marca, desde las 00:00 hrs.",
-        "No acumulable con otras promociones.",
-        "Descuento no aplica para el valor del despacho.",
-        "Revisa cobertura de despacho en hushpuppieskids.cl",
-        "Descuento no aplica en categoria mujer y hombre.",
-        "Descuento no aplica para compras con facturas y en cambios.",
-        "Descuento exclusivo pagando con tus Tarjetas del Chile."
-      ],
-      "sucursales": []
     },
     {
       "banco": "Banco de Chile",
@@ -21552,24 +21489,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "En el día del Niño",
-      "categoria": "Entretención y Deportes",
-      "descuento": "Hasta 40% dto.",
-      "dia": [],
-      "dia_texto": "pagando con tus Tarjetas Visa",
-      "canal": null,
-      "vigencia": "Promoción válida únicamente para compras presenciales realizadas los días 7 y 8 de agosto de 2026.",
-      "condiciones": [
-        "En el día del Niño, Celebra con descuentos exclusivos pagando con pagando con tus Tarjetas Visa Banco de Chile, promoción Valida viernes 7 y sábado 8 de agosto 2026.",
-        "HASTA 40% dto en TIENDAS ADHERIDAS en compras presenciales.",
-        "Pagar presencialmente con una tarjeta Visa en los comercios adheridos participantes.",
-        "Viernes 7 y sábado 8 de Agosto 2026 en Mall Marina, Mall Curicó, Mall del Centro Concepción, Parque Arauco, Arauco Maipú.",
-        "Marcas Adheridas: Hush Puppies Kids, Limonada, Opaline, Colloky, Baby Rosen, Chuck E. Cheese, Nacional Librería, La Papelaria, Pichintún ¡Y muchas más!"
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "Piwen",
       "categoria": "Sabores",
       "descuento": "25% dto.",
@@ -22087,24 +22006,6 @@
         "Acumulación incremental de millas aplica para TC Santander LATAM Pass-",
         "Ingresa los 6 primeros dígitos de tu Tarjeta como código de descuento.",
         "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. La bonificación de millas estructural se realizará según nivel y tarjeta de Crédito Santander LATAM Pass del cliente, más 1 milla adicional por dólar gastado por compras realizadas en campaña. Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio; la administración del programa LATAM Pass es de exclusiva responsabilidad de LATAM Airlines Group S.A. sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl. Conoce más sobre Santander Rewards y su reglamento en: https://banco.santander.cl/rewards."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Visa Days",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": "40% dcto.",
-      "dia": [],
-      "dia_texto": "Hasta  en tiendas adheridas",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Tus marcas favoritas con descuentos exclusivos pagando con visa.",
-        "Exclusivo pagando con tus Tarjetas de Crédito y Débito Santander Visa.",
-        "Válido para compras presenciales en Mall Marina, Mall Curicó, Mall del Centro Concepción, Parque Arauco, Arauco Maipú.",
-        "Marcas destacadas: Hush Puppies Kids, Limonada, Opaline, Colloky, Baby Rosen, Chuck E. Cheese, Nacional Librería, La Papeleria, Pichintún y más",
-        "No acumulable a otras promociones."
       ],
       "sucursales": []
     },
