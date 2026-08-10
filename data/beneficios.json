@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-09T11:20",
+  "actualizado": "2026-08-10T11:41",
   "beneficios": [
     {
       "banco": "Banco de Chile",
@@ -2141,42 +2141,6 @@
       ],
       "sucursales": [
         "Av. Manuel Montt #1007, Región Metropolitana, Providencia"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Dimeiggs",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": "20% dto.",
-      "dia": [
-        "Todos los días"
-      ],
-      "dia_texto": "todos los días en compra",
-      "canal": "Ambos",
-      "vigencia": "Promoción valida hasta el 09 de agosto de 2026.",
-      "condiciones": [
-        "20% dto. en compra presencial y online",
-        "Para compra presencial solicita tu descuento al momento de pagar con tu Tarjeta del Chile.",
-        "Para compra en dimeiggs.cl el descuento aplicará automáticamente ingresando tu Tarjeta en momento de pagar a través del botón de Mercado Pago. ( Descuento no aplica en Webpay)",
-        "Tope de descuento $50.000",
-        "No acumulable con otras promociones u ofertas.",
-        "No aplica en el costo de despacho."
-      ],
-      "sucursales": [
-        "Meiggs 58, Región Metropolitana, Santiago",
-        "Avenida Recoleta 164, Región Metropolitana, Recoleta",
-        "Sergio Roubillard 93, Región Metropolitana, Puente Alto",
-        "Freire 681, Región Metropolitana, Santiago, San Bernardo",
-        "Avenida Chicureo 2300, Región Metropolitana, Chicureo",
-        "Ortuzar 614, Región Metropolitana, Melipilla",
-        "Avenida Vitacura 8951, Región Metropolitana, Vitacura",
-        "Avenida Lo Espejo 943, Región Metropolitana, Maipú",
-        "Avenida La Florida 8988 Mall Vivo La Florida, Región Metropolitana, La Florida",
-        "San Carlos de Ancud 400, locales 27, 28 y 29 (Calle del boulevard), Región Metropolitana, La Florida",
-        "Gran Avenida Jose Miguel Carrera 5321, Región Metropolitana, La Cisterna",
-        "Avenida Bernardo OHiggins 581, Región Metropolitana, Quilicura",
-        "Avenida Los Pajaritos 1613, Región Metropolitana, Maipú",
-        "Avenida Américo Vespucio 399, Región Metropolitana, Maipú"
       ]
     },
     {
@@ -14736,31 +14700,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "NIKE",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": "30% dto. adicional",
-      "dia": [
-        "Martes",
-        "Jueves",
-        "Domingo"
-      ],
-      "dia_texto": "martes, jueves y domingo",
-      "canal": "Online",
-      "vigencia": "Promoción válida hasta el 09 de agosto de 2026.",
-      "condiciones": [
-        "30% dto. adicional martes, jueves y domingo online.",
-        "Revisa los productos con descuentos en nike.cl/bancodechile",
-        "Tu descuento se verá reflejado al momento de ingresar tu Tarjeta del Chile al realizar el pago.",
-        "Antes de pagar confirma que estas en el sitio nike.cl/bancodechile y que el descuento esté aplicado.",
-        "Revisa cobertura de despacho en Nike.cl",
-        "Descuento no aplica al valor del despacho.",
-        "Tope de dto. $60.000",
-        "Descuento exclusivo pagando con tus Tarjetas del Chile."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "Entel",
       "categoria": "Retail y Otras Marcas",
       "descuento": null,
@@ -19903,39 +19842,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Marathon",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": "20% dto. adicional",
-      "dia": [
-        "Viernes",
-        "Sábado",
-        "Domingo"
-      ],
-      "dia_texto": "viernes a domingo",
-      "canal": "Ambos",
-      "vigencia": "Promoción válida del 27 de julio al 09 de agosto.",
-      "condiciones": [
-        "Tenemos las mejores marcas internacionales en zapatillas, para entrenar con estilo y comodidad.",
-        "20% dto. adicional de viernes a domingo en calzado, vestuario y accesorios en la categoría niños.",
-        "Para compras presenciales solicita tu descuento al momento de pagar con tus Tarjetas Banco de Chile.",
-        "Para compras online, obtén descuento ingresando los seis primeros dígitos de tu tarjeta al momento de finalizar compra en marathon.cl.",
-        "Descuento no aplica para valor del despacho.",
-        "Revisa cobertura de despacho en marathon.cl",
-        "Beneficio no es válido para el Outlet de Estación Central.",
-        "Descuento válido solo en categoría niños y accesorios.",
-        "No acumulable con otras promociones.",
-        "Descuento exclusivo pagando con tus Tarjetas del Chile."
-      ],
-      "sucursales": [
-        "Parque Arauco Nivel 1, Avenida Presidente Kennedy #5413, Región Metropolitana, Las Condes",
-        "Costanera Center Nivel 3, Avenida Andrés Bello #2425, Región Metropolitana, Providencia",
-        "Avenida Vicuña Mackena Oriente #6100, Local 2203 Cenco Florida (Ex florida center), Región Metropolitana, La Florida",
-        "Av. Américo Vespucio #399, local 415-B, Región Metropolitana, Maipú",
-        "Benidorm 961 Local 278 - 280, Región de Valparaíso, Viña del Mar"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "The Color Shop",
       "categoria": "Retail y Otras Marcas",
       "descuento": "20% dto.",
@@ -20043,20 +19949,6 @@
       ],
       "sucursales": [
         "Conrado Amthauer #850, Los Lagos, Osorno"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "3 cuotas sin interés en todas tus compras",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "con tus Tarjetas del Chile",
-      "canal": null,
-      "vigencia": "Promoción válida hasta el 31 de agosto 2026",
-      "condiciones": [],
-      "sucursales": [
-        "Av. La Dehesa #1822, Of 803, Región Metropolitana, Lo Barnechea"
       ]
     },
     {
@@ -21385,20 +21277,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Paga tus regalos en 6 cuotas sin interés",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "con tus Tarjetas del Chile",
-      "canal": null,
-      "vigencia": "Promoción válida hasta el 9 de agosto 2026",
-      "condiciones": [],
-      "sucursales": [
-        "Av. La Dehesa #1822, Of 803, Región Metropolitana, Lo Barnechea"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "Shell",
       "categoria": "Retail y Otras Marcas",
       "descuento": "$100 dto. por litro",
@@ -21486,6 +21364,72 @@
         "Recibe tu pedido y disfrútalo."
       ],
       "sucursales": []
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Roosevelt English Institute",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "20% dto.",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días",
+      "canal": "Ambos",
+      "vigencia": "Promoción válida hasta el 31 de julio de 2027.",
+      "condiciones": [
+        "Aprende inglés con una metodología práctica y orientada a la comunicación. Contamos con programas específicos para niños, adolescentes, jóvenes y adultos que te ayudarán a desarrollar las habilidades para comunicarte con confianza en situaciones académicas, laborales y personales.",
+        "20% dto. todos los días en clases presenciales y online.",
+        "Solicita tu descuento al momento de pagar.",
+        "No acumulable con otras promociones.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Av. Pedro de Valdivia #291, Piso 8, Región Metropolitana, Providencia"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Alfabeta",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "20% dto.",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días",
+      "canal": "Ambos",
+      "vigencia": "Promoción válida hasta el 31 de julio de 2027.",
+      "condiciones": [
+        "Descubre las mejores técnicas para lograr excelente comprensión lectora, retención y velocidad. Nuestros programas de lectura para niños, jóvenes y adultos te guiarán hacia una lectura integral, enriqueciendo tu aprendizaje, agilidad mental, pensamiento crítico y habilidades lectoras. Transfórmate en un gran lector con Alfabeta Lectura y Comprensión.",
+        "20% dto. todos los días en clases presenciales y online.",
+        "Solicita tu descuento al momento de pagar.",
+        "No acumulable con otras promociones.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Apoquindo #2930, oficina 201, Región Metropolitana, Las Condes"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Centro Terapéutico Novamente",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "20% dto.",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días",
+      "canal": "Ambos",
+      "vigencia": "Promoción válida hasta el 31 de julio de 2027.",
+      "condiciones": [
+        "En Novamente brindamos atención integral en salud mental y neurodesarrollo para personas de todas las edades. Nuestro equipo de profesionales trabaja con un enfoque humano, basado en evidencia y centrado en las necesidades de cada persona, acompañando procesos de evaluación, diagnóstico y tratamiento para favorecer tu bienestar y calidad de vida.",
+        "20% dto. todos los días en clases presenciales y online.",
+        "Solicita tu descuento al momento de pagar.",
+        "No acumulable con otras promociones.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Av Pedro de Vladivia #291, oficina 101, Región Metropolitana, Providencia"
+      ]
     },
     {
       "banco": "Banco de Chile",
@@ -21813,6 +21757,34 @@
         "Av. Alemania 671, Regipon de la Araucanía, Temuco",
         "Arauco 561, Región de Los Ríos, Valdivia"
       ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "miCoca-Cola.cl",
+      "categoria": "Sabores",
+      "descuento": "25% dto.",
+      "dia": [],
+      "dia_texto": "en miCoca-Cola.cl más despacho gratis",
+      "canal": null,
+      "vigencia": "Promoción válida del 10 al 16 de agosto de 2026.",
+      "condiciones": [
+        "25% dto. en miCoca-Cola.cl más despacho gratis pagando con tus Tarjetas del Chile. en miCoca-Cola.cl del 10 al 16 de agosto. ¿Cómo obtener tu descuento?",
+        "Ingresa a miCoca-Cola.cl",
+        "Elige tu ciudad.",
+        "Agrega al carrito de compras los productos que quieras.",
+        "Luego, ingresa los 6 primeros dígitos de tu Tarjeta como código de descuento.",
+        "Recibe tu pedido y disfruta.",
+        "Despacho gratis por compras sobre $25.000 después de aplicado el dto.",
+        "Beneficio exclusivo pagando con tus Tarjetas del Chile.",
+        "Beneficio no acumulable con otras promociones.",
+        "Tope de descuento $25.000 por compra.",
+        "Válido para 2 compras por cliente.",
+        "Un código de descuento válido por pedido.",
+        "No aplica en compras con Gift Cards.",
+        "Revisa cobertura de despacho en miCoca-Cola.cl",
+        "Recuerda que con tus Tarjetas de Crédito puedes pagar en 3 cuotas sin interés (2) Para una compra de $100.000 en 3 cuotas de $33.333 CAE de 1.19%. Costo Total $100.198"
+      ],
+      "sucursales": []
     },
     {
       "banco": "Banco Santander",
@@ -22904,38 +22876,6 @@
         "No acumulable con otras promociones.",
         "Descuento máximo por pedido de $40.000",
         "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​"
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "miCoca-Cola.cl",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": "25% dcto.",
-      "dia": [],
-      "dia_texto": "y acumula 1 milla adicionales",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "¡Refréscate con miCoca-Cola.cl!",
-        "Con tus Tarjetas de Crédito : Beneficios válidos por compras sobre $25.000 (ya aplicado el descuento)",
-        "Máximo $25.000 de descuento.",
-        "2 usos por cliente.",
-        "1 cupón por pedido.",
-        "No acumulable con otras promociones/descuentos, ni pago con Giftcards.",
-        "Válido para Bines de Tarjetas de Crédito del Banco Santander.",
-        "Para acceder al descuento se deben ingresar los 6 primeros dígitos de tu tarjeta como código de descuento.",
-        "Despacho gratis válido en pedidos programados y en compras sobre $25.000, una vez aplicado el descuento.",
-        "Acumula 2 millas LATAM Pass adicionales por dólar gastado, pagando con tus Tarjetas de crédito Santander LATAM Pass",
-        "Con tus Tarjetas de Débito : Beneficios válidos por compras sobre $25.000 (ya aplicado el descuento)",
-        "Máximo $25.000 de descuento.",
-        "2 usos por cliente.",
-        "1 cupón por pedido.",
-        "No acumulable con otras promociones/descuentos, ni pago con Giftcards.",
-        "Válido para Bines de Tarjetas de Débito del Banco Santander.",
-        "Para acceder al descuento se deben ingresar los 6 primeros dígitos de tu tarjeta como código de descuento.",
-        "Despacho gratis válido en pedidos programados y en compras sobre $25.000, una vez aplicado el descuento.",
-        "Promoción válida solo para compras realizadas del 3 al 9 de agosto 2026 en micoca-cola.cl pagando con Tarjetas de Crédito Santander LATAM Pass. Conoce las condiciones del descuento en micoca-cola.cl. La bonificación de millas estructural se realizará según nivel y tarjeta de Crédito Santander LATAM Pass del cliente, más 1 milla adicional por dólar gastado por compras realizadas en campaña. La acreditación de Millas LATAM Pass se realizará en el mes siguiente de la compra. Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio. La administración del programa LATAM Pass es de exclusiva responsabilidad de LATAM Airlines GroupS.A. sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Conoce más sobre Santander Rewards y su reglamento en: https:banco.santander.cl/rewards."
       ],
       "sucursales": []
     },
