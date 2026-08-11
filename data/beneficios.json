@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-10T11:41",
+  "actualizado": "2026-08-11T11:37",
   "beneficios": [
     {
       "banco": "Banco de Chile",
@@ -16885,41 +16885,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "ASICS",
-      "categoria": "Entretención y Deportes",
-      "descuento": "25% dto.",
-      "dia": [
-        "Lunes",
-        "Martes",
-        "Miércoles"
-      ],
-      "dia_texto": "lunes a miércoles",
-      "canal": "Ambos",
-      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
-      "condiciones": [
-        "ASICS es una marca japonesa dedicada al deporte, reconocida por su innovación tecnológica y enfoque en el rendimiento y bienestar. El nombre proviene del lema latino \"Anima Sana In Corpore Sano\", que significa “mente sana en cuerpo sano”.",
-        "25% dto. de lunes miércoles en compra presencial, solicita tu dto al momento de pagar. No acumulable con otras promociones.",
-        "25% dto. adicional lunes a miércoles en asics.cl ingresando el cupón BCHILE25 como código de dto.",
-        "Revisa cobertura en asics.cl.",
-        "Descuento no aplica en el valor del despacho.",
-        "Beneficio excluye la línea Metaspeed, lanzamientos ni productos de colaboraciones especiales.",
-        "Descuento exclusivo pagando con tus Tarjetas del Chile."
-      ],
-      "sucursales": [
-        "Av. Pdte. Kennedy 5413, Región Metropolitana, Las Condes",
-        "Av. Andrés Bello 2425, Región Metropolitana, Providencia",
-        "Av. Las Condes 13501, Región Metropolitana, Las Condes",
-        "Av. Libertad 1348, Región de Valparaíso, Viña del Mar",
-        "Av. Américo Vespucio 1501, Región Metropolitana, Cerrillos",
-        "San Ignacio 500 Y 300, Región Metropolitana, Quilicura",
-        "Av. Pdte. Jorge Alessandri Rodriguez 3177, Región del Biobío, Talcahuano",
-        "Av. Vicuña Mackenna Ote. 7110, Región Metropolitana, La Florida",
-        "Av. Américo Vespucio 399, Región Metropolitana, Maipu",
-        "Av. Américo Vespucio 1737, Región Metropolitana, Huechuraba"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "Gnomo",
       "categoria": "Retail y Otras Marcas",
       "descuento": "20% dto.",
@@ -19953,6 +19918,31 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "NIKE",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "30% dto. adicional",
+      "dia": [
+        "Martes",
+        "Jueves",
+        "Domingo"
+      ],
+      "dia_texto": "martes, jueves y domingo",
+      "canal": "Online",
+      "vigencia": "Promoción válida hasta el 31 de agosto de 2026.",
+      "condiciones": [
+        "30% dto. adicional martes, jueves y domingo online.",
+        "Revisa los productos con descuentos en nike.cl/bancodechile",
+        "Tu descuento se verá reflejado al momento de ingresar tu Tarjeta del Chile al realizar el pago.",
+        "Antes de pagar confirma que estas en el sitio nike.cl/bancodechile y que el descuento esté aplicado.",
+        "Revisa cobertura de despacho en Nike.cl",
+        "Descuento no aplica al valor del despacho.",
+        "Tope de dto. $60.000",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "Farmex",
       "categoria": "Salud y Belleza",
       "descuento": "Hasta 15% dto.",
@@ -19972,86 +19962,6 @@
       ],
       "sucursales": [
         "Coquimbo 1201, REGIÓN METROPOLITANA, Santiago, +56 9 9347 6836"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Domino’s Pizza",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Todos los días"
-      ],
-      "dia_texto": "todos los días",
-      "canal": "Ambos",
-      "vigencia": "Promoción válida hasta el 31 de agosto de 2026.",
-      "condiciones": [
-        "40% todos los días en compras en locales, App Domino’s Pizza y dominospizza.cl",
-        "Para compra presencial y telefónica solicita tu descuento al momento de pagar.",
-        "Para compra online ingresa los 6 primeros dígitos de tu Tarjeta como código de dto.",
-        "Beneficio no aplica sobre otras promociones, combos y/o otros códigos de dto.",
-        "Descuento no válido en el valor del despacho.",
-        "Beneficio exclusivo pagando con tus Tarjetas del Chile.",
-        "El despacho a domicilio en pedidos sobre $10.000 (costo adicional $1.900). Punta Arenas no tiene monto mínimo pedido para despacho a domicilio y es gratis en pedidos sobre $10.000."
-      ],
-      "sucursales": [
-        "Angamos 1198 Local 2, Región de Antofagasta, Antofagasta",
-        "Arturo Prat 1656, Región de Tarapacá, Iquique",
-        "Av. Sotomayor 2171 o Granaderos 1711, Región de Tarapacá, Calama",
-        "Av. Pedro Aguirre Cerda 8700, Región de Antofagasta, Antofagasta",
-        "Av. Angamos 02170, Región de Antofagasta, Antofagasta",
-        "Av. Diego Portales #157 L.104, Región de Arica y Parinacota, Arica",
-        "Jose Manuel Balmaceda 224 local 5, Región Metropolitana, Buin",
-        "San Miguel 3050, Región del Maule, Talca",
-        "Av. San Juan 133 Local 33, Región del Libertador Bernarno Ohiggins, Machali",
-        "Av. España 215, Región del Maule, Curicó",
-        "Av. Balmaceda 1397, Región de Coquimbo, La Serena",
-        "Guillermo Ulriksen 1634 Local 12, Región de Coquimbo, La Serena",
-        "San Miguel 3050, Región del Maule, Talca",
-        "Av. San Juan 133 Local 33, Región del Libertador Bernarno Ohiggins, Machali",
-        "Av. España 215, Región del Maule, Curicó",
-        "Av. Balmaceda 1397, Región de Coquimbo, La Serena",
-        "Guillermo Ulriksen 1634 Local 12, Región de Coquimbo, La Serena",
-        "Av. Irarrazabal 2087, Región Metropolitana, Ñuñoa",
-        "Av. CUARTO CENTENARIO 996, Región Metropolitana, Las Condes",
-        "Av. TOBALABA 12175, Región Metropolitana, Peñalolen",
-        "Av. IRARRAZAVAL 200, Región Metropolitana, Ñuñoa",
-        "SAN FRANCISCO 520, Región Metropolitana, Santiago",
-        "Av. MACUL 3023, Región Metropolitana, Macul",
-        "Av. COMPAÑÍA 1579 LOCAL 4,5,6,7, Región Metropolitana, Santiago",
-        "Av. JOSE MIGUEL CARRERA 5919, LOCAL 2, Región Metropolitana, San Miguel",
-        "6 PONIENTE 150 LOCAL 2, Región de Valparaíso, Viña Del Mar",
-        "Av. RETIRO SUR 139 LOCAL 5, Región de Valparaíso, Quilpue",
-        "Av.EDMUNDO ELUCHANS 1850 LOCAL 12, Región de Valparaíso, Viña del Mar",
-        "AV. PAJARITOS 4630, Región Metropolitana, Maipú",
-        "AV. PAJARITOS 2292, Región Metropolitana, Maipú",
-        "AV. LIBERTADOR BERNARDO O´HIGGINS 4050 LOCAL 1, Región Metropolitana, Estacion Central",
-        "AV. PEDRO FONTOVA 7810 LOCAL 8, Región Metropolitana, Huechuraba",
-        "COPAYAPU 2234, Región de Atacama, Copiapo",
-        "AV. CHICUREO 3100, Región Metropolitana, Colina",
-        "AV. JOSE FRANCISCO VERGARA 409, Región Metropolitana, Quilicura",
-        "AV. LOS LEONES 136, Región Metropolitana, Providencia",
-        "Av. RECOLETA 901 LOCAL 1 Y 2, Región Metropolitana, Recoleta",
-        "EJERCITO 508, Región de los Lagos, Puerto Montt",
-        "PRESIDENTE IBAÑEZ 1433 LOCAL 100, Región de los Lagos, Puerto Montt",
-        "Av. REPUBLICA 870 LOCAL 1017-015, Región de los Lagos, Osorno",
-        "Manuel Rrodriguez 1190, Región de los Lagos, Osorno",
-        "Av. España 494, Región de la Araucanía, Temuco",
-        "Jose MIGUEL CARRERA 340 LOCAL 1, Región de la Araucanía, Lautaro",
-        "Av. CAMINO EL ALBA 11969 LOCAL 301, Región Metropolitana, Los Dominicos",
-        "Av. LA FLORIDA 9746 LOCAL 23 B, Región Metropolitana, La Florida",
-        "MANUEL MONTT 15, Región Metropolitana, Providencia",
-        "TOBALABA 1385, Región Metropolitana, Providencia",
-        "Av. FROILAN ROA 922, Región Metropolitana, La Florida",
-        "Av. CAMINO HENRIQUEZ 3594 LOCAL A, Región Metropolitana, Puente Alto",
-        "Av. LUIS PASTEUR 5515 LOCAL 3 Y 4, Región Metropolitana, Vitacura",
-        "BARRO ARANA 1068 LOCAL 8, Región del Biobío, Concepcion",
-        "Av. MICHIMALONCO 1120, Región del Biobío, San Pedro De La Paz",
-        "Av. JUAN BOSCO N° 2239 LOCAL 4, Región del Biobío, Concepcion",
-        "Av. ECUARDOR 499, Región de Ñuble, Chillan",
-        "Av. MANUEL RODRIGUEZ 921, Región del Biobío, Chiguayante",
-        "Av. CRISTOBAL COLON 8961, Región del Biobío, Hualpen",
-        "Av. ESPAÑA 01405, Región de Magallanes y la Antartica Chilena, Punta Arenas"
       ]
     },
     {
@@ -20171,6 +20081,86 @@
       ],
       "sucursales": [
         "Isidora Goyenechea #2939, Región Metropolitana, Las Condes"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Domino’s Pizza",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días",
+      "canal": "Ambos",
+      "vigencia": "Promoción válida hasta el 31 de agosto de 2026.",
+      "condiciones": [
+        "40% todos los días en compras en locales, App Domino’s Pizza y dominospizza.cl",
+        "Para compra presencial y telefónica solicita tu descuento al momento de pagar.",
+        "Para compra online ingresa los 6 primeros dígitos de tu Tarjeta como código de dto.",
+        "Beneficio no aplica sobre otras promociones, combos y/o otros códigos de dto.",
+        "Descuento no válido en el valor del despacho.",
+        "Beneficio exclusivo pagando con tus Tarjetas del Chile.",
+        "El despacho a domicilio en pedidos sobre $10.000 (costo adicional $1.900). Punta Arenas no tiene monto mínimo pedido para despacho a domicilio y es gratis en pedidos sobre $10.000."
+      ],
+      "sucursales": [
+        "Angamos 1198 Local 2, Región de Antofagasta, Antofagasta",
+        "Arturo Prat 1656, Región de Tarapacá, Iquique",
+        "Av. Sotomayor 2171 o Granaderos 1711, Región de Tarapacá, Calama",
+        "Av. Pedro Aguirre Cerda 8700, Región de Antofagasta, Antofagasta",
+        "Av. Angamos 02170, Región de Antofagasta, Antofagasta",
+        "Av. Diego Portales #157 L.104, Región de Arica y Parinacota, Arica",
+        "Jose Manuel Balmaceda 224 local 5, Región Metropolitana, Buin",
+        "San Miguel 3050, Región del Maule, Talca",
+        "Av. San Juan 133 Local 33, Región del Libertador Bernardo Ohiggins, Machali",
+        "Av. España 215, Región del Maule, Curicó",
+        "Av. Balmaceda 1397, Región de Coquimbo, La Serena",
+        "Guillermo Ulriksen 1634 Local 12, Región de Coquimbo, La Serena",
+        "San Miguel 3050, Región del Maule, Talca",
+        "Av. San Juan 133 Local 33, Región del Libertador Bernardo Ohiggins, Machali",
+        "Av. España 215, Región del Maule, Curicó",
+        "Av. Balmaceda 1397, Región de Coquimbo, La Serena",
+        "Guillermo Ulriksen 1634 Local 12, Región de Coquimbo, La Serena",
+        "Av. Irarrazabal 2087, Región Metropolitana, Ñuñoa",
+        "Av. CUARTO CENTENARIO 996, Región Metropolitana, Las Condes",
+        "Av. TOBALABA 12175, Región Metropolitana, Peñalolen",
+        "Av. IRARRAZAVAL 200, Región Metropolitana, Ñuñoa",
+        "SAN FRANCISCO 520, Región Metropolitana, Santiago",
+        "Av. MACUL 3023, Región Metropolitana, Macul",
+        "Av. COMPAÑÍA 1579 LOCAL 4,5,6,7, Región Metropolitana, Santiago",
+        "Av. JOSE MIGUEL CARRERA 5919, LOCAL 2, Región Metropolitana, San Miguel",
+        "6 PONIENTE 150 LOCAL 2, Región de Valparaíso, Viña Del Mar",
+        "Av. RETIRO SUR 139 LOCAL 5, Región de Valparaíso, Quilpue",
+        "Av.EDMUNDO ELUCHANS 1850 LOCAL 12, Región de Valparaíso, Viña del Mar",
+        "AV. PAJARITOS 4630, Región Metropolitana, Maipú",
+        "AV. PAJARITOS 2292, Región Metropolitana, Maipú",
+        "AV. LIBERTADOR BERNARDO O´HIGGINS 4050 LOCAL 1, Región Metropolitana, Estación Central",
+        "AV. PEDRO FONTOVA 7810 LOCAL 8, Región Metropolitana, Huechuraba",
+        "COPAYAPU 2234, Región de Atacama, Copiapo",
+        "AV. CHICUREO 3100, Región Metropolitana, Colina",
+        "AV. JOSE FRANCISCO VERGARA 409, Región Metropolitana, Quilicura",
+        "AV. LOS LEONES 136, Región Metropolitana, Providencia",
+        "Av. RECOLETA 901 LOCAL 1 Y 2, Región Metropolitana, Recoleta",
+        "EJERCITO 508, Región de los Lagos, Puerto Montt",
+        "PRESIDENTE IBAÑEZ 1433 LOCAL 100, Región de los Lagos, Puerto Montt",
+        "Av. REPUBLICA 870 LOCAL 1017-015, Región de los Lagos, Osorno",
+        "Manuel Rrodriguez 1190, Región de los Lagos, Osorno",
+        "Av. España 494, Región de la Araucanía, Temuco",
+        "Jose MIGUEL CARRERA 340 LOCAL 1, Región de la Araucanía, Lautaro",
+        "Av. CAMINO EL ALBA 11969 LOCAL 301, Región Metropolitana, Los Dominicos",
+        "Av. LA FLORIDA 9746 LOCAL 23 B, Región Metropolitana, La Florida",
+        "MANUEL MONTT 15, Región Metropolitana, Providencia",
+        "TOBALABA 1385, Región Metropolitana, Providencia",
+        "Av. FROILAN ROA 922, Región Metropolitana, La Florida",
+        "Av. CAMINO HENRIQUEZ 3594 LOCAL A, Región Metropolitana, Puente Alto",
+        "Av. LUIS PASTEUR 5515 LOCAL 3 Y 4, Región Metropolitana, Vitacura",
+        "BARRO ARANA 1068 LOCAL 8, Región del Biobío, Concepcion",
+        "Av. MICHIMALONCO 1120, Región del Biobío, San Pedro De La Paz",
+        "Av. JUAN BOSCO N° 2239 LOCAL 4, Región del Biobío, Concepcion",
+        "Av. ECUARDOR 499, Región de Ñuble, Chillan",
+        "Av. MANUEL RODRIGUEZ 921, Región del Biobío, Chiguayante",
+        "Av. CRISTOBAL COLON 8961, Región del Biobío, Hualpen",
+        "Av. ESPAÑA 01405, Región de Magallanes y la Antartica Chilena, Punta Arenas"
       ]
     },
     {
@@ -21788,6 +21778,47 @@
     },
     {
       "banco": "Banco Santander",
+      "comercio": "REUSE",
+      "categoria": "Cuotas Sin Interés",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "3 a 24 cuotas sin interés",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "REUSE",
+        "Exclusivo con tus Tarjetas de Crédito Santander y Tarjeta de Crédito Santander Empresas.",
+        "Válido presencial y online",
+        "No acumulable a otras promociones.",
+        "CAE 1,51% Calculado por un monto referencial de compra de $1.000.000 en 24 cuotas. Costo total del Crédito: $1.015.840. Operación afecta a impuesto al crédito a cargo del cliente.",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Auralis",
+      "categoria": "Salud y Belleza",
+      "descuento": "15% dcto",
+      "dia": [
+        "Martes"
+      ],
+      "dia_texto": "todos los martes",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Herramientas y cosmética Capilar",
+        "Exclusivo pagando con tus Tarjetas de Crédito y Débito Santander.",
+        "Válido en www.auralis.cl",
+        "Se excluyen eventos cyber, black y eventos de descuentos internos de la marca.",
+        "Ingresa los 6 primeros dígitos de tu Tarjeta como código de descuento.",
+        "No acumulable a otras promociones.",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
       "comercio": "Wedance",
       "categoria": "Retail y Otras Marcas",
       "descuento": "20% dcto",
@@ -22894,7 +22925,13 @@
         "Increíbles cortes de carne.",
         "Exclusivo con tus Tarjetas de Crédito Santander.",
         "Válido para consumo en local.",
-        "Av. Italia 1485, Providencia",
+        "Parque Arauco, Avenida Presidente Kennedy 5413, Las Condes.",
+        "Avenida Jose Alcalde Delano, Los Trapenses.",
+        "Alto las Condes, Avenida Presidente Kennedy Lateral 9001, Las Condes.",
+        "Avenida Larraín 5862.",
+        "Avenida Padre Hurtado Sur 785, las condes.",
+        "Santa Elena 671, Concón.",
+        "San Martín 435, Viña del Mar.",
         "Tope de descuento de $40.000.",
         "No acumulable a otras promociones.",
         "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
@@ -23032,7 +23069,7 @@
         "Alonso de Córdova 4156, Vitacura.",
         "No acumulable a otras promociones.",
         "Pide tu descuento al momento de pagar.",
-        "Tope de descuento $4.000.",
+        "Tope de descuento $40.000",
         "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​"
       ],
       "sucursales": []
@@ -25764,25 +25801,6 @@
         "Válido en compras online.",
         "CAE 1,54% Calculado por un monto referencial de compra de $1.000.000 en 48 cuotas. Costo total del Crédito: $1.031.680. Operación afecta a impuesto al crédito a cargo del cliente.",
         "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "REUSE",
-      "categoria": "Cuotas Sin Interés",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "3 a 24 cuotas sin interés",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "REUSE",
-        "Exclusivo con tus Tarjetas de Crédito Santander y Tarjeta de Crédito Santander Empresas.",
-        "Válido presencial y online",
-        "No acumulable a otras promociones.",
-        "CAE 1,51% Calculado por un monto referencial de compra de $1.000.000 en 24 cuotas. Costo total del Crédito: $1.015.840. Operación afecta a impuesto al crédito a cargo del cliente.",
-        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
       ],
       "sucursales": []
     },
