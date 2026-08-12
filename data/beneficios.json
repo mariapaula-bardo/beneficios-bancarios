@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-11T11:37",
+  "actualizado": "2026-08-12T11:39",
   "beneficios": [
     {
       "banco": "Banco de Chile",
@@ -18689,30 +18689,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "La Barquera",
-      "categoria": "Sabores",
-      "descuento": "20% dto.",
-      "dia": [
-        "Martes",
-        "Miércoles",
-        "Jueves"
-      ],
-      "dia_texto": "martes a jueves",
-      "canal": "Tienda física",
-      "vigencia": "Promoción válida hasta el 30 de junio de 2027.",
-      "condiciones": [
-        "La Barquera, ubicada en Enjoy Antofagasta, destaca por su gastronomía y privilegiada vista al mar. Cuenta con pizzas a la piedra, pastas, carnes y preparaciones de calidad, en un ambiente ideal para compartir en pareja, con amigos, en familia o en reuniones.",
-        "20% dto. martes a jueves compra presencial.",
-        "Solicita tu descuento al momento de pagar.",
-        "No acumulable con otras promociones.",
-        "Descuento exclusivo pagando con tus Tarjetas del Chile."
-      ],
-      "sucursales": [
-        "Avenida Angamos #1605, Región de Antofagasta, Antofagasta"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "Menducos",
       "categoria": "Sabores",
       "descuento": "20% dto.",
@@ -19849,6 +19825,31 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "Restaurante Club Providencia",
+      "categoria": "Sabores",
+      "descuento": "20% dto.",
+      "dia": [
+        "Lunes",
+        "Martes",
+        "Miércoles"
+      ],
+      "dia_texto": "lunes a miércoles",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 30 de junio de 2027.",
+      "condiciones": [
+        "Un espacio gastronómico en el corazón de Providencia, ideal para disfrutar almuerzos, cenas y buenos momentos en un ambiente cómodo y familiar. Nuestra carta combina preparaciones clásicas, sabores actuales y una propuesta pensada para compartir, con atención cercana y la calidad del Club Providencia.",
+        "20% dto. lunes a miércoles compra presencial.",
+        "Solicita tu descuento al momento de pagar.",
+        "No acumulable con otras promociones.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile.",
+        "Restaurante abierto a todo publico."
+      ],
+      "sucursales": [
+        "Av Pocuro 2878, Región Metropolitana, Providencia"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "Wayna Cevicheria by Kechua",
       "categoria": "Sabores",
       "descuento": "40% dto.",
@@ -20081,86 +20082,6 @@
       ],
       "sucursales": [
         "Isidora Goyenechea #2939, Región Metropolitana, Las Condes"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Domino’s Pizza",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Todos los días"
-      ],
-      "dia_texto": "todos los días",
-      "canal": "Ambos",
-      "vigencia": "Promoción válida hasta el 31 de agosto de 2026.",
-      "condiciones": [
-        "40% todos los días en compras en locales, App Domino’s Pizza y dominospizza.cl",
-        "Para compra presencial y telefónica solicita tu descuento al momento de pagar.",
-        "Para compra online ingresa los 6 primeros dígitos de tu Tarjeta como código de dto.",
-        "Beneficio no aplica sobre otras promociones, combos y/o otros códigos de dto.",
-        "Descuento no válido en el valor del despacho.",
-        "Beneficio exclusivo pagando con tus Tarjetas del Chile.",
-        "El despacho a domicilio en pedidos sobre $10.000 (costo adicional $1.900). Punta Arenas no tiene monto mínimo pedido para despacho a domicilio y es gratis en pedidos sobre $10.000."
-      ],
-      "sucursales": [
-        "Angamos 1198 Local 2, Región de Antofagasta, Antofagasta",
-        "Arturo Prat 1656, Región de Tarapacá, Iquique",
-        "Av. Sotomayor 2171 o Granaderos 1711, Región de Tarapacá, Calama",
-        "Av. Pedro Aguirre Cerda 8700, Región de Antofagasta, Antofagasta",
-        "Av. Angamos 02170, Región de Antofagasta, Antofagasta",
-        "Av. Diego Portales #157 L.104, Región de Arica y Parinacota, Arica",
-        "Jose Manuel Balmaceda 224 local 5, Región Metropolitana, Buin",
-        "San Miguel 3050, Región del Maule, Talca",
-        "Av. San Juan 133 Local 33, Región del Libertador Bernardo Ohiggins, Machali",
-        "Av. España 215, Región del Maule, Curicó",
-        "Av. Balmaceda 1397, Región de Coquimbo, La Serena",
-        "Guillermo Ulriksen 1634 Local 12, Región de Coquimbo, La Serena",
-        "San Miguel 3050, Región del Maule, Talca",
-        "Av. San Juan 133 Local 33, Región del Libertador Bernardo Ohiggins, Machali",
-        "Av. España 215, Región del Maule, Curicó",
-        "Av. Balmaceda 1397, Región de Coquimbo, La Serena",
-        "Guillermo Ulriksen 1634 Local 12, Región de Coquimbo, La Serena",
-        "Av. Irarrazabal 2087, Región Metropolitana, Ñuñoa",
-        "Av. CUARTO CENTENARIO 996, Región Metropolitana, Las Condes",
-        "Av. TOBALABA 12175, Región Metropolitana, Peñalolen",
-        "Av. IRARRAZAVAL 200, Región Metropolitana, Ñuñoa",
-        "SAN FRANCISCO 520, Región Metropolitana, Santiago",
-        "Av. MACUL 3023, Región Metropolitana, Macul",
-        "Av. COMPAÑÍA 1579 LOCAL 4,5,6,7, Región Metropolitana, Santiago",
-        "Av. JOSE MIGUEL CARRERA 5919, LOCAL 2, Región Metropolitana, San Miguel",
-        "6 PONIENTE 150 LOCAL 2, Región de Valparaíso, Viña Del Mar",
-        "Av. RETIRO SUR 139 LOCAL 5, Región de Valparaíso, Quilpue",
-        "Av.EDMUNDO ELUCHANS 1850 LOCAL 12, Región de Valparaíso, Viña del Mar",
-        "AV. PAJARITOS 4630, Región Metropolitana, Maipú",
-        "AV. PAJARITOS 2292, Región Metropolitana, Maipú",
-        "AV. LIBERTADOR BERNARDO O´HIGGINS 4050 LOCAL 1, Región Metropolitana, Estación Central",
-        "AV. PEDRO FONTOVA 7810 LOCAL 8, Región Metropolitana, Huechuraba",
-        "COPAYAPU 2234, Región de Atacama, Copiapo",
-        "AV. CHICUREO 3100, Región Metropolitana, Colina",
-        "AV. JOSE FRANCISCO VERGARA 409, Región Metropolitana, Quilicura",
-        "AV. LOS LEONES 136, Región Metropolitana, Providencia",
-        "Av. RECOLETA 901 LOCAL 1 Y 2, Región Metropolitana, Recoleta",
-        "EJERCITO 508, Región de los Lagos, Puerto Montt",
-        "PRESIDENTE IBAÑEZ 1433 LOCAL 100, Región de los Lagos, Puerto Montt",
-        "Av. REPUBLICA 870 LOCAL 1017-015, Región de los Lagos, Osorno",
-        "Manuel Rrodriguez 1190, Región de los Lagos, Osorno",
-        "Av. España 494, Región de la Araucanía, Temuco",
-        "Jose MIGUEL CARRERA 340 LOCAL 1, Región de la Araucanía, Lautaro",
-        "Av. CAMINO EL ALBA 11969 LOCAL 301, Región Metropolitana, Los Dominicos",
-        "Av. LA FLORIDA 9746 LOCAL 23 B, Región Metropolitana, La Florida",
-        "MANUEL MONTT 15, Región Metropolitana, Providencia",
-        "TOBALABA 1385, Región Metropolitana, Providencia",
-        "Av. FROILAN ROA 922, Región Metropolitana, La Florida",
-        "Av. CAMINO HENRIQUEZ 3594 LOCAL A, Región Metropolitana, Puente Alto",
-        "Av. LUIS PASTEUR 5515 LOCAL 3 Y 4, Región Metropolitana, Vitacura",
-        "BARRO ARANA 1068 LOCAL 8, Región del Biobío, Concepcion",
-        "Av. MICHIMALONCO 1120, Región del Biobío, San Pedro De La Paz",
-        "Av. JUAN BOSCO N° 2239 LOCAL 4, Región del Biobío, Concepcion",
-        "Av. ECUARDOR 499, Región de Ñuble, Chillan",
-        "Av. MANUEL RODRIGUEZ 921, Región del Biobío, Chiguayante",
-        "Av. CRISTOBAL COLON 8961, Región del Biobío, Hualpen",
-        "Av. ESPAÑA 01405, Región de Magallanes y la Antartica Chilena, Punta Arenas"
       ]
     },
     {
@@ -21507,6 +21428,31 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "La Barquera",
+      "categoria": "Sabores",
+      "descuento": "20% dto.",
+      "dia": [
+        "Martes",
+        "Miércoles",
+        "Jueves"
+      ],
+      "dia_texto": "martes a jueves",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 30 de junio de 2027.",
+      "condiciones": [
+        "La Barquera, ubicada en Enjoy Antofagasta, destaca por su gastronomía y privilegiada vista al mar. Cuenta con pizzas a la piedra, pastas, carnes y preparaciones de calidad, en un ambiente ideal para compartir en pareja, con amigos, en familia o en reuniones.",
+        "20% dto. martes a jueves compra presencial.",
+        "Solicita tu descuento al momento de pagar.",
+        "No acumulable con otras promociones.",
+        "Tope dto. $50.000 por mesa",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Avenida Angamos #1605, Región de Antofagasta, Antofagasta"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "La Hacienda Talca",
       "categoria": "Sabores",
       "descuento": "20% dto.",
@@ -21773,6 +21719,111 @@
         "No aplica en compras con Gift Cards.",
         "Revisa cobertura de despacho en miCoca-Cola.cl",
         "Recuerda que con tus Tarjetas de Crédito puedes pagar en 3 cuotas sin interés (2) Para una compra de $100.000 en 3 cuotas de $33.333 CAE de 1.19%. Costo Total $100.198"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Domino’s Pizza",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días",
+      "canal": "Ambos",
+      "vigencia": "Promoción válida hasta el 31 de agosto de 2026.",
+      "condiciones": [
+        "40% todos los días en compras en locales, App Domino’s Pizza y dominospizza.cl",
+        "Para compra presencial y telefónica solicita tu descuento al momento de pagar.",
+        "Para compra online ingresa los 6 primeros dígitos de tu Tarjeta como código de dto.",
+        "Beneficio no aplica sobre otras promociones, combos y/o otros códigos de dto.",
+        "Descuento no válido en el valor del despacho.",
+        "Beneficio exclusivo pagando con tus Tarjetas del Chile.",
+        "El despacho a domicilio en pedidos sobre $10.000 (costo adicional $1.900). Punta Arenas no tiene monto mínimo pedido para despacho a domicilio y es gratis en pedidos sobre $10.000."
+      ],
+      "sucursales": [
+        "Angamos 1198 Local 2, Región de Antofagasta, Antofagasta",
+        "Arturo Prat 1656, Región de Tarapacá, Iquique",
+        "Av. Sotomayor 2171 o Granaderos 1711, Región de Tarapacá, Calama",
+        "Av. Pedro Aguirre Cerda 8700, Región de Antofagasta, Antofagasta",
+        "Av. Angamos 02170, Región de Antofagasta, Antofagasta",
+        "Av. Diego Portales #157 L.104, Región de Arica y Parinacota, Arica",
+        "Jose Manuel Balmaceda 224 local 5, Región Metropolitana, Buin",
+        "San Miguel 3050, Región del Maule, Talca",
+        "Av. San Juan 133 Local 33, Región del Libertador Bernardo Ohiggins, Machali",
+        "Av. España 215, Región del Maule, Curicó",
+        "Av. Balmaceda 1397, Región de Coquimbo, La Serena",
+        "Guillermo Ulriksen 1634 Local 12, Región de Coquimbo, La Serena",
+        "San Miguel 3050, Región del Maule, Talca",
+        "Av. San Juan 133 Local 33, Región del Libertador Bernardo Ohiggins, Machali",
+        "Av. España 215, Región del Maule, Curicó",
+        "Av. Balmaceda 1397, Región de Coquimbo, La Serena",
+        "Guillermo Ulriksen 1634 Local 12, Región de Coquimbo, La Serena",
+        "Av. Irarrazabal 2087, Región Metropolitana, Ñuñoa",
+        "Av. CUARTO CENTENARIO 996, Región Metropolitana, Las Condes",
+        "Av. TOBALABA 12175, Región Metropolitana, Peñalolen",
+        "Av. IRARRAZAVAL 200, Región Metropolitana, Ñuñoa",
+        "SAN FRANCISCO 520, Región Metropolitana, Santiago",
+        "Av. MACUL 3023, Región Metropolitana, Macul",
+        "Av. COMPAÑÍA 1579 LOCAL 4,5,6,7, Región Metropolitana, Santiago",
+        "Av. JOSE MIGUEL CARRERA 5919, LOCAL 2, Región Metropolitana, San Miguel",
+        "6 PONIENTE 150 LOCAL 2, Región de Valparaíso, Viña Del Mar",
+        "Av. RETIRO SUR 139 LOCAL 5, Región de Valparaíso, Quilpue",
+        "Av.EDMUNDO ELUCHANS 1850 LOCAL 12, Región de Valparaíso, Viña del Mar",
+        "AV. PAJARITOS 4630, Región Metropolitana, Maipú",
+        "AV. PAJARITOS 2292, Región Metropolitana, Maipú",
+        "AV. LIBERTADOR BERNARDO O´HIGGINS 4050 LOCAL 1, Región Metropolitana, Estación Central",
+        "AV. PEDRO FONTOVA 7810 LOCAL 8, Región Metropolitana, Huechuraba",
+        "COPAYAPU 2234, Región de Atacama, Copiapo",
+        "AV. CHICUREO 3100, Región Metropolitana, Colina",
+        "AV. JOSE FRANCISCO VERGARA 409, Región Metropolitana, Quilicura",
+        "AV. LOS LEONES 136, Región Metropolitana, Providencia",
+        "Av. RECOLETA 901 LOCAL 1 Y 2, Región Metropolitana, Recoleta",
+        "EJERCITO 508, Región de los Lagos, Puerto Montt",
+        "PRESIDENTE IBAÑEZ 1433 LOCAL 100, Región de los Lagos, Puerto Montt",
+        "Av. REPUBLICA 870 LOCAL 1017-015, Región de los Lagos, Osorno",
+        "Manuel Rrodriguez 1190, Región de los Lagos, Osorno",
+        "Av. España 494, Región de la Araucanía, Temuco",
+        "Jose MIGUEL CARRERA 340 LOCAL 1, Región de la Araucanía, Lautaro",
+        "Av. CAMINO EL ALBA 11969 LOCAL 301, Región Metropolitana, Los Dominicos",
+        "Av. LA FLORIDA 9746 LOCAL 23 B, Región Metropolitana, La Florida",
+        "MANUEL MONTT 15, Región Metropolitana, Providencia",
+        "TOBALABA 1385, Región Metropolitana, Providencia",
+        "Av. FROILAN ROA 922, Región Metropolitana, La Florida",
+        "Av. CAMINO HENRIQUEZ 3594 LOCAL A, Región Metropolitana, Puente Alto",
+        "Av. LUIS PASTEUR 5515 LOCAL 3 Y 4, Región Metropolitana, Vitacura",
+        "BARRO ARANA 1068 LOCAL 8, Región del Biobío, Concepcion",
+        "Av. MICHIMALONCO 1120, Región del Biobío, San Pedro De La Paz",
+        "Av. JUAN BOSCO N° 2239 LOCAL 4, Región del Biobío, Concepcion",
+        "Av. ECUARDOR 499, Región de Ñuble, Chillan",
+        "Av. MANUEL RODRIGUEZ 921, Región del Biobío, Chiguayante",
+        "Av. CRISTOBAL COLON 8961, Región del Biobío, Hualpen",
+        "Av. ESPAÑA 01405, Región de Magallanes y la Antartica Chilena, Punta Arenas"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Keds",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "40% dto.",
+      "dia": [
+        "Miércoles",
+        "Jueves"
+      ],
+      "dia_texto": "miércoles y jueves",
+      "canal": "Online",
+      "vigencia": "Promoción válida miércoles 12 y jueves 13 de agosto 2026.",
+      "condiciones": [
+        "40% dto. miércoles 12 y jueves 13 de agosto en keds.cl",
+        "Genera tu código de descuento e ingrésalo en keds.cl",
+        "Revisa cobertura de despacho en keds.cl",
+        "Tope de dto. $35.000",
+        "3.000 códigos disponibles para esta promoción.",
+        "Descarga del código estará disponible el día que participe la marca, desde las 00:00 hrs.",
+        "No acumulable con otras promociones.",
+        "Descuento no aplica para compras con facturas y en cambios.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
       ],
       "sucursales": []
     },
