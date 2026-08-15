@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-14T11:36",
+  "actualizado": "2026-08-15T11:11",
   "beneficios": [
     {
       "banco": "Banco de Chile",
@@ -15320,40 +15320,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "LUCANO RENT A CAR",
-      "categoria": "Viajes",
-      "descuento": "20% dto.",
-      "dia": [
-        "Todos los días"
-      ],
-      "dia_texto": "todos los días",
-      "canal": "Online",
-      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
-      "condiciones": [
-        "Lucano Rent a Car es una empresa de origen nacional con presencia en las principales ciudades del país: Santiago (Ñuñoa, Vitacura y Santiago Aeropuerto), La Serena, Viña del Mar, Concepción, Temuco, Puerto Montt y Punta Arenas. Disponemos de una amplia flota de vehículos modernos y confiables, y ponemos al cliente en el centro de todo lo que hacemos para que la experiencia de arriendo sea fácil, cómoda y memorable.",
-        "Obtén descuento al reservar ingresando los 6 primeros dígitos de tu tarjeta en lucanorent.cl",
-        "No acumulable con otras promociones.",
-        "Descuento no aplica para compras con factura y es válido solo para personas naturales.",
-        "El descuento es sobre la tarifa T+K no incluye TAG, gastos administrativos autopistas, coberturas adicionales, coberturas de cancelación, conductor adicional, despachos y retiros a domicilio y adicionales como Cadenas para la nieve, alzadores, sillas de niños etc.",
-        "Beneficio exclusivo pagando con tus Tarjetas del Chile."
-      ],
-      "sucursales": [
-        "Av. Juan Cisternas 2637, Región de Coquimbo, La Serena",
-        "Av. Pedro de Valdivia 2942, Región Metropolitana, Ñuñoa",
-        "Calle Quillota 145, Región de Valparaíso, Viña del Mar",
-        "Av. Pdte. Jorge Alessandri Rodriguez 5001,Chile Aeropuerto Internacional Carriel del Sur, Counter #9, Región del Biobío, Talcahuano",
-        "Camino al Tepual km 10787, Ruta 226, Región de Los Lagos, Puerto Montt",
-        "Aeropuerto Internacional Carlos Ibáñez Del Campo, Región de Magallanes y de la Antártica Chilena, Chabunco",
-        "Av. Vitacura 10.018, Región Metropolitana, Vitacura",
-        "Av Radial Aeropuerto 14.080, Región Metropolitana, Pudahuel",
-        "Temuco Aeropuerto, Longitudinal Sur km 692 Counter #36, Región de la Araucanía, Temuco",
-        "Yungay #765, Región de Magallanes y de la Antártica Chilena, Puerto Natales",
-        "Baquedano 781, Puerto Natales, Región de Magallanes y de la Antártica Chilena, Puerto Natales",
-        "Chiloé 294, 1° piso, Región de Magallanes y de la Antártica Chilena, Punta Arenas"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "ESTACIONAMIENTO AUTOPARK",
       "categoria": "Viajes",
       "descuento": "15% dto.",
@@ -16291,46 +16257,6 @@
       ],
       "sucursales": [
         "Constitución #92, Región Metropolitana, Providencia"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Taco Bell",
-      "categoria": "Sabores",
-      "descuento": "40% dto",
-      "dia": [
-        "Jueves"
-      ],
-      "dia_texto": "jueves",
-      "canal": "Tienda física",
-      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
-      "condiciones": [
-        "Taco Bell, conocido por sus tacos, burritos y famosas Papas Supremas. Ven y disfruta con tus amigos y tu familia, estos increíbles productos y prueba nuestro icónico Crunchwrap.",
-        "40% dto. en combos del 1 al 6, Big Bell Combo y Pack para Dos.",
-        "Obtén tu descuento al pagar con tus Tarjetas del Chile.",
-        "No acumulable con otras promociones."
-      ],
-      "sucursales": [
-        "Mall Parque Arauco, Avenida Presidente Kennedy #5413, Región Metropolitana, Vitacura",
-        "Mall Plaza Oeste, Avenida Americo Vespucio #1501, Región Metropolitana, Cerrillos",
-        "Mall Florida Center, Vicuña Mackenna #6100, Región Metropolitana, La Florida",
-        "Mall Vivo Centro, Paseo Puente #689, Región Metropolitana, Santiago Centro",
-        "Mall Plaza Tobalaba, Avenida Camilo Henríquez #3692, Región Metropolitana, Puente Alto",
-        "Mall Costanera Center, Avenida Andrés Bello #2447, Región Metropolitana, Providencia",
-        "Pío Nono #5, Región Metropolitana, Providencia",
-        "Mall Plaza Los Dominicos, Avenida Padre Hurtado Sur #875, Región Metropolitana, Las Condes",
-        "Santa Rosa, Avenida Padre Hurtado Sur #875, Región Metropolitana, Las Condes",
-        "Manuel Montt, Avenida Providencia #1371, Región Metropolitana, Providencia",
-        "Avenida La Dehesa #2035, Región Metropolitana, Lo Barnechea",
-        "Avenida Vitacura #6562, Región Metropolitana, Vitacura",
-        "Gran Avenida José Miguel Carrera #5553, Región Metropolitana, San Miguel",
-        "Avenida Libertador Bernardo OHiggins #31, Región Metropolitana, Quilicura",
-        "Rojas Magallanes #1459, Región Metropolitana, La Florida",
-        "Enea, Avenida Américo Vespucio #1264, Región Metropolitana, Pudahuel",
-        "Avenida Concha y Toro #1060, Región Metropolitana, Puente Alto",
-        "Irarrázaval #2899, Región Metropolitana, Ñuñoa",
-        "Avenida Pedro Fontova #6651, Región Metropolitana, Huechuraba",
-        "Guardia Vieja #105, Región Metropolitana, Providencia"
       ]
     },
     {
@@ -21811,6 +21737,64 @@
         "Av. Eduardo Frei Montalva 01110, Local 3, Región de Magallanes y la Antártica Chilena, Punta Arenas",
         "Av. Bulnes 02235, Km 3,5 Norte, Local 39, Región de Magallanes y la Antártica Chilena, Punta Arenas",
         "El Faro, Av. Apoquindo 5701, Región Metropolitana, Las Condes"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "LUCANO RENT A CAR",
+      "categoria": "Viajes",
+      "descuento": "20% dto.",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días",
+      "canal": "Online",
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
+      "condiciones": [
+        "Lucano Rent a Car es una empresa de origen nacional con presencia en las principales ciudades del país: Santiago (Ñuñoa, Vitacura y Santiago Aeropuerto), La Serena, Viña del Mar, Concepción, Temuco, Puerto Montt y Punta Arenas. Disponemos de una amplia flota de vehículos modernos y confiables, y ponemos al cliente en el centro de todo lo que hacemos para que la experiencia de arriendo sea fácil, cómoda y memorable.",
+        "Obtén descuento al reservar ingresando los 6 primeros dígitos de tu tarjeta en lucanorent.cl",
+        "No acumulable con otras promociones.",
+        "Descuento no aplica para compras con factura y es válido solo para personas naturales.",
+        "El descuento es sobre la tarifa T+K no incluye TAG, gastos administrativos autopistas, coberturas adicionales, coberturas de cancelación, conductor adicional, despachos y retiros a domicilio y adicionales como Cadenas para la nieve, alzadores, sillas de niños etc.",
+        "Beneficio exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Av. Juan Cisternas 2637, Región de Coquimbo, La Serena",
+        "Av. Pedro de Valdivia 2942, Región Metropolitana, Ñuñoa",
+        "Calle Quillota 145, Región de Valparaíso, Viña del Mar",
+        "Av. Pdte. Jorge Alessandri Rodriguez 5001,Chile Aeropuerto Internacional Carriel del Sur, Counter #9, Región del Biobío, Talcahuano",
+        "Camino al Tepual km 10787, Ruta 226, Región de Los Lagos, Puerto Montt",
+        "Aeropuerto Internacional Carlos Ibáñez Del Campo, Región de Magallanes y de la Antártica Chilena, Chabunco",
+        "Av. Vitacura 10.018, Región Metropolitana, Vitacura",
+        "Av Radial Aeropuerto 14.080, Región Metropolitana, Pudahuel",
+        "Temuco Aeropuerto, Longitudinal Sur km 692 Counter #36, Región de la Araucanía, Temuco",
+        "Yungay #765, Región de Magallanes y de la Antártica Chilena, Puerto Natales",
+        "Baquedano 781, Puerto Natales, Región de Magallanes y de la Antártica Chilena, Puerto Natales",
+        "Chiloé 294, 1° piso, Región de Magallanes y de la Antártica Chilena, Punta Arenas"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Tesla",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "24 cuotas sin interés y 36 o 48 cuotas a tasa preferencial",
+      "canal": null,
+      "vigencia": "Promoción válida hasta el 31 de agosto de 2026.",
+      "condiciones": [
+        "Elige uno de los nuevos modelos Model 3 RWD, Model 3 Premium LR RWD y Model Y Premium LR RWD de Tesla con tus Tarjetas de Crédito Banco de Chile.",
+        "24 cuotas sin interés con Tarjetas Visa Infinite, 36 y 48 cuotas a tasa preferencial 0,79% Para todas las tarjetas Banco de Chile.",
+        "Para compra de $29.900.000 con Tarjetas de crédito Visa Infinite a 24 cuotas sin interés de $1.245.833 CAE 0,77% Costo Total $30.139.200.",
+        "Para compra de $29.900.000 con Tarjetas de crédito Banco de Chile a 48 cuotas de 750.896 a tasa preferencial de 0,79% mensual, CAE 9,9%. Costo Total del Crédito: $36.282.220.",
+        "Simulaciones a precio total del automóvil, no incluye pie ni gastos operacionales.",
+        "Conoce los modelos disponibles en https://www.tesla.com/es_CL Sucursales: Alto Las Condes, Parque Arauco, Concepción (Mall Plaza El Trebol), Viña del Mar (Paseo Dunas)"
+      ],
+      "sucursales": [
+        "Av. Pdte. Kennedy #5413, Mall Parque Arauco, Región Metropolitana, Las Condes",
+        "Av Pdte. Jorge Alessandri Rodriguez 3177, Mallplaza El Trebol, Región del Biobío, Talcahuano",
+        "Av. Pdte. Kennedy Lateral #9001 Suite 1143, Mall Alto las Condes, Región Metropolitana, Las Condes",
+        "Av. Gastón Hamel Nieto #527, Paseo Dunas, Región deValparaíso, Viña del Mar"
       ]
     },
     {
