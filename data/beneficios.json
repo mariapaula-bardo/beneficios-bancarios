@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-15T11:11",
+  "actualizado": "2026-08-16T11:11",
   "beneficios": [
     {
       "banco": "Banco de Chile",
@@ -3912,31 +3912,6 @@
       "vigencia": "Promoción válida hasta 15 de octubre de 2026",
       "condiciones": [],
       "sucursales": []
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Magíster en Ingeniería de la Energía UC.",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": "20% dto.",
-      "dia": [],
-      "dia_texto": "en el valor del programa",
-      "canal": null,
-      "vigencia": "Promoción válida hasta el 15 de agosto de 2026.",
-      "condiciones": [
-        "El Magíster en Ingeniería de la Energía UC (MIE-UC) es un postgrado profesional acreditado y dictado por la Escuela de Ingeniería de la Pontificia Universidad Católica de Chile. El MIE-UC, con más de 17 años de trayectoria, entrega competencias con una visión integral del ecosistema energético, abarcando tecnología, política, economía, sociedad y medioambiente. Ofrece formación transversal en energías renovables, hidrógeno, almacenamiento, movilidad, regulación e innovación, junto con experiencias prácticas en laboratorios, terreno y un estrecho vínculo con el ecosistema energético nacional e internacional. Potencia tu carrera al siguiente nivel con el Magíster en Ingeniaría de la Energía UC.",
-        "20% dto. en el valor del programa del MIE-UC.",
-        "Beneficio se verá reflejado a contar del segundo pago.",
-        "Para compra presencial y online solicita tu descuento al momento de pagar.",
-        "Postulaciones hasta el 10 de marzo 2026 para el primer semestre.",
-        "Postulaciones hasta el 15 de agosto 2026 para el segundo semestre.",
-        "Beneficio en postulaciones para ingreso en marzo y agosto 2026, sujeto al proceso de admisión y vacantes del programa.",
-        "Revisa requisitos y cómo postular en mie-uc.cl",
-        "No acumulable con otras promociones.",
-        "Descuento exclusivo pagando con tus Tarjetas del Chile."
-      ],
-      "sucursales": [
-        "Benito Rebolledo 1800-1870, Región Metropolitana, Macul"
-      ]
     },
     {
       "banco": "Banco de Chile",
@@ -23291,27 +23266,6 @@
         "Av. Italia 1484, Providencia",
         "No acumulable con otras promociones.",
         "Descuento máximo por pedido de $40.000"
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Hotel Termas Chillán",
-      "categoria": "Viajes",
-      "descuento": "30% dcto.",
-      "dia": [],
-      "dia_texto": "desde 01 al 15 de agosto de 2026",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Experimenta relajo y naturaleza",
-        "Exclusivo pagando con tus Tarjetas de Crédito Santander.",
-        "Válido en www.termaschillan.cl",
-        "Válido para reservas entre el 01 al 30 de septiembre",
-        "Km 80 ruta 55, Chillán.",
-        "Ingresa los 6 primeros dígitos de tu Tarjeta como código de descuento.",
-        "No es acumulable con otras promociones.",
-        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
       ],
       "sucursales": []
     },
