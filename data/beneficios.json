@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-16T11:11",
+  "actualizado": "2026-08-17T11:16",
   "beneficios": [
     {
       "banco": "Banco de Chile",
@@ -21475,34 +21475,6 @@
         "Av. Alemania 671, Regipon de la Araucanía, Temuco",
         "Arauco 561, Región de Los Ríos, Valdivia"
       ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "miCoca-Cola.cl",
-      "categoria": "Sabores",
-      "descuento": "25% dto.",
-      "dia": [],
-      "dia_texto": "en miCoca-Cola.cl más despacho gratis",
-      "canal": null,
-      "vigencia": "Promoción válida del 10 al 16 de agosto de 2026.",
-      "condiciones": [
-        "25% dto. en miCoca-Cola.cl más despacho gratis pagando con tus Tarjetas del Chile. en miCoca-Cola.cl del 10 al 16 de agosto. ¿Cómo obtener tu descuento?",
-        "Ingresa a miCoca-Cola.cl",
-        "Elige tu ciudad.",
-        "Agrega al carrito de compras los productos que quieras.",
-        "Luego, ingresa los 6 primeros dígitos de tu Tarjeta como código de descuento.",
-        "Recibe tu pedido y disfruta.",
-        "Despacho gratis por compras sobre $25.000 después de aplicado el dto.",
-        "Beneficio exclusivo pagando con tus Tarjetas del Chile.",
-        "Beneficio no acumulable con otras promociones.",
-        "Tope de descuento $25.000 por compra.",
-        "Válido para 2 compras por cliente.",
-        "Un código de descuento válido por pedido.",
-        "No aplica en compras con Gift Cards.",
-        "Revisa cobertura de despacho en miCoca-Cola.cl",
-        "Recuerda que con tus Tarjetas de Crédito puedes pagar en 3 cuotas sin interés (2) Para una compra de $100.000 en 3 cuotas de $33.333 CAE de 1.19%. Costo Total $100.198"
-      ],
-      "sucursales": []
     },
     {
       "banco": "Banco de Chile",
