@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-17T11:16",
+  "actualizado": "2026-08-18T11:17",
   "beneficios": [
     {
       "banco": "Banco de Chile",
@@ -672,6 +672,53 @@
       ],
       "sucursales": [
         "Av. Chicureo 1.700 Chicureo, Región Metropolitana, Colina"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Cassis",
+      "categoria": "Sabores",
+      "descuento": "30% dto.",
+      "dia": [
+        "Martes"
+      ],
+      "dia_texto": "martes",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 31 de octubre de 2026.",
+      "condiciones": [
+        "En Cassis somos la Embajada no oficial del Sur. Vive la experiencia Cassis en un Refugio pensado para cada momento del día: café de especialidad, pastelería, chocolatería, bistró, restaurante y mucho más. Un lugar para disfrutar, compartir y al que siempre querrás volver.",
+        "30% de dto. todos los martes en consumo presencial.",
+        "Solicita tu descuento al momento de pagar.",
+        "No acumulable con otras promociones.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Cassis Arauco Maipú, Av. Américo Vespucio #399 local 654, Región Metropolitana, Maipú",
+        "Cassis Plaza Los Domínicos, Av. Padre Hurtado Sur #875 locales D-1060 y D-1064, Región Metropolitana, Las Condes",
+        "Cassis Los Trapenses, Av. José Alcalde Délano #10492 local 1064, Región Metropolitana, Lo Barnechea",
+        "Cassis El Golf, Isidora Goyenechea #2880, Región Metropolitana, Las Condes",
+        "Cassis Mall Plaza Norte, Av. Américo Vespucio #1737 locales 1137 y 1141-B, Región Metropolitana, Huechuraba",
+        "Cassis Vitacura, Luis Pasteur #6396, Región Metropolitana, Vitacura",
+        "Cassis Marina Arauco, Av. Libertad #1348 local 130, Región de Valparaíso, Viña del Mar",
+        "Cassis San Martín, San Martín #440, Región de Valparaíso, Viña del Mar",
+        "Cassis Talca, Circunvalación Oriente #1055 local 1147, Región del Maule, Talca",
+        "Cassis Chillán, El Roble #770 local 14, Región de Ñuble, Chillán",
+        "Cassis Los Ángeles, Av. Alemania #831, Región del Biobío, Los Ángeles",
+        "Cassis Los Ángeles Mall Plaza, Valdivia #440 locales 241 y 201 A, Región del Biobío, Los Ángeles",
+        "Cassis Concepción, Barros Arana #1068 local 11, Región del Biobío, Concepción",
+        "Cassis San Pedro de la Paz, Camino al Venado #220, Región del Biobío, San Pedro de la Paz",
+        "Cassis Talcahuano, Jorge Alessandri #3177 local 150 B, Región del Biobío, Talcahuano",
+        "Cassis Los Pablos, Los Pablos #1880, Región de La Araucanía, Temuco",
+        "Cassis Bulnes, Bulnes #721 local 02, Región de La Araucanía, Temuco",
+        "Cassis Portal Temuco, Alemania #671 local 2070, Región de La Araucanía, Temuco",
+        "Cassis Villarrica, Aviador Acevedo #241, Región de La Araucanía, Villarrica",
+        "Cassis Pucón, Fresia #223, Región de La Araucanía, Pucón",
+        "Cassis Pucón Plaza, Pedro de Valdivia #311, Región de La Araucanía, Pucón",
+        "Cassis Valdivia, Caupolicán #465 local 232, Región de Los Ríos, Valdivia",
+        "Cassis Los Castaños, Los Castaños #11 local 01, Región de Los Lagos, Puerto Varas",
+        "Cassis Teatro del Lago, Av. Philippi #1000 local 06, Región de Los Lagos, Frutillar",
+        "Cassis Puerto Varas, San Juan #431, Región de Los Lagos, Puerto Varas",
+        "Cassis Osorno, Eleuterio Ramírez #878, Región de Los Lagos, Osorno"
       ]
     },
     {
@@ -20994,6 +21041,32 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "Cafetano",
+      "categoria": "Sabores",
+      "descuento": "30% dto.",
+      "dia": [
+        "Lunes"
+      ],
+      "dia_texto": "lunes",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 31 de octubre de 2026.",
+      "condiciones": [
+        "Cafetano es una cadena de cafeterías que nace de la pasión por el café y el espíritu emprendedor chileno. Ofrece una variedad de preparaciones en espacios acogedores, ideales para disfrutar, compartir o hacer una pausa durante el día.",
+        "30% dto. lunes compra presencial.",
+        "Solicita tu descuento al momento de pagar.",
+        "No acumulable con otras promociones.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Augusto Leguia Sur #70, Región Metropolitana, las condes",
+        "Miraflores #358, Región Metropolitana, santiago",
+        "San Francisco #220, Región Metropolitana, Santiago",
+        "Independencia #1121, Local 1f, Región Metropolitana, Independencia",
+        "Irarrazaval #2401, Región Metropolitana, ñuñoa"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "Ludovico Einaudi - 9 de marzo 2027",
       "categoria": "Entretención y Deportes",
       "descuento": null,
@@ -21003,6 +21076,32 @@
       "vigencia": null,
       "condiciones": [],
       "sucursales": []
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Cambalache",
+      "categoria": "Sabores",
+      "descuento": "20% dto.",
+      "dia": [
+        "Lunes",
+        "Martes",
+        "Miércoles",
+        "Jueves",
+        "Viernes"
+      ],
+      "dia_texto": "lunes a viernes",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2027.",
+      "condiciones": [
+        "El \"Cambalache\", es un imperdible de la gastronomía de Puerto Varas, un prestigioso Restaurant en donde podrás compartir frente al Lago innovadores platos de la tradicional Cocina Patagónica (Chileno/Argentina), combinando la tradición y Frescura del Mar, con la Magia de nuestra Tierra.",
+        "20% dto. lunes a viernes compra presencial.",
+        "Solicita tu descuento al momento de pagar.",
+        "No acumulable con otras promociones.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Avda. Vicente Perez Rosales #1589, Región de los Lagos, Puerto Varas"
+      ]
     },
     {
       "banco": "Banco de Chile",
@@ -21170,6 +21269,31 @@
         "Metro Tobalaba, Av. Providencia 2700, Región Metropolitana, Providencia",
         "Metro Metro Universidad de Chile,, Región Metropolitana, Santiago Centro",
         "Alianza Cristiana y Misionera 255, Región de Los Lagos, Puerto Montt"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Viña La Rosa",
+      "categoria": "Sabores",
+      "descuento": "40% dto. adicional",
+      "dia": [
+        "Martes"
+      ],
+      "dia_texto": "martes",
+      "canal": "Ambos",
+      "vigencia": "Promoción válida hasta el 31 de julio de 2027.",
+      "condiciones": [
+        "Viña La Rosa expresa la identidad del terroir de Peumo, en el Valle de Cachapoal, a través de un portafolio que recorre vinos íconos, ensamblajes y grandes proyectos terroir, todos ellos reflejo de la pureza de este lugar único. Con 200 años de historia vitivinícola, Viña La Rosa es liderada hoy por la séptima generación de la familia Ossa, que respalda la elegancia y el carácter en cada botella.",
+        "40% dto. adicional martes en compra presencial y en larosasofruco.cl",
+        "Para compra presencial solicita tu descuento al momento de pagar.",
+        "Para compra online ingresa a larosasofruco.cl selecciona tus productos en la categoría Vinos e ingresa los 6 primeros dígitos de tu Tarjeta como cupón de descuento al momento de pagar.",
+        "Descuento no aplica para valor del despacho.",
+        "Revisa cobertura de despacho en larosasofruco.cl",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Ruta H 66 Km. 37, Región del Libertador Gral. Bernardo OHiggins, Peumo",
+        "Diego Portales 081 local 5, Región del Libertador Gral. Bernardo OHiggins, San Vicente"
       ]
     },
     {
@@ -21728,7 +21852,7 @@
       "dia": [],
       "dia_texto": "24 cuotas sin interés y 36 o 48 cuotas a tasa preferencial",
       "canal": null,
-      "vigencia": "Promoción válida hasta el 31 de agosto de 2026.",
+      "vigencia": "Promoción válida hasta el 15 de septiembre de 2026.",
       "condiciones": [
         "Elige uno de los nuevos modelos Model 3 RWD, Model 3 Premium LR RWD y Model Y Premium LR RWD de Tesla con tus Tarjetas de Crédito Banco de Chile.",
         "24 cuotas sin interés con Tarjetas Visa Infinite, 36 y 48 cuotas a tasa preferencial 0,79% Para todas las tarjetas Banco de Chile.",
@@ -21742,6 +21866,29 @@
         "Av Pdte. Jorge Alessandri Rodriguez 3177, Mallplaza El Trebol, Región del Biobío, Talcahuano",
         "Av. Pdte. Kennedy Lateral #9001 Suite 1143, Mall Alto las Condes, Región Metropolitana, Las Condes",
         "Av. Gastón Hamel Nieto #527, Paseo Dunas, Región deValparaíso, Viña del Mar"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Blend Odontología",
+      "categoria": "Salud y Belleza",
+      "descuento": "25% dto.",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 31 de agosto de 2027.",
+      "condiciones": [
+        "Blend Odontología es un centro de especialidades dentales en Viña del Mar que integra tecnología digital, un equipo multidisciplinario y atención personalizada para ofrecer tratamientos de alta calidad, desde odontología general hasta implantología avanzada y rehabilitación oral.",
+        "25% dto. todos los días presencial en todas las prestaciones.",
+        "Beneficio excluye implantes y prestaciones asociadas, insumos, laboratorios, medicamentos, exámenes externos y honorarios a terceros.",
+        "Solicita tu descuento al momento de pagar.",
+        "No acumulable con otras promociones.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Libertad #1348, Oficina #1001, Región de Valparaíso, Viña del Mar"
       ]
     },
     {
@@ -21850,6 +21997,7 @@
         "Exclusivo pagando con tus Tarjetas de Crédito y Débito Santander.",
         "Válido en www.auralis.cl",
         "Se excluyen eventos cyber, black y eventos de descuentos internos de la marca.",
+        "Excluye pack duo.",
         "Ingresa los 6 primeros dígitos de tu Tarjeta como código de descuento.",
         "No acumulable a otras promociones.",
         "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
