@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-18T11:17",
+  "actualizado": "2026-08-19T11:17",
   "beneficios": [
     {
       "banco": "Banco de Chile",
@@ -672,53 +672,6 @@
       ],
       "sucursales": [
         "Av. Chicureo 1.700 Chicureo, Región Metropolitana, Colina"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Cassis",
-      "categoria": "Sabores",
-      "descuento": "30% dto.",
-      "dia": [
-        "Martes"
-      ],
-      "dia_texto": "martes",
-      "canal": "Tienda física",
-      "vigencia": "Promoción válida hasta el 31 de octubre de 2026.",
-      "condiciones": [
-        "En Cassis somos la Embajada no oficial del Sur. Vive la experiencia Cassis en un Refugio pensado para cada momento del día: café de especialidad, pastelería, chocolatería, bistró, restaurante y mucho más. Un lugar para disfrutar, compartir y al que siempre querrás volver.",
-        "30% de dto. todos los martes en consumo presencial.",
-        "Solicita tu descuento al momento de pagar.",
-        "No acumulable con otras promociones.",
-        "Descuento exclusivo pagando con tus Tarjetas del Chile."
-      ],
-      "sucursales": [
-        "Cassis Arauco Maipú, Av. Américo Vespucio #399 local 654, Región Metropolitana, Maipú",
-        "Cassis Plaza Los Domínicos, Av. Padre Hurtado Sur #875 locales D-1060 y D-1064, Región Metropolitana, Las Condes",
-        "Cassis Los Trapenses, Av. José Alcalde Délano #10492 local 1064, Región Metropolitana, Lo Barnechea",
-        "Cassis El Golf, Isidora Goyenechea #2880, Región Metropolitana, Las Condes",
-        "Cassis Mall Plaza Norte, Av. Américo Vespucio #1737 locales 1137 y 1141-B, Región Metropolitana, Huechuraba",
-        "Cassis Vitacura, Luis Pasteur #6396, Región Metropolitana, Vitacura",
-        "Cassis Marina Arauco, Av. Libertad #1348 local 130, Región de Valparaíso, Viña del Mar",
-        "Cassis San Martín, San Martín #440, Región de Valparaíso, Viña del Mar",
-        "Cassis Talca, Circunvalación Oriente #1055 local 1147, Región del Maule, Talca",
-        "Cassis Chillán, El Roble #770 local 14, Región de Ñuble, Chillán",
-        "Cassis Los Ángeles, Av. Alemania #831, Región del Biobío, Los Ángeles",
-        "Cassis Los Ángeles Mall Plaza, Valdivia #440 locales 241 y 201 A, Región del Biobío, Los Ángeles",
-        "Cassis Concepción, Barros Arana #1068 local 11, Región del Biobío, Concepción",
-        "Cassis San Pedro de la Paz, Camino al Venado #220, Región del Biobío, San Pedro de la Paz",
-        "Cassis Talcahuano, Jorge Alessandri #3177 local 150 B, Región del Biobío, Talcahuano",
-        "Cassis Los Pablos, Los Pablos #1880, Región de La Araucanía, Temuco",
-        "Cassis Bulnes, Bulnes #721 local 02, Región de La Araucanía, Temuco",
-        "Cassis Portal Temuco, Alemania #671 local 2070, Región de La Araucanía, Temuco",
-        "Cassis Villarrica, Aviador Acevedo #241, Región de La Araucanía, Villarrica",
-        "Cassis Pucón, Fresia #223, Región de La Araucanía, Pucón",
-        "Cassis Pucón Plaza, Pedro de Valdivia #311, Región de La Araucanía, Pucón",
-        "Cassis Valdivia, Caupolicán #465 local 232, Región de Los Ríos, Valdivia",
-        "Cassis Los Castaños, Los Castaños #11 local 01, Región de Los Lagos, Puerto Varas",
-        "Cassis Teatro del Lago, Av. Philippi #1000 local 06, Región de Los Lagos, Frutillar",
-        "Cassis Puerto Varas, San Juan #431, Región de Los Lagos, Puerto Varas",
-        "Cassis Osorno, Eleuterio Ramírez #878, Región de Los Lagos, Osorno"
       ]
     },
     {
@@ -3396,26 +3349,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Sense",
-      "categoria": "Mascotas",
-      "descuento": "30% dto.",
-      "dia": [
-        "Todos los días"
-      ],
-      "dia_texto": "todos los días en compra",
-      "canal": "Online",
-      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
-      "condiciones": [
-        "Sense es una marca de alimentación holística para perros y gatos, con una receta 100% libre de granos, hipoalergénica y hecha en Europa a base de carnes, frutas y verduras frescas disponible en formatos seco y húmedo.",
-        "30% dto. en www.sense.cl",
-        "Como obtener el descuento:",
-        "No aplica descuentos sobre descuentos y/o promociones.",
-        "Descuento no aplica en el despacho de la compra."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "Caktus",
       "categoria": "Sustentable",
       "descuento": "25% dto.",
@@ -3606,24 +3539,6 @@
       "sucursales": [
         "Cerro Castillo Lote C5, Sector Aerodromo, región de Aysén del General Carlos Ibáñez del Campo, Río Ibañez, Teléfono: +569 36180883"
       ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Solar Fotovoltaica",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "Paga en 4 a 24 cuotas sin interés",
-      "canal": null,
-      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
-      "condiciones": [
-        "¿Quieres pagar $0 en tu cuenta de luz? Instala un sistema solar fotovoltaico a tu medida y empieza a ahorrar desde el primer día. Rentabilidad 28% anual.",
-        "Residencial y agrícola.",
-        "Tecnología de punta. Experiencia Alemana",
-        "Ahorro garantizado por 25 años.",
-        "Somos expertos en proyectos solares. ¡Conversemos y te mostramos cómo! Solar Fotovoltaica – Tu aliado solar. Para una compra referencial de $4.000.000 en 24 cuotas de $166.667. CAE: 0,77%, Costo Total: $4.032.000."
-      ],
-      "sucursales": []
     },
     {
       "banco": "Banco de Chile",
@@ -7933,38 +7848,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Portal Ortodoncia de Chile",
-      "categoria": "Salud y Belleza",
-      "descuento": "Hasta 77% dto.",
-      "dia": [
-        "Todos los días"
-      ],
-      "dia_texto": "todos los días",
-      "canal": "Tienda física",
-      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
-      "condiciones": [
-        "Portal de Ortodoncia de Chile cuenta con sedes en Santiago y Providencia, ofreciendo tratamientos especializados en ortodoncia y odontología integral. Sus convenios y descuentos permiten un acceso más amplio a la atención dental.",
-        "Instalación Brackets metálicos.",
-        "Control Brackets estéticos",
-        "Control Brackets metálicos.",
-        "Estudio inicial ortodoncia quirúrgica.",
-        "Control de contención.",
-        "Micro tornillos.",
-        "65% dto. en restauración que incluye implante, un control, conexión Quirúrgica, corona+ control de Rehabilitación",
-        "46% dto en Higiene + diagnóstico",
-        "33% dto en instalación Brackets Metálicos",
-        "33% dto en Diagnóstico + Flúor + 4 sellantes",
-        "Alineadores Self en 12 cuotas de $140.000 cada una",
-        "Solicita tu descuento al momento de pagar.",
-        "No acumulable con otras promociones.",
-        "Descuento exclusivo pagando con tus Tarjetas del Chile."
-      ],
-      "sucursales": [
-        "ANTONIO VARAS 445, Región Metropolitana, PROVIDENCIA"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "ProwashGo",
       "categoria": "Retail y Otras Marcas",
       "descuento": "20% dto.",
@@ -11420,33 +11303,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Trattoria Bramasole",
-      "categoria": "Sabores",
-      "descuento": "25% dto.",
-      "dia": [
-        "Lunes",
-        "Miércoles",
-        "Sábado"
-      ],
-      "dia_texto": "lunes, miércoles y sábado",
-      "canal": "Tienda física",
-      "vigencia": "Promoción válida hasta el 30 de septiembre de 2026.",
-      "condiciones": [
-        "Trattoria Bramasole es un restaurante de comida italiana en Chile, reconocido por sus pastas artesanales, pizzas y su ambiente acogedor. Es un lugar ideal tanto para disfrutar de una comida en familia como para una cena más íntima, destacando por la calidad de sus ingredientes y la autenticidad de sus preparaciones.",
-        "25% dto. lunes, miércoles y sábado presencial.",
-        "Solicita tu descuento al momento de pagar.",
-        "No acumulable con otras promociones.",
-        "No acumulable con otras promociones ni Menu ni Happy Hour.",
-        "Descuento exclusivo pagando con tus Tarjetas del Chile."
-      ],
-      "sucursales": [
-        "Pedro Fontova 6251, Región Metropolitana, huechuraba",
-        "Cajón del Maipo Camino El Volcán 4806, Región Metropolitana, El Canelo",
-        "Avda Consistorial 2.100, Región Metropolitana, Peñalolén"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "Iron Training",
       "categoria": "Entretención y Deportes",
       "descuento": null,
@@ -14210,6 +14066,37 @@
         "Moneda 984, Región Metropolitana, Santiago Centro",
         "Centro Nueva Taboada Camino Henriquez 466 Local 3, Región de Los Ríos, Valdivia",
         "Carretera El Cobre 750 Local 1129, Región del Libertador General Bernardo OHiggins, Rancagua"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Portal Ortodoncia de Chile",
+      "categoria": "Salud y Belleza",
+      "descuento": "Hasta 77% dto.",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
+      "condiciones": [
+        "Portal de Ortodoncia de Chile cuenta con sedes en Santiago y Providencia, ofreciendo tratamientos especializados en ortodoncia y odontología integral. Sus convenios y descuentos permiten un acceso más amplio a la atención dental.",
+        "Instalación Brackets metálicos.",
+        "Control Brackets estéticos",
+        "Control Brackets metálicos.",
+        "Estudio inicial ortodoncia quirúrgica.",
+        "Control de contención.",
+        "Micro tornillos.",
+        "65% dto. en restauración que incluye implante, un control, conexión Quirúrgica, corona+ control de Rehabilitación",
+        "46% dto en Higiene + diagnóstico",
+        "33% dto en instalación Brackets Metálicos",
+        "33% dto en Diagnóstico + Flúor + 4 sellantes",
+        "Solicita tu descuento al momento de pagar.",
+        "No acumulable con otras promociones.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "ANTONIO VARAS 445, Región Metropolitana, PROVIDENCIA"
       ]
     },
     {
@@ -18914,30 +18801,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "María Pompón",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": "15% dto adicional.",
-      "dia": [
-        "Todos los días"
-      ],
-      "dia_texto": "todos los días",
-      "canal": "Ambos",
-      "vigencia": "Promoción válida hasta el 31 de marzo de 2027.",
-      "condiciones": [
-        "María Pompón: Un nuevo mundo romántico, dentro del Slow Fashion Nacional, ropa creada para aquellas mamás que quieren seguir vistiendo a sus hijos como niños más allá de la moda y las tendencias. y Nos inspira a diario mantener la esencia ingenua, versátil y alegre que nos regalan los más pequeños.",
-        "15% dto. adicional todos los días presencial y online.",
-        "Para compras presenciales solicita tu descuento al momento de pagar.",
-        "Para compras online ingresa los 6 primeros dígitos de tu Tarjeta del Chile en mariapompon.cl",
-        "Descuento exclusivo pagando con tus Tarjetas del Chile."
-      ],
-      "sucursales": [
-        "Nueva Costanera #3900, MOD 292, Región Metropolitana, Vitacura",
-        "Vitacura #6195, Local 74, Región Metropolitana, Vitacura",
-        "Av. Presidente Kenney #5413, Nivel 1 Local 87-A, Región Metropolitana, Las Condes"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "CAFFARENA",
       "categoria": "Retail y Otras Marcas",
       "descuento": "30% dto.",
@@ -19595,11 +19458,15 @@
       "categoria": "Entretención y Deportes",
       "descuento": "20% dto.",
       "dia": [
-        "Todos los días"
+        "Lunes",
+        "Martes",
+        "Miércoles",
+        "Jueves",
+        "Viernes"
       ],
-      "dia_texto": "todos los días",
+      "dia_texto": "lunes a viernes",
       "canal": null,
-      "vigencia": "Promoción válida hasta el 31 de marzo de 2027.",
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
       "condiciones": [
         "Vive la energía de nuestras aguas termales naturales, a solo 1 hora de Puerto Varas. Relájate en familia en nuestras 5 piscinas o elige la tranquilidad de nuestras 9 tinajas, rodeadas de imponentes bosques de arrayanes. Descubre el poder revitalizante del agua de mar en nuestra piscina de talasoterapia.",
         "20% dto. en el ticket de entrada presencial.",
@@ -19608,6 +19475,31 @@
       ],
       "sucursales": [
         "Ruta V-69, Kilómetro 41,2, Región de los Lagos, Cochamó"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "María Pompón",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "15% dto adicional.",
+      "dia": [
+        "Lunes",
+        "Miércoles"
+      ],
+      "dia_texto": "adicional lunes y miércoles",
+      "canal": "Online",
+      "vigencia": "Promoción válida hasta el 31 de marzo de 2027.",
+      "condiciones": [
+        "María Pompón: Un nuevo mundo romántico, dentro del Slow Fashion Nacional, ropa creada para aquellas mamás que quieren seguir vistiendo a sus hijos como niños más allá de la moda y las tendencias. y Nos inspira a diario mantener la esencia ingenua, versátil y alegre que nos regalan los más pequeños.",
+        "15% dto. adicional lunes y miércoles presencial y online.",
+        "Para compras presenciales solicita tu descuento al momento de pagar.",
+        "Para compras online ingresa los 6 primeros dígitos de tu Tarjeta del Chile en mariapompon.cl",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Nueva Costanera #3900, MOD 292, Región Metropolitana, Vitacura",
+        "Vitacura #6195, Local 74, Región Metropolitana, Vitacura",
+        "Av. Presidente Kenney #5413, Nivel 1 Local 87-A, Región Metropolitana, Las Condes"
       ]
     },
     {
@@ -21105,6 +20997,78 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "Farmacias Knop",
+      "categoria": "Salud y Belleza",
+      "descuento": "Hasta 20% dto.",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 31 de agosto de 2027.",
+      "condiciones": [
+        "Farmacias Knop es la mayor cadena de farmacias de medicina natural en Chile, enfocada diariamente en brindar una atención personalizada y de calidad de Arica a Punta Arenas.",
+        "20% dto. en productos de la categoría Pharma Knop.",
+        "15% dto. en productos de Laboratorios Knop, excepto preparados magistrales de fitocannabinoides y Epiless.",
+        "Descarga tu código de descuento y preséntalo al momento de pagar.",
+        "No acumulable con otras promociones.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Av. Matucana 2-C, Región Metropolitana, Estación Central",
+        "Av. Providencia Nº2031, Región Metropolitana, Providencia",
+        "Av. Lib. Bernardo OHiggins Nº1665, Región Metropolitana, Santiago",
+        "Santo Domingo Nº960, Región Metropolitana, Santiago",
+        "Av. Freire N°1351 local 6-7 (Belloto), Región de Valparaíso, Quilpué",
+        "Monumento Nº1909, Región Metropolitana, Maipú",
+        "Independencia N°460, Región del Maule, Linares",
+        "Av. Apoquindo Nº6029, Región Metropolitana, Las Condes",
+        "Moneda Nº1045, Región Metropolitana, Santiago",
+        "Av. Lib. Bernardo OHiggins Nº985, Región Metropolitana, Santiago",
+        "Av. Irarrázaval Nº2546, Región Metropolitana, Ñuñoa",
+        "Av. La Dehesa Nº1201 Local 104-A, Región Metropolitana, Lo Barnechea",
+        "Av. Providencia Nº1333, Región Metropolitana, Providencia",
+        "Huérfanos Nº885, Región Metropolitana, Santiago",
+        "Lautaro N°20 local 101, Región de La Araucanía, Angol",
+        "Camino del Alba N°11865 locales 10 y 205, Región Metropolitana, Las Condes",
+        "Av. Irarrázaval Nº2810, Región Metropolitana, Ñuñoa",
+        "Jose Manuel Balmaceda Nº200, Región Metropolitana, Buin",
+        "Nueva Providencia 2176 Local 01, Región Metropolitana, Providencia",
+        "Mar de los Sargazos Nº5881 Local 07, Región Metropolitana, Las Condes",
+        "Juan Soler Manfredini N°131 local Z5, Región de Los Lagos, Puerto Montt",
+        "Nueva Las Condes Nº12271 Local 15-16, Región Metropolitana, Las Condes",
+        "Príncipe de Gales N°8531 Local 04, Región Metropolitana, La Reina",
+        "Eyzaguirre Nº624 Local 02, Región Metropolitana, San Bernardo",
+        "Av. Providencia Nº2242, Región Metropolitana, Providencia",
+        "Av. Los Pajaritos Nº1960, Región Metropolitana, Maipú",
+        "Serafín Zamora Nº76 Local 34, Región Metropolitana, La Florida",
+        "Jose Luis Coo Nº120, Región Metropolitana, Puente Alto",
+        "San Francisco N°328, Región de Los Lagos, Puerto Varas",
+        "Jose Santiago Aldunate Nº1160, Región de Coquimbo, Coquimbo",
+        "Av. Jose Manuel Balmaceda Nº457, Región de Coquimbo, La Serena",
+        "Av. Providencia Nº2580 Local 018, Región Metropolitana, Providencia",
+        "Av. Irarrazabal Nº5674, Región Metropolitana, Ñuñoa",
+        "Av. Valparaíso Nº722, Región de Valparaíso, Villa Alemana",
+        "Av. Libertad Nº1279 Local 2, Región de Valparaíso, Viña del Mar",
+        "Huérfanos Nº1109, Región Metropolitana, Santiago",
+        "Maipú Nº245, Región de Valparaíso, Los Andes",
+        "Av. Borgoño Nº14351, Región de Valparaíso, Viña del Mar",
+        "Av. Brasil Nº1302, Región de Valparaíso, Valparaíso",
+        "Av. Pedro Montt Nº1842, Región de Valparaíso, Valparaíso",
+        "Av. Valparaíso Nº329, Región de Valparaíso, Viña del Mar",
+        "Thompson Nº1491, Región de Valparaíso, Quilpué",
+        "Claudio Vicuña Nº928, Región de Valparaíso, Quilpué",
+        "José Joaquín Pérez Nº247-B, Región de Valparaíso, La Calera",
+        "Av. Valparaíso N°1070 local 2112, Región de Valparaíso, Viña del Mar",
+        "Arturo Prat Nº245, Región de Valparaíso, San Felipe",
+        "Av. Alemania N°849 local 3, Región de La Araucanía, Temuco",
+        "Rafael Casanova Nº222-A, Región de OHiggins, Santa Cruz",
+        "Independencia Nº521 Local B, Región de OHiggins, Rancagua",
+        "San Antonio Nº476 Local 04, Región Metropolitana, Santiago"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "Salones VIP Nacionales",
       "categoria": "Viajes",
       "descuento": null,
@@ -21693,7 +21657,7 @@
       ],
       "dia_texto": "lunes, miércoles, sábado y domingo",
       "canal": "Ambos",
-      "vigencia": "Promoción válida del 10 de agosto al 30 de agosto de 2026.",
+      "vigencia": "Promoción válida del 10 de agosto al 31 de agosto de 2026.",
       "condiciones": [
         "30% dto. lunes, miércoles, sábados y domingos desde el 10 al 31 de agosto en compra online o presencial.",
         "Para compra presencial, solicita en caja tu descuento al momento de pagar con tu Tarjeta Banco de Chile.",
@@ -21846,6 +21810,53 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "Dr. Pet",
+      "categoria": "Mascotas",
+      "descuento": "25% dto.",
+      "dia": [
+        "Martes"
+      ],
+      "dia_texto": "martes",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 9 de febrero de 2027.",
+      "condiciones": [
+        "Dr. Pet es una red de tiendas especialistas y clínicas veterinarias dedicadas al cuidado y bienestar de las mascotas. Cuenta con una amplia variedad de alimentos, medicamentos, accesorios y productos especializados para perros y gatos, además de servicios veterinarios y asesoría profesional en todas las tiendas a lo largo del país.",
+        "25% dto. martes en compras presenciales en toda la tienda y consultas veterinarias.",
+        "Beneficio excluye productos de la marca Brit Care.",
+        "Solicita tu descuento al momento de pagar.",
+        "Se solicitarán los primeros 6 dígitos de la tarjeta al momento de la compra para aplicar el descuento.",
+        "No acumulable con otras promociones.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Locales 2, Avenida Chamisero #15135, Región Metropolitana, Colina",
+        "Locales 14-15, Avenida Padre Hurtado Sur #1621, Región Metropolitana, Las Condes",
+        "Local 23, Avenida Ingeniero Eduardo Domínguez #666, Región Metropolitana, Maipú",
+        "Local 3, Avenida Pedro de Valdivia #3774, Región Metropolitana, Ñuñoa",
+        "Local S104, Avenida Consistorial #2100, Región Metropolitana, Peñalolén",
+        "Avenida Los Leones #573, Región Metropolitana, Providencia",
+        "Locales 11-12, Avenida Diego Portales #6303, Región Metropolitana, Puente Alto",
+        "Local 15-16, Avenida OHiggins #358, Región Metropolitana, Quilicura",
+        "Local E, Avenida Santa María #6736, Región Metropolitana, Vitacura",
+        "Local 3, Avenida Pedro de Valdivia #2520, Región Metropolitana, Ñuñoa",
+        "Local 1, Las Verbenas #8925, Región Metropolitana, Las Condes",
+        "Local Bh168, Avenida Camilo Henríquez #3692, Región Metropolitana, Puente Alto",
+        "Local 16, Avenida Paseo Pie Andino #5855, Región Metropolitana, Lo Barnechea",
+        "Local 183, Guardia Vieja #140, Región Metropolitana, Providencia",
+        "Locales 13-14, Avenida Consistorial #5791, Región Metropolitana, Peñalolén",
+        "Local 02, Lo Cañas #3517, Región Metropolitana, La Florida",
+        "Locales 2 y 3, Camino Buin-Alto Jahuel #1531, Región Metropolitana, Buin",
+        "Autopista Los Libertadores KM 16, Región Metropolitana, Colina",
+        "Local 1013, Avenida Concha y Toro #3909, Región Metropolitana, Puente Alto",
+        "Avenida Guillermo Ulriksen #1634, Región de Coquimbo, La Serena",
+        "Local 1400, Avenida Vicente Méndez #1545, Región de Ñuble, Chillán",
+        "Locales 5 y 6, Ruta 66 #1, Región de Valparaíso, San Antonio",
+        "Local 101, Carmen #1220, Región del Maule, Curicó",
+        "Local C-1, Avenida Libertador Bernardo OHiggins #0450, Región del Libertador General Bernardo OHiggins, San Fernando"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "Tesla",
       "categoria": "Retail y Otras Marcas",
       "descuento": null,
@@ -21890,6 +21901,145 @@
       "sucursales": [
         "Libertad #1348, Oficina #1001, Región de Valparaíso, Viña del Mar"
       ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Daniil Trifonov - 24 de octubre",
+      "categoria": "Entretención y Deportes",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "Compra tus entradas con los mejores beneficios de tus Tarjetas",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Cassis",
+      "categoria": "Sabores",
+      "descuento": "30% dto.",
+      "dia": [
+        "Martes"
+      ],
+      "dia_texto": "martes",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 30 de noviembre de 2026.",
+      "condiciones": [
+        "En Cassis somos la Embajada no oficial del Sur. Vive la experiencia Cassis en un Refugio pensado para cada momento del día: café de especialidad, pastelería, chocolatería, bistró, restaurante y mucho más. Un lugar para disfrutar, compartir y al que siempre querrás volver.",
+        "30% de dto. todos los martes en consumo presencial.",
+        "Solicita tu descuento al momento de pagar.",
+        "No acumulable con otras promociones.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Cassis Arauco Maipú, Av. Américo Vespucio #399 local 654, Región Metropolitana, Maipú",
+        "Cassis Plaza Los Domínicos, Av. Padre Hurtado Sur #875 locales D-1060 y D-1064, Región Metropolitana, Las Condes",
+        "Cassis Los Trapenses, Av. José Alcalde Délano #10492 local 1064, Región Metropolitana, Lo Barnechea",
+        "Cassis El Golf, Isidora Goyenechea #2880, Región Metropolitana, Las Condes",
+        "Cassis Mall Plaza Norte, Av. Américo Vespucio #1737 locales 1137 y 1141-B, Región Metropolitana, Huechuraba",
+        "Cassis Vitacura, Luis Pasteur #6396, Región Metropolitana, Vitacura",
+        "Cassis Marina Arauco, Av. Libertad #1348 local 130, Región de Valparaíso, Viña del Mar",
+        "Cassis San Martín, San Martín #440, Región de Valparaíso, Viña del Mar",
+        "Cassis Talca, Circunvalación Oriente #1055 local 1147, Región del Maule, Talca",
+        "Cassis Chillán, El Roble #770 local 14, Región de Ñuble, Chillán",
+        "Cassis Los Ángeles, Av. Alemania #831, Región del Biobío, Los Ángeles",
+        "Cassis Los Ángeles Mall Plaza, Valdivia #440 locales 241 y 201 A, Región del Biobío, Los Ángeles",
+        "Cassis Concepción, Barros Arana #1068 local 11, Región del Biobío, Concepción",
+        "Cassis San Pedro de la Paz, Camino al Venado #220, Región del Biobío, San Pedro de la Paz",
+        "Cassis Talcahuano, Jorge Alessandri #3177 local 150 B, Región del Biobío, Talcahuano",
+        "Cassis Los Pablos, Los Pablos #1880, Región de La Araucanía, Temuco",
+        "Cassis Bulnes, Bulnes #721 local 02, Región de La Araucanía, Temuco",
+        "Cassis Portal Temuco, Alemania #671 local 2070, Región de La Araucanía, Temuco",
+        "Cassis Villarrica, Aviador Acevedo #241, Región de La Araucanía, Villarrica",
+        "Cassis Pucón, Fresia #223, Región de La Araucanía, Pucón",
+        "Cassis Pucón Plaza, Pedro de Valdivia #311, Región de La Araucanía, Pucón",
+        "Cassis Valdivia, Caupolicán #465 local 232, Región de Los Ríos, Valdivia",
+        "Cassis Los Castaños, Los Castaños #11 local 01, Región de Los Lagos, Puerto Varas",
+        "Cassis Teatro del Lago, Av. Philippi #1000 local 06, Región de Los Lagos, Frutillar",
+        "Cassis Puerto Varas, San Juan #431, Región de Los Lagos, Puerto Varas",
+        "Cassis Osorno, Eleuterio Ramírez #878, Región de Los Lagos, Osorno"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Solar Fotovoltaica",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "Paga en 36 cuotas sin interés",
+      "canal": null,
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
+      "condiciones": [
+        "¿Quieres pagar $0 en tu cuenta de luz? Instala un sistema solar fotovoltaico a tu medida y empieza a ahorrar desde el primer día. Rentabilidad 28% anual.",
+        "Residencial y agrícola.",
+        "Tecnología de punta. Experiencia Alemana",
+        "Ahorro garantizado por 25 años.",
+        "Somos expertos en proyectos solares. ¡Conversemos y te mostramos cómo! Solar Fotovoltaica – Tu aliado solar. Para una compra referencial de $4.000.000 en 36 cuotas de $111.111. CAE: 0,52%, Costo Total: $4.032.000."
+      ],
+      "sucursales": [
+        "Pdte. Julio Roca #817, Of. 44 Edificio Libertador, Región de Magallanes y de la Antártica Chilena, Punta Arenas"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Sense",
+      "categoria": "Mascotas",
+      "descuento": "30% dto.",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días en compra",
+      "canal": "Online",
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
+      "condiciones": [
+        "Sense es una marca de alimentación holística para perros y gatos, con una receta 100% libre de granos, hipoalergénica y hecha en Europa a base de carnes, frutas y verduras frescas disponible en formatos seco y húmedo.",
+        "30% dto. todos los días en sense.cl",
+        "Obtén tu descuento ingresando SENSEBCH como código de dto.",
+        "Descuento no aplica para valor del despacho.",
+        "No acumulable con otras promociones.",
+        "Revisa cobertura de despacho en sense.cl",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Kaufmann",
+      "categoria": "Cuotas Sin Interés",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "13 a 48 cuotas sin interés",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Mercedes Benz, smart y Seminuevos",
+        "Exclusivo con tus Tarjetas de Crédito Santander Chile.",
+        "Válido en concesionarias Kaufmann en compras de autos Mercedes Benz, smart y Seminuevos.",
+        "CAE 0,8%: Monto Total a pagar de $10.080.000, son referenciales y corresponden a una compra por $10.000.000 cursada en modalidad de pago de 48 cuotas mensuales, y consideran impuestos.",
+        "Se excluyen de la promoción los autos Seminuevos de sucursal JPN.",
+        "Vigencia de la promoción hasta el 31 de agosto de 2026, válido para autos nuevos Mercedes Benz, smart y Seminuevos. Se excluyen de la promoción los autos Seminuevos de sucursal JPN. CAE 0,8%: Monto Total a pagar de $10.080.000, son referenciales y corresponden a una compra por $10.000.000 cursada en modalidad de pago de 48 cuotas mensuales, y consideran impuestos. Límite mensual de compras que da derecho a acumulación de millas LATAM Pass; The Platinum Card American Express Santander LATAM Pass: monto menor entre: (a) la cantidad de 60.000 Dólares en cada periodo de facturación, y (b) el monto del respectivo cupo de la Tarjeta. Límite mensual de compras que da derecho a acumulación WorldMember Limited Santander LATAM Pass: monto menor entre: (a) la cantidad de 30.000 Dólares en cada periodo de facturación, y (b) el monto del respectivo cupo de la Tarjeta. Consulte por otros eventuales cargos. La acumulación de millas y otros beneficios no financieros anunciados son responsabilidad de LATAM AIRLINES GROUP S.A. o de terceros que los otorguen, sin que corresponda a Banco Santander Chile intervención alguna en ello, ni en la ulterior atención que ello demande. Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Kaufmann",
+      "categoria": "Cuotas Sin Interés",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "13 a 48 cuotas sin interés",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Mercedes Benz, Smart y Seminuevos",
+        "Exclusivo con tus Tarjetas de Crédito Santander Chile.",
+        "Válido en concesionarias Kaufmann en compras de autos Mercedes Benz, Smart y Seminuevos.",
+        "CAE 0,8%: Monto Total a pagar de $10.080.000, son referenciales y corresponden a una compra por $10.000.000 cursada en modalidad de pago de 48 cuotas mensuales, y consideran impuestos.",
+        "Se excluyen de la promoción los autos Seminuevos de sucursal JPN.",
+        "Vigencia de la promoción hasta el 31 de agosto de 2026, válido para autos nuevos Mercedes Benz, Smart y Seminuevos. Se excluyen de la promoción los autos Seminuevos de sucursal JPN. CAE 0,8%: Monto Total a pagar de $10.080.000, son referenciales y corresponden a una compra por $10.000.000 cursada en modalidad de pago de 48 cuotas mensuales, y consideran impuestos. Límite mensual de compras que da derecho a acumulación de millas LATAM Pass; The Platinum Card American Express Santander LATAM Pass: monto menor entre: (a) la cantidad de 60.000 Dólares en cada periodo de facturación, y (b) el monto del respectivo cupo de la Tarjeta. Límite mensual de compras que da derecho a acumulación WorldMember Limited Santander LATAM Pass: monto menor entre: (a) la cantidad de 30.000 Dólares en cada periodo de facturación, y (b) el monto del respectivo cupo de la Tarjeta. Consulte por otros eventuales cargos. La acumulación de millas y otros beneficios no financieros anunciados son responsabilidad de LATAM AIRLINES GROUP S.A. o de terceros que los otorguen, sin que corresponda a Banco Santander Chile intervención alguna en ello, ni en la ulterior atención que ello demande. Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
+      ],
+      "sucursales": []
     },
     {
       "banco": "Banco Santander",
@@ -22110,25 +22260,6 @@
         "Ingresa los 6 primeros dígitos de tu Tarjeta como código de descuento.",
         "No acumulable con otras promociones.",
         "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Kaufmann",
-      "categoria": "Cuotas Sin Interés",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "13 a 48 cuotas sin interés",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Mercedes Benz, smart y Seminuevos",
-        "Exclusivo con tus Tarjetas de Crédito Santander Chile.",
-        "Válido en concesionarias Kaufmann en compras de autos Mercedes Benz, smart y Seminuevos.",
-        "CAE 0,8%: Monto Total a pagar de $10.080.000, son referenciales y corresponden a una compra por $10.000.000 cursada en modalidad de pago de 48 cuotas mensuales, y consideran impuestos.",
-        "Se excluyen de la promoción los autos Seminuevos de sucursal JPN.",
-        "Vigencia de la promoción hasta el 31 de agosto de 2026, válido para autos nuevos Mercedes Benz, smart y Seminuevos. Se excluyen de la promoción los autos Seminuevos de sucursal JPN. CAE 0,8%: Monto Total a pagar de $10.080.000, son referenciales y corresponden a una compra por $10.000.000 cursada en modalidad de pago de 48 cuotas mensuales, y consideran impuestos. Límite mensual de compras que da derecho a acumulación de millas LATAM Pass; The Platinum Card American Express Santander LATAM Pass: monto menor entre: (a) la cantidad de 60.000 Dólares en cada periodo de facturación, y (b) el monto del respectivo cupo de la Tarjeta. Límite mensual de compras que da derecho a acumulación WorldMember Limited Santander LATAM Pass: monto menor entre: (a) la cantidad de 30.000 Dólares en cada periodo de facturación, y (b) el monto del respectivo cupo de la Tarjeta. Consulte por otros eventuales cargos. La acumulación de millas y otros beneficios no financieros anunciados son responsabilidad de LATAM AIRLINES GROUP S.A. o de terceros que los otorguen, sin que corresponda a Banco Santander Chile intervención alguna en ello, ni en la ulterior atención que ello demande. Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
       ],
       "sucursales": []
     },
@@ -22644,25 +22775,6 @@
         "No acumulable con otras promociones. Hasta agotar stock disponible.",
         "CAE 1,51% Calculado por un monto referencial de compra de $1.000.000 en 24 cuotas. Costo total del Crédito: $1.015.840. Operación afecta a impuesto al crédito a cargo del cliente.",
         "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Kaufmann",
-      "categoria": "Cuotas Sin Interés",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "13 a 48 cuotas sin interés",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Mercedes Benz, Smart y Seminuevos",
-        "Exclusivo con tus Tarjetas de Crédito Santander Chile.",
-        "Válido en concesionarias Kaufmann en compras de autos Mercedes Benz, Smart y Seminuevos.",
-        "CAE 0,8%: Monto Total a pagar de $10.080.000, son referenciales y corresponden a una compra por $10.000.000 cursada en modalidad de pago de 48 cuotas mensuales, y consideran impuestos.",
-        "Se excluyen de la promoción los autos Seminuevos de sucursal JPN.",
-        "Vigencia de la promoción hasta el 31 de agosto de 2026, válido para autos nuevos Mercedes Benz, Smart y Seminuevos. Se excluyen de la promoción los autos Seminuevos de sucursal JPN. CAE 0,8%: Monto Total a pagar de $10.080.000, son referenciales y corresponden a una compra por $10.000.000 cursada en modalidad de pago de 48 cuotas mensuales, y consideran impuestos. Límite mensual de compras que da derecho a acumulación de millas LATAM Pass; The Platinum Card American Express Santander LATAM Pass: monto menor entre: (a) la cantidad de 60.000 Dólares en cada periodo de facturación, y (b) el monto del respectivo cupo de la Tarjeta. Límite mensual de compras que da derecho a acumulación WorldMember Limited Santander LATAM Pass: monto menor entre: (a) la cantidad de 30.000 Dólares en cada periodo de facturación, y (b) el monto del respectivo cupo de la Tarjeta. Consulte por otros eventuales cargos. La acumulación de millas y otros beneficios no financieros anunciados son responsabilidad de LATAM AIRLINES GROUP S.A. o de terceros que los otorguen, sin que corresponda a Banco Santander Chile intervención alguna en ello, ni en la ulterior atención que ello demande. Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
       ],
       "sucursales": []
     },
