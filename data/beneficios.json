@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-19T11:17",
+  "actualizado": "2026-08-20T11:18",
   "beneficios": [
     {
       "banco": "Banco de Chile",
@@ -21237,31 +21237,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Viña La Rosa",
-      "categoria": "Sabores",
-      "descuento": "40% dto. adicional",
-      "dia": [
-        "Martes"
-      ],
-      "dia_texto": "martes",
-      "canal": "Ambos",
-      "vigencia": "Promoción válida hasta el 31 de julio de 2027.",
-      "condiciones": [
-        "Viña La Rosa expresa la identidad del terroir de Peumo, en el Valle de Cachapoal, a través de un portafolio que recorre vinos íconos, ensamblajes y grandes proyectos terroir, todos ellos reflejo de la pureza de este lugar único. Con 200 años de historia vitivinícola, Viña La Rosa es liderada hoy por la séptima generación de la familia Ossa, que respalda la elegancia y el carácter en cada botella.",
-        "40% dto. adicional martes en compra presencial y en larosasofruco.cl",
-        "Para compra presencial solicita tu descuento al momento de pagar.",
-        "Para compra online ingresa a larosasofruco.cl selecciona tus productos en la categoría Vinos e ingresa los 6 primeros dígitos de tu Tarjeta como cupón de descuento al momento de pagar.",
-        "Descuento no aplica para valor del despacho.",
-        "Revisa cobertura de despacho en larosasofruco.cl",
-        "Descuento exclusivo pagando con tus Tarjetas del Chile."
-      ],
-      "sucursales": [
-        "Ruta H 66 Km. 37, Región del Libertador Gral. Bernardo OHiggins, Peumo",
-        "Diego Portales 081 local 5, Región del Libertador Gral. Bernardo OHiggins, San Vicente"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "Poliglota",
       "categoria": "Retail y Otras Marcas",
       "descuento": "Hasta 70% dto.",
@@ -21805,54 +21780,9 @@
         "Temuco Aeropuerto, Longitudinal Sur km 692 Counter #36, Región de la Araucanía, Temuco",
         "Yungay #765, Región de Magallanes y de la Antártica Chilena, Puerto Natales",
         "Baquedano 781, Puerto Natales, Región de Magallanes y de la Antártica Chilena, Puerto Natales",
-        "Chiloé 294, 1° piso, Región de Magallanes y de la Antártica Chilena, Punta Arenas"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Dr. Pet",
-      "categoria": "Mascotas",
-      "descuento": "25% dto.",
-      "dia": [
-        "Martes"
-      ],
-      "dia_texto": "martes",
-      "canal": "Tienda física",
-      "vigencia": "Promoción válida hasta el 9 de febrero de 2027.",
-      "condiciones": [
-        "Dr. Pet es una red de tiendas especialistas y clínicas veterinarias dedicadas al cuidado y bienestar de las mascotas. Cuenta con una amplia variedad de alimentos, medicamentos, accesorios y productos especializados para perros y gatos, además de servicios veterinarios y asesoría profesional en todas las tiendas a lo largo del país.",
-        "25% dto. martes en compras presenciales en toda la tienda y consultas veterinarias.",
-        "Beneficio excluye productos de la marca Brit Care.",
-        "Solicita tu descuento al momento de pagar.",
-        "Se solicitarán los primeros 6 dígitos de la tarjeta al momento de la compra para aplicar el descuento.",
-        "No acumulable con otras promociones.",
-        "Descuento exclusivo pagando con tus Tarjetas del Chile."
-      ],
-      "sucursales": [
-        "Locales 2, Avenida Chamisero #15135, Región Metropolitana, Colina",
-        "Locales 14-15, Avenida Padre Hurtado Sur #1621, Región Metropolitana, Las Condes",
-        "Local 23, Avenida Ingeniero Eduardo Domínguez #666, Región Metropolitana, Maipú",
-        "Local 3, Avenida Pedro de Valdivia #3774, Región Metropolitana, Ñuñoa",
-        "Local S104, Avenida Consistorial #2100, Región Metropolitana, Peñalolén",
-        "Avenida Los Leones #573, Región Metropolitana, Providencia",
-        "Locales 11-12, Avenida Diego Portales #6303, Región Metropolitana, Puente Alto",
-        "Local 15-16, Avenida OHiggins #358, Región Metropolitana, Quilicura",
-        "Local E, Avenida Santa María #6736, Región Metropolitana, Vitacura",
-        "Local 3, Avenida Pedro de Valdivia #2520, Región Metropolitana, Ñuñoa",
-        "Local 1, Las Verbenas #8925, Región Metropolitana, Las Condes",
-        "Local Bh168, Avenida Camilo Henríquez #3692, Región Metropolitana, Puente Alto",
-        "Local 16, Avenida Paseo Pie Andino #5855, Región Metropolitana, Lo Barnechea",
-        "Local 183, Guardia Vieja #140, Región Metropolitana, Providencia",
-        "Locales 13-14, Avenida Consistorial #5791, Región Metropolitana, Peñalolén",
-        "Local 02, Lo Cañas #3517, Región Metropolitana, La Florida",
-        "Locales 2 y 3, Camino Buin-Alto Jahuel #1531, Región Metropolitana, Buin",
-        "Autopista Los Libertadores KM 16, Región Metropolitana, Colina",
-        "Local 1013, Avenida Concha y Toro #3909, Región Metropolitana, Puente Alto",
-        "Avenida Guillermo Ulriksen #1634, Región de Coquimbo, La Serena",
-        "Local 1400, Avenida Vicente Méndez #1545, Región de Ñuble, Chillán",
-        "Locales 5 y 6, Ruta 66 #1, Región de Valparaíso, San Antonio",
-        "Local 101, Carmen #1220, Región del Maule, Curicó",
-        "Local C-1, Avenida Libertador Bernardo OHiggins #0450, Región del Libertador General Bernardo OHiggins, San Fernando"
+        "Chiloé 294, 1° piso, Región de Magallanes y de la Antártica Chilena, Punta Arenas",
+        "Baquedano #781, Región de Magallanes y Antártica Chilena, Puerto Natales",
+        "247 José Silva Ormeño Balmaceda, Región Carlos Ibanez del Campo, Coyhaique"
       ]
     },
     {
@@ -22000,6 +21930,146 @@
         "No acumulable con otras promociones.",
         "Revisa cobertura de despacho en sense.cl",
         "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Dr. Pet",
+      "categoria": "Mascotas",
+      "descuento": "25% dto.",
+      "dia": [
+        "Martes"
+      ],
+      "dia_texto": "martes",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 9 de febrero de 2027.",
+      "condiciones": [
+        "Dr. Pet es una red de tiendas especialistas y clínicas veterinarias dedicadas al cuidado y bienestar de las mascotas. Cuenta con una amplia variedad de alimentos, medicamentos, accesorios y productos especializados para perros y gatos, además de servicios veterinarios y asesoría profesional en todas las tiendas a lo largo del país.",
+        "25% dto. martes en compras presenciales en toda la tienda y consultas veterinarias.",
+        "Beneficio excluye productos de la marca Brit Care.",
+        "Solicita tu descuento al momento de pagar.",
+        "Se solicitarán los primeros 6 dígitos de la tarjeta al momento de la compra para aplicar el descuento.",
+        "No acumulable con otras promociones.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Locales 2, Avenida Chamisero #15135, Región Metropolitana, Colina",
+        "Locales 14-15, Avenida Padre Hurtado Sur #1621, Región Metropolitana, Las Condes",
+        "Local 23, Avenida Ingeniero Eduardo Domínguez #666, Región Metropolitana, Maipú",
+        "Local 3, Avenida Pedro de Valdivia #3774, Región Metropolitana, Ñuñoa",
+        "Local S104, Avenida Consistorial #2100, Región Metropolitana, Peñalolén",
+        "Avenida Los Leones #573, Región Metropolitana, Providencia",
+        "Locales 11-12, Avenida Diego Portales #6303, Región Metropolitana, Puente Alto",
+        "Local 15-16, Avenida OHiggins #358, Región Metropolitana, Quilicura",
+        "Local E, Avenida Santa María #6736, Región Metropolitana, Vitacura",
+        "Local 3, Avenida Pedro de Valdivia #2520, Región Metropolitana, Ñuñoa",
+        "Local 1, Las Verbenas #8925, Región Metropolitana, Las Condes",
+        "Local Bh168, Avenida Camilo Henríquez #3692, Región Metropolitana, Puente Alto",
+        "Local 16, Avenida Paseo Pie Andino #5855, Región Metropolitana, Lo Barnechea",
+        "Local 183, Guardia Vieja #140, Región Metropolitana, Providencia",
+        "Locales 13-14, Avenida Consistorial #5791, Región Metropolitana, Peñalolén",
+        "Local 02, Lo Cañas #3517, Región Metropolitana, La Florida",
+        "Locales 2 y 3, Camino Buin-Alto Jahuel #1531, Región Metropolitana, Buin",
+        "Autopista Los Libertadores KM 16, Región Metropolitana, Colina",
+        "Local 1013, Avenida Concha y Toro #3909, Región Metropolitana, Puente Alto",
+        "Avenida Guillermo Ulriksen #1634, Región de Coquimbo, La Serena",
+        "Local 1400, Avenida Vicente Méndez #1545, Región de Ñuble, Chillán",
+        "Locales 5 y 6, Ruta 66 #1, Región de Valparaíso, San Antonio",
+        "Local 101, Carmen #1220, Región del Maule, Curicó",
+        "Local C-1, Avenida Libertador Bernardo OHiggins #0450, Región del Libertador General Bernardo OHiggins, San Fernando"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Obtén un 20% de Avios adicionales.",
+      "categoria": "Viajes",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "Pagando con tus Dólares-Premio en Iberia",
+      "canal": null,
+      "vigencia": "Promoción válida hasta el 24 de agosto de 2026.",
+      "condiciones": [
+        "Hasta el 24 de agosto a las 17.00 hrs."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Viña La Rosa",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Martes"
+      ],
+      "dia_texto": "martes",
+      "canal": "Ambos",
+      "vigencia": "Promoción válida hasta el 31 de julio de 2027.",
+      "condiciones": [
+        "Viña La Rosa expresa la identidad del terroir de Peumo, en el Valle de Cachapoal, a través de un portafolio que recorre vinos íconos, ensamblajes y grandes proyectos terroir, todos ellos reflejo de la pureza de este lugar único. Con 200 años de historia vitivinícola, Viña La Rosa es liderada hoy por la séptima generación de la familia Ossa, que respalda la elegancia y el carácter en cada botella.",
+        "40% dto. martes en compra presencial y en larosasofruco.cl",
+        "Para compra presencial solicita tu descuento al momento de pagar.",
+        "Para compra online ingresa a larosasofruco.cl selecciona tus productos en la categoría Vinos e ingresa los 6 primeros dígitos de tu Tarjeta como cupón de descuento al momento de pagar.",
+        "Descuento no aplica para valor del despacho.",
+        "Revisa cobertura de despacho en larosasofruco.cl",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Ruta H 66 Km. 37, Región del Libertador Gral. Bernardo OHiggins, Peumo",
+        "Diego Portales 081 local 5, Región del Libertador Gral. Bernardo OHiggins, San Vicente"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Fede Vigevani - 19 de diciembre",
+      "categoria": "Entretención y Deportes",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "Compra tus entradas con los mejores beneficios de tus Tarjetas",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Casa Mar Sushi",
+      "categoria": "Sabores",
+      "descuento": "30% dcto.",
+      "dia": [
+        "Miércoles"
+      ],
+      "dia_texto": "todos los miércoles",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Exclusivo con tus Tarjetas de Crédito y Débito Santander.",
+        "Válido en local.",
+        "Av. Blanca Estela 1927, Concón",
+        "No acumulable con otras promociones.",
+        "Descuento máximo por pedido de $40.000",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Club Terraza Costanera",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "40% dcto.",
+      "dia": [
+        "Miércoles"
+      ],
+      "dia_texto": "todos los miércoles",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Exclusivo con tus Tarjetas de Crédito Santander.",
+        "Válido en local.",
+        "Av. República de Croacia 0520, Antofagasta",
+        "No acumulable con otras promociones.",
+        "Descuento máximo por pedido de $40.000",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​"
       ],
       "sucursales": []
     },
@@ -22409,27 +22479,6 @@
         "No acumulable a otras promociones.",
         "Ingresa los 6 primeros dígitos de tu Tarjeta como código de descuento",
         "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Casa Mar Sushi",
-      "categoria": "Sabores",
-      "descuento": "30% dcto.",
-      "dia": [
-        "Miércoles"
-      ],
-      "dia_texto": "todos los miércoles",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Exclusivo con tus Tarjetas de Crédito y Débito Santander.",
-        "Válido en local.",
-        "Av. Blanca Estela 1927, Concón",
-        "No acumulable con otras promociones.",
-        "Descuento máximo por pedido de $40.000",
-        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​"
       ],
       "sucursales": []
     },
@@ -23027,27 +23076,6 @@
         "Exclusivo con tus Tarjetas de Crédito Santander.",
         "Válido en local.",
         "Chesterton 7380, las condes",
-        "No acumulable con otras promociones.",
-        "Descuento máximo por pedido de $40.000",
-        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​"
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Club Terraza Costanera",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": "40% dcto.",
-      "dia": [
-        "Miércoles"
-      ],
-      "dia_texto": "todos los miércoles",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Exclusivo con tus Tarjetas de Crédito Santander.",
-        "Válido en local.",
-        "Av. República de Croacia 0520, Antofagasta",
         "No acumulable con otras promociones.",
         "Descuento máximo por pedido de $40.000",
         "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​"
