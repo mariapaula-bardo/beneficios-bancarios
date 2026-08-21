@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-20T11:18",
+  "actualizado": "2026-08-21T11:17",
   "beneficios": [
     {
       "banco": "Banco de Chile",
@@ -2395,30 +2395,6 @@
       ],
       "sucursales": [
         "Av. Providencia #2296, Metro Los Leones Nivel -3, Región Metropolitana, providencia"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "MY FAMILY PETS",
-      "categoria": "Mascotas",
-      "descuento": "Hasta 15% dto.",
-      "dia": [
-        "Todos los días"
-      ],
-      "dia_texto": "todos los días",
-      "canal": null,
-      "vigencia": "Promoción válida hasta el 31 de agosto de 2026.",
-      "condiciones": [
-        "En My Family Pets tenemos alimentos, juguetes, premios, accesorios y mucho más para todos los regalones peludos de casa. Contamos con Despacho 24 hrs y Gratis a comunas seleccionadas y con pago a todas las comunas de RM y regiones del País",
-        "15% de descuento en accesorios y juguetes, para compras online ingresa el código MFPETSBDCACC en mfpets.cl para compras presenciales obtén el beneficio pagando con tus Tarjetas del Chile.",
-        "10% de descuento en alimentos secos y húmedos, y en antiparasitarios, para compras online ingresa el código MFPETSBDCALM en mfpets.cl para compras presenciales obtén el beneficio pagando con tus Tarjetas del Chile.",
-        "Excluye promociones.",
-        "Entrega en 24 horas.",
-        "Despacho gratis en comunas seleccionadas.",
-        "Cobertura en RM y regiones."
-      ],
-      "sucursales": [
-        "AV.LA DEHESA 3265, RM, LO BARNECHEA"
       ]
     },
     {
@@ -19949,73 +19925,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Natura",
-      "categoria": "Salud y Belleza",
-      "descuento": "20% dto.",
-      "dia": [
-        "Todos los días"
-      ],
-      "dia_texto": "todos los días",
-      "canal": "Online",
-      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
-      "condiciones": [
-        "20% dto. todos los días online en natura.cl/c/alianza-bancochile y App Natura.",
-        "Para compras online, ingresa el código NATURABCH20 como cupón de dto.",
-        "Por compras sobre $24.990, llévate de regalo un labial hasta agotar stock.",
-        "No aplica a Consultor/a de Belleza.",
-        "Excluye Bothanica, Outlet, Bolsas, Línea Biome y Creer Para Ver.",
-        "Descuento no aplica para valor del despacho.",
-        "Revisa cobertura de despacho en natura.cl",
-        "No válido en fechas Cyber y Black Friday.",
-        "Beneficio exclusivo pagando con tus Tarjetas del Chile."
-      ],
-      "sucursales": [
-        "Mallplaza Los Dominicos, Av. Padre Hurtado Sur 875, Región Metropolitana, Local A-2029/A-2033",
-        "Costanera Center, Av. Andrés Bello 2425, Región Metropolitana, Local 2188",
-        "Mallplaza Egaña, Av. Larrain 5862, Región Metropolitana, Local B-1077",
-        "Mallplaza Norte, Av. Américo Vespucio 1737, Región Metropolitana, Local A-1128",
-        "Parque Arauco, Av Presidente Kennedy 5413, Región Metropolitana, Local 83",
-        "Mall Arauco Maipú, Av. Américo Vespucio 399, Región Metropolitana, local 645",
-        "Mallplaza Vespucio, Av. Vicuña Mackenna 7110, Región Metropolitana, Local 117",
-        "Mall Alto Las Condes, Av. Pdte. Kennedy Lateral 9001, Región Metropolitana, local 2027",
-        "Mall Marina, Avda. Libertad 1348, local 11, Región de Valparaiso, Viña del Mar",
-        "Mall Plaza Oeste, Avenida Américo Vespucio Nº 1501, local A-261/A-265, Región Metropolitana, Cerrillos",
-        "Mall Florida Center, Av. Vicuña Mackenna 6100, local 3076, Región Metropolitana, La Florida",
-        "Mallplaza Trebol, Av. Jorge Alessandri 3177, Local A-130-132, Región del Bio Bio, Talcahuano",
-        "Mall Barrio Independencia, Avenida Independencia 565, TM-140A, Región Metropolitana, Independencia",
-        "Mall Del Centro Concepción, Barros Arana 1068, Local Comercial Nº43 (24-02 uso interno mall), Región del Bio Bio, Concepción",
-        "Mercado Urbano Tobalaba, Av. Apoquindo 2750, Local: F308-3044, Región Metropolitana, Las Condes",
-        "Vivo El Centro (Puente), Puente 689, local 145-147, Región Metropolitana, Santiago",
-        "MallPlaza Antofagasta, Av. Balmaceda 2355, local 117, Región de Antofagasta, Antofagasta",
-        "MallPlaza Calama, Av. Balmaceda 3242, local 153-157, Región de Antofagasta, Calama",
-        "MallPlaza Alameda, Av. del Libertador Bernardo OHiggins 3470, local A-126, Región Metropolitana, Estacion Central",
-        "Mall Paseo Valdivia, Av. Ramón Picarte 422, local L105A+105B, Región de Los Rios, Valdivia",
-        "Portal Osorno, Plaza Yungay, Osorno 609, Local 2067, Región de Los Lagos, Osorno",
-        "Plaza Maule, Av. Circunvalación Ote. 1055, Local 1111-1112, Región del Maule, Talca",
-        "Subcentro, Av. Apoquindo 4411, Local 154-156, Región Metropolitana, Las Condes",
-        "Portal La Reina, Av.Francisco Bilbao 8898, Local 2022, 7571699, Región Metropolitana, Las Condes",
-        "Arauco San Antonio, Barros Luco 105, Sucursal 46-68, 2663160, Región de Valparaiso, San Antonio",
-        "MallPlaza Tobalaba, Av. Camilo Henríquez 3692, Local c-273/c-277, Región Metropolitana, Puente Alto",
-        "Mall Curico, Av. OHiggins 201 Local 38, Región del Maule, Curicó",
-        "Mall Arauco Chillán, El Roble 770, Local 21, Región de Ñuble, Chillán",
-        "Mall Plaza Arica, Av. Diego Portales 640, Local 1121-1125, Arica y Parinacota, Arica",
-        "Portal Ñuñoa, Av. José Pedro Alessandri 1166, Local 3036, Región Metropolitana, Ñuñoa 7800002",
-        "Mall Plaza Copiapo, Maipú 109, Local 2188-2192, Región de Atacama, Copiapó",
-        "MallPlaza Sur, Av. Pdte. Jorge Alessandri Rodríguez 20040, Local 1054-1056, Región Metropolitana, San Bernardo",
-        "EU Gran Avenida, Gran Av. José Miguel Carrera 6150, local 1144, 8930520, Región Metropolitana, San Miguel",
-        "Arauco Quilicura, Av. Bernardo OHiggins 581, local S40, 8700000, Región Metropolitana, Quilicura",
-        "Mall Paseo Chiloé, Ignacio Serrano 574, Local 305 A, Región de Los Lagos, Castro",
-        "Paseo Quilin, Mar Tirreno 3.349, Local 2024-2026, Región Metropolitana, Peñalolén",
-        "Zona Austral Punta Arenas, Av. Bulnes Km. 3,5 Norte, Local 403, Región de Magallanes, Punta Arenas",
-        "Pto Montt, Juan Soler Manfredini 131, Local 105, Región de Los Lagos, Puerto Montt",
-        "Paseo Ross, Avenida Argentina 540, local 319-321, Región de Valparaiso, Valparaíso",
-        "Vivo Coquimbo, Avenida Varela 1524, local 2128, Región de Coquimbo, Coquimbo",
-        "EU Puente Alto, Avenida Concha y Toro 1149, Región Metropolitana, Puente Alto",
-        "Open Ovalle, Prolongación Benavente 1075, Local 1180, Región de Coquimbo, Ovalle"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "Adidas",
       "categoria": "Retail y Otras Marcas",
       "descuento": "30% dto. adicional",
@@ -21621,6 +21530,31 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "Sol Sublime",
+      "categoria": "Sabores",
+      "descuento": "25% dto.",
+      "dia": [
+        "Lunes",
+        "Miércoles"
+      ],
+      "dia_texto": "lunes y miercoles",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 31 de marzo del 2027.",
+      "condiciones": [
+        "Sol Sublime es un restaurante de cocina peruana en La Reina con más de 15 años de trayectoria. Destaca por su variada carta de ceviches, tiraditos, piqueos y platos tradicionales como lomo saltado y ají de gallina, además de un ambiente acogedor, excelente atención y estacionamiento privado. Una gran alternativa para disfrutar de la auténtica gastronomía peruana en Santiago.",
+        "25% dto. lunes y miercoles en compra presencial.",
+        "Tope de dto. $40.000",
+        "No válido para menú, Happy Hour ni otras promociones vigentes.",
+        "Solicita tu descuento al momento de pagar.",
+        "No acumulable con otras promociones.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Avenida Principe de Gales 6580, Region Metropolitana, La Reina"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "Dunkin’",
       "categoria": "Sabores",
       "descuento": "30% dto.",
@@ -22029,6 +21963,121 @@
       "canal": null,
       "vigencia": null,
       "condiciones": [],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Natura",
+      "categoria": "Salud y Belleza",
+      "descuento": "20% dto.",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días",
+      "canal": "Ambos",
+      "vigencia": "Promoción válida hasta el 31 de agosto de 2027.",
+      "condiciones": [
+        "20% dto. todos los días en compra presencial y en natura.cl/c/alianza-bancochile",
+        "Para compra presencial solicita tu descuento al momento de pagar.",
+        "Para compra online, ingresa el código NATURABCH20 como cupón de dto.",
+        "No aplica a Consultor/a de Belleza.",
+        "Excluye Bothanica, Outlet, Bolsas, Línea Biome y Creer Para Ver.",
+        "Descuento no aplica para valor del despacho.",
+        "Revisa cobertura de despacho en natura.cl",
+        "No válido en fechas Cyber y Black Friday.",
+        "Beneficio exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Mallplaza Los Dominicos, Av. Padre Hurtado Sur 875, Región Metropolitana, Local A-2029/A-2033",
+        "Costanera Center, Av. Andrés Bello 2425, Región Metropolitana, Local 2188",
+        "Mallplaza Egaña, Av. Larrain 5862, Región Metropolitana, Local B-1077",
+        "Mallplaza Norte, Av. Américo Vespucio 1737, Región Metropolitana, Local A-1128",
+        "Parque Arauco, Av Presidente Kennedy 5413, Región Metropolitana, Local 83",
+        "Mall Arauco Maipú, Av. Américo Vespucio 399, Región Metropolitana, local 645",
+        "Mallplaza Vespucio, Av. Vicuña Mackenna 7110, Región Metropolitana, Local 117",
+        "Mall Alto Las Condes, Av. Pdte. Kennedy Lateral 9001, Región Metropolitana, local 2027",
+        "Mall Marina, Avda. Libertad 1348, local 11, Región de Valparaiso, Viña del Mar",
+        "Mall Plaza Oeste, Avenida Américo Vespucio Nº 1501, local A-261/A-265, Región Metropolitana, Cerrillos",
+        "Mall Florida Center, Av. Vicuña Mackenna 6100, local 3076, Región Metropolitana, La Florida",
+        "Mallplaza Trebol, Av. Jorge Alessandri 3177, Local A-130-132, Región del Bio Bio, Talcahuano",
+        "Mall Barrio Independencia, Avenida Independencia 565, TM-140A, Región Metropolitana, Independencia",
+        "Mall Del Centro Concepción, Barros Arana 1068, Local Comercial Nº43 (24-02 uso interno mall), Región del Bio Bio, Concepción",
+        "Mercado Urbano Tobalaba, Av. Apoquindo 2750, Local: F308-3044, Región Metropolitana, Las Condes",
+        "Vivo El Centro (Puente), Puente 689, local 145-147, Región Metropolitana, Santiago",
+        "MallPlaza Antofagasta, Av. Balmaceda 2355, local 117, Región de Antofagasta, Antofagasta",
+        "MallPlaza Calama, Av. Balmaceda 3242, local 153-157, Región de Antofagasta, Calama",
+        "MallPlaza Alameda, Av. del Libertador Bernardo OHiggins 3470, local A-126, Región Metropolitana, Estacion Central",
+        "Mall Paseo Valdivia, Av. Ramón Picarte 422, local L105A+105B, Región de Los Rios, Valdivia",
+        "Portal Osorno, Plaza Yungay, Osorno 609, Local 2067, Región de Los Lagos, Osorno",
+        "Plaza Maule, Av. Circunvalación Ote. 1055, Local 1111-1112, Región del Maule, Talca",
+        "Subcentro, Av. Apoquindo 4411, Local 154-156, Región Metropolitana, Las Condes",
+        "Portal La Reina, Av.Francisco Bilbao 8898, Local 2022, 7571699, Región Metropolitana, Las Condes",
+        "Arauco San Antonio, Barros Luco 105, Sucursal 46-68, 2663160, Región de Valparaiso, San Antonio",
+        "MallPlaza Tobalaba, Av. Camilo Henríquez 3692, Local c-273/c-277, Región Metropolitana, Puente Alto",
+        "Mall Curico, Av. OHiggins 201 Local 38, Región del Maule, Curicó",
+        "Mall Arauco Chillán, El Roble 770, Local 21, Región de Ñuble, Chillán",
+        "Mall Plaza Arica, Av. Diego Portales 640, Local 1121-1125, Arica y Parinacota, Arica",
+        "Portal Ñuñoa, Av. José Pedro Alessandri 1166, Local 3036, Región Metropolitana, Ñuñoa 7800002",
+        "Mall Plaza Copiapo, Maipú 109, Local 2188-2192, Región de Atacama, Copiapó",
+        "MallPlaza Sur, Av. Pdte. Jorge Alessandri Rodríguez 20040, Local 1054-1056, Región Metropolitana, San Bernardo",
+        "EU Gran Avenida, Gran Av. José Miguel Carrera 6150, local 1144, 8930520, Región Metropolitana, San Miguel",
+        "Arauco Quilicura, Av. Bernardo OHiggins 581, local S40, 8700000, Región Metropolitana, Quilicura",
+        "Mall Paseo Chiloé, Ignacio Serrano 574, Local 305 A, Región de Los Lagos, Castro",
+        "Paseo Quilin, Mar Tirreno 3.349, Local 2024-2026, Región Metropolitana, Peñalolén",
+        "Zona Austral Punta Arenas, Av. Bulnes Km. 3,5 Norte, Local 403, Región de Magallanes, Punta Arenas",
+        "Pto Montt, Juan Soler Manfredini 131, Local 105, Región de Los Lagos, Puerto Montt",
+        "Paseo Ross, Avenida Argentina 540, local 319-321, Región de Valparaiso, Valparaíso",
+        "Vivo Coquimbo, Avenida Varela 1524, local 2128, Región de Coquimbo, Coquimbo",
+        "EU Puente Alto, Avenida Concha y Toro 1149, Región Metropolitana, Puente Alto",
+        "Open Ovalle, Prolongación Benavente 1075, Local 1180, Región de Coquimbo, Ovalle"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Survip",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "$3.000 dto.",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días",
+      "canal": "Online",
+      "vigencia": "Promoción válida hasta el 31 de julio de 2027.",
+      "condiciones": [
+        "Survip es una empresa especializada en traslados privados de pasajeros entre aeropuertos, ciudades y destinos turísticos del sur de Chile. Ofrece servicios de transfer desde y hacia los aeropuertos de Puerto Montt, Temuco, Concepción y Osorno, además de transporte para viajes turísticos y traslados especiales.",
+        "$3.000 dto. todos los días en survip.cl",
+        "Las reservas se realizan de manera online en Survip.cl e ingresa los 6 primeros dígitos de tu Tarjeta como cupón de descuento.",
+        "No acumulable con otras promociones.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Aeropuerto Carriel Sur (CCP), Av. Pdte. Jorge Alessandri Rodríguez 5001, Región del Biobío, Talcahuano",
+        "Aeropuerto La Araucanía (ZCO), Longitudinal Sur km 692, Región de La Araucanía, Freire",
+        "Aeropuerto Pichoy (ZAL), San José de Mariquina, Región de Los Ríos, Mariquina",
+        "Aeropuerto Cañal Bajo Carlos Hott Siebert (ZOS), Aeropuerto de Osorno s/n, Región de Los Lagos, Osorno",
+        "Aeropuerto El Tepual (PMC), Aeropuerto El Tepual, Región de Los Lagos, Puerto Montt"
+      ]
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Helados Timaukel",
+      "categoria": "Sabores",
+      "descuento": "40% dcto.",
+      "dia": [
+        "Miércoles"
+      ],
+      "dia_texto": "todos los miércoles",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Heladería artesanal",
+        "Exclusivo con tus Tarjetas de Crédito y Débito Santander.",
+        "Solo online en www.timaukel.cl",
+        "No acumulable con otras promociones.",
+        "Ingresando los 6 primeros dígitos de tu Tarjeta como código de descuento.",
+        "Descuento máximo por pedido de $30.000",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​"
+      ],
       "sucursales": []
     },
     {
@@ -22479,29 +22528,6 @@
         "No acumulable a otras promociones.",
         "Ingresa los 6 primeros dígitos de tu Tarjeta como código de descuento",
         "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Helados Timaukel",
-      "categoria": "Sabores",
-      "descuento": "40% dcto.",
-      "dia": [
-        "Miércoles"
-      ],
-      "dia_texto": "todos los miércoles",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Heladería artesanal",
-        "Exclusivo con tus Tarjetas de Crédito y Débito Santander.",
-        "Solo online en www.timaukel.cl",
-        "Caletera Ruta 5 Sur Km 40, Paine.",
-        "No acumulable con otras promociones.",
-        "Ingresando los 6 primeros dígitos de tu Tarjeta como código de descuento.",
-        "Descuento máximo por pedido de $30.000",
-        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​"
       ],
       "sucursales": []
     },
