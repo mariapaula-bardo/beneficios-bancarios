@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-21T11:17",
+  "actualizado": "2026-08-22T11:11",
   "beneficios": [
     {
       "banco": "Banco de Chile",
@@ -69,49 +69,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Club Gordos – Orrego Luco",
-      "categoria": "Sabores",
-      "descuento": "20% dto.",
-      "dia": [
-        "Martes"
-      ],
-      "dia_texto": "martes",
-      "canal": null,
-      "vigencia": "Promoción válida hasta el 31 de agosto de 2026.",
-      "condiciones": [
-        "Club Gordos es un bar conceptual que refleja el arte urbano en sus diseños, foto spots y carta de comida y tragos. Contamos con más de 15 cocktails de autor que maridan perfectamente con nuestra variedad de platos.",
-        "20% dto. martes presencial.",
-        "No acumulable con otras ofertas, menú y/o promociones.",
-        "Descuento exclusivo pagando con tus Tarjetas del Chile"
-      ],
-      "sucursales": [
-        "Orrego Luco #40, Región Metropolitana, Providencia"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Carpe Diem",
-      "categoria": "Sabores",
-      "descuento": "20% dto.",
-      "dia": [
-        "Sábado"
-      ],
-      "dia_texto": "sábado",
-      "canal": "Tienda física",
-      "vigencia": "Promoción válida hasta el 31 de agosto de 2026.",
-      "condiciones": [
-        "En el corazón de Osorno, Carpe Diem es el punto de encuentro para quienes disfrutan de la buena mesa y un grato ambiente. Ofrecemos calidez, cercanía y un servicio atento que hace sentir a todos como en casa. Nuestra especialidad son las tablas gourmet, preparadas con ingredientes seleccionados para compartir y disfrutar. Cada detalle importa: desde la presentación hasta la atención personalizada, todo está pensado para crear momentos memorables. Más que un restaurante, somos un espacio para vivir experiencias únicas, donde la calidad, el servicio y la pasión por la cocina se unen en cada plato.",
-        "20% dto. sábado en compra presencial.",
-        "Solicita tu descuento al momento de pagar.",
-        "No acumulable con otras promociones.",
-        "Descuento exclusivo pagando con tus Tarjetas del Chile."
-      ],
-      "sucursales": [
-        "Cochrane #1136, Región de los Lagos, Osorno"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "Cancagua Spa & Retreat Center",
       "categoria": "Entretención y Deportes",
       "descuento": "20% dto.",
@@ -142,82 +99,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Clínicas Odontologicas Everest",
-      "categoria": "Salud y Belleza",
-      "descuento": "Hasta 64% dto.",
-      "dia": [
-        "Todos los días"
-      ],
-      "dia_texto": "todos los días",
-      "canal": null,
-      "vigencia": "Promoción válida hasta el 31 de agosto de 2026.",
-      "condiciones": [
-        "Clínicas Odontológica Everest es una red de clínicas dentales con más de 20 clínicas a nivel nacional (RM, IV, V, VI, IX y X), donde entregamos un servicio de calidad con tecnología de última generación junto a un selecto equipo de profesionales para atender a todos los pacientes. Clínica Everest ofrece todos los tratamientos Odontológicos y además tratamientos de ultima generación (Invisalign, Smile Designer, estética digital e Implantology) para todas las especialidades dentales.",
-        "64% dto. en prestaciones frecuentes.",
-        "58% dto. en todas las especialidades.",
-        "Solicita tu descuento al momento de realizar pago con tus Tarjetas del Banco.",
-        "No acumulable con otras promociones, excluye laboratorios, insumos, informes radiológicos y pabellón.",
-        "Mayor información en clinicaeverest.cl Mesa Central +562 25847120"
-      ],
-      "sucursales": [
-        "Clínica Dental El Golf, Avenida El Bosque Norte #92, Región Metropolitana, Las Condes",
-        "Clínica Dental Las Condes, Alonso de Córdova #5870, Región Metropolitana, Las Condes",
-        "Clínica Dental Ñuñoa, José Domingo Cañas #1701 Piso 2, Región Metropolitana, Ñuñoa",
-        "Clínica Dental Vitacura, Av. Santa María #7030 Piso 2, Región Metropolitana, Vitacura",
-        "Clínica Dental Huechuraba, Av. Pedro Fontova #7789 Local 13, Región Metropolitana, Huechuraba",
-        "Clínica Dental La Dehesa, Manquehue Oriente #2030 Piso 2, Región Metropolitana, Lo Barnechea",
-        "Clínica Dental La Florida, Froilán Roa #580 Local 13, Región Metropolitana, La Florida"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Clínica Agua",
-      "categoria": "Salud y Belleza",
-      "descuento": "Hasta 40% dto.",
-      "dia": [
-        "Todos los días"
-      ],
-      "dia_texto": "en tratamientos todos los días",
-      "canal": "Tienda física",
-      "vigencia": "Promoción válida hasta el 31 de agosto de 2026.",
-      "condiciones": [
-        "Creemos que sonreír es la mejor forma de presentarse al mundo. El cuidado de tu dentadura y bienestar son nuestra preocupación en Clínica Agua.",
-        "Solicita tu descuento al momento de pagar con tus tarjetas del Banco.",
-        "40% de descuento en el arancel de prestaciones clínicas en todos los presupuestos de tratamientos dentales.",
-        "Obtén diagnóstico y presupuesto sin costo, aplicaciones sobre el monto del tratamiento, no incluye radiografías, laboratorios, pabellón e insumos.",
-        "En los tratamientos de Ortodoncia Invisible, se contará con un 8% de descuento adicional en el costo de los Alineadores.",
-        "Higiene dental gratis al finalizar el tratamiento integral, excluye enfermedad periodontal.",
-        "Beneficio no acumulable con otras promociones."
-      ],
-      "sucursales": [
-        "Estoril #50 of 1106, Región Metropolitana, Las Condes, Teléfono +569 6356 9817 y correo contacto@clinicaagua.cl"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Clínica Luxsalud",
-      "categoria": "Salud y Belleza",
-      "descuento": "20% dto.",
-      "dia": [
-        "Todos los días"
-      ],
-      "dia_texto": "todos los días",
-      "canal": "Tienda física",
-      "vigencia": "Promoción válida hasta el 31 de agosto de 2026.",
-      "condiciones": [
-        "En Luxsalud tu sonrisa es nuestra prioridad. Somos una clínica especializada en el área de la Ortodoncia e Implantología Oral. Contamos con tecnología de vanguardia y un equipo de dentistas comprometidos a cuidarte con calidez y cercanía acompañándote en cada paso, desde la prevención hasta los tratamientos estéticos y funcionales.",
-        "20% dto. todos los días presencial.",
-        "Solicita tu descuento al momento de pagar.",
-        "Al momento de agendar tu evaluación informa que pagarás con tus Tarjetas del Chile.",
-        "Beneficio excluye costos de laboratorio.",
-        "No acumulable con otras promociones."
-      ],
-      "sucursales": [
-        "Las Bellotas #199, Oficina 72, Región Metropolitana, Providencia"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "NS AUTOMOTRIZ",
       "categoria": "Retail y Otras Marcas",
       "descuento": "15% dto.",
@@ -238,55 +119,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Alma Salud",
-      "categoria": "Salud y Belleza",
-      "descuento": "Hasta 45% dto.",
-      "dia": [
-        "Todos los días"
-      ],
-      "dia_texto": "todos los días",
-      "canal": "Tienda física",
-      "vigencia": "Promoción válida hasta el 31 de agosto de 2026.",
-      "condiciones": [
-        "Alma Salud es un centro de masajes, kinesiología y terapias holísticas dedicado al bienestar integral. Ubicados en Las Condes, ofrecemos un enfoque personalizado que combina técnicas terapéuticas modernas con prácticas holísticas para promover la salud física y emocional. Nuestro equipo de profesionales está comprometido con brindar una experiencia de relajación y sanación en un ambiente acogedor, asegurando que cada tratamiento sea una experiencia revitalizante y transformadora. Desde masajes terapéuticos hasta tratamientos estéticos y sesiones de kinesiología, en Alma Salud cuidamos de tu bienestar con dedicación y profesionalismo.",
-        "Hasta 45% de descuento Tratamientos estéticos corporales (10 sesiones).",
-        "20% de descuento en Masajes terapéuticos y de relajación de 60 minutos.",
-        "20% de descuento en paquetes de sesiones Kinesiología.",
-        "15% de descuento Manicure y pedicure.",
-        "10% de descuento en Masajes premium.",
-        "10% de descuento en paquetes de sesiones en Acondicionamiento físico.",
-        "Obtén el beneficio pagando con tus Tarjetas del Chile.",
-        "No acumulable con otras promociones."
-      ],
-      "sucursales": [
-        "Los Ilanes #86, Torre B Oficina 817, Región Metropolitana, Las Condes"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "El Gran Machu Picchu",
-      "categoria": "Sabores",
-      "descuento": "20% dto.",
-      "dia": [
-        "Jueves",
-        "Viernes"
-      ],
-      "dia_texto": "jueves y viernes",
-      "canal": "Tienda física",
-      "vigencia": "Promoción válida hasta el 1 de septiembre de 2026.",
-      "condiciones": [
-        "El Gran Machu picchu es un Restaurant en Concepción de comida Peruana, el cual está situado en un lugar privilegiado de la ciudad de Concepción, en el mismísimo Parque Ecuador, al lado del Castillo Wilhelm.",
-        "20% dto. jueves y viernes en compra presencial.",
-        "Solicita tu descuento al momento de pagar.",
-        "No acumulable con otras promociones.",
-        "Descuento exclusivo pagando con tus Tarjetas del Chile."
-      ],
-      "sucursales": [
-        "Doctor Wilhelm #1010, Región del Biobío, Concepción"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "Orbea",
       "categoria": "Retail y Otras Marcas",
       "descuento": null,
@@ -300,34 +132,6 @@
       ],
       "sucursales": [
         "Av. La Dehesa #1822, Of 803, Región Metropolitana, Lo Barnechea"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "El Ají Seco del Sur",
-      "categoria": "Sabores",
-      "descuento": "20% dto.",
-      "dia": [
-        "Lunes",
-        "Martes",
-        "Miércoles",
-        "Jueves",
-        "Viernes",
-        "Sábado",
-        "Domingo"
-      ],
-      "dia_texto": "lunes a domingo",
-      "canal": "Tienda física",
-      "vigencia": "Promoción válida hasta el 31 de agosto de 2026.",
-      "condiciones": [
-        "La gastronomía peruana brilla en la Región del Biobío con El Ají Seco del Sur, un restaurante que ofrece cerca de 130 platos, desde clásicos como el lomo saltado, ají de gallina, ceviches y tiraditos, hasta innovaciones como el exclusivo Ceviche Ají Seco del Sur y los llamativos barcos gastronómicos que combinan distintas preparaciones en presentaciones únicas. Ubicado en Padre Las Casas 511, Hualpén, el local cuenta con amplios comedores, terraza, áreas verdes, juegos para niños y estacionamientos, convirtiéndose en un espacio ideal para disfrutar en familia o con amigos. Parte de una cadena con más de 20 locales en Chile, El Ají Seco del Sur mantiene la calidad y autenticidad que la han hecho un referente de la cocina peruana en el país, entregando experiencias memorables que conquistan cada paladar.",
-        "20% dto. de lunes a domingo compra presencial.",
-        "Solicita tu descuento al momento de pagar.",
-        "No acumulable con otras promociones.",
-        "Descuento exclusivo pagando con tus Tarjetas del Chile."
-      ],
-      "sucursales": [
-        "Padre Las Casas #511, Región del Biobío, Hualpén"
       ]
     },
     {
@@ -350,28 +154,6 @@
       ],
       "sucursales": [
         "Av. Providencia #2124 Local 59, Región Metropolitana, Providencia"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "León Andino",
-      "categoria": "Sabores",
-      "descuento": "20% dto.",
-      "dia": [
-        "Todos los días"
-      ],
-      "dia_texto": "todos los días",
-      "canal": "Tienda física",
-      "vigencia": "Promoción válida hasta el 31 de agosto de 2026.",
-      "condiciones": [
-        "El punto de reunión perfecto en la Carretera Austral, donde se crean buenos momentos y experiencias inolvidables gracias a su paisaje y sabor casero-gourmet, acompañados de su cerveza artesanal de producción propia y con una atención inmejorable que te hará querer volver. Lugar ideal para compartir en familia o con amigos. Amplia carta en comida y coctelería. Terraza al aire libre con espectacular vista a la bahía de Metri. Pet friendly.",
-        "20% dto. todos los días compra presencial.",
-        "Solicita tu descuento al momento de pagar.",
-        "No acumulable con otras promociones.",
-        "Descuento exclusivo pagando con tus Tarjetas del Chile."
-      ],
-      "sucursales": [
-        "Carr. Austral, Metri, Región de los Lagos, Puerto Montt"
       ]
     },
     {
@@ -474,26 +256,6 @@
       ],
       "sucursales": [
         "Av. Italia #825, Región Metropolitana, Providencia"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Level Studio",
-      "categoria": "Salud y Belleza",
-      "descuento": "20% dto.",
-      "dia": [
-        "Lunes"
-      ],
-      "dia_texto": "todos los lunes",
-      "canal": null,
-      "vigencia": "Promoción válida hasta el 31 de agosto de 2026.",
-      "condiciones": [
-        "Nuestra misión en Level Studio es proporcionar el mejor servicio de barbería y una atención al cliente insuperable. Nos dedicamos a crear un ambiente acogedor y profesional donde cada cliente se sienta valorado y cuidado.",
-        "Solicita tu descuento al momento de pagar con tus tarjetas del Banco.",
-        "Descuento no acumulable con otras promociones."
-      ],
-      "sucursales": [
-        "Av Apoquindo #4900 local 28, Región Metropolitana, Las Condes"
       ]
     },
     {
@@ -1387,31 +1149,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Europa Secreta",
-      "categoria": "Sabores",
-      "descuento": "20% dto.",
-      "dia": [
-        "Todos los días"
-      ],
-      "dia_texto": "todos los días",
-      "canal": "Ambos",
-      "vigencia": "Promoción válida hasta el 31 de agosto de 2026.",
-      "condiciones": [
-        "Europa Secreta, es un oasis del viejo continente, encuentra desde Café en grano / molido, conservas y aceites de Italia; Mostaza y Quesos de Francia; Té y Mermeladas de Inglaterra; hasta Turrones y Jamones de España, entre otros.",
-        "Se excluye las categorías de Sirop, Chocolate en polvo y formatos de café de 1 kilogramo o superior.",
-        "En compra online obtén tu descuento ingresando los 6 primeros dígitos de tu tarjeta del banco como cupón de descuento al momento de finalizar la compra en europasecreta.cl",
-        "Canjea tu descuento en nuestra Tienda ubicada en Puerta del Sol 180, Las Condes y Alonso de Córdova 2350, local 2, Vitacura al momento de pagar con tus tarjetas del Banco.",
-        "Tope máximo de compra $150.000",
-        "No acumulable con otras ofertas promociones.",
-        "Descuento no aplica al valor del despacho."
-      ],
-      "sucursales": [
-        "Alonso de Córdova #2350, local 2, Región Metropolitana, Vitacura",
-        "Dirección: Puerta del sol #180, local 2, Región Metropolitana, Las Condes"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "Viña Clos de Luz",
       "categoria": "Sabores",
       "descuento": "30% dto.",
@@ -1631,31 +1368,6 @@
         "No válido para productos Pyme"
       ],
       "sucursales": []
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Kine Provita",
-      "categoria": "Salud y Belleza",
-      "descuento": "Hasta 30% dto.",
-      "dia": [
-        "Todos los días"
-      ],
-      "dia_texto": "todos los días",
-      "canal": null,
-      "vigencia": "Promoción válida hasta el 31 de agosto de 2026.",
-      "condiciones": [
-        "Centro Médico Kine ProVita dedicado a los servicios de salud multidisciplinarios, con profesionales que destacan en su profesionalismo y calidad humana, entregando planes y tratamientos personalizados según los objetivos de cada paciente.",
-        "30% dto. en sesiones de Presoterapia de lunes a sábados.",
-        "25% dto. entrenamiento para adulto mayor (36 clases).",
-        "20% dto. entrenamiento para adultos mayor (24 clases).",
-        "15% dto. en masajes cuerpo completo todos los domingos.",
-        "15% dto. entrenamiento para adultos mayor (12 clases al mes).",
-        "15% dto. en servicios de podología, beneficio valido en la primera atención de podología.",
-        "10% dto. en masajes medio cuerpo todos los domingos."
-      ],
-      "sucursales": [
-        "LOS MIRLOS #220, Región de Valparaíso, REÑACA"
-      ]
     },
     {
       "banco": "Banco de Chile",
@@ -2322,25 +2034,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Importclick",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": "25% dto.",
-      "dia": [
-        "Todos los días"
-      ],
-      "dia_texto": "todos los días",
-      "canal": "Online",
-      "vigencia": "Promoción válida hasta el 31 de agosto de 2026.",
-      "condiciones": [
-        "Importclick es una empresa creada en el año 2021, enfocada principalmente a la venta y distribución de productos a través de plataformas digitales, contando actualmente con una amplia gama de productos clasificados en más de 20 categorías, entre las cuales podemos destacar Salud y Belleza, Aire Libre, Automóvil, Bambú, Infantil, Mascotas, Hogar, Gamer, Audio, Deportes, Tecnología, Seguridad, Herramientas.",
-        "Obtén tu descuento ingresando cupón de descuento BANCOCHILE al momento de finalizar compra en importclick.cl",
-        "Descuento no aplica para el valor del despacho.",
-        "Descuento no acumulable con otras promociones."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "Sportway",
       "categoria": "Retail y Otras Marcas",
       "descuento": "20% dto.",
@@ -2490,62 +2183,6 @@
       ],
       "sucursales": [
         "Av. Presidente Kennedy #5741, Boulevard del Hotel Marriott, Región Metropolitana, Las Condes"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Preu Filadd",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": "20% dto.",
-      "dia": [
-        "Todos los días"
-      ],
-      "dia_texto": "todos los días",
-      "canal": "Online",
-      "vigencia": "Promoción válida hasta el 31 de agosto de 2026.",
-      "condiciones": [
-        "El más efectivo y actualizado método de preparación preuniversitaria. Apoyo universitario de calidad y flexible, siempre online.",
-        "20% dto. en planes en todos los productos de preuniversitario y academia Filadd.",
-        "Obtén tu dto. ingresando los 6 primeros dígitos de tu tarjeta código de dto.",
-        "No acumulable con otras promociones."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Sushiban",
-      "categoria": "Sabores",
-      "descuento": "30% dto.",
-      "dia": [
-        "Lunes",
-        "Martes",
-        "Miércoles"
-      ],
-      "dia_texto": "lunes a miércoles",
-      "canal": null,
-      "vigencia": "Promoción válida hasta el 31 de agosto de 2026.",
-      "condiciones": [
-        "Cada preparación es un acto de indulgencia, donde la frescura y la calidad se encuentran en su máxima expresión. Porque no es solo sushi, es lo que mereces. Sushiban, 20 años de experiencia, 12 locales en Santiago.",
-        "30% dto. de lunes a miércoles.",
-        "Excluye categorías \"Promociones\" y \"Solo por hoy\"",
-        "No acumulable con otras ofertas, menú y/o promociones.",
-        "Válido solo por www.sushiban.cl y App Sushiban, ingresando los primeros 6 dígitos de tu Tarjeta del Chile."
-      ],
-      "sucursales": [
-        "Nueva Los Leones 0252, Región Metropolitana, Providencia",
-        "Av. Consistorial 3349, Región Metropolitana, Peñalolén",
-        "Av. Vitacura 5480, Región Metropolitana, Vitacura",
-        "Av. La Dehesa 541, Región Metropolitana, Lo Barnechea",
-        "Av. Francisco Bilbao 2954, Región Metropolitana, Providencia",
-        "Belén 11, Región Metropolitana, Las Condes",
-        "San Isidro 319, Región Metropolitana, Santiago",
-        "Avenida José Pedro Alessandri 22, Región Metropolitana, Ñuñoa",
-        "Camino El Alba 12620, Región Metropolitana, Las Condes",
-        "Avenida Chicureo 2300, Región Metropolitana, Colina",
-        "Avenida Paseo Pie Andino 5855, Región Metropolitana, Lo Barnechea",
-        "Olivares 1448, Región Metropolitana, La Florida",
-        "Sta. María #7030, Región Metropolitana, Vitacura",
-        "Av. Américo Vespucio #1076, Local 25, Región Metropolitana, Maipú"
       ]
     },
     {
@@ -4069,6 +3706,32 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "Alma Salud",
+      "categoria": "Salud y Belleza",
+      "descuento": "Hasta 45% dto.",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 31 de agosto de 2027.",
+      "condiciones": [
+        "Alma Salud es un centro de masajes, kinesiología y terapias holísticas dedicado al bienestar integral. Ubicados en Las Condes, ofrecemos un enfoque personalizado que combina técnicas terapéuticas modernas con prácticas holísticas para promover la salud física y emocional. Nuestro equipo de profesionales está comprometido con brindar una experiencia de relajación y sanación en un ambiente acogedor, asegurando que cada tratamiento sea una experiencia revitalizante y transformadora. Desde masajes terapéuticos hasta tratamientos estéticos y sesiones de kinesiología, en Alma Salud cuidamos de tu bienestar con dedicación y profesionalismo.",
+        "Hasta 45% de descuento Tratamientos estéticos corporales (10 sesiones).",
+        "20% de descuento en Masajes terapéuticos y de relajación de 60 minutos.",
+        "20% de descuento en paquetes de sesiones Kinesiología.",
+        "15% de descuento Manicure y pedicure.",
+        "10% de descuento en Masajes premium.",
+        "10% de descuento en paquetes de sesiones en Acondicionamiento físico.",
+        "Obtén el beneficio pagando con tus Tarjetas del Chile.",
+        "No acumulable con otras promociones."
+      ],
+      "sucursales": [
+        "Los Ilanes #86, Torre B Oficina 817, Región Metropolitana, Las Condes"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "Amandine Bistró Dólares-Premio",
       "categoria": "Dólares-Premio",
       "descuento": null,
@@ -4762,6 +4425,28 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "Carpe Diem",
+      "categoria": "Sabores",
+      "descuento": "20% dto.",
+      "dia": [
+        "Sábado"
+      ],
+      "dia_texto": "sábado",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 28 de febrero de 2027.",
+      "condiciones": [
+        "En el corazón de Osorno, Carpe Diem es el punto de encuentro para quienes disfrutan de la buena mesa y un grato ambiente. Ofrecemos calidez, cercanía y un servicio atento que hace sentir a todos como en casa. Nuestra especialidad son las tablas gourmet, preparadas con ingredientes seleccionados para compartir y disfrutar. Cada detalle importa: desde la presentación hasta la atención personalizada, todo está pensado para crear momentos memorables. Más que un restaurante, somos un espacio para vivir experiencias únicas, donde la calidad, el servicio y la pasión por la cocina se unen en cada plato.",
+        "20% dto. sábado en compra presencial.",
+        "Solicita tu descuento al momento de pagar.",
+        "No acumulable con otras promociones.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Cochrane #1136, Región de los Lagos, Osorno"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "Castillo Hamburgo",
       "categoria": "Sabores",
       "descuento": "20% dto.",
@@ -4914,6 +4599,30 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "Clínica Agua",
+      "categoria": "Salud y Belleza",
+      "descuento": "Hasta 40% dto.",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "en tratamientos todos los días",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 31 de agosto de 2027.",
+      "condiciones": [
+        "Creemos que sonreír es la mejor forma de presentarse al mundo. El cuidado de tu dentadura y bienestar son nuestra preocupación en Clínica Agua.",
+        "Solicita tu descuento al momento de pagar con tus tarjetas del Banco.",
+        "40% de descuento en el arancel de prestaciones clínicas en todos los presupuestos de tratamientos dentales.",
+        "Obtén diagnóstico y presupuesto sin costo, aplicaciones sobre el monto del tratamiento, no incluye radiografías, laboratorios, pabellón e insumos.",
+        "En los tratamientos de Ortodoncia Invisible, se contará con un 8% de descuento adicional en el costo de los Alineadores.",
+        "Higiene dental gratis al finalizar el tratamiento integral, excluye enfermedad periodontal.",
+        "Beneficio no acumulable con otras promociones."
+      ],
+      "sucursales": [
+        "Estoril #50 of 1106, Región Metropolitana, Las Condes, Teléfono +569 6356 9817 y correo contacto@clinicaagua.cl"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "Clínica Bast",
       "categoria": "Salud y Belleza",
       "descuento": "Hasta 20% dto.",
@@ -5053,6 +4762,29 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "Clínica Luxsalud",
+      "categoria": "Salud y Belleza",
+      "descuento": "20% dto.",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 31 de agosto de 2027.",
+      "condiciones": [
+        "En Luxsalud tu sonrisa es nuestra prioridad. Somos una clínica especializada en el área de la Ortodoncia e Implantología Oral. Contamos con tecnología de vanguardia y un equipo de dentistas comprometidos a cuidarte con calidez y cercanía acompañándote en cada paso, desde la prevención hasta los tratamientos estéticos y funcionales.",
+        "20% dto. todos los días presencial.",
+        "Solicita tu descuento al momento de pagar.",
+        "Al momento de agendar tu evaluación informa que pagarás con tus Tarjetas del Chile.",
+        "Beneficio excluye costos de laboratorio.",
+        "No acumulable con otras promociones."
+      ],
+      "sucursales": [
+        "Las Bellotas #199, Oficina 72, Región Metropolitana, Providencia"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "Clínica Soho",
       "categoria": "Salud y Belleza",
       "descuento": "30% dto.",
@@ -5069,6 +4801,35 @@
       ],
       "sucursales": [
         "Av. Bosques de Montemar #30, oficina 814 Edificio Soho Montemar, Concón, Valparaíso, Teléfono +569 79163343"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Clínicas Odontologicas Everest",
+      "categoria": "Salud y Belleza",
+      "descuento": "Hasta 64% dto.",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días",
+      "canal": null,
+      "vigencia": "Promoción válida hasta el 31 de agosto de 2027.",
+      "condiciones": [
+        "Clínicas Odontológica Everest es una red de clínicas dentales con más de 20 clínicas a nivel nacional (RM, IV, V, VI, IX y X), donde entregamos un servicio de calidad con tecnología de última generación junto a un selecto equipo de profesionales para atender a todos los pacientes. Clínica Everest ofrece todos los tratamientos Odontológicos y además tratamientos de ultima generación (Invisalign, Smile Designer, estética digital e Implantology) para todas las especialidades dentales.",
+        "64% dto. en prestaciones frecuentes.",
+        "58% dto. en todas las especialidades.",
+        "Solicita tu descuento al momento de realizar pago con tus Tarjetas del Banco.",
+        "No acumulable con otras promociones, excluye laboratorios, insumos, informes radiológicos y pabellón.",
+        "Mayor información en clinicaeverest.cl Mesa Central +562 25847120"
+      ],
+      "sucursales": [
+        "Clínica Dental El Golf, Avenida El Bosque Norte #92, Región Metropolitana, Las Condes",
+        "Clínica Dental Las Condes, Alonso de Córdova #5870, Región Metropolitana, Las Condes",
+        "Clínica Dental Ñuñoa, José Domingo Cañas #1701 Piso 2, Región Metropolitana, Ñuñoa",
+        "Clínica Dental Vitacura, Av. Santa María #7030 Piso 2, Región Metropolitana, Vitacura",
+        "Clínica Dental Huechuraba, Av. Pedro Fontova #7789 Local 13, Región Metropolitana, Huechuraba",
+        "Clínica Dental La Dehesa, Manquehue Oriente #2030 Piso 2, Región Metropolitana, Lo Barnechea",
+        "Clínica Dental La Florida, Froilán Roa #580 Local 13, Región Metropolitana, La Florida"
       ]
     },
     {
@@ -5170,6 +4931,27 @@
       ],
       "sucursales": [
         "Los Queltehues #460, Región de Valparaíso, Reñaca"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Club Gordos – Orrego Luco",
+      "categoria": "Sabores",
+      "descuento": "20% dto.",
+      "dia": [
+        "Martes"
+      ],
+      "dia_texto": "martes",
+      "canal": null,
+      "vigencia": "Promoción válida hasta el 28 de febrero de 2027.",
+      "condiciones": [
+        "Club Gordos es un bar conceptual que refleja el arte urbano en sus diseños, foto spots y carta de comida y tragos. Contamos con más de 15 cocktails de autor que maridan perfectamente con nuestra variedad de platos.",
+        "20% dto. martes presencial.",
+        "No acumulable con otras ofertas, menú y/o promociones.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile"
+      ],
+      "sucursales": [
+        "Orrego Luco #40, Región Metropolitana, Providencia"
       ]
     },
     {
@@ -5383,6 +5165,34 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "El Ají Seco del Sur",
+      "categoria": "Sabores",
+      "descuento": "20% dto.",
+      "dia": [
+        "Lunes",
+        "Martes",
+        "Miércoles",
+        "Jueves",
+        "Viernes",
+        "Sábado",
+        "Domingo"
+      ],
+      "dia_texto": "lunes a domingo",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 28 de febrero de 2027.",
+      "condiciones": [
+        "La gastronomía peruana brilla en la Región del Biobío con El Ají Seco del Sur, un restaurante que ofrece cerca de 130 platos, desde clásicos como el lomo saltado, ají de gallina, ceviches y tiraditos, hasta innovaciones como el exclusivo Ceviche Ají Seco del Sur y los llamativos barcos gastronómicos que combinan distintas preparaciones en presentaciones únicas. Ubicado en Padre Las Casas 511, Hualpén, el local cuenta con amplios comedores, terraza, áreas verdes, juegos para niños y estacionamientos, convirtiéndose en un espacio ideal para disfrutar en familia o con amigos. Parte de una cadena con más de 20 locales en Chile, El Ají Seco del Sur mantiene la calidad y autenticidad que la han hecho un referente de la cocina peruana en el país, entregando experiencias memorables que conquistan cada paladar.",
+        "20% dto. de lunes a domingo compra presencial.",
+        "Solicita tu descuento al momento de pagar.",
+        "No acumulable con otras promociones.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Padre Las Casas #511, Región del Biobío, Hualpén"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "EL ARABITO",
       "categoria": "Sabores",
       "descuento": "30% dto.",
@@ -5400,6 +5210,29 @@
       ],
       "sucursales": [
         "Hochstetter 662, Araucanía, Temuco"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "El Gran Machu Picchu",
+      "categoria": "Sabores",
+      "descuento": "20% dto.",
+      "dia": [
+        "Jueves",
+        "Viernes"
+      ],
+      "dia_texto": "jueves y viernes",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 28 de febrero de 2027.",
+      "condiciones": [
+        "El Gran Machu picchu es un Restaurant en Concepción de comida Peruana, el cual está situado en un lugar privilegiado de la ciudad de Concepción, en el mismísimo Parque Ecuador, al lado del Castillo Wilhelm.",
+        "20% dto. jueves y viernes en compra presencial.",
+        "Solicita tu descuento al momento de pagar.",
+        "No acumulable con otras promociones.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Doctor Wilhelm #1010, Región del Biobío, Concepción"
       ]
     },
     {
@@ -5507,6 +5340,31 @@
       ],
       "sucursales": [
         "Av. Pedro Fontova #6651, Región Metropolitana, Huechuraba"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Europa Secreta",
+      "categoria": "Sabores",
+      "descuento": "20% dto.",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días",
+      "canal": "Ambos",
+      "vigencia": "Promoción válida hasta el 28 de febrero de 2027.",
+      "condiciones": [
+        "Europa Secreta, es un oasis del viejo continente, encuentra desde Café en grano / molido, conservas y aceites de Italia; Mostaza y Quesos de Francia; Té y Mermeladas de Inglaterra; hasta Turrones y Jamones de España, entre otros.",
+        "Se excluye las categorías de Sirop, Chocolate en polvo y formatos de café de 1 kilogramo o superior.",
+        "En compra online obtén tu descuento ingresando los 6 primeros dígitos de tu tarjeta del banco como cupón de descuento al momento de finalizar la compra en europasecreta.cl",
+        "Canjea tu descuento en nuestra Tienda ubicada en Puerta del Sol 180, Las Condes y Alonso de Córdova 2350, local 2, Vitacura al momento de pagar con tus tarjetas del Banco.",
+        "Tope máximo de compra $150.000",
+        "No acumulable con otras ofertas promociones.",
+        "Descuento no aplica al valor del despacho."
+      ],
+      "sucursales": [
+        "Alonso de Córdova #2350, local 2, Región Metropolitana, Vitacura",
+        "Dirección: Puerta del sol #180, local 2, Región Metropolitana, Las Condes"
       ]
     },
     {
@@ -6057,6 +5915,25 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "Importclick",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "25% dto.",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días",
+      "canal": "Online",
+      "vigencia": "Promoción válida hasta el 31 de agosto de 2027.",
+      "condiciones": [
+        "Importclick es una empresa creada en el año 2021, enfocada principalmente a la venta y distribución de productos a través de plataformas digitales, contando actualmente con una amplia gama de productos clasificados en más de 20 categorías, entre las cuales podemos destacar Salud y Belleza, Aire Libre, Automóvil, Bambú, Infantil, Mascotas, Hogar, Gamer, Audio, Deportes, Tecnología, Seguridad, Herramientas.",
+        "Obtén tu descuento ingresando cupón de descuento BANCOCHILE al momento de finalizar compra en importclick.cl",
+        "Descuento no aplica para el valor del despacho.",
+        "Descuento no acumulable con otras promociones."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "Inca Pecador",
       "categoria": "Sabores",
       "descuento": "20% dto.",
@@ -6189,6 +6066,31 @@
       ],
       "sucursales": [
         "El Rodeo #13332, Región Metropolitana, Lo Barnechea"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Kine Provita",
+      "categoria": "Salud y Belleza",
+      "descuento": "Hasta 30% dto.",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días",
+      "canal": null,
+      "vigencia": "Promoción válida hasta el 31 de agosto de 2027.",
+      "condiciones": [
+        "Centro Médico Kine ProVita dedicado a los servicios de salud multidisciplinarios, con profesionales que destacan en su profesionalismo y calidad humana, entregando planes y tratamientos personalizados según los objetivos de cada paciente.",
+        "30% dto. en sesiones de Presoterapia de lunes a sábados.",
+        "25% dto. entrenamiento para adulto mayor (36 clases).",
+        "20% dto. entrenamiento para adultos mayor (24 clases).",
+        "15% dto. en masajes cuerpo completo todos los domingos.",
+        "15% dto. entrenamiento para adultos mayor (12 clases al mes).",
+        "15% dto. en servicios de podología, beneficio valido en la primera atención de podología.",
+        "10% dto. en masajes medio cuerpo todos los domingos."
+      ],
+      "sucursales": [
+        "LOS MIRLOS #220, Región de Valparaíso, REÑACA"
       ]
     },
     {
@@ -6579,6 +6481,28 @@
       ],
       "sucursales": [
         "Avenida Blanca Estela #58, Local 7, Región de Valparaíso, Concón"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "León Andino",
+      "categoria": "Sabores",
+      "descuento": "20% dto.",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 28 de febrero de 2027.",
+      "condiciones": [
+        "El punto de reunión perfecto en la Carretera Austral, donde se crean buenos momentos y experiencias inolvidables gracias a su paisaje y sabor casero-gourmet, acompañados de su cerveza artesanal de producción propia y con una atención inmejorable que te hará querer volver. Lugar ideal para compartir en familia o con amigos. Amplia carta en comida y coctelería. Terraza al aire libre con espectacular vista a la bahía de Metri. Pet friendly.",
+        "20% dto. todos los días compra presencial.",
+        "Solicita tu descuento al momento de pagar.",
+        "No acumulable con otras promociones.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Carr. Austral, Metri, Región de los Lagos, Puerto Montt"
       ]
     },
     {
@@ -7824,6 +7748,25 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "Preu Filadd",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "20% dto.",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días",
+      "canal": "Online",
+      "vigencia": "Promoción válida hasta el 28 de febrero de 2027.",
+      "condiciones": [
+        "El más efectivo y actualizado método de preparación preuniversitaria. Apoyo universitario de calidad y flexible, siempre online.",
+        "20% dto. en planes en todos los productos de preuniversitario y academia Filadd.",
+        "Obtén tu dto. ingresando los 6 primeros dígitos de tu tarjeta código de dto.",
+        "No acumulable con otras promociones."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "ProwashGo",
       "categoria": "Retail y Otras Marcas",
       "descuento": "20% dto.",
@@ -8540,6 +8483,43 @@
       ],
       "sucursales": [
         "Av. Central #191, Reñaca Bajo, Región Valparaíso, Viña del Mar, Teléfono: +56 94168 2834"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Sushiban",
+      "categoria": "Sabores",
+      "descuento": "30% dto.",
+      "dia": [
+        "Lunes",
+        "Martes",
+        "Miércoles"
+      ],
+      "dia_texto": "lunes a miércoles",
+      "canal": null,
+      "vigencia": "Promoción válida hasta el 28 de febrero de 2027.",
+      "condiciones": [
+        "Cada preparación es un acto de indulgencia, donde la frescura y la calidad se encuentran en su máxima expresión. Porque no es solo sushi, es lo que mereces. Sushiban, 20 años de experiencia, 12 locales en Santiago.",
+        "30% dto. de lunes a miércoles.",
+        "Excluye categorías \"Promociones\" y \"Solo por hoy\"",
+        "No acumulable con otras ofertas, menú y/o promociones.",
+        "Válido solo por www.sushiban.cl y App Sushiban, ingresando los primeros 6 dígitos de tu Tarjeta del Chile."
+      ],
+      "sucursales": [
+        "Nueva Los Leones 0252, Región Metropolitana, Providencia",
+        "Av. Consistorial 3349, Región Metropolitana, Peñalolén",
+        "Av. Vitacura 5480, Región Metropolitana, Vitacura",
+        "Av. La Dehesa 541, Región Metropolitana, Lo Barnechea",
+        "Av. Francisco Bilbao 2954, Región Metropolitana, Providencia",
+        "Belén 11, Región Metropolitana, Las Condes",
+        "San Isidro 319, Región Metropolitana, Santiago",
+        "Avenida José Pedro Alessandri 22, Región Metropolitana, Ñuñoa",
+        "Camino El Alba 12620, Región Metropolitana, Las Condes",
+        "Avenida Chicureo 2300, Región Metropolitana, Colina",
+        "Avenida Paseo Pie Andino 5855, Región Metropolitana, Lo Barnechea",
+        "Olivares 1448, Región Metropolitana, La Florida",
+        "Sta. María #7030, Región Metropolitana, Vitacura",
+        "Av. Américo Vespucio #1076, Local 25, Región Metropolitana, Maipú"
       ]
     },
     {
@@ -17808,23 +17788,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Traslado gratis al Aeropuerto",
-      "categoria": "Viajes",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "Con tu nuevo plan Travel Infinite, Travel Black o Travel Platinum",
-      "canal": null,
-      "vigencia": "Descarga de código exclusiva a través de la App Mi Banco para planes especificados.",
-      "condiciones": [
-        "Traslado gratis al Aeropuerto con tu Tarjeta de Crédito del Chile. Al contratratar un nuevo Plan de Tarjeta de Crédito obtén traslados gratis con Transvip.",
-        "Plan Travel Infinite: 4 traslados gratis al año.",
-        "Plan Travel Black: 4 traslados gratis al año.",
-        "Plan Travel Platinum: 2 traslados gratis al año."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "Glam & Co",
       "categoria": "Salud y Belleza",
       "descuento": "20% dto.",
@@ -19426,6 +19389,240 @@
       ],
       "sucursales": [
         "Terrazas San Cristobal, Constitución #241, Región Metropolitana, Providencia"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Tamashi – Justo",
+      "categoria": "Sabores",
+      "descuento": "30% dto.",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días",
+      "canal": "Online",
+      "vigencia": "Promoción válida hasta el 30 de junio de 2027.",
+      "condiciones": [
+        "30% dto. todos los días en la App Justo o en pide.getjusto.com",
+        "Ingresa a la App Justo o en pide.getjusto.com",
+        "Elige Tamashi.",
+        "Ingresa el código BCHJUSTO26 como cupón de descuento al momento de pagar con tus Tarjetas del Chile.",
+        "Tope de dto. $8.000.",
+        "2 usos mensuales por cliente.",
+        "Descuento no aplica para valor del despacho.",
+        "No acumulable con otras promociones.",
+        "Beneficio exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Avenida Portugal #515, Región Metropolitana, Santiago",
+        "Avenida Presidente Kennedy #7190, Región Metropolitana, Vitacura",
+        "José Luis Araneda #20, Región Metropolitana, Ñuñoa"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Sushi Home – Justo",
+      "categoria": "Sabores",
+      "descuento": "30% dto.",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días",
+      "canal": "Online",
+      "vigencia": "Promoción válida hasta el 30 de junio de 2027.",
+      "condiciones": [
+        "30% dto. todos los días en la App Justo o en pide.getjusto.com",
+        "Ingresa a la App Justo o en pide.getjusto.com",
+        "Sushi Home.",
+        "Ingresa el código BCHJUSTO26 como cupón de descuento al momento de pagar con tus Tarjetas del Chile.",
+        "Tope de dto. $8.000.",
+        "2 usos mensuales por cliente.",
+        "Descuento no aplica para valor del despacho.",
+        "No acumulable con otras promociones.",
+        "Beneficio exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Central #191, Región de Valparaíso, Viña del Mar"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Mr Sushi – Justo",
+      "categoria": "Sabores",
+      "descuento": "30% dto.",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días",
+      "canal": "Online",
+      "vigencia": "Promoción válida hasta el 30 de junio de 2027.",
+      "condiciones": [
+        "30% dto. todos los días en la App Justo o en pide.getjusto.com",
+        "Ingresa a la App Justo o en pide.getjusto.com",
+        "Elige Mr Sushi.",
+        "Ingresa el código BCHJUSTO26 como cupón de descuento al momento de pagar con tus Tarjetas del Chile.",
+        "Tope de dto. $8.000.",
+        "2 usos mensuales por cliente.",
+        "Descuento no aplica para valor del despacho.",
+        "No acumulable con otras promociones.",
+        "Beneficio exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Avenida Ohiggins #255, Región de La Araucanía, Lautaro",
+        "Avenida Gabriela Mistral #1268, Región del Biobío, Los Ángeles",
+        "Lincoyán #336, Región de La Araucanía, Pucón",
+        "Avenida Alemania #346, Región de La Araucanía, Temuco",
+        "Avenida Alemania #752, Región de La Araucanía, Temuco",
+        "Avenida Javiera Carrera #1590, Región de La Araucanía, Temuco",
+        "Avenida Hacienda Santa María, Región de La Araucanía, Temuco",
+        "Manuel Bulnes #721, Región de La Araucanía, Temuco",
+        "Rudecindo Ortega #1505, Región de La Araucanía, Temuco",
+        "Avenida Los Robles #86, Región de Los Ríos, Valdivia",
+        "Calle General Urrutia #985, Región de La Araucanía, Villarrica"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Minami Sushi – Justo",
+      "categoria": "Sabores",
+      "descuento": "30% dto.",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días",
+      "canal": "Online",
+      "vigencia": "Promoción válida hasta el 30 de junio de 2027.",
+      "condiciones": [
+        "30% dto. todos los días en la App Justo o en pide.getjusto.com",
+        "Ingresa a la App Justo o en pide.getjusto.com",
+        "Elige Minami Sushi.",
+        "Ingresa el código BCHJUSTO26 como cupón de descuento al momento de pagar con tus Tarjetas del Chile.",
+        "Tope de dto. $8.000.",
+        "2 usos mensuales por cliente.",
+        "Descuento no aplica para valor del despacho.",
+        "No acumulable con otras promociones.",
+        "Beneficio exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Avenida Angamos #0554, Región de Antofagasta, Antofagasta",
+        "Avenida Grecia #1748, Región de Antofagasta, Antofagasta",
+        "Avenida Pedro Aguirre Cerda #10578, Región de Antofagasta, Antofagasta"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Kobo – Justo",
+      "categoria": "Sabores",
+      "descuento": "30% dto.",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días",
+      "canal": "Online",
+      "vigencia": "Promoción válida hasta el 30 de junio de 2027.",
+      "condiciones": [
+        "30% dto. todos los días en la App Justo o en pide.getjusto.com",
+        "Ingresa a la App Justo o en pide.getjusto.com",
+        "Elige Kobo.",
+        "Ingresa el código BCHJUSTO26 como cupón de descuento al momento de pagar con tus Tarjetas del Chile.",
+        "Tope de dto. $8.000.",
+        "2 usos mensuales por cliente.",
+        "Descuento no aplica para valor del despacho.",
+        "No acumulable con otras promociones.",
+        "Beneficio exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Avenida Ossa #2278, Región Metropolitana, La Reina",
+        "Avenida Las Condes #7701, Región Metropolitana, Las Condes",
+        "Avenida Tobalaba #12155, Región Metropolitana, Peñalolén",
+        "Avenida Tobalaba #431, Región Metropolitana, Providencia",
+        "Manuel Montt #1565, Región Metropolitana, Providencia",
+        "Milán #1221, Región Metropolitana, San Miguel"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "DMNG Boutique – Justo",
+      "categoria": "Sabores",
+      "descuento": "30% dto.",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días",
+      "canal": "Online",
+      "vigencia": "Promoción válida hasta el 30 de junio de 2027.",
+      "condiciones": [
+        "30% dto. todos los días en la App Justo o en pide.getjusto.com",
+        "Ingresa a la App Justo o en pide.getjusto.com",
+        "Elige DMNG Boutique.",
+        "Ingresa el código BCHJUSTO26 como cupón de descuento al momento de pagar con tus Tarjetas del Chile.",
+        "Tope de dto. $8.000.",
+        "2 usos mensuales por cliente.",
+        "Descuento no aplica para valor del despacho.",
+        "No acumulable con otras promociones.",
+        "Beneficio exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Avenida Vitacura #2908, Región Metropolitana, Las Condes"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Sushi Ryge – Justo",
+      "categoria": "Sabores",
+      "descuento": "25% dto.",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días",
+      "canal": "Online",
+      "vigencia": "Promoción válida hasta el 30 de junio de 2027.",
+      "condiciones": [
+        "25% dto. todos los días en la App Justo o en pide.getjusto.com",
+        "Ingresa a la App Justo o en pide.getjusto.com",
+        "Elige Sushi Ryge.",
+        "Ingresa el código BCHJUSTO26 como cupón de descuento al momento de pagar con tus Tarjetas del Chile.",
+        "Tope de dto. $8.000.",
+        "2 usos mensuales por cliente.",
+        "Descuento no aplica para valor del despacho.",
+        "No acumulable con otras promociones.",
+        "Beneficio exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Arauco #861, Región de Ñuble, Chillán",
+        "Vicente Valdés #85, Región Metropolitana, La Florida",
+        "Avenida Larraín #6738, Región Metropolitana, La Reina",
+        "Carlos XII #124, Región Metropolitana, Las Condes",
+        "Manuel Montt #1221, Región Metropolitana, Providencia",
+        "Avenida Recoleta #901, Región Metropolitana, Recoleta",
+        "San Francisco #545, Región Metropolitana, Santiago",
+        "Calle Lo Beltrán #1771, Región Metropolitana, Vitacura"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Natura Sushi – Justo",
+      "categoria": "Sabores",
+      "descuento": "30% dto.",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días",
+      "canal": "Online",
+      "vigencia": "Promoción válida hasta el 30 de junio de 2027.",
+      "condiciones": [
+        "30% dto. todos los días en la App Justo o en pide.getjusto.com",
+        "Ingresa a la App Justo o en pide.getjusto.com",
+        "Elige Natura Sushi.",
+        "Ingresa el código BCHJUSTO26 como cupón de descuento al momento de pagar con tus Tarjetas del Chile.",
+        "Tope de dto. $8.000.",
+        "2 usos mensuales por cliente.",
+        "Descuento no aplica para valor del despacho.",
+        "No acumulable con otras promociones.",
+        "Beneficio exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Gran Avenida José Miguel Carrera #5940, Región Metropolitana, San Miguel"
       ]
     },
     {
@@ -21768,6 +21965,30 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "Gregoria Cocina",
+      "categoria": "Sabores",
+      "descuento": "30% dto.",
+      "dia": [
+        "Martes"
+      ],
+      "dia_texto": "martes",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 14 de agosto del 2027.",
+      "condiciones": [
+        "Gregoria Cocina ofrece auténticos sabores argentinos con una selección de empanadas, platos y postres elaborados con recetas caseras. Cada preparación refleja la tradición y el cariño de la cocina argentina, llevando un pedacito de Buenos Aires a cada bocado.",
+        "30% dto. martes en compra presencial.",
+        "Tope de dto. $30.000",
+        "Solicita tu descuento al momento de pagar.",
+        "No acumulable con otras promociones.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Av. Padre Hurtado #1376, Region Metropolitana, Vitacura",
+        "Avenida La Dehesa #4590, Local 5, Región Metropolitana, Lo Barnechea"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "Daniil Trifonov - 24 de octubre",
       "categoria": "Entretención y Deportes",
       "descuento": null,
@@ -21916,6 +22137,31 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "Clínica Ortodoncia Concepción",
+      "categoria": "Salud y Belleza",
+      "descuento": "Hasta 50% dto.",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 31 de julio de 2027.",
+      "condiciones": [
+        "Clínica Ortodoncia Concepción es un centro especializado en ortodoncia y salud dental, enfocado en entregar tratamientos personalizados para niños, jóvenes y adultos. Contamos con un equipo de profesionales especializados y alternativas de tratamiento que combinan tecnología, experiencia y una atención cercana, para lograr una sonrisa saludable y armónica.",
+        "50% dto. en limpieza dental completa.",
+        "30% dto. en tratamientos de Ortodoncia y alineadores invisibles.",
+        "Evaluación dental gratuita (incluye diagnóstico y radiografía de control de caries).",
+        "Tratamiento sujeto a evaluación clínica, no aplica en caso de enfermedad periodontal.",
+        "Solicita tu descuento al momento de pagar.",
+        "No acumulable con otras promociones.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Av. Prat #199, Of. #1305 Torre A, Región del Bíobio, Concepción"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "Obtén un 20% de Avios adicionales.",
       "categoria": "Viajes",
       "descuento": null,
@@ -22056,6 +22302,89 @@
         "Aeropuerto Pichoy (ZAL), San José de Mariquina, Región de Los Ríos, Mariquina",
         "Aeropuerto Cañal Bajo Carlos Hott Siebert (ZOS), Aeropuerto de Osorno s/n, Región de Los Lagos, Osorno",
         "Aeropuerto El Tepual (PMC), Aeropuerto El Tepual, Región de Los Lagos, Puerto Montt"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Level Studio",
+      "categoria": "Salud y Belleza",
+      "descuento": "20% dto.",
+      "dia": [
+        "Lunes"
+      ],
+      "dia_texto": "todos los lunes",
+      "canal": null,
+      "vigencia": "Promoción válida hasta el 31 de agosto de 2027.",
+      "condiciones": [
+        "Nuestra misión en Level Studio es proporcionar el mejor servicio de barbería y una atención al cliente insuperable. Nos dedicamos a crear un ambiente acogedor y profesional donde cada cliente se sienta valorado y cuidado.",
+        "Solicita tu descuento al momento de pagar con tus tarjetas del Banco.",
+        "Descuento no acumulable con otras promociones."
+      ],
+      "sucursales": [
+        "Av Apoquindo #4900 local 28, Región Metropolitana, Las Condes"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Magíster en Ingeniería Industrial UC",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "25% dto.",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días",
+      "canal": "Ambos",
+      "vigencia": "Promoción válida hasta el 15 de marzo 2027.",
+      "condiciones": [
+        "El Magíster en Ingeniería Industrial UC (MII UC) es un postgrado en ciencias de la gestión, para profesionales con experiencia laboral, con el sello de calidad y prestigio de la Pontificia Universidad Católica de Chile y su Escuela de Ingeniería. El MII UC lleva 20 años de trayectoria junto a académicos formados en las mejores universidades del mundo, que han aportado a más de 500 graduados y herramientas analíticas y estratégicas, robustas e innovadoras, transformando la manera de abordar los desafíos de la gestión en un mundo en permanente evolución.",
+        "25% dto. en el Valor Programa del MII UC, en compra presencial y online.",
+        "Postulaciones abiertas hasta mediados de enero y, eventualmente, mediados de marzo 2027, sujeto a las vacantes que son limitadas.",
+        "Revisa requisitos, cuerpo académico, más detalles y cómo postular en www.miiuc.cl",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Avenida Alameda Libertador Bernardo OHiggins #440, Región Metropolitana, Santiago"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Traslado gratis al Aeropuerto",
+      "categoria": "Viajes",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "Con tu nuevo plan Travel Infinite, Travel Black o Travel Platinum",
+      "canal": null,
+      "vigencia": "Promoción válida hasta el 30 de septiembre de 2026.",
+      "condiciones": [
+        "Traslado gratis al Aeropuerto con tu Tarjeta de Crédito del Chile. Al contratratar un nuevo Plan de Tarjeta de Crédito obtén traslados gratis con Transvip.",
+        "Plan Travel Infinite: 4 traslados gratis al año.",
+        "Plan Travel Black: 4 traslados gratis al año.",
+        "Plan Travel Platinum: 2 traslados gratis al año."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Magíster en Ingeniería de la Energía UC.",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "20% dto.",
+      "dia": [],
+      "dia_texto": "en el valor del programa",
+      "canal": null,
+      "vigencia": "Promoción válida hasta el 10 de diciembre de 2026.",
+      "condiciones": [
+        "El Magíster en Ingeniería de la Energía UC (MIE-UC) es un postgrado profesional acreditado y dictado por la Escuela de Ingeniería de la Pontificia Universidad Católica de Chile. El MIE-UC, con más de 17 años de trayectoria, entrega competencias con una visión integral del ecosistema energético, abarcando tecnología, política, economía, sociedad y medioambiente. Ofrece formación transversal en energías renovables, hidrógeno, almacenamiento, movilidad, regulación e innovación, junto con experiencias prácticas en laboratorios, terreno y un estrecho vínculo con el ecosistema energético nacional e internacional. Potencia tu carrera al siguiente nivel con el Magíster en Ingeniaría de la Energía UC.",
+        "20% dto. en el valor del programa del MIE-UC.",
+        "Beneficio se verá reflejado a contar del segundo pago.",
+        "Para compra presencial y online solicita tu descuento al momento de pagar.",
+        "Postulaciones hasta el 10 de diciembre 2026 para el primer semestre 2027.",
+        "Beneficio en postulaciones para ingreso en marzo 2027, sujeto al proceso de admisión y vacantes del programa.",
+        "Revisa requisitos y cómo postular en www.mie.uc.cl",
+        "No acumulable con otras promociones.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Benito Rebolledo 1800-1870, Región Metropolitana, Macul"
       ]
     },
     {
