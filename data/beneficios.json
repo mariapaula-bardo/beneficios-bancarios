@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-24T11:18",
+  "actualizado": "2026-08-25T11:17",
   "beneficios": [
     {
       "banco": "Banco de Chile",
@@ -2261,29 +2261,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "MDF",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": "20% dto.",
-      "dia": [
-        "Todos los días"
-      ],
-      "dia_texto": "todos los días en compra",
-      "canal": "Ambos",
-      "vigencia": "Promoción válida hasta el 31 de agosto de 2026.",
-      "condiciones": [
-        "\"MDF® Es una marca Streetwear con Ropa Oversize. Todas las Tallas van desde la S a 4XL en Polerones, Poleras, Buzos, Pantalones, etc. El slogan es MDF® a Hip Hop Brand. Ubicada en Santiago y Maitencillo",
-        "Para compras presenciales obtén el beneficio pagando con tus Tarjetas del Chile.",
-        "Para compras online ingresa los 6 primeros digitos de tus Tarjetas del Chile como cupón de descuento",
-        "No acumulable con otras promociones.",
-        "No aplica para el valor del despacho."
-      ],
-      "sucursales": [
-        "Av Apoquindo #4900, Local 123, Región Metropolitana, Las Condes",
-        "Av del Mar #503, Región de Valparaíso, Maitencillo Puchuncaví"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "ENGINTEL",
       "categoria": "Retail y Otras Marcas",
       "descuento": "20% dto",
@@ -2526,48 +2503,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Eclaire",
-      "categoria": "Salud y Belleza",
-      "descuento": "Hasta 20% dto.",
-      "dia": [],
-      "dia_texto": "en servicios",
-      "canal": null,
-      "vigencia": "Promoción válida hasta el 31 de agosto de 2026.",
-      "condiciones": [
-        "Eclaire nace como sucursal de Kinetic-K en búsqueda de nuevos horizontes donde la salud se intercepta con la belleza y bienestar, logrando crear un centro donde encontramos múltiples disciplinas de kinesiología, cosmetología y medicina estética.",
-        "20% dto los miércoles para pack doble o triple de depilación láser.",
-        "10% dto todos los días en servicios cosmetológicos, masoterapia y depilación láser.",
-        "Descuento aplica de manera presencial pagando con Tarjetas del Chile.",
-        "No acumulable con otras promociones."
-      ],
-      "sucursales": [
-        "14 de Febrero 2065, REGIÓN DE ANTOFAGASTA, Antofagasta"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Spa & Wellness Dr. Roy Sothers",
-      "categoria": "Salud y Belleza",
-      "descuento": "20% dto.",
-      "dia": [
-        "Todos los días"
-      ],
-      "dia_texto": "todos los días",
-      "canal": "Ambos",
-      "vigencia": "Promoción válida hasta el 31 de agosto de 2026.",
-      "condiciones": [
-        "Spa & Wellness Dr. Roy Sothers es un SPA que ofrece experiencias de relajación para el cuerpo y mente, en armonía con el incesante vaivén del mar. Nuestro propósito es brindar bienestar integral, con servicios de relajación y salud respaldados por el conocimiento médico de su creador, el Dr. Roy Sothers Menghini. Ubicado en Av. Borgoño 12425, cerca de la famosa Playa Las Salinas, en el corazón de Viña del Mar, la magia de la experiencia se funde con un entorno excepcional.",
-        "20% dto en categorías: masajes, rituales, tratamientos faciales y tratamientos reductivo pagando con tus Tarjetas del Chile.",
-        "Para compras presenciales obtén tu descuento pagando con tus Tarjetas del Chile.",
-        "Para compras online obtén tu beneficio ingresando los 6 primeros dígitos de tus Tarjetas del Chile como cupón de descuento.",
-        "No acumulable con otras promociones."
-      ],
-      "sucursales": [
-        "AV. BORGOÑO 12425, RM, VIÑA DEL MAR"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "ECODISFRAZ.CL",
       "categoria": "Retail y Otras Marcas",
       "descuento": "25% dto.",
@@ -2605,28 +2540,6 @@
       ],
       "sucursales": [
         "Mallplaza Arica, módulo 1083, Región de Arica y Parinacota, Arica"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Gusto Restobar",
-      "categoria": "Sabores",
-      "descuento": "20% dto.",
-      "dia": [
-        "Lunes",
-        "Miércoles"
-      ],
-      "dia_texto": "lunes y miércoles",
-      "canal": null,
-      "vigencia": "Promoción válida hasta el 31 de agosto de 2026.",
-      "condiciones": [
-        "Gustó Resto Bar existe para reconectar a las personas con la esencia pura de la vida: el sabor auténtico de la tierra, la frescura de la naturaleza y el equilibrio que solo se encuentra en la armonía con el entorno. Creemos en una alimentación que respeta el ciclo de la vida, que honra a cada ingrediente y que nos reúne alrededor de la mesa para celebrar lo bueno y aprender de lo malo, en un equilibrio donde todos ganamos, incluidas las aves y el paisaje que nos rodea. Es una experiencia que alimenta el cuerpo y revitaliza el alma, porque vivir bien es vivir en sintonía con todo lo que nos rodea. En cada plato encontrarás el sabor auténtico de ingredientes que honran la tierra y nos acercan a una vida en equilibrio. Desde lo fresco y saludable hasta lo indulgente y reconfortante, cada opción celebra lo natural, lo local y lo que nos conecta. Aquí no solo comemos; nos reencontramos con la esencia de disfrutar bien, y juntos.",
-        "20% dto lunes y miércoles pagando con tus Tarjetas del Chile.",
-        "No acumulable con otras ofertas, menú y/o promociones",
-        "Descuento exclusivo pagando con tus Tarjetas del Chile."
-      ],
-      "sucursales": [
-        "Rengo #346, Región del Biobío, concepción"
       ]
     },
     {
@@ -2904,30 +2817,6 @@
         "Sus certificaciones están avaladas por el Departamento de Educación del Estado de La Florida Fueron nombrados uno de los mejores Bootcamps de programación del mundo según Course Report, Switchup, los Premios Excelencia Educativa y Financial Magazine. Para una compra referencial de $1.500.000 en 12 cuotas de $125.000 CAE: 1,47%, Costo Total: $1.511.880"
       ],
       "sucursales": []
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Clínica Baden",
-      "categoria": "Salud y Belleza",
-      "descuento": "20% dto.",
-      "dia": [
-        "Lunes",
-        "Miércoles",
-        "Viernes"
-      ],
-      "dia_texto": "lunes, miércoles y viernes",
-      "canal": "Tienda física",
-      "vigencia": "Promoción válida hasta el 31 de agosto de 2026.",
-      "condiciones": [
-        "En Clínica Baden se dedican a entregar una experiencia dental diferente: cercana, confiable y adaptada a las necesidades de cada paciente. Su enfoque combina una atención personalizada con tecnología de última generación y un equipo de especialistas que trabaja de forma integrada.",
-        "20% dto. lunes, miércoles y viernes en limpieza profesional, blanqueamiento clínico Fluor y sellantes.",
-        "Solicita tu descuento al momento de pagar.",
-        "No acumulable con otras promociones.",
-        "Descuento exclusivo pagando con tus Tarjetas del Chile."
-      ],
-      "sucursales": [
-        "Oficina 508 Torre oriente, Av. La Dehesa #1201, Región Metropolitana, Lo Barnechea"
-      ]
     },
     {
       "banco": "Banco de Chile",
@@ -3284,25 +3173,6 @@
       "sucursales": [
         "Luis Pasteur 5553, REGIÓN METROPOLITANA, Vitacura, +562 22193000"
       ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "CODERHOUSE",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": "25% dto. adicional",
-      "dia": [
-        "Todos los días"
-      ],
-      "dia_texto": "todos los días",
-      "canal": null,
-      "vigencia": "Promoción válida hasta el 31 de agosto de 2026.",
-      "condiciones": [
-        "La plataforma de educación online en vivo más grande de Latinoamérica. Con +8 años de trayectoria en el mercado y más de 210.000 estudiantes. Tenemos más de 60 cursos y 20 carreras en áreas de Marketing Digital, Diseño, Programación, Data, Producto, Ciberseguridad, Herramientas digitales. La mejor metodología con clases online en vivo, acompañamiento de equipos tutores, profesores de empresas reconocidas en Latam y un programa TOP 10 para los estudiantes.",
-        "25% dto adicional sobre Plan CoderBeca en todos los cursos y carreras pagando con tus tarjetas del Chile.",
-        "Obtén tu descuento ingresando el código CODERHOUSEBCH",
-        "Descuento no aplica para Servicios de Desarrollo Profesional, Membresías y Masters. Códgo válido sólo por una vez por carrera y/o curso."
-      ],
-      "sucursales": []
     },
     {
       "banco": "Banco de Chile",
@@ -4376,32 +4246,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Car Broker Chile",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": "Hasta 25% dto.",
-      "dia": [],
-      "dia_texto": "en servicios",
-      "canal": "Tienda física",
-      "vigencia": "Promoción válida hasta el 31 de agosto de 2026.",
-      "condiciones": [
-        "Car Broker Chile es una plataforma y App que entrega soluciones automotrices integrales, donde además nos hacemos cargo tanto del pick-up como del delivery de tu auto (ver comunas donde aplica), para que le dediques tiempo a otras cosas. Aquí encontrarás servicios como: Lavado, Revisión Técnica, Mantención, GPS, grabado de patente, entre otros. Obtén los siguientes beneficios en Car Broker Chile:",
-        "25% dto. en lavado premium.",
-        "25% dto. en DyP (Desabolladura y Pintura).",
-        "20% dto. en Revisión Pre-Vacaciones.",
-        "20% dto. en Mantención por Km en nuestros talleres.",
-        "10% de dto. Para el resto de los servicios de Car Broker Chile.",
-        "Todos los servicios deben ser agendados al mail: beneficiobancodechile@carbrokerchile.cl, solicitando el servicio al cual quiera acceder, junto con los datos de contacto.",
-        "Obtén dcto al momento de pagar con tus tarjetas del Banco.",
-        "No acumulable con otras promociones.",
-        "Descuento no aplica al valor del despacho.",
-        "Horario: Lun - Vie 10.00 - 19.00 | Sab 10.00 - 14.00"
-      ],
-      "sucursales": [
-        "Padre Hurtado Central #1395, Región Metropolitana, Las Condes"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "CARBEL COFFEE & PASTRY",
       "categoria": "Sabores",
       "descuento": "20% dto.",
@@ -4989,6 +4833,25 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "CODERHOUSE",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "25% dto. adicional",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días",
+      "canal": null,
+      "vigencia": "Promoción válida hasta el 28 de febrero de 2027.",
+      "condiciones": [
+        "La plataforma de educación online en vivo más grande de Latinoamérica. Con +8 años de trayectoria en el mercado y más de 210.000 estudiantes. Tenemos más de 60 cursos y 20 carreras en áreas de Marketing Digital, Diseño, Programación, Data, Producto, Ciberseguridad, Herramientas digitales. La mejor metodología con clases online en vivo, acompañamiento de equipos tutores, profesores de empresas reconocidas en Latam y un programa TOP 10 para los estudiantes.",
+        "25% dto adicional sobre Plan CoderBeca en todos los cursos y carreras pagando con tus tarjetas del Chile.",
+        "Obtén tu descuento ingresando el código CODERHOUSEBCH",
+        "Descuento no aplica para Servicios de Desarrollo Profesional, Membresías y Masters. Códgo válido sólo por una vez por carrera y/o curso."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "CONSERBAR",
       "categoria": "Sabores",
       "descuento": "20% dto.",
@@ -5136,6 +4999,26 @@
       "sucursales": [
         "AV. OSSA 235, RM, LA REINA",
         "ENCOMENDEROS 138, RM, LAS CONDES"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Eclaire",
+      "categoria": "Salud y Belleza",
+      "descuento": "Hasta 20% dto.",
+      "dia": [],
+      "dia_texto": "en servicios",
+      "canal": null,
+      "vigencia": "Promoción válida hasta el 31 de agosto de 2027.",
+      "condiciones": [
+        "Eclaire nace como sucursal de Kinetic-K en búsqueda de nuevos horizontes donde la salud se intercepta con la belleza y bienestar, logrando crear un centro donde encontramos múltiples disciplinas de kinesiología, cosmetología y medicina estética.",
+        "20% dto los miércoles para pack doble o triple de depilación láser.",
+        "10% dto todos los días en servicios cosmetológicos, masoterapia y depilación láser.",
+        "Descuento aplica de manera presencial pagando con Tarjetas del Chile.",
+        "No acumulable con otras promociones."
+      ],
+      "sucursales": [
+        "14 de Febrero 2065, REGIÓN DE ANTOFAGASTA, Antofagasta"
       ]
     },
     {
@@ -5293,28 +5176,6 @@
       "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
       "condiciones": [
         "Eficiencia, innovación y tecnología para tu hogar. En Enel X Store encontrarás productos con soluciones en categorías como Climatización, Energía solar, Temperado de agua, Calefacción, Smarthome, Electromovilidad y muchas más. Con nuestra nueva línea de productos para el hogar te ayudamos a reducir tu consumo hasta un 40%. Hazte parte de la transformación de la energía con los mejores productos y soluciones completas que necesitas para tu hogar. Con Tus Tarjetas de Crédito del Chile paga en 13 a 24 cuotas sin interés. Para una compra referencial de $4.000.000 en 24 cuotas de $166.667 CAE: 0,77%, Costo Total: $4.032.000"
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Enriqueta Solari",
-      "categoria": "Salud y Belleza",
-      "descuento": "20% dto.",
-      "dia": [
-        "Martes"
-      ],
-      "dia_texto": "martes",
-      "canal": "Online",
-      "vigencia": "Promoción válida hasta el 31 de agosto de 2026.",
-      "condiciones": [
-        "Enriqueta Solari Skincare es una marca internacional, producida en España y presente en Chile y México. Trabajamos con materias primas orgánicas de primera calidad y con los últimos avances en tecnología. Contamos con la certificación COSMOS, y nuestras fórmulas son orgánicas, veganas, cruelty-free y sustentables. Nuestro propósito es inspirarte a reconectar con tu piel, a descubrir su belleza real y su salud profunda. Que cada aplicación sea más que un gesto: un acto de bienestar integral, tanto para ti como para el entorno que habitan.",
-        "20% dto. los martes en enriquetasolariskincare.com",
-        "Obtén tu descuento ingresando los 6 primeros dígitos de tus Tarjetas del Chile como código de dto.",
-        "Descuento no aplica para valor del despacho.",
-        "No acumulable con otras promociones.",
-        "Revisa cobertura de despacho en enriquetasolariskincare.com",
-        "Descuento exclusivo pagando con tus Tarjetas del Chile."
       ],
       "sucursales": []
     },
@@ -5733,6 +5594,28 @@
       ],
       "sucursales": [
         "Av. José Tomas Urmeneta #612, Región de Valparaíso, Limache"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Gusto Restobar",
+      "categoria": "Sabores",
+      "descuento": "20% dto.",
+      "dia": [
+        "Lunes",
+        "Miércoles"
+      ],
+      "dia_texto": "lunes y miércoles",
+      "canal": null,
+      "vigencia": "Promoción válida hasta el 28 de febrero de 2027.",
+      "condiciones": [
+        "Gustó Resto Bar existe para reconectar a las personas con la esencia pura de la vida: el sabor auténtico de la tierra, la frescura de la naturaleza y el equilibrio que solo se encuentra en la armonía con el entorno. Creemos en una alimentación que respeta el ciclo de la vida, que honra a cada ingrediente y que nos reúne alrededor de la mesa para celebrar lo bueno y aprender de lo malo, en un equilibrio donde todos ganamos, incluidas las aves y el paisaje que nos rodea. Es una experiencia que alimenta el cuerpo y revitaliza el alma, porque vivir bien es vivir en sintonía con todo lo que nos rodea. En cada plato encontrarás el sabor auténtico de ingredientes que honran la tierra y nos acercan a una vida en equilibrio. Desde lo fresco y saludable hasta lo indulgente y reconfortante, cada opción celebra lo natural, lo local y lo que nos conecta. Aquí no solo comemos; nos reencontramos con la esencia de disfrutar bien, y juntos.",
+        "20% dto lunes y miércoles pagando con tus Tarjetas del Chile.",
+        "No acumulable con otras ofertas, menú y/o promociones",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Rengo #346, Región del Biobío, concepción"
       ]
     },
     {
@@ -6824,31 +6707,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Matureo",
-      "categoria": "Sabores",
-      "descuento": "20% dto.",
-      "dia": [
-        "Lunes",
-        "Martes",
-        "Miércoles",
-        "Sábado"
-      ],
-      "dia_texto": "lunes a miércoles y sábados",
-      "canal": "Tienda física",
-      "vigencia": "Promoción válida hasta el 31 de agosto de 2026.",
-      "condiciones": [
-        "Matureo es un restobar distinto en Osorno, donde gastronomía de calidad, coctelería de autor y noches de stand up comedy se unen para ofrecer una experiencia única. Nuestro espacio está pensado para disfrutar y compartir, perfecto para reuniones familiares, encuentros de empresa o celebraciones especiales. Ven a vivir un ambiente cercano, divertido y lleno de sabor, donde cada visita se convierte en un recuerdo inolvidable.",
-        "20% dto. de lunes a miércoles y sábados compra presencial.",
-        "Solicita tu descuento al momento de pagar.",
-        "No acumulable con otras promociones.",
-        "Descuento exclusivo pagando con tus Tarjetas del Chile."
-      ],
-      "sucursales": [
-        "Conrado Amthauer #1076, Región de los Lagos, Osorno"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "Maurice",
       "categoria": "Sabores",
       "descuento": "20% dto.",
@@ -6911,6 +6769,29 @@
       ],
       "sucursales": [
         "Aeropuerto Arturo Merino Benitez, Región Metropolitana, Pudahuel"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "MDF",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "20% dto.",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días en compra",
+      "canal": "Ambos",
+      "vigencia": "Promoción válida hasta el 31 de agosto de 2027.",
+      "condiciones": [
+        "\"MDF® Es una marca Streetwear con Ropa Oversize. Todas las Tallas van desde la S a 4XL en Polerones, Poleras, Buzos, Pantalones, etc. El slogan es MDF® a Hip Hop Brand. Ubicada en Santiago y Maitencillo",
+        "Para compras presenciales obtén el beneficio pagando con tus Tarjetas del Chile.",
+        "Para compras online ingresa los 6 primeros digitos de tus Tarjetas del Chile como cupón de descuento",
+        "No acumulable con otras promociones.",
+        "No aplica para el valor del despacho."
+      ],
+      "sucursales": [
+        "Av Apoquindo #4900, Local 123, Región Metropolitana, Las Condes",
+        "Av del Mar #503, Región de Valparaíso, Maitencillo Puchuncaví"
       ]
     },
     {
@@ -7767,31 +7648,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "ProwashGo",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": "20% dto.",
-      "dia": [
-        "Lunes",
-        "Martes",
-        "Miércoles",
-        "Jueves",
-        "Viernes",
-        "Sábado"
-      ],
-      "dia_texto": "lunes a sábado",
-      "canal": "Online",
-      "vigencia": "Promoción válida hasta el 31 de agosto de 2026.",
-      "condiciones": [
-        "Prowash Go es una empresa dedicada al lavado y sanitizado de autos a domicilio. Nuestros lavados son ecológicos, no utilizan agua ni electricidad y no dejamos residuos, por lo que se pueden realizar en cualquier lugar.",
-        "20% dto. de lunes a sábado",
-        "Confirma disponibilidad de comunas en el sitio www.prowashgo.com",
-        "Pide el lavado a través de la App ProwashGo Reserva la hora y tipo de servicio Paga a través de la App ingresando el código de dcto.BCHGO",
-        "No acumulable con ofertas y promociones."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "Psiquis Bar",
       "categoria": "Sabores",
       "descuento": "20% dto.",
@@ -8392,6 +8248,28 @@
       ],
       "sucursales": [
         "PAICAVI 1145, LOCAL 1, Región del Biobío, Concepción"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Spa & Wellness Dr. Roy Sothers",
+      "categoria": "Salud y Belleza",
+      "descuento": "20% dto.",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días",
+      "canal": "Ambos",
+      "vigencia": "Promoción válida hasta el 28 de febrero de 2027.",
+      "condiciones": [
+        "Spa & Wellness Dr. Roy Sothers es un SPA que ofrece experiencias de relajación para el cuerpo y mente, en armonía con el incesante vaivén del mar. Nuestro propósito es brindar bienestar integral, con servicios de relajación y salud respaldados por el conocimiento médico de su creador, el Dr. Roy Sothers Menghini. Ubicado en Av. Borgoño 12425, cerca de la famosa Playa Las Salinas, en el corazón de Viña del Mar, la magia de la experiencia se funde con un entorno excepcional.",
+        "20% dto en categorías: masajes, rituales, tratamientos faciales y tratamientos reductivo pagando con tus Tarjetas del Chile.",
+        "Para compras presenciales obtén tu descuento pagando con tus Tarjetas del Chile.",
+        "Para compras online obtén tu beneficio ingresando los 6 primeros dígitos de tus Tarjetas del Chile como cupón de descuento.",
+        "No acumulable con otras promociones."
+      ],
+      "sucursales": [
+        "AV. BORGOÑO 12425, RM, VIÑA DEL MAR"
       ]
     },
     {
@@ -10166,6 +10044,31 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "Matureo",
+      "categoria": "Sabores",
+      "descuento": "20% dto.",
+      "dia": [
+        "Lunes",
+        "Martes",
+        "Miércoles",
+        "Sábado"
+      ],
+      "dia_texto": "lunes a miércoles y sábados",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 28 de febrero de 2027.",
+      "condiciones": [
+        "Matureo es un restobar distinto en Osorno, donde gastronomía de calidad, coctelería de autor y noches de stand up comedy se unen para ofrecer una experiencia única. Nuestro espacio está pensado para disfrutar y compartir, perfecto para reuniones familiares, encuentros de empresa o celebraciones especiales. Ven a vivir un ambiente cercano, divertido y lleno de sabor, donde cada visita se convierte en un recuerdo inolvidable.",
+        "20% dto. de lunes a miércoles y sábados compra presencial.",
+        "Solicita tu descuento al momento de pagar.",
+        "No acumulable con otras promociones.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Conrado Amthauer #1076, Región de los Lagos, Osorno"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "Majestic",
       "categoria": "Sabores",
       "descuento": "25% dto.",
@@ -10980,6 +10883,28 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "Enriqueta Solari",
+      "categoria": "Salud y Belleza",
+      "descuento": "20% dto.",
+      "dia": [
+        "Martes"
+      ],
+      "dia_texto": "martes",
+      "canal": "Online",
+      "vigencia": "Promoción válida hasta el 31 de agosto de 2027.",
+      "condiciones": [
+        "Enriqueta Solari Skincare es una marca internacional, producida en España y presente en Chile y México. Trabajamos con materias primas orgánicas de primera calidad y con los últimos avances en tecnología. Contamos con la certificación COSMOS, y nuestras fórmulas son orgánicas, veganas, cruelty-free y sustentables. Nuestro propósito es inspirarte a reconectar con tu piel, a descubrir su belleza real y su salud profunda. Que cada aplicación sea más que un gesto: un acto de bienestar integral, tanto para ti como para el entorno que habitan.",
+        "20% dto. los martes en enriquetasolariskincare.com",
+        "Obtén tu descuento ingresando los 6 primeros dígitos de tus Tarjetas del Chile como código de dto.",
+        "Descuento no aplica para valor del despacho.",
+        "No acumulable con otras promociones.",
+        "Revisa cobertura de despacho en enriquetasolariskincare.com",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "Hands & Company",
       "categoria": "Salud y Belleza",
       "descuento": "30% dto.",
@@ -11087,6 +11012,30 @@
         "Américo Vespucio Norte #1737, Local 1028-1032 Primer nivel, Región Metropolitana, Vitacura",
         "Américo Vespucio Norte #1501, Local D-246-242-238 Segundo Nivel, Región Metropolitana, Vitacura",
         "Américo Vespucio #3300 Local 1026, Región Metropolitana, Peñalolén"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Clínica Baden",
+      "categoria": "Salud y Belleza",
+      "descuento": "20% dto.",
+      "dia": [
+        "Lunes",
+        "Miércoles",
+        "Viernes"
+      ],
+      "dia_texto": "lunes, miércoles y viernes",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 31 de agosto de 2027.",
+      "condiciones": [
+        "En Clínica Baden se dedican a entregar una experiencia dental diferente: cercana, confiable y adaptada a las necesidades de cada paciente. Su enfoque combina una atención personalizada con tecnología de última generación y un equipo de especialistas que trabaja de forma integrada.",
+        "20% dto. lunes, miércoles y viernes en limpieza profesional, blanqueamiento clínico Fluor y sellantes.",
+        "Solicita tu descuento al momento de pagar.",
+        "No acumulable con otras promociones.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Oficina 508 Torre oriente, Av. La Dehesa #1201, Región Metropolitana, Lo Barnechea"
       ]
     },
     {
@@ -12586,30 +12535,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Clínica Dental Plaza Bühler",
-      "categoria": "Salud y Belleza",
-      "descuento": "Hasta 50% dto.",
-      "dia": [
-        "Martes"
-      ],
-      "dia_texto": "martes",
-      "canal": "Tienda física",
-      "vigencia": "Promoción válida hasta el 31 de agosto de 2026.",
-      "condiciones": [
-        "Plaza Buhler Clínica Dental, centro de especialidades odontológicas, trabajamos con un amplio staff de Odontólogos, cubriendo todas las especialidades, Odontología General, Rehabilitación Oral, Periodoncia, Ortodoncia, Trastornos temporo mandibulares, Odontopediatría, Endodoncia, Implantología y Estética Orofacial.",
-        "Estamos Ubicados en el Edificio Plaza Buhler piso 8, Oficinas 804 – 805 – 806 – 810. Nuestros numero de contacto son 642-327322 o +56940368536. Nuestros horarios de atención son de 09:00 a 13:00 y de 15:00 a 20:00.",
-        "40% de dto en limpieza dental martes.",
-        "20% de dto en radiografías martes.",
-        "50% de dto en evaluación martes.",
-        "Pagando con tus Tarjetas del Chile.",
-        "Excluye promociones."
-      ],
-      "sucursales": [
-        "Av. Doctor Guillermo Bühler #2005, piso 8 oficina 804-805-806-810, Región de Los Lagos, Osorno"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "Restaurant Joaquín",
       "categoria": "Sabores",
       "descuento": "20% dto.",
@@ -12904,6 +12829,32 @@
       ],
       "sucursales": [
         "6 NORTE #466, Región de Valparaíso, Viña del Mar"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Car Broker Chile",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "Hasta 25% dto.",
+      "dia": [],
+      "dia_texto": "en servicios",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 31 de agosto de 2027.",
+      "condiciones": [
+        "Car Broker Chile es una plataforma y App que entrega soluciones automotrices integrales, donde además nos hacemos cargo tanto del pick-up como del delivery de tu auto (ver comunas donde aplica), para que le dediques tiempo a otras cosas. Aquí encontrarás servicios como: Lavado, Revisión Técnica, Mantención, GPS, grabado de patente, entre otros. Obtén los siguientes beneficios en Car Broker Chile:",
+        "25% dto. en lavado premium.",
+        "25% dto. en DyP (Desabolladura y Pintura).",
+        "20% dto. en Revisión Pre-Vacaciones.",
+        "20% dto. en Mantención por Km en nuestros talleres.",
+        "10% de dto. Para el resto de los servicios de Car Broker Chile.",
+        "Todos los servicios deben ser agendados al mail: beneficiobancodechile@carbrokerchile.cl, solicitando el servicio al cual quiera acceder, junto con los datos de contacto.",
+        "Obtén dcto al momento de pagar con tus tarjetas del Banco.",
+        "No acumulable con otras promociones.",
+        "Descuento no aplica al valor del despacho.",
+        "Horario: Lun - Vie 10.00 - 19.00 | Sab 10.00 - 14.00"
+      ],
+      "sucursales": [
+        "Padre Hurtado Central #1395, Región Metropolitana, Las Condes"
       ]
     },
     {
@@ -14753,56 +14704,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Lounge",
-      "categoria": "Viajes",
-      "descuento": "20% dto. adicional",
-      "dia": [
-        "Domingo"
-      ],
-      "dia_texto": "sobre el precio vigente, todos los domingos",
-      "canal": "Ambos",
-      "vigencia": "Promoción válida hasta el 31 de julio de 2027.",
-      "condiciones": [
-        "Lounge nació en Chile en 2005 como la primera tienda de accesorios, enfocada en ayudar a las mujeres a complementar su estilo con diseños variados y en tendencia. Con el tiempo, amplió su oferta a productos como pijamas, decoración, bikinis y vestuario femenino. La marca se destaca por cuidar la calidad e innovación en cada detalle, manteniendo una esencia relajada y femenina que promueve la autoestima y el empoderamiento de la mujer.",
-        "20% dto. adicional sobre el precio vigente, todos los domingos.",
-        "Obtén tu descuento ingresando los 6 primeros dígitos de tu tarjeta como cupón de descuento al momento de finalizar la compra en lounge.cl",
-        "Para compra presencial obtén descuento al momento de pagar con tus Tarjetas del Banco.",
-        "No acumulable con otras promociones como 2x1, 3x2, 40% off en la segunda unidad y cupones promocionales. No válido para los días Lounge Days, Cyber Day, Cyber Monday, Black Friday, Xmas Day.",
-        "Descuento no aplica al valor del despacho y corners."
-      ],
-      "sucursales": [
-        "Mall Alto Las Condes, Av. Presidente Kennedy 9001 Local 1174, Región Metropolitana, Las Condes",
-        "Mall Plaza Antofagasta, Av. Balmaceda 2355 Local 275, Región de Antofagasta, Antofagasta",
-        "Mall Apumanque, Av. Manquehue Sur 31 Local 432, Región Metropolitana, Las Condes",
-        "Mall Arauco Maipú, Av. Américo Vespucio 399 Local 509, Región Metropolitana, Maipú",
-        "Mall Costanera Center, Av. Nueva Costanera 3900 Local TM22, Región Metropolitana, Vitacura",
-        "Espacio Urbano La Laguna, Paseo Colina Sur 14600 Local 8-10S, Región Metropolitana, Colina",
-        "Mall Arauco Chillan, El Roble 770 Local 024, Región de Ñuble, Chillan",
-        "Centro Comercial Pinares, José María Escrivá de Balaguer 861 Local 21, Región de Valparaíso, Concón",
-        "Mall Costanera Center, Av. Andrés Bello 2447 Local 2196, Región Metropolitana, Providencia",
-        "Mall Espacio M, Compañia de Jesús 1214 Local 212-A, Región Metropolitana, Santiago",
-        "Espacio Urbano la Dehesa, El Rodeo 12850 Local 7-8, Región Metropolitana, Lo Barnechea",
-        "Segundo piso Supermercado Lider, Av. Príncipe de Gales 9140 Local 208 G, Región Metropolitana, La Reina",
-        "Mall plaza los Dominicos, Av PADRE HURTADO SUR 875 Local B1028-B1032, Región Metropolitana, Las Condes",
-        "Mall vivo los trapences, Av. José Alcalde Délano 10492 Local 1082, Región Metropolitana, Lo Barnechea",
-        "Mall Marina Arauco, Av. Libertad 1348 Local 105, Región de Valparaíso, Viña del Mar",
-        "Mall Outlet Easton, Av. Pdte. Eduardo Frei Montalva 9709 Local 51, Región Metropolitana, Quilicura",
-        "Mall Parque Arauco, Av. Presidente Kennedy 5413 Local 173, Región Metropolitana, Las Condes",
-        "Mall Plaza Egaña, Av. Larraín 5862 Local A2069, Región Metropolitana, La Reina",
-        "Mall Plaza Oeste, Av. Américo Vespucio 1501 Local B106-B110, Región Metropolitana, Cerrillos",
-        "Mall Plaza el Trebol, Av. Jorge Alessandri Rodriguez 3177 Local E-13, Región del Biobío, Talcahuano",
-        "Mall Plaza Vespucio, Av. Vicuña Mackenna OTE. 7110 Local 239, Región Metropolitana, La Florida",
-        "Mall Portal La Dehesa, Av. La Dehesa 1445 local 2048, Región Metropolitana, Lo Barnechea",
-        "Mall Portal Ñuñoa, Av. José Pedro Alessandri 1166 Local 3021, Región Metropolitana, Ñuñoa",
-        "Mall Portal Temuco, Av. Alemania 671 Local 2075, Región de la Araucanía, Temuco",
-        "Mall Paseo Costanera, Juan Soler Manfredini 131 LOCAL 102, Región de los Lagos, Puerto Montt",
-        "Mall Paseo Quilín, Mar Tirrenno 3349 Local 1021, Región Metropolitana, Peñalolen",
-        "Paseo los Domínicos, Camino El Alba 11969 Local 220, Región Metropolitana, Las Condes",
-        "Mall Paseo Valdivia, Av. Ramón Picarte 422 Local 111, Región de los Ríos, Valdivia"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "Xtrem",
       "categoria": "Retail y Otras Marcas",
       "descuento": "20% dto.",
@@ -16247,30 +16148,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "GeForce NOW",
-      "categoria": "Entretención y Deportes",
-      "descuento": "50% dto.",
-      "dia": [],
-      "dia_texto": "en los primeros 4 meses de suscripción",
-      "canal": null,
-      "vigencia": "Promoción válida hasta el 31 de agosto de 2026.",
-      "condiciones": [
-        "¡Llegó GeForce NOW a Chile! Tus Tarjetas del Chile te permiten acceder de manera exclusiva con un 50% dto los primeros 4 meses de suscripción en los planes Performance o Ultimate. Podrás tener acceso en el catalogó de juego: son + de 2.000 juegos en linea como Fortnite, Genshin Impact, Marvel Rivals, Call Of Duty, entre otros. Con esta plataforma, tu computador o celular se convierte en la mejor estación gamer.",
-        "Resoluciones más altas, mayor velocidad de fotogramas.",
-        "Con RTX ON, disfruta de gráficos súper realistas en tus videojuegos.",
-        "Acceso más rápido a los Servidores GFN.",
-        "Sesiones de Juego más largas.",
-        "Ajustes Gráficos al Máximo.",
-        "Ingresando el código BCHGFN2026 en tu dashboard en geforcenow.digevo.com",
-        "Válido hasta agotar stock de 1.000 usos",
-        "Ingresa a geforcenow.digevo.com/bancodechile",
-        "Elige tu plan Performance o Ultimate y regístrate",
-        "Paga con tus Tarjetas del Chile"
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "MOTA",
       "categoria": "Retail y Otras Marcas",
       "descuento": "25% dto.",
@@ -17680,79 +17557,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Transvip",
-      "categoria": "Viajes",
-      "descuento": null,
-      "dia": [
-        "Todos los días"
-      ],
-      "dia_texto": "15% dto. todos los días",
-      "canal": null,
-      "vigencia": "Promoción válida hasta el 31 de agosto de 2026.",
-      "condiciones": [
-        "15% dto en servicios:",
-        "15% dto. en servicios traslados desde y hacia aeropuertos, Taxi dentro de la ciudad y servicio de encomiendas.",
-        "Válido para Web y APP Transvip.",
-        "Para obtener tu dto. debes solicitar Tramo de Ida o de Regreso por separado ingresando a Transvip.cl o App Transvip a la opción Solo Ida, una vez completado el formulario ingresa el código en la sección Código de dto.",
-        "Tope de dto. $3.000 por código.",
-        "Códigos válidos para ser usados hasta el 31 de agosto de 2026.",
-        "4 códigos por cliente al mes."
-      ],
-      "sucursales": [
-        "Aeropuerto Cerro Moreno Interior S/N, REGIÓN DE ANTOFAGASTA, Antofagasta, (2) 26773000",
-        "Control Uno (Transvip Pudahuel), REGIÓN METROPOLITANA, Pudahuel, (2) 26773000",
-        "Counter Aduana Internacional 1, REGIÓN METROPOLITANA, Pudahuel, (2) 26773000",
-        "Counter Aduana Internacional 2, REGIÓN METROPOLITANA, Pudahuel, (2) 26773000",
-        "Counter Aduana Nacional (Móvil 1), REGIÓN METROPOLITANA, Pudahuel, (2) 26773000",
-        "Counter Hall Nacional, REGIÓN METROPOLITANA, Pudahuel, (2) 26773000",
-        "Counter Internacional 1, REGIÓN METROPOLITANA, Pudahuel, (2) 26773000",
-        "Counter Internacional 2, REGIÓN METROPOLITANA, Pudahuel, (2) 26773000",
-        "Oficina Recaudación (Transvip Ad Internacional), REGIÓN METROPOLITANA, Pudahuel, (2) 26773000",
-        "Oficina Recaudación (Transvip Pudahuel), REGIÓN METROPOLITANA, Pudahuel, (2) 26773000"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "FLIXBUS",
-      "categoria": "Viajes",
-      "descuento": "20% dto.",
-      "dia": [
-        "Todos los días"
-      ],
-      "dia_texto": "todos los días",
-      "canal": null,
-      "vigencia": "Promoción válida desde el 01 al 31 de agosto de 2026.",
-      "condiciones": [
-        "FlixBus es un operador de buses interurbanos que ha transformado la movilidad en Europa con un modelo de negocio innovador y enfoque tecnológico. Conectando más de 5.600 destinos en 40 países, ofrece pasajes muy económicos, garantizando comodidad y sin dejar de lado el foco en sostenibilidad.",
-        "20% dto. en compra presencial en locales adheridos, en flixbus.cl y App FLIXBUS descargando código de dto.",
-        "Para compra presencial presenta tu código al momento de pagar y solicita tu descuento.",
-        "Para compra en flixbus.cl o App FLIXBUS ingresa tu código descargado como cupón de dto.",
-        "Válido para todos los días.",
-        "Códigos dto. no se pueden combinar con otros códigos, códigos no son reembolsables por dinero en efectivo y son intransferibles.",
-        "Descarga de 3 códigos mensuales por cliente.",
-        "No acumulable con otras promociones.",
-        "Beneficio exclusivo pagando con tus Tarjetas del Chile.",
-        "Conoce preguntas frecuentes y condiciones generales de servicio FlixBus en www.flixbus.cl",
-        "Descuento no aplica sobre asiento, maleta, ni tarifa de servicio."
-      ],
-      "sucursales": [
-        "San Francisco de Borja 122, Región Metropolitana, Estación Central",
-        "Av General Óscar Bonilla 10, Región Metropolitana, Lo Prado",
-        "Pedro Montt 2860, Región de Valparaíso, Valparaíso",
-        "Av. Valparaido 1055, Región de Valparaíso, Viña del Mar",
-        "Angamos 1464, Región de Valparaíso, San Antonio",
-        "Av Varela 1300, Región de Coquimbo, Coquimbo",
-        "Amunategui 107, Región de Coquimbo, La Serena",
-        "Carlos Díaz 47, Región de Valparaíso, Los Andes",
-        "Longitudinal sur 10, Región de Ñuble, Chillán",
-        "Vicente Pérez Rosles 1609, Región de La Araucanía, Temuco",
-        "Anfipon Muñoz 360, Región de Los Ríos, Valdivia",
-        "Diego Portales 1001, Región de los Lagos, Puerto Montt",
-        "Teniente Ignacio Serrano 550, Región de Valparaíso, Quillota"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "Viña Undurraga",
       "categoria": "Sabores",
       "descuento": "55% dto.",
@@ -18162,7 +17966,7 @@
       ],
       "dia_texto": "lunes",
       "canal": "Tienda física",
-      "vigencia": "Promoción válida hasta el 31 de agosto de 2026.",
+      "vigencia": "Promoción válida hasta el 28 de febrero de 2027.",
       "condiciones": [
         "OAKBERRY, la marca N°1 de açaí en el mundo. Bowls y smoothies preparados con açaí directamente del Amazonas brasileño, sin mezclas ni aditivos, y toppings de alta calidad. Una opción rica y saludable para cualquier momento del día: desayuno nutritivo, almuerzo on-the-go, snack de oficina o después de entrenar",
         "20% dto. lunes compra presencial.",
@@ -18412,6 +18216,31 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "ProwashGo",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "20% dto.",
+      "dia": [
+        "Lunes",
+        "Martes",
+        "Miércoles",
+        "Jueves",
+        "Viernes",
+        "Sábado"
+      ],
+      "dia_texto": "lunes a sábado",
+      "canal": "Online",
+      "vigencia": "Promoción válida hasta el 28 de febrero de 2027.",
+      "condiciones": [
+        "Prowash Go es una empresa dedicada al lavado y sanitizado de autos a domicilio. Nuestros lavados son ecológicos, no utilizan agua ni electricidad y no dejamos residuos, por lo que se pueden realizar en cualquier lugar.",
+        "20% dto. de lunes a sábado",
+        "Confirma disponibilidad de comunas en el sitio www.prowashgo.com",
+        "Pide el lavado a través de la App ProwashGo Reserva la hora y tipo de servicio Paga a través de la App ingresando el código de dcto.BCHGO",
+        "No acumulable con ofertas y promociones."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "Piknic #1 - 12 septiembre",
       "categoria": "Entretención y Deportes",
       "descuento": null,
@@ -18473,6 +18302,30 @@
         "Aeropuerto La Araucanía, Región de La Araucanía, Temuco",
         "Arturo Prat 1160, Región de La Araucanía, Temuco",
         "Aeropuerto El Tepual, Región de Los Lagos, Puerto Montt"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Clínica Dental Plaza Bühler",
+      "categoria": "Salud y Belleza",
+      "descuento": "Hasta 50% dto.",
+      "dia": [
+        "Martes"
+      ],
+      "dia_texto": "martes",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 28 de febrero de 2027.",
+      "condiciones": [
+        "Plaza Buhler Clínica Dental, centro de especialidades odontológicas, trabajamos con un amplio staff de Odontólogos, cubriendo todas las especialidades, Odontología General, Rehabilitación Oral, Periodoncia, Ortodoncia, Trastornos temporo mandibulares, Odontopediatría, Endodoncia, Implantología y Estética Orofacial.",
+        "Estamos Ubicados en el Edificio Plaza Buhler piso 8, Oficinas 804 – 805 – 806 – 810. Nuestros numero de contacto son 642-327322 o +56940368536. Nuestros horarios de atención son de 09:00 a 13:00 y de 15:00 a 20:00.",
+        "40% de dto en limpieza dental martes.",
+        "20% de dto en radiografías martes.",
+        "50% de dto en evaluación martes.",
+        "Pagando con tus Tarjetas del Chile.",
+        "Excluye promociones."
+      ],
+      "sucursales": [
+        "Av. Doctor Guillermo Bühler #2005, piso 8 oficina 804-805-806-810, Región de Los Lagos, Osorno"
       ]
     },
     {
@@ -18661,30 +18514,6 @@
       ],
       "sucursales": [
         "Ilanes 86, Región Metropolitana, Las Condes"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Bioparque Buinzoo",
-      "categoria": "Entretención y Deportes",
-      "descuento": "20% dto.",
-      "dia": [
-        "Todos los días"
-      ],
-      "dia_texto": "todos los días en entradas",
-      "canal": "Ambos",
-      "vigencia": "Promoción válida hasta el 31 de agosto de 2026.",
-      "condiciones": [
-        "Bioparque Buinzoo es el principal Bioparque de Sudamérica. Cuenta con más de 2.500 animales de 250 especies, sumado a diversas experiencias educativas que lo hacen ser el mayor centro de eduentretención del país. Tiene los más altos estándares de seguridad, bienestar animal, educación y sostenibilidad del continente. Esto ha permitido que Buinzoo sea acreedor de diversas certificaciones como ALPZA y Sistema B, entre otras. Anualmente recibe más de 1.000.000 de visitantes que validan su compromiso con la conservación y destacan a este lugar como un referente continental.",
-        "20% dto. en entradas en compra presencial y online válidas para ingresos todos los días.",
-        "Para compra presencial solicita tu descuento al momento de pagar.",
-        "Para compra online descarga tu código en bancochile.cl o en App Mi Banco e ingrésalo como cupón de dto. en entradas.buinzoo.cl",
-        "No acumulable con otras promociones.",
-        "Descuento exclusivo pagando con tus Tarjetas del Chile.",
-        "Beneficio exclusivo en entradas individuales, no aplica para packs ni promociones."
-      ],
-      "sucursales": [
-        "Panamericana Sur Km. 32, Región Metropolitana, Buin"
       ]
     },
     {
@@ -18983,32 +18812,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Puma",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": "Hasta 30% dto.",
-      "dia": [
-        "Lunes",
-        "Martes",
-        "Miércoles"
-      ],
-      "dia_texto": "lunes a miércoles",
-      "canal": "Online",
-      "vigencia": "Promoción válida hasta el 31 de agosto de 2026.",
-      "condiciones": [
-        "PUMA es una de las marcas deportivas más reconocidas a nivel mundial, conocida por combinar rendimiento, innovación y estilo urbano. En puma.cl encontrarás miles de productos, desde zapatillas, ropa deportiva, accesorios y moda urbana. Diseñado para atletas, pensados para el día a día.",
-        "Hasta 30% dto. lunes a miércoles online",
-        "30% dto. en productos sin descuento.",
-        "15% dto. en productos con descuento.",
-        "Exclusivo en cl.puma.com/alianzas.html ingresando tu código descargado.",
-        "Descuento no aplica para valor del despacho.",
-        "Beneficio no aplica para cyber.",
-        "Revisa cobertura de despacho en cl.puma.com/alianzas.html",
-        "Descuento exclusivo pagando con tus Tarjetas del Chile."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "Victoria´s Secret",
       "categoria": "Retail y Otras Marcas",
       "descuento": "20% dto.",
@@ -19148,6 +18951,108 @@
         "Descuento no aplica al valor del despacho."
       ],
       "sucursales": []
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Lounge",
+      "categoria": "Viajes",
+      "descuento": "20% dto. adicional",
+      "dia": [
+        "Domingo"
+      ],
+      "dia_texto": "sobre el precio vigente, todos los domingos",
+      "canal": "Ambos",
+      "vigencia": "Promoción válida hasta el 31 de julio de 2027.",
+      "condiciones": [
+        "Lounge nació en Chile en 2005 como la primera tienda de accesorios, enfocada en ayudar a las mujeres a complementar su estilo con diseños variados y en tendencia. Con el tiempo, amplió su oferta a productos como pijamas, decoración, bikinis y vestuario femenino. La marca se destaca por cuidar la calidad e innovación en cada detalle, manteniendo una esencia relajada y femenina que promueve la autoestima y el empoderamiento de la mujer.",
+        "20% dto. adicional sobre el precio vigente, todos los domingos.",
+        "Obtén tu descuento ingresando los 6 primeros dígitos de tu tarjeta como cupón de descuento al momento de finalizar la compra en lounge.cl",
+        "Para compra presencial obtén descuento al momento de pagar con tus Tarjetas del Banco.",
+        "No acumulable con otras promociones como 2x1, 3x2, 40% off en la segunda unidad y cupones promocionales. No válido para los días Lounge Days, Cyber Day, Cyber Monday, Black Friday, Xmas Day.",
+        "Descuento no aplica al valor del despacho y corners."
+      ],
+      "sucursales": [
+        "Tienda Alto Las Condes II, Av. Presidente Kennedy #9001 Local 1174, Región Metropolitana, Las Condes",
+        "Tienda Antofagasta II, Av. Balmaceda #2355 Local 275, Región de Antofagasta, Antofagasta",
+        "Tienda Apumanque, Manquehue Sur #31 Local 432, Región Metropolitana, Las Condes",
+        "Tienda Arauco Maipú II, Américo Vespucio #399 Local 509, Región Metropolitana, Maipú",
+        "Tienda Casa Costanera, Nueva Costanera #3900 Planta Baja Local 220, Región Metropolitana, Vitacura",
+        "Tienda Costanera Center, Av. Andrés Bello #2447 Local 2196, Región Metropolitana, Providencia",
+        "Tienda La Dehesa, Av. El Rodeo #12850 Local 7-8, Región Metropolitana, Lo Barnechea",
+        "Tienda La Reina, Av. Príncipe De Gales #9140 Local 208 G, Región Metropolitana, La Reina",
+        "Tienda Los Dominicos, Padre Hurtado Sur #875 Local B1028-1032, Región Metropolitana, Las Condes",
+        "Tienda Los Trapenses, Av. José Alcalde Délano #10533 Local 1082, Región Metropolitana, Lo Barnechea",
+        "Tienda Marina Arauco, Libertad #1348 Local 105, Región de Valparaíso, Viña del Mar",
+        "Tienda Outlet Easton, Pre. Eduardo Frei Montalva #9709 Local 512, Región Metropolitana, Quilicura",
+        "Tienda Parque Arauco, Av. Presidente Kennedy #5413 Local 173, Región Metropolitana, Las Condes",
+        "Tienda Plaza Egaña, Av. Larraín #5862 Local 2069, Región Metropolitana, La Reina",
+        "Tienda Plaza Oeste II, Av. Américo Vespucio 1501 Local B106-B110, Región Metropolitana, Cerrillos",
+        "Tienda Plaza Trébol, Av. Jorge Alessandri #3177 Local E-131, Región del Biobío, Talcahuano",
+        "Tienda Plaza Vespucio, Av. Vicuña Mackenna #7110 Local 239, Región Metropolitana, La Florida",
+        "Tienda Portal La Dehesa, Av. La Dehesa #1445 Local 2048, Región Metropolitana, Lo Barnechea",
+        "Tienda Portal Ñuñoa, Av. José Pedro Alessandri #1166 Local 3021, Región Metropolitana, Ñuñoa",
+        "Tienda Portal Temuco, Av. Alemania #0671 Local 2075, Región de La Araucanía, Temuco",
+        "Tienda San Carlos, Camino El Alba 11969 Local 220, Región Metropolitana, Las Condes",
+        "Tienda Quillin II, Mar Tirreno #3349 Local 1021, Región Metropolitana, Peñalolén",
+        "Tienda Puerto Montt, Av. Juan Soler Manfredini 131 Local 102, Región de Los Lagos, Puerto Montt",
+        "Tienda Valdivia, Av. Ramón Picarte 411 Local 111, Región de Los Ríos, Valdivia",
+        "Tienda Piedra Roja, Av. Chicureo S/N Bloque LT14-4 Local 8-10S, Región Metropolitana, Colina",
+        "Tienda Home Parque Arauco, Av. Presidente Kennedy #5413 Local 571, Región Metropolitana, Las Condes",
+        "Tienda Chillan, El Roble 770 Local 024, Región de Ñuble, Chillán",
+        "Tienda Espacio M, Compañía de Jesús 1214 Local 212-A, Región Metropolitana, Santiago",
+        "Tienda Concón, José María Escrivá de Balaguer 861 Local 21, Región de Valparaíso, Concón",
+        "Tienda Machalí, Av. San Juan 133 Local 20-21, Región del Libertador General Bernardo O´Higgins, Machalí",
+        "Falabella Viña Espacio Urbano, Av. Benidorm 961, Región de Valparaíso, Viña del Mar",
+        "Tienda El Llano, Llano Subercaseaux 3519 Local 1055, Región Metropolitana, San Miguel"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "GeForce NOW",
+      "categoria": "Entretención y Deportes",
+      "descuento": "50% dto.",
+      "dia": [],
+      "dia_texto": "en los primeros 4 meses de suscripción",
+      "canal": null,
+      "vigencia": "Promoción válida hasta el 30 de septiembre de 2026.",
+      "condiciones": [
+        "¡Llegó GeForce NOW a Chile! Tus Tarjetas del Chile te permiten acceder de manera exclusiva con un 50% dto los primeros 4 meses de suscripción en los planes Performance o Ultimate. Podrás tener acceso en el catalogó de juego: son + de 2.000 juegos en linea como Fortnite, Genshin Impact, Marvel Rivals, Call Of Duty, entre otros. Con esta plataforma, tu computador o celular se convierte en la mejor estación gamer.",
+        "Resoluciones más altas, mayor velocidad de fotogramas.",
+        "Con RTX ON, disfruta de gráficos súper realistas en tus videojuegos.",
+        "Acceso más rápido a los Servidores GFN.",
+        "Sesiones de Juego más largas.",
+        "Ajustes Gráficos al Máximo.",
+        "Ingresando el código BCHGFN2026 en tu dashboard en geforcenow.digevo.com",
+        "Válido hasta agotar stock de 1.000 usos",
+        "Ingresa a geforcenow.digevo.com/bancodechile",
+        "Elige tu plan Performance o Ultimate y regístrate",
+        "Paga con tus Tarjetas del Chile"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Bioparque Buinzoo",
+      "categoria": "Entretención y Deportes",
+      "descuento": "20% dto.",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días en entradas",
+      "canal": "Ambos",
+      "vigencia": "Promoción válida hasta el 30 de septiembre de 2026.",
+      "condiciones": [
+        "Bioparque Buinzoo es el principal Bioparque de Sudamérica. Cuenta con más de 2.500 animales de 250 especies, sumado a diversas experiencias educativas que lo hacen ser el mayor centro de eduentretención del país. Tiene los más altos estándares de seguridad, bienestar animal, educación y sostenibilidad del continente. Esto ha permitido que Buinzoo sea acreedor de diversas certificaciones como ALPZA y Sistema B, entre otras. Anualmente recibe más de 1.000.000 de visitantes que validan su compromiso con la conservación y destacan a este lugar como un referente continental.",
+        "20% dto. en entradas en compra presencial y online válidas para ingresos todos los días.",
+        "Para compra presencial solicita tu descuento al momento de pagar.",
+        "Para compra online descarga tu código en bancochile.cl o en App Mi Banco e ingrésalo como cupón de dto. en entradas.buinzoo.cl",
+        "No acumulable con otras promociones.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile.",
+        "Beneficio exclusivo en entradas individuales, no aplica para packs ni promociones."
+      ],
+      "sucursales": [
+        "Panamericana Sur Km. 32, Región Metropolitana, Buin"
+      ]
     },
     {
       "banco": "Banco de Chile",
@@ -19801,31 +19706,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "NIKE",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": "30% dto. adicional",
-      "dia": [
-        "Martes",
-        "Jueves",
-        "Domingo"
-      ],
-      "dia_texto": "martes, jueves y domingo",
-      "canal": "Online",
-      "vigencia": "Promoción válida hasta el 31 de agosto de 2026.",
-      "condiciones": [
-        "30% dto. adicional martes, jueves y domingo online.",
-        "Revisa los productos con descuentos en nike.cl/bancodechile",
-        "Tu descuento se verá reflejado al momento de ingresar tu Tarjeta del Chile al realizar el pago.",
-        "Antes de pagar confirma que estas en el sitio nike.cl/bancodechile y que el descuento esté aplicado.",
-        "Revisa cobertura de despacho en Nike.cl",
-        "Descuento no aplica al valor del despacho.",
-        "Tope de dto. $60.000",
-        "Descuento exclusivo pagando con tus Tarjetas del Chile."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "Farmex",
       "categoria": "Salud y Belleza",
       "descuento": "Hasta 15% dto.",
@@ -19845,6 +19725,31 @@
       ],
       "sucursales": [
         "Coquimbo 1201, REGIÓN METROPOLITANA, Santiago, +56 9 9347 6836"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Marliz",
+      "categoria": "Sabores",
+      "descuento": "25% dto.",
+      "dia": [
+        "Lunes",
+        "Martes",
+        "Miércoles"
+      ],
+      "dia_texto": "lunes a miércoles",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 31 de marzo de 2027.",
+      "condiciones": [
+        "Marliz Café Restaurant es un espacio ideal para disfrutar de una completa experiencia gastronómica. Su propuesta reúne brunches, almuerzos, pastelería y helados artesanales, junto con una variada selección de cócteles, cervezas, vinos y licores. Además, cuenta con amplias terrazas y cómodos salones para compartir y celebrar ocasiones especiales.",
+        "25% dto. lunes a miércoles compra presencial.",
+        "Solicita tu descuento al momento de pagar.",
+        "No acumulable con otras promociones.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile.",
+        "Tope de descuento 50.000 por mesa."
+      ],
+      "sucursales": [
+        "Av. Vitacura 9307, Región Metropolitana, Vitacura"
       ]
     },
     {
@@ -19964,6 +19869,249 @@
       ],
       "sucursales": [
         "Isidora Goyenechea #2939, Región Metropolitana, Las Condes"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Brisas del Mar Ñuñoa",
+      "categoria": "Sabores",
+      "descuento": "25% dto.",
+      "dia": [
+        "Lunes",
+        "Martes",
+        "Miércoles",
+        "Jueves",
+        "Sábado"
+      ],
+      "dia_texto": "lunes a jueves y sábados",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 31 de enero de 2027.",
+      "condiciones": [
+        "Un clásico que destaca por su sabor y calidez, ideal para compartir o celebrar. Su renovado espacio acompaña una propuesta donde sobresalen los productos marinos: ceviches, tiraditos, pulpo y causas frescas. Las sugerencias del chef reflejan una cocina que evoluciona sin perder su esencia en cada visita.",
+        "25% dto.lunes a jueves y sábados compra presencial.",
+        "Solicita tu descuento al momento de pagar.",
+        "No acumulable con otras promociones.",
+        "No válido para feriados ni días festivos.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Irarrázaval #4600, Región Metropolitana, Ñuñoa"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Brisas Del Mar Tenedor Libre La Serena",
+      "categoria": "Sabores",
+      "descuento": "25% dto.",
+      "dia": [
+        "Lunes",
+        "Martes",
+        "Miércoles",
+        "Jueves",
+        "Sábado"
+      ],
+      "dia_texto": "lunes a jueves y sábado",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 31 de enero de 2027.",
+      "condiciones": [
+        "Amplio buffet que reúne lo mejor de la gastronomía peruana junto a carnes a la parrilla. En su variado tenedor libre destacan ceviches servidos en piñas, pescados frescos, sushi y clásicos criollos en una propuesta diversa y sabrosa. La experiencia se completa con variedad de postres y coctelería de autor, pensada para disfrutar sin límites.",
+        "25% dto.lunes a jueves y sábado compra presencial.",
+        "Solicita tu descuento al momento de pagar.",
+        "No acumulable con otras promociones.",
+        "No válido para feriados ni días festivos.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Av. Balmaceda #5310, Región de Coquimbo, La Serena"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Casa Valerio Tenedor Libre",
+      "categoria": "Sabores",
+      "descuento": "25% dto.",
+      "dia": [
+        "Lunes",
+        "Martes",
+        "Miércoles",
+        "Jueves",
+        "Sábado"
+      ],
+      "dia_texto": "lunes a jueves y sábado",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 31 de enero de 2027.",
+      "condiciones": [
+        "Una experiencia buffet que invita a recorrer Perú sin límites. Destaca su parrilla a la vista, donde los comensales eligen corte y cocción, junto a más de 65 opciones entre mariscos, platos criollos, guisos, entradas y postres. Se suma una atractiva coctelería de autor y jugos exóticos que completan la experiencia.",
+        "25% dto.lunes a jueves y sábado compra presencial.",
+        "Solicita tu descuento al momento de pagar.",
+        "No acumulable con otras promociones.",
+        "No válido para feriados ni días festivos.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Av. Larrain #6580, Región Metropolitana, La Reina"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Lima Limón",
+      "categoria": "Sabores",
+      "descuento": "25% dto.",
+      "dia": [
+        "Lunes",
+        "Martes",
+        "Miércoles",
+        "Jueves",
+        "Sábado"
+      ],
+      "dia_texto": "lunes a jueves y sábados",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 31 de enero de 2027.",
+      "condiciones": [
+        "Lima Limón es un punto de encuentro para disfrutar la alta gastronomía peruana en toda su rica diversidad. Su propuesta recorre costa, sierra y selva amazónica, fusionando sabores tradicionales andinos con técnicas modernas y sofisticadas. Se suma una destacada coctelería, desde el clásico pisco sour hasta creaciones de autor que enriquece la experiencia de vivir el sabor y la cultura.",
+        "25% dto. lunes a jueves y sábados compra presencial.",
+        "Solicita tu descuento al momento de pagar.",
+        "No acumulable con otras promociones.",
+        "No válido para feriados ni días festivos.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Príncipe de Gales #7218, Región Metropolitana, La Reina"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Machu Picchu Providencia",
+      "categoria": "Sabores",
+      "descuento": "25% dto.",
+      "dia": [
+        "Lunes",
+        "Martes",
+        "Miércoles",
+        "Jueves",
+        "Sábado"
+      ],
+      "dia_texto": "lunes a jueves y sábados",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 31 de enero de 2027.",
+      "condiciones": [
+        "Restaurante de gastronomía peruana que combina recetas tradicionales con una propuesta contemporánea. Su carta ofrece ceviches, causas, mariscos, pastas y coctelería de autor, elaborados con productos de temporada. Un espacio acogedor, ideal para disfrutar y celebrar ocasiones especiales.",
+        "25% dto. lunes a jueves y sábados compra presencial.",
+        "Solicita tu descuento al momento de pagar.",
+        "No acumulable con otras promociones.",
+        "No válido para feriados ni días festivos.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Av. Francisco Bilbao #1256, Región Metropolitana, Providencia"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Pachamama Tenedor Libre",
+      "categoria": "Sabores",
+      "descuento": "25% dto.",
+      "dia": [
+        "Lunes",
+        "Martes",
+        "Miércoles",
+        "Jueves",
+        "Sábado"
+      ],
+      "dia_texto": "lunes a jueves y sábados",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 31 de enero de 2027.",
+      "condiciones": [
+        "Pachamama Tenedor Libre destaca por su amplia propuesta buffet que integra cocina peruana, chilena e internacional. Ofrece cerca de 60 preparaciones entre entradas, fondos, parrilla y postres, elaboradas con altos estándares de calidad. Se suma una coctelería de autor que completa una experiencia pensada para disfrutar sin límites.",
+        "25% dto. lunes a jueves y sábados compra presencial.",
+        "Solicita tu descuento al momento de pagar.",
+        "No acumulable con otras promociones.",
+        "No válido para feriados ni días festivos.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Antonio Varas #2207, Región Metropolitana, Ñuñoa"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Restaurant Son Perú",
+      "categoria": "Sabores",
+      "descuento": "25% dto.",
+      "dia": [
+        "Lunes",
+        "Martes",
+        "Miércoles",
+        "Jueves",
+        "Sábado"
+      ],
+      "dia_texto": "lunes a jueves y sábados",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 31 de enero de 2027.",
+      "condiciones": [
+        "Restaurante de alta gastronomía peruana y cocina internacional, con una propuesta que combina tradición y técnica contemporánea. Su carta destaca por el uso de ingredientes frescos y de temporada, con ceviches, causas, carnes, pescados, postres y coctelería de autor. Un espacio ideal para disfrutar de una experiencia culinaria de excelencia.",
+        "25% dto. lunes a jueves y sábados compra presencial.",
+        "Solicita tu descuento al momento de pagar.",
+        "No acumulable con otras promociones.",
+        "No válido para feriados ni días festivos.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Salvador Izquierdo #1800, Región Metropolitana, La Reina, Santiago"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Valerio Parrilladas Tenedor Libre Quilicura",
+      "categoria": "Sabores",
+      "descuento": "25% dto.",
+      "dia": [
+        "Lunes",
+        "Martes",
+        "Miércoles",
+        "Jueves",
+        "Sábado"
+      ],
+      "dia_texto": "lunes a jueves y sábado",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 30 de enero de 2027.",
+      "condiciones": [
+        "Amplio restaurante en formato buffet que combina carnes a la parrilla con los sabores de la cocina peruana. Su propuesta incluye carnes marinadas con especias y hierbas, además de ceviches, ensaladas, sushi y clásicos como ají de gallina y lomo saltado. La experiencia se complementa con una variada coctelería de autor.",
+        "25% dto. lunes a jueves y sábado compra presencial.",
+        "Solicita tu descuento al momento de pagar.",
+        "No acumulable con otras promociones.",
+        "No válido para feriados ni días festivos.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Av. Manuel Antonio Matta #712, Región Metropolitana, Quilicura"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Warique",
+      "categoria": "Sabores",
+      "descuento": "25% dto.",
+      "dia": [
+        "Lunes",
+        "Martes",
+        "Miércoles",
+        "Jueves",
+        "Sábado"
+      ],
+      "dia_texto": "lunes a jueves y sábados",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 31 de enero de 2027.",
+      "condiciones": [
+        "Warique destaca por su cocina tradicional peruana y sabor auténtico. Su propuesta se basa en ingredientes originales y técnicas que respetan la esencia gastronómica del Perú. La carta incluye clásicos como lomo saltado, ají de gallina y ceviches, junto a sugerencias de temporada que aportan creatividad y renovación.",
+        "25% dto. lunes a jueves y sábados compra presencial.",
+        "Solicita tu descuento al momento de pagar.",
+        "No acumulable con otras promociones.",
+        "No válido para feriados ni días festivos.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Jose Domingo Cañas #1879, Región Metropolitana, Ñuñoa"
       ]
     },
     {
@@ -20110,30 +20258,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Adidas",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": "30% dto. adicional",
-      "dia": [
-        "Miércoles",
-        "Jueves",
-        "Viernes"
-      ],
-      "dia_texto": "miércoles a viernes en adidas.cl/alianza",
-      "canal": null,
-      "vigencia": "Promoción válida del 01 al 31 de agosto de 2026.",
-      "condiciones": [
-        "Corre por este beneficio único, miércoles a viernes con tus Tarjetas del Chile. 30% dto. adicional miércoles a viernes en adidas.cl/alianza.",
-        "Descarga tu código de descuento en bancochile.cl o App Mi Banco.",
-        "Ingresa el código al momento de finalizar la compra en adidas.cl/alianza",
-        "Máximo 2 descargas de cupón diarias por cliente.",
-        "Descuento no aplica para valor del despacho.",
-        "Revisa cobertura de despacho en adidas.cl",
-        "Descuento exclusivo pagando con tus Tarjetas del Chile."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "Traslado gratis al Aeropuerto",
       "categoria": "Viajes",
       "descuento": null,
@@ -20156,6 +20280,129 @@
         "Debe escribir a programa@travel.cl para gestionar la entrega de un nuevo código.",
         "No, el beneficio aplica solo para traslados hacia o desde el aeropuerto y cada código corresponde a un tramo.",
         "Compras Travel Viajes: válidas desde el 15.10.2025 al 31.08.2026. Líneas Aéreas: válido para compras en Chile para destinos nacionales e internacionales superiores a $300.000 en rubro líneas aéreas (Compras registradas en pesos en el estado de cuenta nacional. No aplica en compra en Dólares) desde el 15.10.2025 al 31.08.2026. Código válido para ser usado hasta el 30.06.2026. No aplica a las compras efectuadas a través de recaudadores o plataformas de pago como Mercado Pago y operadores (excepto Travel Viajes). El servicio del traslado es responsabilidad de Transvip. Dto con tope de $50.000 por viaje. Si el monto del viaje supera los $50.000, la diferencia debe ser pagada por el pasajero de manera directa a Transvip con su Tarjeta de Crédito del Banco de Chile. No acumulable con otras promociones. Revisa cobertura de Transvip.cl."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Puma",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "Hasta 30% dto.",
+      "dia": [
+        "Lunes",
+        "Martes",
+        "Miércoles"
+      ],
+      "dia_texto": "lunes a miércoles",
+      "canal": "Online",
+      "vigencia": "Promoción válida hasta el 30 de septiembre de 2026.",
+      "condiciones": [
+        "PUMA es una de las marcas deportivas más reconocidas a nivel mundial, conocida por combinar rendimiento, innovación y estilo urbano. En puma.cl encontrarás miles de productos, desde zapatillas, ropa deportiva, accesorios y moda urbana. Diseñado para atletas, pensados para el día a día.",
+        "Hasta 30% dto. lunes a miércoles online",
+        "30% dto. en productos sin descuento.",
+        "15% dto. en productos con descuento.",
+        "Exclusivo en cl.puma.com/alianzas.html ingresando tu código descargado.",
+        "Descuento no aplica para valor del despacho.",
+        "Beneficio no aplica para cyber.",
+        "Revisa cobertura de despacho en cl.puma.com/alianzas.html",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Transvip",
+      "categoria": "Viajes",
+      "descuento": null,
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "15% dto. todos los días",
+      "canal": null,
+      "vigencia": "Promoción válida hasta el 30 de septiembre de 2026.",
+      "condiciones": [
+        "15% dto en servicios:",
+        "15% dto. en servicios traslados desde y hacia aeropuertos, Taxi dentro de la ciudad y servicio de encomiendas.",
+        "Válido para Web y APP Transvip.",
+        "Para obtener tu dto. debes solicitar Tramo de Ida o de Regreso por separado ingresando a Transvip.cl o App Transvip a la opción Solo Ida, una vez completado el formulario ingresa el código en la sección Código de dto.",
+        "Tope de dto. $3.000 por código.",
+        "Códigos válidos para ser usados hasta el 31 de agosto de 2026.",
+        "4 códigos por cliente al mes."
+      ],
+      "sucursales": [
+        "Aeropuerto Cerro Moreno Interior S/N, REGIÓN DE ANTOFAGASTA, Antofagasta, (2) 26773000",
+        "Control Uno (Transvip Pudahuel), REGIÓN METROPOLITANA, Pudahuel, (2) 26773000",
+        "Counter Aduana Internacional 1, REGIÓN METROPOLITANA, Pudahuel, (2) 26773000",
+        "Counter Aduana Internacional 2, REGIÓN METROPOLITANA, Pudahuel, (2) 26773000",
+        "Counter Aduana Nacional (Móvil 1), REGIÓN METROPOLITANA, Pudahuel, (2) 26773000",
+        "Counter Hall Nacional, REGIÓN METROPOLITANA, Pudahuel, (2) 26773000",
+        "Counter Internacional 1, REGIÓN METROPOLITANA, Pudahuel, (2) 26773000",
+        "Counter Internacional 2, REGIÓN METROPOLITANA, Pudahuel, (2) 26773000",
+        "Oficina Recaudación (Transvip Ad Internacional), REGIÓN METROPOLITANA, Pudahuel, (2) 26773000",
+        "Oficina Recaudación (Transvip Pudahuel), REGIÓN METROPOLITANA, Pudahuel, (2) 26773000"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "FLIXBUS",
+      "categoria": "Viajes",
+      "descuento": "20% dto.",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días",
+      "canal": null,
+      "vigencia": "Promoción válida hasta el 30 de septiembre de 2026.",
+      "condiciones": [
+        "FlixBus es un operador de buses interurbanos que ha transformado la movilidad en Europa con un modelo de negocio innovador y enfoque tecnológico. Conectando más de 5.600 destinos en 40 países, ofrece pasajes muy económicos, garantizando comodidad y sin dejar de lado el foco en sostenibilidad.",
+        "20% dto. en compra presencial en locales adheridos, en flixbus.cl y App FLIXBUS descargando código de dto.",
+        "Para compra presencial presenta tu código al momento de pagar y solicita tu descuento.",
+        "Para compra en flixbus.cl o App FLIXBUS ingresa tu código descargado como cupón de dto.",
+        "Válido para todos los días.",
+        "Códigos dto. no se pueden combinar con otros códigos, códigos no son reembolsables por dinero en efectivo y son intransferibles.",
+        "Descarga de 3 códigos mensuales por cliente.",
+        "No acumulable con otras promociones.",
+        "Beneficio exclusivo pagando con tus Tarjetas del Chile.",
+        "Conoce preguntas frecuentes y condiciones generales de servicio FlixBus en www.flixbus.cl",
+        "Descuento no aplica sobre asiento, maleta, ni tarifa de servicio."
+      ],
+      "sucursales": [
+        "San Francisco de Borja 122, Región Metropolitana, Estación Central",
+        "Av General Óscar Bonilla 10, Región Metropolitana, Lo Prado",
+        "Pedro Montt 2860, Región de Valparaíso, Valparaíso",
+        "Av. Valparaido 1055, Región de Valparaíso, Viña del Mar",
+        "Angamos 1464, Región de Valparaíso, San Antonio",
+        "Av Varela 1300, Región de Coquimbo, Coquimbo",
+        "Amunategui 107, Región de Coquimbo, La Serena",
+        "Carlos Díaz 47, Región de Valparaíso, Los Andes",
+        "Longitudinal sur 10, Región de Ñuble, Chillán",
+        "Vicente Pérez Rosles 1609, Región de La Araucanía, Temuco",
+        "Anfipon Muñoz 360, Región de Los Ríos, Valdivia",
+        "Diego Portales 1001, Región de los Lagos, Puerto Montt",
+        "Teniente Ignacio Serrano 550, Región de Valparaíso, Quillota"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Adidas",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "30% dto. adicional",
+      "dia": [
+        "Miércoles",
+        "Jueves",
+        "Viernes"
+      ],
+      "dia_texto": "miércoles a viernes en adidas.cl/alianza",
+      "canal": null,
+      "vigencia": "Promoción válida hasta el 30 de septiembre de 2026.",
+      "condiciones": [
+        "Corre por este beneficio único, miércoles a viernes con tus Tarjetas del Chile. 30% dto. adicional miércoles a viernes en adidas.cl/alianza.",
+        "Descarga tu código de descuento en bancochile.cl o App Mi Banco.",
+        "Ingresa el código al momento de finalizar la compra en adidas.cl/alianza",
+        "Máximo 2 descargas de cupón diarias por cliente.",
+        "Descuento no aplica para valor del despacho.",
+        "Revisa cobertura de despacho en adidas.cl",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
       ],
       "sucursales": []
     },
@@ -21635,6 +21882,56 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "NIKE",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "30% dto. adicional",
+      "dia": [
+        "Martes",
+        "Jueves",
+        "Domingo"
+      ],
+      "dia_texto": "martes, jueves y domingo",
+      "canal": "Online",
+      "vigencia": "Promoción válida hasta el 31 de agosto de 2026.",
+      "condiciones": [
+        "30% dto. adicional martes, jueves y domingo online.",
+        "Revisa los productos con descuentos en nike.cl/bancodechile",
+        "Tu descuento se verá reflejado al momento de ingresar tu Tarjeta del Chile al realizar el pago.",
+        "Antes de pagar confirma que estas en el sitio nike.cl/bancodechile y que el descuento esté aplicado.",
+        "Revisa cobertura de despacho en Nike.cl",
+        "Descuento no aplica al valor del despacho.",
+        "Tope de dto. $60.000",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Sol Sublime",
+      "categoria": "Sabores",
+      "descuento": "25% dto.",
+      "dia": [
+        "Lunes",
+        "Miércoles"
+      ],
+      "dia_texto": "lunes y miercoles",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 31 de marzo del 2027.",
+      "condiciones": [
+        "Sol Sublime es un restaurante de cocina peruana en La Reina con más de 15 años de trayectoria. Destaca por su variada carta de ceviches, tiraditos, piqueos y platos tradicionales como lomo saltado y ají de gallina, además de un ambiente acogedor, excelente atención y estacionamiento privado. Una gran alternativa para disfrutar de la auténtica gastronomía peruana en Santiago.",
+        "25% dto. lunes y miercoles en compra presencial.",
+        "Tope de dto. $40.000",
+        "No válido para menú, Happy Hour ni otras promociones vigentes.",
+        "Solicita tu descuento al momento de pagar.",
+        "No acumulable con otras promociones.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Avenida Principe de Gales 6580, Region Metropolitana, La Reina"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "Domino’s Pizza",
       "categoria": "Sabores",
       "descuento": "40% dto.",
@@ -21643,7 +21940,7 @@
       ],
       "dia_texto": "todos los días",
       "canal": "Ambos",
-      "vigencia": "Promoción válida hasta el 31 de agosto de 2026.",
+      "vigencia": "Promoción válida hasta el 28 de febrero de 2027.",
       "condiciones": [
         "40% todos los días en compras en locales, App Domino’s Pizza y dominospizza.cl",
         "Para compra presencial y telefónica solicita tu descuento al momento de pagar.",
@@ -21711,31 +22008,6 @@
         "Av. MANUEL RODRIGUEZ 921, Región del Biobío, Chiguayante",
         "Av. CRISTOBAL COLON 8961, Región del Biobío, Hualpen",
         "Av. ESPAÑA 01405, Región de Magallanes y la Antartica Chilena, Punta Arenas"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Sol Sublime",
-      "categoria": "Sabores",
-      "descuento": "25% dto.",
-      "dia": [
-        "Lunes",
-        "Miércoles"
-      ],
-      "dia_texto": "lunes y miercoles",
-      "canal": "Tienda física",
-      "vigencia": "Promoción válida hasta el 31 de marzo del 2027.",
-      "condiciones": [
-        "Sol Sublime es un restaurante de cocina peruana en La Reina con más de 15 años de trayectoria. Destaca por su variada carta de ceviches, tiraditos, piqueos y platos tradicionales como lomo saltado y ají de gallina, además de un ambiente acogedor, excelente atención y estacionamiento privado. Una gran alternativa para disfrutar de la auténtica gastronomía peruana en Santiago.",
-        "25% dto. lunes y miercoles en compra presencial.",
-        "Tope de dto. $40.000",
-        "No válido para menú, Happy Hour ni otras promociones vigentes.",
-        "Solicita tu descuento al momento de pagar.",
-        "No acumulable con otras promociones.",
-        "Descuento exclusivo pagando con tus Tarjetas del Chile."
-      ],
-      "sucursales": [
-        "Avenida Principe de Gales 6580, Region Metropolitana, La Reina"
       ]
     },
     {
@@ -22056,6 +22328,31 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "Otra Cozza",
+      "categoria": "Sabores",
+      "descuento": "20% dto.",
+      "dia": [
+        "Lunes"
+      ],
+      "dia_texto": "lunes",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 14 de agosto del 2027.",
+      "condiciones": [
+        "Otra Cozza ofrece pizzas elaboradas con masa preparada diariamente desde cero, utilizando ingredientes frescos y un proceso artesanal. Su masa, crujiente y llena de sabor, es la base que define cada una de sus pizzas.",
+        "20% dto. lunes en compra presencial.",
+        "No válido para menú, Happy Hour ni otras promociones vigentes.",
+        "Solicita tu descuento al momento de pagar.",
+        "No acumulable con otras promociones.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "8 norte #393, Región de Valparaiso, Viña del Mar",
+        "Las golondrinas #2024 local 2, Región de Valparaiso, Viña del Mar",
+        "Av Arturo Prat #4924, Región de Valparaiso, Olmue"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "Sense",
       "categoria": "Mascotas",
       "descuento": "30% dto.",
@@ -22147,20 +22444,6 @@
       "sucursales": [
         "Av. Prat #199, Of. #1305 Torre A, Región del Bíobio, Concepción"
       ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Obtén un 20% de Avios adicionales.",
-      "categoria": "Viajes",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "Pagando con tus Dólares-Premio en Iberia",
-      "canal": null,
-      "vigencia": "Promoción válida hasta el 24 de agosto de 2026.",
-      "condiciones": [
-        "Hasta el 24 de agosto a las 17.00 hrs."
-      ],
-      "sucursales": []
     },
     {
       "banco": "Banco de Chile",
