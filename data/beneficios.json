@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-25T11:17",
+  "actualizado": "2026-08-26T11:19",
   "beneficios": [
     {
       "banco": "Banco de Chile",
@@ -2409,30 +2409,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Puppies & Kittens",
-      "categoria": "Mascotas",
-      "descuento": "Hasta 30% dto.",
-      "dia": [
-        "Jueves",
-        "Viernes"
-      ],
-      "dia_texto": "jueves y viernes",
-      "canal": "Ambos",
-      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
-      "condiciones": [
-        "En Puppies and Kittens las mascotas son un miembro muy importante de la familia, por eso ofrecemos productos de calidad, peluquería y consulta, todo con el cariño y cuidado que se merecen. ¡Vive la magia PykChile!",
-        "30% dto. en consultas médicas y vacunas. Código dto. online BCOCHILEVACUNAS",
-        "20% dto. en Peluquería Premium Spa canina, felina y baños sobre monto mínimo de $30.000 . Código dto. online: BCOCHILEPELUQUERIA",
-        "15% dto. en Petshop en compras de monto mínimo $30.000. Código dto. online: PETSHOPBCH"
-      ],
-      "sucursales": [
-        "Avenida Egaña #252, local 1, Región Metropolitana, La Reina",
-        "Avenida Las Condes #12751, local 1 y 7, Región Metropolitana, Las Condes",
-        "Gerónimo de Alderete #1567, Región Metropolitana, Vitacura"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "Impasto",
       "categoria": "Sabores",
       "descuento": "30% dto.",
@@ -3173,24 +3149,6 @@
       "sucursales": [
         "Luis Pasteur 5553, REGIÓN METROPOLITANA, Vitacura, +562 22193000"
       ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Las Carmelitas",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": "20% dto.",
-      "dia": [
-        "Todos los días"
-      ],
-      "dia_texto": "todos los días en compra",
-      "canal": "Online",
-      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
-      "condiciones": [
-        "Las Carmelitas Flores somos una florería online que nos apasiona llevar momentos de felicidad a nuestros clientes a través de nuestros arreglos florales llenos de colores, detalles y alegría, siempre con flores frescas de la estación.",
-        "Obtén tu descuento ingresando el código LASCARMELITASBCH como cupón de descuento al momento de finalizar la compra en lascarmelitasflores.cl",
-        "No acumulable con otras promociones."
-      ],
-      "sucursales": []
     },
     {
       "banco": "Banco de Chile",
@@ -7690,6 +7648,30 @@
       ],
       "sucursales": [
         "Av. República de Croacia #809, Región de Antofagasta, Antofagasta"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Puppies & Kittens",
+      "categoria": "Mascotas",
+      "descuento": "Hasta 30% dto.",
+      "dia": [
+        "Jueves",
+        "Viernes"
+      ],
+      "dia_texto": "jueves y viernes",
+      "canal": "Ambos",
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
+      "condiciones": [
+        "En Puppies and Kittens las mascotas son un miembro muy importante de la familia, por eso ofrecemos productos de calidad, peluquería y consulta, todo con el cariño y cuidado que se merecen. ¡Vive la magia PykChile!",
+        "30% dto. en consultas médicas y vacunas. Código dto. online BCOCHILEVACUNAS",
+        "20% dto. en Peluquería Premium Spa canina, felina y baños sobre monto mínimo de $30.000 . Código dto. online: BCOCHILEPELUQUERIA",
+        "15% dto. en Petshop en compras de monto mínimo $30.000. Código dto. online: PETSHOPBCH"
+      ],
+      "sucursales": [
+        "Avenida Egaña #252, local 1, Región Metropolitana, La Reina",
+        "Avenida Las Condes #12751, local 1 y 7, Región Metropolitana, Las Condes",
+        "Gerónimo de Alderete #1567, Región Metropolitana, Vitacura"
       ]
     },
     {
@@ -19520,6 +19502,285 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "Sushimi – Justo",
+      "categoria": "Sabores",
+      "descuento": "30% dto.",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días",
+      "canal": "Online",
+      "vigencia": "Promoción válida hasta el 30 de junio de 2027.",
+      "condiciones": [
+        "30% dto. todos los días en la App Justo o en pide.getjusto.com",
+        "Ingresa a la App Justo o en pide.getjusto.com",
+        "Elige Sushimi.",
+        "Ingresa el código BCHJUSTO26 como cupón de descuento al momento de pagar con tus Tarjetas del Chile.",
+        "Tope de dto. $8.000.",
+        "2 usos mensuales por cliente.",
+        "Descuento no aplica para valor del despacho.",
+        "No acumulable con otras promociones.",
+        "Beneficio exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Avenida Irarrázaval #1998, Región Metropolitana, Ñuñoa"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Takoi – Justo",
+      "categoria": "Sabores",
+      "descuento": "30% dto.",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días",
+      "canal": "Online",
+      "vigencia": "Promoción válida hasta el 30 de junio de 2027.",
+      "condiciones": [
+        "30% dto. todos los días en la App Justo o en pide.getjusto.com",
+        "Ingresa a la App Justo o en pide.getjusto.com",
+        "Elige Takoi.",
+        "Ingresa el código BCHJUSTO26 como cupón de descuento al momento de pagar con tus Tarjetas del Chile.",
+        "Tope de dto. $8.000.",
+        "2 usos mensuales por cliente.",
+        "Descuento no aplica para valor del despacho.",
+        "No acumulable con otras promociones.",
+        "Beneficio exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Las Tranqueras #1479, Región Metropolitana, Vitacura"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Okei Sushi - Justo",
+      "categoria": "Sabores",
+      "descuento": "30% dto.",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días",
+      "canal": "Online",
+      "vigencia": "Promoción válida hasta el 30 de junio de 2027.",
+      "condiciones": [
+        "30% dto. todos los días en la App Justo o en pide.getjusto.com",
+        "Ingresa a la App Justo o en pide.getjusto.com",
+        "Elige Okei Sushi.",
+        "Ingresa el código BCHJUSTO26 como cupón de descuento al momento de pagar con tus Tarjetas del Chile.",
+        "Tope de dto. $8.000.",
+        "2 usos mensuales por cliente.",
+        "Descuento no aplica para valor del despacho.",
+        "No acumulable con otras promociones.",
+        "Beneficio exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Alvaro Casanova #594, Región Metropolitana, Peñalolén"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Kento Sushi – Justo",
+      "categoria": "Sabores",
+      "descuento": "30% dto.",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días",
+      "canal": "Online",
+      "vigencia": "Promoción válida hasta el 30 de junio de 2027.",
+      "condiciones": [
+        "30% dto. todos los días en la App Justo o en pide.getjusto.com",
+        "Ingresa a la App Justo o en pide.getjusto.com",
+        "Elige Kento Sushi.",
+        "Ingresa el código BCHJUSTO26 como cupón de descuento al momento de pagar con tus Tarjetas del Chile.",
+        "Tope de dto. $8.000.",
+        "2 usos mensuales por cliente.",
+        "Descuento no aplica para valor del despacho.",
+        "No acumulable con otras promociones.",
+        "Beneficio exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Avenida La Florida #7959, Región Metropolitana, La Florida",
+        "Avenida Presidente Kennedy Lateral #9001, Región Metropolitana, Las Condes",
+        "Pedro de Gamboa #55, Región Metropolitana, Las Condes",
+        "Avenida La Dehesa #3372, Región Metropolitana, Lo Barnechea",
+        "Manuel Montt #1349, Región Metropolitana, Providencia",
+        "Eleuterio Ramírez #1419, Región Metropolitana, Santiago",
+        "Avenida Presidente Kennedy #5413, Región Metropolitana, Vitacura",
+        "Avenida Vitacura #5460, Región Metropolitana, Vitacura"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Relativo – Justo",
+      "categoria": "Sabores",
+      "descuento": "30% dto.",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días",
+      "canal": "Online",
+      "vigencia": "Promoción válida hasta el 30 de junio de 2027.",
+      "condiciones": [
+        "30% dto. todos los días en la App Justo o en pide.getjusto.com",
+        "Ingresa a la App Justo o en pide.getjusto.com",
+        "Elige Relativo.",
+        "Ingresa el código BCHJUSTO26 como cupón de descuento al momento de pagar con tus Tarjetas del Chile.",
+        "Tope de dto. $8.000.",
+        "2 usos mensuales por cliente.",
+        "Descuento no aplica para valor del despacho.",
+        "No acumulable con otras promociones.",
+        "Beneficio exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Avenida Príncipe de Gales #6681, Región Metropolitana, La Reina",
+        "Valenzuela Castillo #1277, Región Metropolitana, Providencia",
+        "Dresden #4238, Región Metropolitana, San Miguel",
+        "Nataniel Cox #136, Región Metropolitana, Santiago"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Local Burger – Justo",
+      "categoria": "Sabores",
+      "descuento": "30% dto.",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días",
+      "canal": "Online",
+      "vigencia": "Promoción válida hasta el 30 de junio de 2027.",
+      "condiciones": [
+        "30% dto. todos los días en la App Justo o en pide.getjusto.com",
+        "Ingresa a la App Justo o en pide.getjusto.com",
+        "Elige Local Burger.",
+        "Ingresa el código BCHJUSTO26 como cupón de descuento al momento de pagar con tus Tarjetas del Chile.",
+        "Tope de dto. $8.000.",
+        "2 usos mensuales por cliente.",
+        "Descuento no aplica para valor del despacho.",
+        "No acumulable con otras promociones.",
+        "Beneficio exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Los Militares #5934, Región Metropolitana, Las Condes",
+        "Avenida Providencia #1403, Región Metropolitana, Providencia",
+        "Avenida Irarrázaval #5350, Región Metropolitana, Ñuñoa"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Ryge Burger – Justo",
+      "categoria": "Sabores",
+      "descuento": "25% dto.",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días",
+      "canal": "Online",
+      "vigencia": "Promoción válida hasta el 30 de junio de 2027.",
+      "condiciones": [
+        "25% dto. todos los días en la App Justo o en pide.getjusto.com",
+        "Ingresa a la App Justo o en pide.getjusto.com",
+        "Elige Ryge Burger.",
+        "Ingresa el código BCHJUSTO26 como cupón de descuento al momento de pagar con tus Tarjetas del Chile.",
+        "Tope de dto. $8.000.",
+        "2 usos mensuales por cliente.",
+        "Descuento no aplica para valor del despacho.",
+        "No acumulable con otras promociones.",
+        "Beneficio exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Miguel Claro #25, Región Metropolitana, Providencia"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "BomboBurger – Justo",
+      "categoria": "Sabores",
+      "descuento": "30% dto.",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días",
+      "canal": "Online",
+      "vigencia": "Promoción válida hasta el 30 de junio de 2027.",
+      "condiciones": [
+        "30% dto. todos los días en la App Justo o en pide.getjusto.com",
+        "Ingresa a la App Justo o en pide.getjusto.com",
+        "Elige BomboBurger.",
+        "Ingresa el código BCHJUSTO26 como cupón de descuento al momento de pagar con tus Tarjetas del Chile.",
+        "Tope de dto. $8.000.",
+        "2 usos mensuales por cliente.",
+        "Descuento no aplica para valor del despacho.",
+        "No acumulable con otras promociones.",
+        "Beneficio exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Avenida del Mar #994, Región de Coquimbo, Coquimbo",
+        "Avenida los Pescadores #5050, Región de Coquimbo, Coquimbo",
+        "Avenida Balmaceda #3039, Región de Coquimbo, La Serena",
+        "Alberto Solari #1400, Región de Coquimbo, La Serena",
+        "Avenida Guillermo Ulriksen #2965, Región de Coquimbo, La Serena",
+        "Constitución #58, Región Metropolitana, Providencia"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "La Fuente Carrera – Justo",
+      "categoria": "Sabores",
+      "descuento": "30% dto.",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días",
+      "canal": "Online",
+      "vigencia": "Promoción válida hasta el 30 de junio de 2027.",
+      "condiciones": [
+        "30% dto. todos los días en la App Justo o en pide.getjusto.com",
+        "Ingresa a la App Justo o en pide.getjusto.com",
+        "Elige La Fuente Carrera.",
+        "Ingresa el código BCHJUSTO26 como cupón de descuento al momento de pagar con tus Tarjetas del Chile.",
+        "Tope de dto. $8.000.",
+        "2 usos mensuales por cliente.",
+        "Descuento no aplica para valor del despacho.",
+        "No acumulable con otras promociones.",
+        "Beneficio exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Avenida Larraín #6097, Región Metropolitana, La Reina"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Mamasole Pizza – Justo",
+      "categoria": "Sabores",
+      "descuento": "30% dto.",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días",
+      "canal": "Online",
+      "vigencia": "Promoción válida hasta el 30 de junio de 2027.",
+      "condiciones": [
+        "30% dto. todos los días en la App Justo o en pide.getjusto.com",
+        "Ingresa a la App Justo o en pide.getjusto.com",
+        "Elige Mamasole Pizza.",
+        "Ingresa el código BCHJUSTO26 como cupón de descuento al momento de pagar con tus Tarjetas del Chile.",
+        "Tope de dto. $8.000.",
+        "2 usos mensuales por cliente.",
+        "Descuento no aplica para valor del despacho.",
+        "No acumulable con otras promociones.",
+        "Beneficio exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Avenida Portales Oriente #1503, Región Metropolitana, San Bernardo",
+        "Camino Padre Hurtado #18432, Región Metropolitana, San Bernardo",
+        "Kennedy #1005, Región Metropolitana, Buin"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "Termas Cochamó",
       "categoria": "Entretención y Deportes",
       "descuento": "20% dto.",
@@ -19604,7 +19865,7 @@
       "canal": null,
       "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
       "condiciones": [
-        "Despacho gratis Travel Duty y Travel Tienda al contratar un nuevo Plan de Tarjeta de Crédito Travel Infitite y Travel Black Banco de Chile.",
+        "Despacho gratis Travel Duty y Travel Tienda al contratar un nuevo Plan de Tarjeta de Crédito Travel Infinite y Travel Black Banco de Chile.",
         "Plan Travel Infinite: 2 despachos gratis al mes.",
         "Plan Travel Black: 1 despacho gratis al mes."
       ],
@@ -20258,33 +20519,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Traslado gratis al Aeropuerto",
-      "categoria": "Viajes",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "Por tus compras en Travel Viajes y en Líneas Aéreas",
-      "canal": null,
-      "vigencia": "Promoción válida hasta el 31 de agosto de 2026.",
-      "condiciones": [
-        "Todas tus compras en Travel Viajes y tus compras nacionales en cualquier Línea Aérea desde $300.000 te regalan traslados gratis desde o hacia el Aeropuerto de Santiago en Transvip, pagando con tus Tarjetas de Crédito Infinite, Signature y Platinum.",
-        "Paso 1: Descarga tu código. Paso 2: Ingresa en la App o sitio web de Transvip (www.transvip.cl), luego selecciona la opción traslado al aeropuerto, ingresa la dirección de origen/destino Paso 3: Al momento de confirmar la reserva ingresa el código de descuento.",
-        "Tu código estará disponible luego de 72 horas hábiles posteriores a la compra.",
-        "Tope de $50.000 por viaje. Si el monto del viaje supera los $50.000, la diferencia deberá ser pagada por el pasajero de manera directa a Transvip con sus Tarjetas de Crédito del Chile.",
-        "Para obtener tu traslado gratis debes solicitar tramo de Ida o de Regreso por separado en la opción \"Solo Ida\" en Web o APP Transvip.",
-        "Beneficio es válido en todas las compras en Aerolíneas y tus viajes nacionales e internacionales través de Travel Viajes.",
-        "Beneficio Líneas Aéreas: Válido solo para 1 compra nacional superior a $300.000 realizadas en el rubro líneas aéreas (Compras registradas en pesos en el estado de cuenta nacional. No aplica en compra en Dólares). Las compras no son acumulables.",
-        "El servicio será responsabilidad del operador Transvip.",
-        "Beneficio válido hasta el 31 de agosto de 2026.",
-        "Los códigos deben utilizarse dentro del mismo mes en que son descargados, de todas maneras, el cliente puede realizar en una reserva que no sea en el mes en curso.",
-        "Los códigos descargados en meses anteriores ya están vencidos y no pueden ser utilizados.",
-        "Debe escribir a programa@travel.cl para gestionar la entrega de un nuevo código.",
-        "No, el beneficio aplica solo para traslados hacia o desde el aeropuerto y cada código corresponde a un tramo.",
-        "Compras Travel Viajes: válidas desde el 15.10.2025 al 31.08.2026. Líneas Aéreas: válido para compras en Chile para destinos nacionales e internacionales superiores a $300.000 en rubro líneas aéreas (Compras registradas en pesos en el estado de cuenta nacional. No aplica en compra en Dólares) desde el 15.10.2025 al 31.08.2026. Código válido para ser usado hasta el 30.06.2026. No aplica a las compras efectuadas a través de recaudadores o plataformas de pago como Mercado Pago y operadores (excepto Travel Viajes). El servicio del traslado es responsabilidad de Transvip. Dto con tope de $50.000 por viaje. Si el monto del viaje supera los $50.000, la diferencia debe ser pagada por el pasajero de manera directa a Transvip con su Tarjeta de Crédito del Banco de Chile. No acumulable con otras promociones. Revisa cobertura de Transvip.cl."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "Puma",
       "categoria": "Retail y Otras Marcas",
       "descuento": "Hasta 30% dto.",
@@ -20454,31 +20688,6 @@
       "sucursales": [
         "Av Guillermo Ulriksen #2845, Región de Coquimbo, La Serena"
       ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Rappi McDonald´s",
-      "categoria": "Sabores",
-      "descuento": "30% dto. adicional",
-      "dia": [
-        "Viernes"
-      ],
-      "dia_texto": "en McDonald´s los viernes",
-      "canal": null,
-      "vigencia": "Promoción válida hasta 31 de agosto de 2026.",
-      "condiciones": [
-        "30% dto. adicional en McDonald´s los viernes pagando con Banco del Chile. Ingresando el código: 07 de agosto: BCH0708 14 de agosto: BCH1408 21 de agosto: BCH2108 28 de agosto: BCH2808",
-        "Ingresa a la APP RAPPI, luego haz tu pedido y agrégalo al carrito",
-        "Al momento del pago ingresa tu código en la sección CUPONES y paga con tu Tarjeta de Crédito o Débito del Chile.",
-        "¡Recibe tu pedido y disfruta!.",
-        "Válido para 1 uso por usuario para cada cupón.",
-        "Compra mínima: $7.000",
-        "Tope de descuento: $9.000",
-        "El descuento se verá reflejado al momento de la compra.",
-        "Promoción es acumulable con otros descuentos.",
-        "No acumulable con Rappi Créditos."
-      ],
-      "sucursales": []
     },
     {
       "banco": "Banco de Chile",
@@ -21438,32 +21647,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "PedidosYA",
-      "categoria": "Sabores",
-      "descuento": "30% dto. adicional",
-      "dia": [
-        "Todos los días"
-      ],
-      "dia_texto": "todos los días en PedidosYa Market",
-      "canal": null,
-      "vigencia": "Promoción válida hasta el 31 de agosto de 2026.",
-      "condiciones": [
-        "Disfruta 30% dto. adicional todos los días en PedidosYa Market pagando con tus Tarjetas del Chile.",
-        "30% de descuento en toda la categoría ingresando BCHPEYA0826 todos los días pagando con tus Tarjetas del Chile.",
-        "Válido para 1 uso mensual por usuario.",
-        "Sin mínimo de compra.",
-        "Tope de descuento $5.000.",
-        "El descuento se verá reflejado al momento de la compra.",
-        "Ingresa a PedidosYa, Selecciona PedidosYa Market.",
-        "Elige tus productos.",
-        "Ingresa el cupón BCHPEYA0826 y verás el descuento reflejado de manera automática.",
-        "Al pagar, ingresa tu Tarjeta de Crédito o Débito del Chile o selecciónala si ya está ingresada (ingresa tu código de seguridad).",
-        "Recibe tu pedido y disfrútalo."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "Roosevelt English Institute",
       "categoria": "Retail y Otras Marcas",
       "descuento": "20% dto.",
@@ -21527,6 +21710,32 @@
       "sucursales": [
         "Av Pedro de Vladivia #291, oficina 101, Región Metropolitana, Providencia"
       ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "PedidosYA",
+      "categoria": "Sabores",
+      "descuento": "30% dto. adicional",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días en PedidosYa Market",
+      "canal": null,
+      "vigencia": "Promoción válida hasta el 31 de agosto de 2026.",
+      "condiciones": [
+        "Disfruta 30% dto. adicional todos los días en PedidosYa Market pagando con tus Tarjetas del Chile.",
+        "30% de descuento en toda la categoría ingresando BCHPEYA0826 todos los días pagando con tus Tarjetas del Chile.",
+        "Válido para 1 uso mensual por usuario.",
+        "Sin mínimo de compra.",
+        "Tope de descuento $5.000.",
+        "El descuento se verá reflejado al momento de la compra.",
+        "Ingresa a PedidosYa, Selecciona PedidosYa Market.",
+        "Elige tus productos.",
+        "Ingresa el cupón BCHPEYA0826 y verás el descuento reflejado de manera automática.",
+        "Al pagar, ingresa tu Tarjeta de Crédito o Débito del Chile o selecciónala si ya está ingresada (ingresa tu código de seguridad).",
+        "Recibe tu pedido y disfrútalo."
+      ],
+      "sucursales": []
     },
     {
       "banco": "Banco de Chile",
@@ -21932,6 +22141,35 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "Il Mascarpone – Justo",
+      "categoria": "Sabores",
+      "descuento": "30% dto.",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días",
+      "canal": "Online",
+      "vigencia": "Promoción válida hasta el 30 de junio de 2027.",
+      "condiciones": [
+        "30% dto. todos los días en la App Justo o en pide.getjusto.com",
+        "Ingresa a la App Justo o en pide.getjusto.com",
+        "Elige Il Mascarpone.",
+        "Ingresa el código BCHJUSTO26 como cupón de descuento al momento de pagar con tus Tarjetas del Chile.",
+        "Tope de dto. $8.000.",
+        "2 usos mensuales por cliente.",
+        "Descuento no aplica para valor del despacho.",
+        "No acumulable con otras promociones.",
+        "Beneficio exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Avenida Cristóbal Colón #6158, Región Metropolitana, Las Condes",
+        "El Espino #1949, Región Metropolitana, Lo Barnechea",
+        "Avenida Las Perdices #2990, Región Metropolitana, Peñalolén",
+        "Francisco Bilbao #1185, Región Metropolitana, Providencia"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "Domino’s Pizza",
       "categoria": "Sabores",
       "descuento": "40% dto.",
@@ -22008,6 +22246,115 @@
         "Av. MANUEL RODRIGUEZ 921, Región del Biobío, Chiguayante",
         "Av. CRISTOBAL COLON 8961, Región del Biobío, Hualpen",
         "Av. ESPAÑA 01405, Región de Magallanes y la Antartica Chilena, Punta Arenas"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "De Pura Madre – Justo",
+      "categoria": "Sabores",
+      "descuento": "30% dto.",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días",
+      "canal": "Online",
+      "vigencia": "Promoción válida hasta el 30 de junio de 2027.",
+      "condiciones": [
+        "30% dto. todos los días en la App Justo o en pide.getjusto.com",
+        "Ingresa a la App Justo o en pide.getjusto.com",
+        "Elige De Pura Madre.",
+        "Ingresa el código BCHJUSTO26 como cupón de descuento al momento de pagar con tus Tarjetas del Chile.",
+        "Tope de dto. $8.000.",
+        "2 usos mensuales por cliente.",
+        "Descuento no aplica para valor del despacho.",
+        "No acumulable con otras promociones.",
+        "Beneficio exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "General John O´Brien #3050, Región Metropolitana, Vitacura",
+        "Paseo Colina Sur #14600, Región Metropolitana, Colina",
+        "Avenida Vitacura #5321, Región Metropolitana, Vitacura",
+        "El Rodeo #12850, Región Metropolitana, Lo Barnechea"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Pizzería Roma – Justo",
+      "categoria": "Sabores",
+      "descuento": "25% dto.",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días",
+      "canal": "Online",
+      "vigencia": "Promoción válida hasta el 30 de junio de 2027.",
+      "condiciones": [
+        "25% dto. todos los días en la App Justo o en pide.getjusto.com",
+        "Ingresa a la App Justo o en pide.getjusto.com",
+        "Elige Elige Pizzería Roma.",
+        "Ingresa el código BCHJUSTO26 como cupón de descuento al momento de pagar con tus Tarjetas del Chile.",
+        "Tope de dto. $8.000.",
+        "2 usos mensuales por cliente.",
+        "Descuento no aplica para valor del despacho.",
+        "No acumulable con otras promociones.",
+        "Beneficio exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Avenida Larraín #6738, Región Metropolitana, La Reina"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Ryge Pizza – Justo",
+      "categoria": "Sabores",
+      "descuento": "25% dto.",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días",
+      "canal": "Online",
+      "vigencia": "Promoción válida hasta el 30 de junio de 2027.",
+      "condiciones": [
+        "25% dto. lunes a viernes en la App Justo o en pide.getjusto.com",
+        "Ingresa a la App Justo o en pide.getjusto.com",
+        "Elige Ryge Pizza.",
+        "Ingresa el código BCHJUSTO26 como cupón de descuento al momento de pagar con tus Tarjetas del Chile.",
+        "Tope de dto. $8.000.",
+        "2 usos mensuales por cliente.",
+        "Descuento no aplica para valor del despacho.",
+        "No acumulable con otras promociones.",
+        "Beneficio exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Avenida Larraín #6738, Región Metropolitana, La Reina"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Hocha – Justo",
+      "categoria": "Sabores",
+      "descuento": "30% dto.",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días",
+      "canal": "Online",
+      "vigencia": "Promoción válida hasta el 30 de junio de 2027.",
+      "condiciones": [
+        "30% dto. todos los días en la App Justo o en pide.getjusto.com",
+        "Ingresa a la App Justo o en pide.getjusto.com",
+        "Elige Hocha.",
+        "Ingresa el código BCHJUSTO26 como cupón de descuento al momento de pagar con tus Tarjetas del Chile.",
+        "Tope de dto. $8.000.",
+        "2 usos mensuales por cliente.",
+        "Descuento no aplica para valor del despacho.",
+        "No acumulable con otras promociones.",
+        "Beneficio exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Avenida José Alcalde Délano #10425, Región Metropolitana, Lo Barnechea",
+        "Avenida Nueva Providencia #1346, Región Metropolitana, Providencia",
+        "Avenida Recoleta #351, Región Metropolitana, Recoleta"
       ]
     },
     {
@@ -22138,6 +22485,61 @@
         "Av. Eduardo Frei Montalva 01110, Local 3, Región de Magallanes y la Antártica Chilena, Punta Arenas",
         "Av. Bulnes 02235, Km 3,5 Norte, Local 39, Región de Magallanes y la Antártica Chilena, Punta Arenas",
         "El Faro, Av. Apoquindo 5701, Región Metropolitana, Las Condes"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Bao – Justo",
+      "categoria": "Sabores",
+      "descuento": "30% dto.",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días",
+      "canal": "Online",
+      "vigencia": "Promoción válida hasta el 30 de junio de 2027.",
+      "condiciones": [
+        "30% dto. todos los días en la App Justo o en pide.getjusto.com",
+        "Ingresa a la App Justo o en pide.getjusto.com",
+        "Elige Bao.",
+        "Ingresa el código BCHJUSTO26 como cupón de descuento al momento de pagar con tus Tarjetas del Chile.",
+        "Tope de dto. $8.000.",
+        "2 usos mensuales por cliente.",
+        "Descuento no aplica para valor del despacho.",
+        "No acumulable con otras promociones.",
+        "Beneficio exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Avenida José Alcalde Délano #10425, Región Metropolitana, Lo Barnechea",
+        "Avenida Nueva Providencia #1346, Región Metropolitana, Providencia",
+        "Avenida Recoleta #351, Región Metropolitana, Recoleta"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Thai Express – Justo",
+      "categoria": "Sabores",
+      "descuento": "30% dto.",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días",
+      "canal": "Online",
+      "vigencia": "Promoción válida hasta el 30 de junio de 2027.",
+      "condiciones": [
+        "30% dto. todos los días en la App Justo o en pide.getjusto.com",
+        "Ingresa a la App Justo o en pide.getjusto.com",
+        "Elige Thai Express.",
+        "Ingresa el código BCHJUSTO26 como cupón de descuento al momento de pagar con tus Tarjetas del Chile.",
+        "Tope de dto. $8.000.",
+        "2 usos mensuales por cliente.",
+        "Descuento no aplica para valor del despacho.",
+        "No acumulable con otras promociones.",
+        "Beneficio exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Avenida Tobalaba #119, Región Metropolitana, Providencia",
+        "Merced #483, Región Metropolitana, Santiago"
       ]
     },
     {
@@ -22349,6 +22751,31 @@
         "8 norte #393, Región de Valparaiso, Viña del Mar",
         "Las golondrinas #2024 local 2, Región de Valparaiso, Viña del Mar",
         "Av Arturo Prat #4924, Región de Valparaiso, Olmue"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Infinity",
+      "categoria": "Entretención y Deportes",
+      "descuento": "25% dto.",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 31 de julio de 2027.",
+      "condiciones": [
+        "Infinity es una red de complejos deportivos diseñada para que personas de todas las edades disfruten de la actividad física en espacios modernos, seguros y de primer nivel. Con sedes en Antofagasta y Talca enfocadas en pádel, y La Florida especializada en fútbol y futbolito, Infinity promueve el deporte, la vida saludable y la comunidad, ofreciendo una experiencia donde el juego siempre está en el centro.",
+        "25% dto. todos los días en la reserva de canchas.",
+        "Obtén el descuento pagando de forma presencial en cada sucursal.",
+        "Puedes realizar la reserva de la cancha a través del WhatsApp de cada sucursal.",
+        "No acumulable con otras promociones.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Avenida Pedro Aguirre Cerda #10578, Piso 4 Mall Paseo La Portada, Región de Antofagasta, Antofagasta, Teléfono: +569 53323699",
+        "Avenida Colín #0665, Interior Mall Go! Florida - Segundo Nivel, Región del Maule, Talca, Teléfono: +569 89348954",
+        "Av. San José de la Estrella #816, Infinity La Florida, Región Metropolitana, La Florida, Teléfono: +569 89348954"
       ]
     },
     {
@@ -22636,6 +23063,33 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "Traslado gratis al Aeropuerto",
+      "categoria": "Viajes",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "Por tus compras en Travel Viajes y en Líneas Aéreas",
+      "canal": null,
+      "vigencia": "Promoción válida hasta el 30 de septiembre de 2026.",
+      "condiciones": [
+        "Todas tus compras en Travel Viajes y tus compras nacionales en cualquier Línea Aérea desde $300.000 te regalan traslados gratis desde o hacia el Aeropuerto de Santiago en Transvip, pagando con tus Tarjetas de Crédito Infinite, Signature y Platinum.",
+        "Paso 1: Descarga tu código. Paso 2: Ingresa en la App o sitio web de Transvip (www.transvip.cl), luego selecciona la opción traslado al aeropuerto, ingresa la dirección de origen/destino Paso 3: Al momento de confirmar la reserva ingresa el código de descuento.",
+        "Tu código estará disponible luego de 72 horas hábiles posteriores a la compra.",
+        "Tope de $50.000 por viaje. Si el monto del viaje supera los $50.000, la diferencia deberá ser pagada por el pasajero de manera directa a Transvip con sus Tarjetas de Crédito del Chile.",
+        "Para obtener tu traslado gratis debes solicitar tramo de Ida o de Regreso por separado en la opción \"Solo Ida\" en Web o APP Transvip.",
+        "Beneficio es válido en todas las compras en Aerolíneas y tus viajes nacionales e internacionales través de Travel Viajes.",
+        "Beneficio Líneas Aéreas: Válido solo para 1 compra nacional superior a $300.000 realizadas en el rubro líneas aéreas (Compras registradas en pesos en el estado de cuenta nacional. No aplica en compra en Dólares). Las compras no son acumulables.",
+        "El servicio será responsabilidad del operador Transvip.",
+        "Beneficio válido hasta el 30 de septiembre de 2026.",
+        "Los códigos deben utilizarse dentro del mismo mes en que son descargados, de todas maneras, el cliente puede realizar en una reserva que no sea en el mes en curso.",
+        "Los códigos descargados en meses anteriores ya están vencidos y no pueden ser utilizados.",
+        "Debe escribir a programa@travel.cl para gestionar la entrega de un nuevo código.",
+        "No, el beneficio aplica solo para traslados hacia o desde el aeropuerto y cada código corresponde a un tramo.",
+        "Compras Travel Viajes: válidas desde el 15.10.2025 al 31.08.2026. Líneas Aéreas: válido para compras en Chile para destinos nacionales e internacionales superiores a $300.000 en rubro líneas aéreas (Compras registradas en pesos en el estado de cuenta nacional. No aplica en compra en Dólares) desde el 15.10.2025 al 31.08.2026. Código válido para ser usado hasta el 30.06.2026. No aplica a las compras efectuadas a través de recaudadores o plataformas de pago como Mercado Pago y operadores (excepto Travel Viajes). El servicio del traslado es responsabilidad de Transvip. Dto con tope de $50.000 por viaje. Si el monto del viaje supera los $50.000, la diferencia debe ser pagada por el pasajero de manera directa a Transvip con su Tarjeta de Crédito del Banco de Chile. No acumulable con otras promociones. Revisa cobertura de Transvip.cl."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "Magíster en Ingeniería de la Energía UC.",
       "categoria": "Retail y Otras Marcas",
       "descuento": "20% dto.",
@@ -22657,6 +23111,169 @@
       "sucursales": [
         "Benito Rebolledo 1800-1870, Región Metropolitana, Macul"
       ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Las Carmelitas",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "20% dto.",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días en compra",
+      "canal": "Online",
+      "vigencia": "Promoción válida hasta el 30 de septiembre de 2026.",
+      "condiciones": [
+        "Las Carmelitas Flores somos una florería online que nos apasiona llevar momentos de felicidad a nuestros clientes a través de nuestros arreglos florales llenos de colores, detalles y alegría, siempre con flores frescas de la estación.",
+        "Obtén tu descuento ingresando el código LASCARMELITASBCH como cupón de descuento al momento de finalizar la compra en lascarmelitasflores.cl",
+        "No acumulable con otras promociones."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Sportsalud",
+      "categoria": "Salud y Belleza",
+      "descuento": "Hasta 50% dto.",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 28 febrero de 2027.",
+      "condiciones": [
+        "Kinesiología personalizada, rehabilitación y recuperación deportiva en Las Condes en Sportsalud te ayudamos a recuperarte de lesiones, aliviar el dolor y volver a moverte con tratamientos de kinesiología 100% personalizados, enfocados en lesiones cotidianas, deportivas y por sobrecarga.",
+        "50% dto. en 10 sesiones de kinesiología personalizada para pacientes con Fonasa todos los días.",
+        "35% dto. en 10 sesiones de kinesiología personalizada para pacientes con Isapre todos los días.",
+        "Evaluación Kinésica gratuita.",
+        "Solicita tu descuento al momento de pagar con tus Tarjetas del Banco de Chile.",
+        "Beneficios no acumulables con otras promociones."
+      ],
+      "sucursales": [
+        "ASTURIAS #180, RM, LAS CONDES"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Clínica Estética Dr. Claudio Villegas",
+      "categoria": "Salud y Belleza",
+      "descuento": "20% dto.",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 31 de agosto de 2027.",
+      "condiciones": [
+        "Clínica Estética Dr. Claudio Villegas, referente en medicina estética y armonización facial, combina excelencia médica, tecnología y resultados naturales. Una experiencia exclusiva, diseñada para realzar tu mejor versión.",
+        "20% dto. todos los días en compra presencial.",
+        "Beneficio válido para todos los procedimientos.",
+        "Solicita tu descuento al momento de pagar.",
+        "No acumulable con otras promociones.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Av. Ramón Picarte #427, Oficina #209, Región de los Rios, Valdivia",
+        "Antonio Varas #55, Oficina 804 Piso 8 Edificio Capital, Región de Los Lagos, Puerto Montt",
+        "Avenida Guillermo Bühler #2005, Oficina 04 Piso 4, Región de Los Lagos, Osorno",
+        "Avenida Pucará #20, Oficina 307, Región del Libertador General Bernardo O´Higgins, Machalí",
+        "La Concepción #81, Oficina 1806 Piso 18, Región Metropolitana, Providencia"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Zapatos.cl",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "40% dto.",
+      "dia": [
+        "Miércoles",
+        "Jueves"
+      ],
+      "dia_texto": "miércoles y jueves",
+      "canal": "Online",
+      "vigencia": "Promoción válida miércoles 26 y jueves 27 de agosto 2026.",
+      "condiciones": [
+        "40% dto. miércoles 26 y jueves 27 de agosto en zapatos.cl",
+        "Genera tu código de descuento e ingrésalo en zapatos.cl",
+        "Revisa cobertura de despacho en zapatos.cl",
+        "Tope de dto. $35.000",
+        "3.000 códigos disponibles para esta promoción.",
+        "Descarga del código estará disponible el día que participe la marca, desde las 00:00 hrs.",
+        "No acumulable con otras promociones y excluye la marca Norseg.",
+        "Descuento no aplica para compras con facturas y en cambios.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Rappi McDonald´s",
+      "categoria": "Sabores",
+      "descuento": "30% dto. adicional",
+      "dia": [
+        "Viernes"
+      ],
+      "dia_texto": "en McDonald´s los viernes",
+      "canal": null,
+      "vigencia": "Promoción válida hasta 31 de agosto de 2026.",
+      "condiciones": [
+        "30% dto. adicional en McDonald´s los viernes pagando con Banco del Chile. Ingresando el código: 07 de agosto: BCH0708 14 de agosto: BCH1408 21 de agosto: BCH2108 28 de agosto: BCH2808",
+        "Ingresa a la APP RAPPI, luego haz tu pedido y agrégalo al carrito",
+        "Al momento del pago ingresa tu código en la sección CUPONES y paga con tu Tarjeta de Crédito o Débito del Chile.",
+        "¡Recibe tu pedido y disfruta!.",
+        "Válido para 1 uso por usuario para cada cupón.",
+        "Compra mínima: $7.000",
+        "Tope de descuento: $9.000",
+        "El descuento se verá reflejado al momento de la compra.",
+        "Promoción es acumulable con otros descuentos.",
+        "No acumulable con Rappi Créditos."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Gianidafirenze",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "15% dcto.",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Encuentra la mayor variedad de zapatos de cuero.",
+        "Exclusivo pagando con tus Tarjetas de Crédito y Débito Santander.",
+        "Válido en tiendas físicas y www.gianidafirenze.cl",
+        "En toda la tienda. No aplica en productos con sale.",
+        "Ingresa los 6 primeros dígitos de tus Tarjeta de Crédito y Débito Santander como código de descuento.",
+        "No acumulable con otras promociones.",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Toyng - Día del Niño",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "20% dcto",
+      "dia": [
+        "Martes",
+        "Jueves"
+      ],
+      "dia_texto": "adicional martes y jueves",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Toyng",
+        "Exclusivo pagando con tus Tarjetas de Crédito y Débito Santander.",
+        "Válido en tiendas físicas y en www.toyng.cl",
+        "Promoción valida por compras superiores a $14.990",
+        "Acumulable con otras promociones.",
+        "Ingresa los 6 primeros dígitos de tu Tarjeta como código de descuento.",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
+      ],
+      "sucursales": []
     },
     {
       "banco": "Banco Santander",
@@ -23386,29 +24003,6 @@
         "Válido en tiendas físicas y store.sony.cl",
         "No acumulable a descuentos y promociones vigentes.",
         "Ingresa los 6 primeros dígitos de tu Tarjeta como código de descuento.",
-        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Toyng - Día del Niño",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": "20% dcto",
-      "dia": [
-        "Martes",
-        "Jueves"
-      ],
-      "dia_texto": "adicional martes y jueves",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Toyng",
-        "Exclusivo pagando con tus Tarjetas de Crédito y Débito Santander.",
-        "Válido en tiendas físicas y en www.toyng.cl",
-        "Promoción valida por compras superiores a $14.990",
-        "Acumulable con otras promociones.",
-        "Código de descuento: SANTANDER20",
         "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
       ],
       "sucursales": []
@@ -26039,28 +26633,6 @@
         "Acumulable a descuento y promociones vigentes.",
         "Ingresa los 6 primeros dígitos de tu Tarjeta como código de descuento.",
         "Descuento aplica por compras sobre $15.000",
-        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Gianidafirenze",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": "15% dcto.",
-      "dia": [
-        "Todos los días"
-      ],
-      "dia_texto": "todos los días",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Encuentra la mayor variedad de zapatos de cuero.",
-        "Exclusivo pagando con tus Tarjetas de Crédito y Débito Santander.",
-        "Válido en tiendas físicas y www.gianidafirenze.cl",
-        "En toda la tienda. No aplica en productos con sale.",
-        "Ingresa los 6 primeros dígitos de tus Tarjeta de Crédito y Débito Santander como código de descuento.",
-        "No acumulable con otras promociones.",
         "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
       ],
       "sucursales": []
