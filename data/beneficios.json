@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-02T14:49",
+  "actualizado": "2026-09-03T14:48",
   "beneficios": [
     {
       "banco": "Banco de Chile",
@@ -662,6 +662,37 @@
       ],
       "sucursales": [
         "San Martin #599, Región de Arica y Parinacota, Arica"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Veterinaria San Martin",
+      "categoria": "Mascotas",
+      "descuento": "Hasta 50% dto.",
+      "dia": [
+        "Lunes",
+        "Martes",
+        "Miércoles",
+        "Jueves",
+        "Viernes"
+      ],
+      "dia_texto": "de lunes a viernes",
+      "canal": null,
+      "vigencia": "Promoción válida hasta el 28 de febrero de 2027.",
+      "condiciones": [
+        "Clínica Verterinaria donde podrás encontrar todos los servicios y productos que necesitas para tu mejor amig@.",
+        "Lunes: 10% de descuento en Medicamentos (excluye Bravectos, Seresto y apoquel)",
+        "Martes: 30% de descuento en Consultas General (excluye especialidad)",
+        "Miércoles: 20% de descuento en castraciones y ovario histerectomía felina (excluye braquicéfalos)",
+        "Jueves: 15% de descuento en alimentos Brit (excepto línea medicada)",
+        "Viernes a domingo: 20% de descuento en consulta Prequirúrgica",
+        "No incluye delivery",
+        "Los descuentos serán efectivos únicamente en vales de compra y/o atención de montos iguales o superiores a $15.000",
+        "Descuentos y/o Promociones no acumulables",
+        "El descuento de alimentos es válido sólo para pellet; no incluye Snack, premios, Latas y /o Galletas."
+      ],
+      "sucursales": [
+        "TERESA WILMS MONTT 2263, TARAPACA, IQUIQUE"
       ]
     },
     {
@@ -8103,32 +8134,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Tapera",
-      "categoria": "Sabores",
-      "descuento": "20% dto.",
-      "dia": [
-        "Lunes",
-        "Martes",
-        "Miércoles"
-      ],
-      "dia_texto": "lunes a miércoles",
-      "canal": "Tienda física",
-      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
-      "condiciones": [
-        "Bar de Tapas !! Toda comida puede ser una tapa!! Somos un Bar/Restaurant enfocado en compartir y vivir la cultura del tapeo y Vermu a nuestro estilo. Somos un lugar para conversar mientras picoteamos algo y tomamos un rico cocktail. Un lugar acogedor y con un servicio preocupado de cada uno de los asistentes. Aquí puedes venir en una cita, en una junta de amigos, en familia o incluso para disfrutar con uno mismo. Puede ser en la noche o durante el dia. Nuestra carta está construida para que todos puedan probar distintas opciones, con un nivel culinario para disfrutar y maravillarse. Vive la experiencia tapera en todo los rincones, sentado en la barra, en las mesas con azulejos, en los pilares de mercado, en la barra exterior, mas privado en el salón interior o en el rincón italiano. Tenemos Charcutería propia, preparaciones caseras, tablas parrilleras, paellas y exquisitos tragos te esperan para que te sientas como en casa, en un lugar cercano, acogedor y distinto, Muy distinto. Pide una Tapa, toma un Vermu, comparte con nosotros y vive TAPERA",
-        "20% dto. lunes a miércoles compra presencial.",
-        "Solicita tu descuento al momento de pagar.",
-        "No acumulable con otras promociones.",
-        "Tope de descuento $40.000",
-        "Válido 1 tarjeta por mesa para la promoción.",
-        "Descuento exclusivo pagando con tus Tarjetas del Chile."
-      ],
-      "sucursales": [
-        "1 PONIENTE 563, REGIÓN DE VALPARAÍSO, VIÑA DEL MAR"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "Tendencias Gourmet",
       "categoria": "Sabores",
       "descuento": "20% dto.",
@@ -9505,33 +9510,6 @@
       ],
       "sucursales": [
         "Av. Vitacura 5708, RM, Vitacura"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "La Biferia",
-      "categoria": "Sabores",
-      "descuento": "20% dto.",
-      "dia": [
-        "Lunes",
-        "Martes",
-        "Miércoles",
-        "Jueves",
-        "Viernes",
-        "Sábado"
-      ],
-      "dia_texto": "lunes a sábado",
-      "canal": null,
-      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
-      "condiciones": [
-        "La Bifería, el primer bar restaurant de carnes en Santiago, se dedica a cortes únicos, porcionados y de buena factura. Su carta de temporada cambia cada 4 meses, ofreciendo frescura y calidad. Con una cuidada colaboración con proveedores locales, garantiza la mejor selección de ganadería nacional y extranjera, en una propuesta honesta con clara visión de lo fresco y lo local.",
-        "20% dto de lunes a sábado pagando con tus tarjetas del Chile.",
-        "No acumulable con otras ofertas, menú y/o promociones.",
-        "Si eres Plan Océano obtén 20% dto. adicional Solicita tu dto. al momento de pagar en el restaurant y te devolveremos 20% de dto. adicional (Tope $20.000 por compra) como abono en tu siguiente o subsiguiente estado de cuenta de la Tarjeta con que pagaste.",
-        "Si eres Plan Cordillera obtén 10% dto. adicional Solicita tu dto. al momento de pagar en el restaurant y te devolveremos 10% de dto. adicional (Tope $10.000 por compra) como abono en tu siguiente o subsiguiente estado de cuenta de la Tarjeta con que pagaste."
-      ],
-      "sucursales": [
-        "Av. Pedro de Valdivia 065, Región Metropolitana, Providencia, Teléfono +56 222314677, correo: contacto@labiferia.cl"
       ]
     },
     {
@@ -11011,23 +10989,6 @@
       "sucursales": [
         "COCHRANE 844, Región del Biobío, CONCEPCION"
       ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Panorama Lumon",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "Paga hasta en 24 cuotas sin interés",
-      "canal": null,
-      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
-      "condiciones": [
-        "Panorama Lumon es la empresa #1 en cortinas de cristal plegables para terrazas, balcones y quinchos. Es representante exclusivo de Lumon Finlandia y tiene 8 años de garantía.",
-        "Paga hasta en 24 cuotas sin interés",
-        "Descuento exclusivo pagando con tus Tarjetas Crédito del Chile.",
-        "Para una compra referencial de $1.500.000 en 24 cuotas CAE: 0,77% Valor cuota: $62.500 Costo total $1.512.000"
-      ],
-      "sucursales": []
     },
     {
       "banco": "Banco de Chile",
@@ -18588,6 +18549,29 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "El mesón de la Patagonia",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Viernes"
+      ],
+      "dia_texto": "viernes de septiembre",
+      "canal": null,
+      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial. 40% dto. viernes de septiembre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dcto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Lo Barnechea #1223, Región Metropolitana, Lo Barnechea"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "DO SUSHI",
       "categoria": "Sabores",
       "descuento": "40% dto.",
@@ -21681,32 +21665,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Madonna",
-      "categoria": "Sabores",
-      "descuento": "20% dto.",
-      "dia": [
-        "Lunes",
-        "Martes",
-        "Miércoles",
-        "Jueves"
-      ],
-      "dia_texto": "lunes a jueves",
-      "canal": "Tienda física",
-      "vigencia": "Promoción válida hasta el 31 de agosto del 2027.",
-      "condiciones": [
-        "Madonna es un clásico de Temuco desde 1991, reconocido por su tradición y sabor. Su carta ofrece pizzas, pastas, lasañas y otras preparaciones para todos los gustos. Su ambiente acogedor y familiar invita a reunirse, compartir y disfrutar de la buena mesa.",
-        "20% dto. lunes a jueves en compra presencial.",
-        "No válido para menú, Happy Hour ni otras promociones vigentes.",
-        "Solicita tu descuento al momento de pagar.",
-        "No acumulable con otras promociones.",
-        "Descuento exclusivo pagando con tus Tarjetas del Chile."
-      ],
-      "sucursales": [
-        "Thiers #898, Región de la Araucania, Temuco"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "Las Carmelitas",
       "categoria": "Retail y Otras Marcas",
       "descuento": "20% dto.",
@@ -22034,6 +21992,31 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "Clínica Opia",
+      "categoria": "Salud y Belleza",
+      "descuento": "Hasta 20% dto.",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 31 de julio de 2027.",
+      "condiciones": [
+        "Clínica OPIA es un destino de belleza, salud de la piel y bienestar, donde la ciencia, la innovación y una mirada contemporánea se unen bajo estándares de nivel internacional. Reúne especialistas en dermatología y cirugía plástica, tecnologías de última generación, tratamientos faciales y corporales, skincare y suplementación cuidadosamente seleccionados. Cada experiencia es personalizada y está orientada a lograr resultados naturales, elegantes y respaldados por conocimiento médico.",
+        "Limpiezas faciales e hidratación.",
+        "Dermapen, abrasión química, Pink Glow y peelings cosmiátricos.",
+        "Liftera 2, Morpheus8, Exion, X-Wave y Emsculpt.",
+        "Depilación láser Soprano Titanium.",
+        "Productos de skincare.",
+        "Suplementos."
+      ],
+      "sucursales": [
+        "Av. La Dehesa #1500 Lo Barnechea, Región Metropolitana, Lo Barnechea",
+        "Camino El Alba #9500, Región Metropolitana, Las Condes"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "Güeros - Ñuñoa",
       "categoria": "Sabores",
       "descuento": "40% dto.",
@@ -22076,6 +22059,33 @@
       ],
       "sucursales": [
         "Terrazas San Cristobal, Constitución #241, Región Metropolitana, Providencia"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Madonna",
+      "categoria": "Sabores",
+      "descuento": "20% dto.",
+      "dia": [
+        "Lunes",
+        "Martes",
+        "Miércoles",
+        "Jueves"
+      ],
+      "dia_texto": "lunes a jueves",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 31 de agosto del 2027.",
+      "condiciones": [
+        "Madonna es un clásico de Temuco desde 1991, reconocido por su tradición y sabor. Su carta ofrece pizzas, pastas, lasañas y otras preparaciones para todos los gustos. Su ambiente acogedor y familiar invita a reunirse, compartir y disfrutar de la buena mesa.",
+        "20% dto. lunes a jueves en compra presencial.",
+        "No válido para menú, Happy Hour ni otras promociones vigentes.",
+        "Tope dto. $20.000",
+        "Solicita tu descuento al momento de pagar.",
+        "No acumulable con otras promociones.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Thiers #898, Región de la Araucania, Temuco"
       ]
     },
     {
@@ -22579,6 +22589,18 @@
         "Al pagar, ingresa tu Tarjeta de Crédito o Débito del Chile o selecciónala si ya está ingresada (ingresa tu código de seguridad).",
         "Recibe tu pedido y disfrútalo."
       ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Alejo Igoa - 12 de noviembre",
+      "categoria": "Entretención y Deportes",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "Compra tus entradas con los mejores beneficios de tus Tarjetas",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [],
       "sucursales": []
     },
     {
@@ -23357,7 +23379,7 @@
       "canal": null,
       "vigencia": "Promoción válida hasta 30 de septiembre de 2026.",
       "condiciones": [
-        "Hasta 25% dto adicional. todos los días pagando con tus Tarjetas del Chile. 20% dto. En la categoría de restaurantes Ingresando el código BCHRAPPISEP26R 25% dto. En todas las categorías (excepto restaurantes) Ingresando el código BCHRAPPISEP26R ¿Cómo obtener estos descuentos? 1- Ingresa a la APP RAPPI, elige tu favorito y agrégalo al carrito. 2- Al momento del pago ingresa tu código en la sección Cupones y paga con tu Tarjeta de crédito o Débito del Chile. 3- ¡Recibe tu pedido y disfruta!",
+        "Hasta 25% dto adicional. todos los días pagando con tus Tarjetas del Chile. 20% dto. En la categoría de restaurantes Ingresando el código BCHRAPPISEP26R 25% dto. En todas las categorías (excepto restaurantes) Ingresando el código BCHRAPPISEP26 ¿Cómo obtener estos descuentos? 1- Ingresa a la APP RAPPI, elige tu favorito y agrégalo al carrito. 2- Al momento del pago ingresa tu código en la sección Cupones y paga con tu Tarjeta de crédito o Débito del Chile. 3- ¡Recibe tu pedido y disfruta!",
         "Válido para 1 uso por usuario para cada cupón.",
         "Compra mínima: $7.000.",
         "Tope de descuento: $5.000.",
@@ -23365,6 +23387,157 @@
         "No es acumulable con Rappi Créditos.",
         "Descuento no acumulable en el costo de envío",
         "El beneficio es acumulable con otros descuentos de la aplicación."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Panorama Lumon",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "Paga hasta en 36 cuotas sin interés",
+      "canal": null,
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
+      "condiciones": [
+        "Panorama Lumon es la empresa #1 en cortinas de cristal plegables para terrazas, balcones y quinchos.",
+        "Paga hasta en 36 cuotas sin interés",
+        "Descuento exclusivo pagando con tus Tarjetas Crédito del Chile.",
+        "Para una compra referencial de $1.500.000 en 36 cuotas CAE: 0,52% Valor cuota: $41.667 Costo total $1.512.000"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "vambe",
+      "categoria": null,
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "50% de descuento en el costo de implementación",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "100% digital y asistida por un ingeniero.",
+        "Exclusivo pagando con Tarjeta de Crédito Santander Empresas.",
+        "Contratación y activación 100% digital y asistida por un ingeniero.",
+        "No acumulable con otra promociones",
+        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Mayne Performance",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "15% dcto.",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "En nuestro centro de performance deportiva",
+        "Exclusivo con tus Tarjetas de Crédito y Débito Santander.",
+        "Válido en compras presenciales.",
+        "No acumulable a otras promociones.",
+        "15% dcto en todos los planes.",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Infiltrados",
+      "categoria": "Sabores",
+      "descuento": null,
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "Hasta 50%. dcto. todos los días viernes y sábados",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Deléitate con carnes, pescados y mariscos",
+        "Exclusivo con tus Tarjetas de Crédito Santander American Express y Tarjeta de Crédito Santander",
+        "Válido para consumo en local.",
+        "Av. Vitacura 5708, Vitacura.",
+        "Con Tarjetas de Crédito Santander American Express",
+        "Descuento aplica para los días viernes.",
+        "Tope de descuento de $50.000.",
+        "Pide tu descuento al momento de pagar.",
+        "No acumulable a otras promociones.",
+        "Se excluyen propinas, menús, happy hours.",
+        "Con Tarjeta de Crédito Santander",
+        "Descuento aplica para los d ías sábados",
+        "Tope de descuento de $40.000.",
+        "Pide tu descuento al momento de pagar.",
+        "No acumulable a otras promociones.",
+        "Se excluyen propinas, menús, happy hours.",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Jeronimo",
+      "categoria": "Sabores",
+      "descuento": null,
+      "dia": [
+        "Jueves"
+      ],
+      "dia_texto": "40%. dcto. todos los jueves",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Cocina del mundo",
+        "Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass.",
+        "Válido para consumo en local.",
+        "Alonso de Córdova 4355, Vitacura.",
+        "Tope de descuento de $100.000.",
+        "No acumulable a otras promociones.",
+        "Se excluyen propinas, menús, happy hours.",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Casa Mar Sushi",
+      "categoria": "Sabores",
+      "descuento": "30% dcto.",
+      "dia": [
+        "Miércoles"
+      ],
+      "dia_texto": "todos los miércoles",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Exclusivo con tus Tarjetas de Crédito Santander.",
+        "Válido en local.",
+        "Av. Blanca Estela 1927, Concón",
+        "No acumulable con otras promociones.",
+        "Descuento máximo por pedido de $40.000",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Kaufmann",
+      "categoria": "Cuotas Sin Interés",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "13 a 48 cuotas sin interés",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Mercedes Benz, smart y Seminuevos",
+        "Exclusivo con tus Tarjetas de Crédito Santander Chile.",
+        "Válido en concesionarias Kaufmann en compras de autos Mercedes Benz, smart y Seminuevos.",
+        "CAE 0,8%: Monto Total a pagar de $10.080.000, son referenciales y corresponden a una compra por $10.000.000 cursada en modalidad de pago de 48 cuotas mensuales, y consideran impuestos.",
+        "Se excluyen de la promoción los autos Seminuevos de sucursal JPN.",
+        "Vigencia de la promoción hasta el 31 de agosto de 2026, válido para autos nuevos Mercedes Benz, smart y Seminuevos. Se excluyen de la promoción los autos Seminuevos de sucursal JPN. CAE 0,8%: Monto Total a pagar de $10.080.000, son referenciales y corresponden a una compra por $10.000.000 cursada en modalidad de pago de 48 cuotas mensuales, y consideran impuestos. Límite mensual de compras que da derecho a acumulación de millas LATAM Pass; The Platinum Card American Express Santander LATAM Pass: monto menor entre: (a) la cantidad de 60.000 Dólares en cada periodo de facturación, y (b) el monto del respectivo cupo de la Tarjeta. Límite mensual de compras que da derecho a acumulación WorldMember Limited Santander LATAM Pass: monto menor entre: (a) la cantidad de 30.000 Dólares en cada periodo de facturación, y (b) el monto del respectivo cupo de la Tarjeta. Consulte por otros eventuales cargos. La acumulación de millas y otros beneficios no financieros anunciados son responsabilidad de LATAM AIRLINES GROUP S.A. o de terceros que los otorguen, sin que corresponda a Banco Santander Chile intervención alguna en ello, ni en la ulterior atención que ello demande. Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
       ],
       "sucursales": []
     },
@@ -23411,24 +23584,6 @@
         "Incluye tienda online y física.",
         "No acumulable con otras promociones o descuentos.",
         "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "vambe",
-      "categoria": null,
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "50% de descuento en el costo de implementación",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Plataforma de agentes de IA conversacional que automatiza marketing, ventas y atención al cliente por WhatsApp, Instagram, Email y otros canales. Tu negocio responde, califica y cierra leads 24/7 sin intervención manual.",
-        "Exclusivo pagando con Tarjeta de Crédito Santander Empresas.",
-        "Contratación y activación 100% digital en vambe.ai",
-        "No acumulable con otra promociones",
-        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
       ],
       "sucursales": []
     },
@@ -23795,27 +23950,6 @@
     },
     {
       "banco": "Banco Santander",
-      "comercio": "Mayne Performance",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": "15% dcto.",
-      "dia": [
-        "Todos los días"
-      ],
-      "dia_texto": "todos los días",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "En nuestro centro de performance deportiva",
-        "Exclusivo con tus Tarjetas de Crédito y Débito Santander.",
-        "Válido en compras presenciales.",
-        "No acumulable a otras promociones.",
-        "15% dcto en todos los planes.",
-        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
       "comercio": "Autoescuela Huelen",
       "categoria": "Retail y Otras Marcas",
       "descuento": "20% dcto",
@@ -23943,38 +24077,6 @@
         "No acumulable a otras promociones.",
         "Descuento máximo por pedido de $50.000",
         "Descuento válido todos los sábados desde desde el 01 de septiembre de 2026 hasta el 30 de noviembre de 2026, ambas fechas inclusive, para consumos realizados en el establecimiento en el horario de atención de público del restaurante. Exclusivo para clientes que paguen con las Tarjetas de Crédito Santander de American Express indicadas seguidamente y que soliciten el descuento al momento de pagar presencialmente. Beneficio consistente en un descuento de un 50% del total del consumo (excluida propina) con un tope de $50.000.- diarios por cuenta y por mes. Beneficio no aplicable: (a) Al consumo de cigarrillos y de cualquier otro producto de tabaco y, (b) A consumos hechos por un mismo grupo de personas que pagan el total dividido o por mesa. El consumo podrá pagarse utilizando más de una de las Tarjetas American Express® incluidas en el beneficio. Las Tarjetas Santander de American Express admitidas son: The Platinum Card®, WorldMember Limited ECO, WorldMember ECO y Platinum LATAM Pass ECO. No se aceptarán las tarjetas de formato horizontal. Ni American Express ni Servicios Empresariales Orsan S.A. se responsabilizan por los productos y/o servicios ofrecidos por los establecimientos y/o adquiridos en ellos. Descuento no acumulable e intransferible. No válido para consumos para llevar, delivery o pedidos a través de plataformas externas. El comercio se reserva el derecho de aplicar el beneficio en días festivos, feriados y con significancia comercial, sea general o particular del restorán. Listado de establecimientos adheridos en www.AmericanExpress.cl. American Express es una marca de American Express. Las Tarjetas son emitidas por Banco Santander bajo licencia de American Express."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Infiltrados",
-      "categoria": "Sabores",
-      "descuento": null,
-      "dia": [
-        "Todos los días"
-      ],
-      "dia_texto": "Hasta 50%. dcto. todos los días viernes y sábados",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Deléitate con carnes, pescados y mariscos",
-        "Exclusivo con tus Tarjetas de Crédito Santander American Express y Tarjeta de Crédito WorldMember Limited Santander LATAM Pass",
-        "Válido para consumo en local.",
-        "Av. Vitacura 5708, Vitacura.",
-        "Con Tarjetas de Crédito Santander American Express",
-        "Descuento aplica para los días viernes.",
-        "Tope de descuento de $50.000.",
-        "Pide tu descuento al momento de pagar.",
-        "No acumulable a otras promociones.",
-        "Se excluyen propinas, menús, happy hours.",
-        "Con Tarjeta de Crédito WorldMember Limited Santander LATAM Pass",
-        "Descuento aplica para los d ías sábados",
-        "Tope de descuento de $100.000.",
-        "Pide tu descuento al momento de pagar.",
-        "No acumulable a otras promociones.",
-        "Se excluyen propinas, menús, happy hours.",
-        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
       ],
       "sucursales": []
     },
@@ -24187,27 +24289,6 @@
         "Exclusivo en Programa Figurella Transformación y Figurella Activación",
         "No acumulable con otras promociones.",
         "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Casa Mar Sushi",
-      "categoria": "Sabores",
-      "descuento": "30% dcto.",
-      "dia": [
-        "Miércoles"
-      ],
-      "dia_texto": "todos los miércoles",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Exclusivo con tus Tarjetas de Crédito Santander.",
-        "Válido en local.",
-        "Av. Blanca Estela 1927, Concón",
-        "No acumulable con otras promociones.",
-        "Descuento máximo por pedido de $40.000",
-        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​"
       ],
       "sucursales": []
     },
@@ -27015,25 +27096,6 @@
         "Ingresando los 6 primeros dígitos de tu Tarjeta como código de descuento.",
         "Descuento máximo por pedido de $100.000",
         "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​"
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Kaufmann",
-      "categoria": "Cuotas Sin Interés",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "13 a 48 cuotas sin interés",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Mercedes Benz, smart y Seminuevos",
-        "Exclusivo con tus Tarjetas de Crédito Santander Chile.",
-        "Válido en concesionarias Kaufmann en compras de autos Mercedes Benz, smart y Seminuevos.",
-        "CAE 0,8%: Monto Total a pagar de $10.080.000, son referenciales y corresponden a una compra por $10.000.000 cursada en modalidad de pago de 48 cuotas mensuales, y consideran impuestos.",
-        "Se excluyen de la promoción los autos Seminuevos de sucursal JPN.",
-        "Vigencia de la promoción hasta el 31 de agosto de 2026, válido para autos nuevos Mercedes Benz, smart y Seminuevos. Se excluyen de la promoción los autos Seminuevos de sucursal JPN. CAE 0,8%: Monto Total a pagar de $10.080.000, son referenciales y corresponden a una compra por $10.000.000 cursada en modalidad de pago de 48 cuotas mensuales, y consideran impuestos. Límite mensual de compras que da derecho a acumulación de millas LATAM Pass; The Platinum Card American Express Santander LATAM Pass: monto menor entre: (a) la cantidad de 60.000 Dólares en cada periodo de facturación, y (b) el monto del respectivo cupo de la Tarjeta. Límite mensual de compras que da derecho a acumulación WorldMember Limited Santander LATAM Pass: monto menor entre: (a) la cantidad de 30.000 Dólares en cada periodo de facturación, y (b) el monto del respectivo cupo de la Tarjeta. Consulte por otros eventuales cargos. La acumulación de millas y otros beneficios no financieros anunciados son responsabilidad de LATAM AIRLINES GROUP S.A. o de terceros que los otorguen, sin que corresponda a Banco Santander Chile intervención alguna en ello, ni en la ulterior atención que ello demande. Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
       ],
       "sucursales": []
     },
