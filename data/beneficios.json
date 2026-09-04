@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-03T14:48",
+  "actualizado": "2026-09-04T14:37",
   "beneficios": [
     {
       "banco": "Banco de Chile",
@@ -7159,27 +7159,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "PARRILLA EL GALPÓN",
-      "categoria": "Sabores",
-      "descuento": "20% dto.",
-      "dia": [
-        "Viernes",
-        "Sábado"
-      ],
-      "dia_texto": "viernes y sábado",
-      "canal": null,
-      "vigencia": "Promoción válida hasta el 30 de septiembre de 2026.",
-      "condiciones": [
-        "Restaurante Parrilla el Galpón Imperdible! La mejor carne del sur de Chile, excelentes acompañamientos y exquisitos postres que que son característicos de la zona.",
-        "20% de descuento los dias viernes y sábados pagando con tus tarjetas del Chile.",
-        "No acumulable con otras ofertas, happy hour, menú y/o promociones."
-      ],
-      "sucursales": [
-        "Lord Cochrane #816, De los Lagos, Osorno"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "Pastelería Riesco",
       "categoria": "Sabores",
       "descuento": "25% dto.",
@@ -11495,30 +11474,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Dominga Bistró",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Domingo"
-      ],
-      "dia_texto": "domingos de septiembre",
-      "canal": null,
-      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial 40% dto. todos los domingos de septiembre",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dto. $50.000 por mesa",
-        "Exclusivo Valdivia."
-      ],
-      "sucursales": [
-        "Filomena Valenzuela #221, Región de Tarapacá, Iquique"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "Azaleia",
       "categoria": "Retail y Otras Marcas",
       "descuento": "20% dto.",
@@ -13365,29 +13320,6 @@
       ],
       "sucursales": [
         "Carretera austral kilómetro 11,5, Región de Los Lagos Los Lagos, Sector chamiza"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Pistacho",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Domingo"
-      ],
-      "dia_texto": "domingos de septiembre",
-      "canal": null,
-      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial 40% dto. todos los domingos de septiembre",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope $50.000 de dto"
-      ],
-      "sucursales": [
-        "Strip Center Portal Las Quemas local 15 y 16, Osorno, Los Lagos"
       ]
     },
     {
@@ -16004,29 +15936,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Fogón Greed",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Domingo"
-      ],
-      "dia_texto": "domingos de septiembre",
-      "canal": null,
-      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial 40% dto. todos los domingos de septiembre.",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dto. $50.000 por mesa"
-      ],
-      "sucursales": [
-        "Ignacio Zenteno #2661,, Región de Los Lagos, Osorno"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "MARLEY COFFEE",
       "categoria": "Sabores",
       "descuento": "35% dto.",
@@ -16208,29 +16117,6 @@
       ],
       "sucursales": [
         "Almagro #593, Región de la Araucanía, Purén"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Club de Golf los lirios",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Viernes"
-      ],
-      "dia_texto": "viernes de septiembre",
-      "canal": null,
-      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial. 40% dto. todos los viernes de septiembre.",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dto. $50.000 por mesa"
-      ],
-      "sucursales": [
-        "Carretera 5 Sur Km 93 Los Lirios, Región de OHiggins, Requínoa"
       ]
     },
     {
@@ -17471,30 +17357,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Bioparque Buinzoo",
-      "categoria": "Entretención y Deportes",
-      "descuento": "20% dto.",
-      "dia": [
-        "Todos los días"
-      ],
-      "dia_texto": "todos los días en entradas",
-      "canal": "Ambos",
-      "vigencia": "Promoción válida hasta el 30 de septiembre de 2026.",
-      "condiciones": [
-        "Bioparque Buinzoo es el principal Bioparque de Sudamérica. Cuenta con más de 2.500 animales de 250 especies, sumado a diversas experiencias educativas que lo hacen ser el mayor centro de eduentretención del país. Tiene los más altos estándares de seguridad, bienestar animal, educación y sostenibilidad del continente. Esto ha permitido que Buinzoo sea acreedor de diversas certificaciones como ALPZA y Sistema B, entre otras. Anualmente recibe más de 1.000.000 de visitantes que validan su compromiso con la conservación y destacan a este lugar como un referente continental.",
-        "20% dto. en entradas en compra presencial y online válidas para ingresos todos los días.",
-        "Para compra presencial solicita tu descuento al momento de pagar.",
-        "Para compra online descarga tu código en bancochile.cl o en App Mi Banco e ingrésalo como cupón de dto. en entradas.buinzoo.cl",
-        "No acumulable con otras promociones.",
-        "Descuento exclusivo pagando con tus Tarjetas del Chile.",
-        "Beneficio exclusivo en entradas individuales, no aplica para packs ni promociones."
-      ],
-      "sucursales": [
-        "Panamericana Sur Km. 32, Región Metropolitana, Buin"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "Tamashi – Justo",
       "categoria": "Sabores",
       "descuento": "30% dto.",
@@ -18149,29 +18011,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Augusta",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Lunes"
-      ],
-      "dia_texto": "lunes de septiembre",
-      "canal": null,
-      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial 40% dto. todos los lunes de septiembre.",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dcto. $50.000 por mesa"
-      ],
-      "sucursales": [
-        "Paso Hondo #209, Región del Bío Bío, Concepción"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "Farmex",
       "categoria": "Salud y Belleza",
       "descuento": "Hasta 15% dto.",
@@ -18216,744 +18055,6 @@
       ],
       "sucursales": [
         "Av. Vitacura 9307, Región Metropolitana, Vitacura"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Pescados Capitales",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Martes"
-      ],
-      "dia_texto": "martes de septiembre",
-      "canal": null,
-      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial 40% dto. todos los martes de septiembre",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dto. $50.000 por mesa"
-      ],
-      "sucursales": [
-        "Av. Nueva Costanera #3723, Región Metropolitana, Vitacura"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Sakura",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Martes"
-      ],
-      "dia_texto": "martes de septiembre",
-      "canal": "Ambos",
-      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial 40% dto. todos los martes de septiembre presencial y online",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "Para compra online ingresa los 6 primeros dígitos de tu Tarjeta como código de descuento.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dto. $50.000 por mesa"
-      ],
-      "sucursales": [
-        "Av. Cristobal Colón #4401, Región Metropolitana, Las Condes",
-        "Camino Del Monje 10530 - B, Región Metropolitana, Lo Barnechea",
-        "Av. La Plaza #590 - Local 118, Región Metropolitana, Las Condes",
-        "San Damián #20 - Local 7, Región Metropolitana, Las Condes",
-        "Av. Luis Pasteur #5515 - Local 6, Región Metropolitana, Vitacura"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "La Previa Bar",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Lunes",
-        "Martes"
-      ],
-      "dia_texto": "lunes y martes de septiembre",
-      "canal": null,
-      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial 40% dto. lunes y martes de septiembre.",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dto. $50.000 por mesa"
-      ],
-      "sucursales": [
-        "Avenida Alemania #01765, Región de la Araucanía, Temuco"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "YADO BY ASIA",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Martes"
-      ],
-      "dia_texto": "martes de septiembre",
-      "canal": null,
-      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial 40% dto. todos los martes de septiembre.",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dto. $50.000 por mesa"
-      ],
-      "sucursales": [
-        "Tomas Bonilla #815, Región de Tarapacá, Iquique"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "La Negra Restaurant",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Martes"
-      ],
-      "dia_texto": "martes de septiembre",
-      "canal": null,
-      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial 40% dto. martes de septiembre.",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dto. $50.000 por mesa"
-      ],
-      "sucursales": [
-        "Av. Senador Humberto Palza Corvacho #4040, Región de Arica y Parinacota, Arica"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "La Chimba - Terrazas San Cristóbal",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Jueves"
-      ],
-      "dia_texto": "jueves de septiembre",
-      "canal": null,
-      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial. 40% dto. jueves de septiembre.",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dcto. $50.000 por mesa"
-      ],
-      "sucursales": [
-        "Terrazas San Cristobal, Constitución #241, Región Metropolitana, Providencia"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Zacarías - Terrazas San Cristóbal",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Jueves"
-      ],
-      "dia_texto": "jueves de septiembre",
-      "canal": null,
-      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial. 40% dto. jueves de septiembre.",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dcto. $50.000 por mesa"
-      ],
-      "sucursales": [
-        "Terrazas San Cristobal, Constitución #241, Región Metropolitana, Providencia"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Barbazul - Terrazas San Cristóbal",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Jueves"
-      ],
-      "dia_texto": "jueves de septiembre",
-      "canal": null,
-      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial. 40% dto. jueves de septiembre.",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dcto. $50.000 por mesa"
-      ],
-      "sucursales": [
-        "Terrazas San Cristobal, Constitución #241, Región Metropolitana, Providencia"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Vermutería - Terrazas San Cristóbal",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Jueves"
-      ],
-      "dia_texto": "jueves de septiembre",
-      "canal": null,
-      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial. 40% dto. jueves de septiembre.",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dcto. $50.000 por mesa"
-      ],
-      "sucursales": [
-        "Terrazas San Cristobal, Constitución #241, Región Metropolitana, Providencia"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Kechua - Terrazas San Cristóbal",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Jueves"
-      ],
-      "dia_texto": "jueves de septiembre",
-      "canal": null,
-      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial. 40% dto. jueves de septiembre.",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dcto. $50.000 por mesa"
-      ],
-      "sucursales": [
-        "Terrazas San Cristobal, Constitución #241, Región Metropolitana, Providencia"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Tapas y Birra - Terrazas San Cristóbal",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Jueves"
-      ],
-      "dia_texto": "jueves de septiembre",
-      "canal": null,
-      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial. 40% dto. jueves de septiembre.",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dcto. $50.000 por mesa"
-      ],
-      "sucursales": [
-        "Terrazas San Cristobal, Constitución #241, Región Metropolitana, Providencia"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Siete Negronis - Terrazas San Cristóbal",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Jueves"
-      ],
-      "dia_texto": "jueves de septiembre",
-      "canal": null,
-      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial. 40% dto. jueves de septiembre.",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dcto. $50.000 por mesa"
-      ],
-      "sucursales": [
-        "Terrazas San Cristobal, Constitución #241, Región Metropolitana, Providencia"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Wayna Cevicheria by Kechua",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Miércoles"
-      ],
-      "dia_texto": "miércoles de septiembre",
-      "canal": null,
-      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial. 40% dto. miércoles de septiembre.",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dcto. $50.000 por mesa"
-      ],
-      "sucursales": [
-        "Sta. Inés 1513, 1515 - 1517, Región Metropolitana, La Florida"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Kechua",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Miércoles"
-      ],
-      "dia_texto": "miércoles de septiembre",
-      "canal": null,
-      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial. 40% dto. miércoles de septiembre.",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dcto. $50.000 por mesa"
-      ],
-      "sucursales": [
-        "Av San Josemaría Escrivá de Balaguer #6400, BordeRío, Región Metropolitana, Vitacura",
-        "Alcaldesa Balbina Vera #3561, Región Metropolitana, Ñuñoa"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "El mesón de la Patagonia",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Viernes"
-      ],
-      "dia_texto": "viernes de septiembre",
-      "canal": null,
-      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial. 40% dto. viernes de septiembre.",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dcto. $50.000 por mesa"
-      ],
-      "sucursales": [
-        "Lo Barnechea #1223, Región Metropolitana, Lo Barnechea"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "DO SUSHI",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Miércoles",
-        "Sábado"
-      ],
-      "dia_texto": "miércoles y sábado de septiembre",
-      "canal": null,
-      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial 40% dto. todos los miércoles y sábado de septiembre.",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dto. $50.000 por mesa"
-      ],
-      "sucursales": [
-        "Avenida Suecia #155, Local 0167, Región Metropolitana, Providencia"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Local Burger",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Lunes",
-        "Domingo"
-      ],
-      "dia_texto": "lunes y domingo de septiembre",
-      "canal": null,
-      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial 40% dto. todos los lunes y domingo de septiembre.",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dto. $50.000 por mesa"
-      ],
-      "sucursales": [
-        "Los Militares #5934, Región Metropolitana, Las Condes",
-        "Irarrazaval #5350, Región Metropolitana, Ñuñoa",
-        "Providencia #1403, Región Metropolitana, Providencia"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Boga",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Lunes",
-        "Martes",
-        "Miércoles"
-      ],
-      "dia_texto": "lunes a miércoles de septiembre",
-      "canal": null,
-      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial 40% dto. todos los lunes a miércoles de septiembre.",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dto. $50.000 por mesa"
-      ],
-      "sucursales": [
-        "Avenida Presidente Kennedy Lateral #9001, Alto las Condes local 3236, Región Metropolitana, Las Condes"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "ANIMA",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Martes",
-        "Miércoles",
-        "Jueves",
-        "Viernes",
-        "Sábado",
-        "Domingo"
-      ],
-      "dia_texto": "martes a domingo de septiembre",
-      "canal": null,
-      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial 40% dto. martes a domingo de septiembre.",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dto. $50.000 por mesa"
-      ],
-      "sucursales": [
-        "Constitución 172, Región Metropolitana, Constitución 172"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Ari Nikkei",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Lunes",
-        "Miércoles"
-      ],
-      "dia_texto": "lunes y miércoles de septiembre",
-      "canal": null,
-      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial 40% dto. todos los lunes y miércoles de septiembre.",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dcto. $50.000 por mesa"
-      ],
-      "sucursales": [
-        "Cam. El Alba 11969, Región Metropolitana, Las Condes",
-        "Av. José Alcalde Délano 10492, Región Metropolitana, Lo Barnechea"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "La Birrería",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Miércoles",
-        "Sábado"
-      ],
-      "dia_texto": "miércoles y sábado de septiembre",
-      "canal": null,
-      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial 40% dto. todos los miércoles y sábado de septiembre.",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dcto. $50.000 por mesa"
-      ],
-      "sucursales": [
-        "Av. Pedro Fontova 7280, Local 106-107, Región Metropolitana, Huechuraba"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Majka Bistro",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Miércoles",
-        "Sábado"
-      ],
-      "dia_texto": "miércoles y sábado de septiembre",
-      "canal": null,
-      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial 40% dto. todos los miércoles y sábado de septiembre.",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dto. $50.000 por mesa"
-      ],
-      "sucursales": [
-        "Av. Príncipe de Gales #7102, Región Metropolitana, La Reina"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Peluquería Francesa",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Lunes",
-        "Martes",
-        "Miércoles"
-      ],
-      "dia_texto": "lunes a miércoles de septiembre",
-      "canal": null,
-      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial 40% dto. lunes a miércoles de septiembre.",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dto. $50.000 por mesa"
-      ],
-      "sucursales": [
-        "Compañía de Jesús #2789, RM, Santiago, Teléfono: +56977989743"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "La Cocina de Javier",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Miércoles",
-        "Sábado"
-      ],
-      "dia_texto": "miércoles y sábado de septiembre",
-      "canal": null,
-      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial 40% dto. todos los miércoles y sábado de septiembre",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dto. $50.000 por mesa"
-      ],
-      "sucursales": [
-        "VITACURA #7482, Región Metropolitana, VITACURA"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Aurea Restaurante",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Miércoles"
-      ],
-      "dia_texto": "miércoles de septiembre",
-      "canal": null,
-      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial 40% dto. miércoles de septiembre.",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dto. $50.000 por mesa"
-      ],
-      "sucursales": [
-        "El Manantial #1781, Región Metropolitana, Vitacura, +569 35341318"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Abrasas",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Martes"
-      ],
-      "dia_texto": "martes de septiembre",
-      "canal": null,
-      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial 40% dto. martes de septiembre.",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dto. $50.000 por mesa"
-      ],
-      "sucursales": [
-        "Pdte. Federico Errázuriz #952, Región de Magallanes y de la Antártica Chilena, Punta Arenas"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "MagBar",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Martes"
-      ],
-      "dia_texto": "martes de septiembre",
-      "canal": null,
-      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial 40% dto. todos los martes de septiembre.",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dto. $50.000 por mesa"
-      ],
-      "sucursales": [
-        "Avenida Argentina #255, Región de Ñuble, Chillán"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Mosto",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Martes"
-      ],
-      "dia_texto": "martes de septiembre",
-      "canal": null,
-      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial 40% dto. todos los martes de septiembre.",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dto. $50.000 por mesa"
-      ],
-      "sucursales": [
-        "Diego Portales #204, Región de los Lagos, Puerto Varas"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Margarita Bar",
-      "categoria": "Sabores",
-      "descuento": "40% dto",
-      "dia": [
-        "Martes"
-      ],
-      "dia_texto": "martes de septiembre",
-      "canal": null,
-      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial. 40% dto. todos los martes de septiembre.",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dto. $50.000 por mesa"
-      ],
-      "sucursales": [
-        "Piacavi #284, Región del Biobío, Concepción"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Novu",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Miércoles"
-      ],
-      "dia_texto": "miércoles de septiembre",
-      "canal": null,
-      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial 40% dto. todos los miércoles de septiembre.",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dcto. $50.000 por mesa"
-      ],
-      "sucursales": [
-        "Carrera #301, Maule, Curicó"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Pata Liebre",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Miércoles"
-      ],
-      "dia_texto": "miércoles de septiembre",
-      "canal": null,
-      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial 40% dto. todos los miércoles de septiembre.",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dcto. $50.000 por mesa"
-      ],
-      "sucursales": [
-        "Diego Portales #318, Región de los Los Lagos, Puerto Varas"
       ]
     },
     {
@@ -19089,29 +18190,6 @@
       ],
       "sucursales": [
         "Av. Francisco Bilbao #1256, Región Metropolitana, Providencia"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Vitalicio",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Domingo"
-      ],
-      "dia_texto": "domingo de septiembre",
-      "canal": null,
-      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial. 40% dto. domingo de septiembre.",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dcto. $50.000 por mesa"
-      ],
-      "sucursales": [
-        "San Sebastián #2800, Región Metropolitana, Las Condes"
       ]
     },
     {
@@ -19317,225 +18395,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Castillo Hamburgo",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Jueves",
-        "Domingo"
-      ],
-      "dia_texto": "jueves y domingo de septiembre",
-      "canal": null,
-      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial 40% dto. todos los jueves y domingo de septiembre.",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "40% dto. pagando con tus Tarjetas Visa del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dto. $50.000 por mesa"
-      ],
-      "sucursales": [
-        "Los Tres Antonios 397, Ñuñoa, Región Metropolitana"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Majestic",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Martes",
-        "Jueves",
-        "Sábado"
-      ],
-      "dia_texto": "martes, jueves y sábado de septiembre",
-      "canal": null,
-      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial 40% dto. martes, jueves y sábado de septiembre.",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial en www. majestic.cl o llamando al 242450337.",
-        "Dto no válido para el 14 de febrero día de los enamorados.",
-        "Tope dcto. $50.000 por mesa."
-      ],
-      "sucursales": [
-        "Av. Pdte. Kennedy Lateral 5600, Region Metropolitana, Las Condes"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Impasto",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Lunes",
-        "Martes",
-        "Jueves",
-        "Sábado"
-      ],
-      "dia_texto": "lunes, martes, jueves y sábado de septiembre",
-      "canal": null,
-      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial 40% dto. lunes, martes, jueves y sábado de septiembre.",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Tope dto. $50.000 por mesa."
-      ],
-      "sucursales": [
-        "Alférez Real #1485, Región Metropolitana, Providencia"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Miscelaneo Bar",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Martes",
-        "Miércoles",
-        "Jueves",
-        "Sábado"
-      ],
-      "dia_texto": "martes, miércoles, jueves y sábado de septiembre",
-      "canal": null,
-      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial 40% dto. todos los martes, miércoles, jueves y sábado de septiembre",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dto. $50.000 por mesa"
-      ],
-      "sucursales": [
-        "Santa María #5870, local 15, Región Metropolitana, Vitacura"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "CuracaRibs",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Jueves"
-      ],
-      "dia_texto": "jueves de septiembre",
-      "canal": null,
-      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial en Restaurantes CuracaRibs Ruta 68 y CuracaRibs Vitacura. 40% dto. todos los jueves de septiembre.",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Tope de dcto. $50.000"
-      ],
-      "sucursales": [
-        "Ruta 68 km 45.500 km 45,5, Región Metropolitana, Curacaví",
-        "Los Abedules 3016, Región Metropolitana, Vitacura"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Rishtedar",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Martes"
-      ],
-      "dia_texto": "martes de septiembre",
-      "canal": null,
-      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial 40% dto. todos los martes de septiembre.",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dto. $50.000 por mesa"
-      ],
-      "sucursales": [
-        "Holanda #160, Región Metropolitana, Providencia",
-        "Avda. Vitacura #5461, Región Metropolitana, Vitacura",
-        "Av. Principe De Gales #6500, Región Metropolitana, La Reina",
-        "El Rodeo #12850, Local 74 y 75, Región Metropolitana, Lo Barnechea"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "La Joya Cantina",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Jueves"
-      ],
-      "dia_texto": "jueves de septiembre",
-      "canal": null,
-      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial. 40% dto. jueves de septiembre.",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dcto. $50.000 por mesa"
-      ],
-      "sucursales": [
-        "EUSEBIO LILLO #200, Región de Valparaíso, Valparaíso"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Sello de Raza",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Jueves"
-      ],
-      "dia_texto": "jueves de septiembre",
-      "canal": null,
-      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial 40% dto. todos los jueves de septiembre.",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dto. $50.000 por mesa"
-      ],
-      "sucursales": [
-        "Las Encinas #191, Región de los Ríos, Valdivia"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Greta",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Sábado"
-      ],
-      "dia_texto": "sábados de septiembre",
-      "canal": null,
-      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial 40% dto. sábados de septiembre.",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dto. $50.000 por mesa"
-      ],
-      "sucursales": [
-        "2 Nte. 3815, Región del Maule, Talca"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "Puma",
       "categoria": "Retail y Otras Marcas",
       "descuento": "Hasta 30% dto.",
@@ -19583,274 +18442,6 @@
         "Descuento exclusivo pagando con tus Tarjetas del Chile."
       ],
       "sucursales": []
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Porfirio",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Martes",
-        "Viernes",
-        "Sábado"
-      ],
-      "dia_texto": "martes, viernes y sábado de septiembre",
-      "canal": null,
-      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial 40% dto. martes, viernes y sábado de septiembre.",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dto. $50.000 por mesa"
-      ],
-      "sucursales": [
-        "Av. Manuel Montt 697, Región Metropolitana, Providencia, Teléfono: +569 33919721"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Expendio",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Martes",
-        "Viernes",
-        "Sábado"
-      ],
-      "dia_texto": "martes, viernes y sábado de septiembre",
-      "canal": null,
-      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial 40% dto. martes, viernes y sábado de septiembre.",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dto. $50.000 por mesa"
-      ],
-      "sucursales": [
-        "Av. Manuel Montt 727, RM, Providencia"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "ICA RESTAURANTE",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Sábado"
-      ],
-      "dia_texto": "sábado de septiembre",
-      "canal": null,
-      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial 40% dto. todos los sábado de septiembre.",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dcto. $50.000 por mesa"
-      ],
-      "sucursales": [
-        "Isidora Goyenechea #2939, Región Metropolitana, Las Condes"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Al Pesto",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Jueves",
-        "Sábado"
-      ],
-      "dia_texto": "jueves y sábado de septiembre",
-      "canal": null,
-      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial 40% dto. jueves y sábado de septiembre.",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dto. $50.000 por mesa"
-      ],
-      "sucursales": [
-        "Boulevard Los Ingles, Av. Chicureo Km 2, Región Metropolitana, Colina"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Rolls Sushi & Nikkei",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Viernes",
-        "Domingo"
-      ],
-      "dia_texto": "viernes y domingo de septiembre",
-      "canal": null,
-      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial 40% dto. viernes y domingo de septiembre.",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dto. $50.000 por mesa"
-      ],
-      "sucursales": [
-        "Boulevard Los Ingles, Av. Chicureo Km 2, Región Metropolitana, Colina"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "PAD THAI",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Miércoles",
-        "Jueves",
-        "Viernes"
-      ],
-      "dia_texto": "miércoles a viernes de septiembre",
-      "canal": null,
-      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial 40% dto. miércoles a viernes de septiembre.",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dto. $50.000 por mesa",
-        "El día 31/12 el beneficio no aplica para cenas o eventos de año nuevo."
-      ],
-      "sucursales": [
-        "Manuel Montt #231, Región Metropolitana, Providencia"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Brasas del Arriero",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Lunes",
-        "Martes",
-        "Miércoles",
-        "Jueves",
-        "Viernes"
-      ],
-      "dia_texto": "lunes a viernes de septiembre",
-      "canal": null,
-      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial 40% dto. lunes a viernes de septiembre.",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dto. $50.000 por mesa"
-      ],
-      "sucursales": [
-        "Trinidad Ote. 1307, Región Metropolitana, La Florida, (2) 2710 2321"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Verde Sazón",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Todos los días"
-      ],
-      "dia_texto": "todos los días de septiembre",
-      "canal": null,
-      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial 40% dto. todos los días de septiembre.",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dcto. $50.000 por mesa"
-      ],
-      "sucursales": [
-        "Miguel Claro 1873, Región Metropolitana, Providencia"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Vitali´s",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Martes",
-        "Viernes"
-      ],
-      "dia_texto": "martes y viernes de septiembre",
-      "canal": null,
-      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial 40% dto. martes y viernes de septiembre",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dto. $50.000 por mesa"
-      ],
-      "sucursales": [
-        "Av Vitacura #8133, Región Metropolitana, Vitacura"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "SABOR Y AROMA",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Miércoles",
-        "Viernes"
-      ],
-      "dia_texto": "miércoles y viernes de septiembre",
-      "canal": null,
-      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial 40% dto. todos los miércoles y viernes de septiembre.",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dto. $50.000 por mesa"
-      ],
-      "sucursales": [
-        "Raúl Labbe #12559, Región Metropolitana, Lo Barnechea"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Otto Burger",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Viernes"
-      ],
-      "dia_texto": "viernes de septiembre",
-      "canal": null,
-      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial. 40% dto. todos los viernes de septiembre.",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope de dto. $50.000"
-      ],
-      "sucursales": [
-        "Av Manuel Labra Lillo #350, Región Maule, Curicó"
-      ]
     },
     {
       "banco": "Banco de Chile",
@@ -20084,31 +18675,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Capri",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Martes",
-        "Miércoles"
-      ],
-      "dia_texto": "martes y miércoles de septiembre",
-      "canal": null,
-      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial 40% dto. martes y miércoles de septiembre.",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dto. $50.000 por mesa"
-      ],
-      "sucursales": [
-        "Gerónimo de Alderete 1423, Región Metropolitana, Vitacura",
-        "El Rodeo #13052, Región Metropolitana, Lo Barnechea"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "Piwen",
       "categoria": "Sabores",
       "descuento": "25% dto.",
@@ -20238,53 +18804,6 @@
       ],
       "sucursales": [
         "Avda. Pehuenche Norte #1143, Región del Maule, Talca"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Barrica 94",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Sábado"
-      ],
-      "dia_texto": "sábado de septiembre",
-      "canal": null,
-      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial 40% dto. sábado de septiembre.",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dto. $50.000 por mesa"
-      ],
-      "sucursales": [
-        "Av. José Alcalde Délano #10533, local 1508, Región Metropolitana, Lo Barnechea"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Jardín Ulriksen",
-      "categoria": "Sabores",
-      "descuento": "40% dto",
-      "dia": [
-        "Lunes"
-      ],
-      "dia_texto": "lunes de septiembre",
-      "canal": null,
-      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial.",
-        "40% dto. lunes de septiembre.",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dto. $50.000 por mesa"
-      ],
-      "sucursales": [
-        "Av Guillermo Ulriksen #2845, Región de Coquimbo, La Serena"
       ]
     },
     {
@@ -20764,6 +19283,53 @@
       ],
       "sucursales": [
         "Simón Bolívar #5156, Región Metropolitana, Ñuñoa"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Preuniversitario Alameda",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "25% dto.",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días",
+      "canal": "Ambos",
+      "vigencia": "Promoción válida hasta el 31 de agosto de 2027.",
+      "condiciones": [
+        "En Preuniversitario Alameda cuentan con más de 20 años de experiencia preparando a miles de estudiantes para su ingreso a la educación superior. A través de un equipo de profesores de excelencia, programas adaptados a todos los niveles y modalidades presenciales y online, ofrecen una preparación de calidad para enfrentar con éxito la PAES.",
+        "25% dto. en todos los programas y matrícula, presencial y en preualameda.cl",
+        "Para compra presencial solicita tu descuento al momento de pagar.",
+        "Para acceder al dto. online, agenda una asesoría en preualameda.cl e indica que vienes por la alianza para acceder al beneficio.",
+        "No acumulable con otras promociones.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Almirante Barroso #156, Region Metropolitana, Santiago"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Escuela de Idiomas Alameda",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "25% dto.",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días",
+      "canal": "Ambos",
+      "vigencia": "Promoción válida hasta el 31 de agosto de 2027.",
+      "condiciones": [
+        "Con más de 20 años de experiencia, la Escuela de Idiomas Alameda ofrece una formación de excelencia en diversos idiomas, con profesores especializados, horarios flexibles y clases presenciales u online para estudiantes de todos los niveles. Su oferta académica incluye inglés, francés, alemán, portugués, coreano y japonés, adaptándose a las necesidades de aprendizaje de cada alumno.",
+        "25% dto. todos los días en todos los programas y matrícula, presencial y en escueladeidiomasalameda.cl",
+        "Para compra presencial solicita tu descuento al momento de pagar.",
+        "Para acceder al dto. online, agenda una asesoría en escueladeidiomasalameda.cl e indica que vienes por la alianza para acceder al beneficio.",
+        "No acumulable con otras promociones.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Av. Libertador Bernardo O´Higgins #1112 Oficina #902, Region Metropolitana, Santiago",
+        "Yumbel #883, Región del Libertador General Bernardo O´Higgins, San Fernando"
       ]
     },
     {
@@ -21449,29 +20015,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Greed Taproom",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Martes"
-      ],
-      "dia_texto": "martes de septiembre",
-      "canal": null,
-      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial 40% dto. todos los martes de septiembre.",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dto. $50.000 por mesa"
-      ],
-      "sucursales": [
-        "Ignacio Zenteno #2661, Región de Los Lagos, Osorno"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "Level Studio",
       "categoria": "Salud y Belleza",
       "descuento": "20% dto.",
@@ -21594,6 +20137,57 @@
       ],
       "sucursales": [
         "Uribe #407, Región de Antofagasta, Antofagasta"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Basildon Listening Restobar",
+      "categoria": "Sabores",
+      "descuento": "30% dto.",
+      "dia": [
+        "Lunes",
+        "Martes",
+        "Miércoles",
+        "Jueves"
+      ],
+      "dia_texto": "lunes a jueves",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 31 de marzo del 2027.",
+      "condiciones": [
+        "Este espacio único en Concepción combina música, gastronomía y coctelería para ofrecer una experiencia diferente. Ubicado en una casona patrimonial restaurada de 1908, destaca por su historia y encanto. Su ambiente es ideal para disfrutar buena música y sabores en el corazón de la bohemia penquista.",
+        "30% dto. lunes a jueves en compra presencial.",
+        "No válido para menú, Happy Hour ni otras promociones vigentes.",
+        "Excluye bebidas y productos con alcohol.",
+        "Solicita tu descuento al momento de pagar.",
+        "No acumulable con otras promociones.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Orompello #68, Región del Bio Bio, Concepcion"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Bioparque Buinzoo",
+      "categoria": "Entretención y Deportes",
+      "descuento": "20% dto.",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días en entradas",
+      "canal": "Ambos",
+      "vigencia": "Promoción válida hasta el 30 de septiembre de 2026.",
+      "condiciones": [
+        "Bioparque Buinzoo es el principal Bioparque de Sudamérica. Cuenta con más de 2.500 animales de 250 especies, sumado a diversas experiencias educativas que lo hacen ser el mayor centro de eduentretención del país. Tiene los más altos estándares de seguridad, bienestar animal, educación y sostenibilidad del continente. Esto ha permitido que Buinzoo sea acreedor de diversas certificaciones como ALPZA y Sistema B, entre otras. Anualmente recibe más de 1.000.000 de visitantes que validan su compromiso con la conservación y destacan a este lugar como un referente continental.",
+        "20% dto. en entradas en compra presencial y online válidas para ingresos todos los días.",
+        "Para compra presencial solicita tu descuento al momento de pagar.",
+        "Para compra online descarga tu código en bancochile.cl o en App Mi Banco e ingrésalo como cupón de dto. en entradas.buinzoo.cl",
+        "No acumulable con otras promociones.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile.",
+        "Beneficio exclusivo en entradas individuales, no aplica para packs ni promociones."
+      ],
+      "sucursales": [
+        "Panamericana Sur Km. 32, Región Metropolitana, Buin"
       ]
     },
     {
@@ -21859,17 +20453,17 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Santa Brasa",
+      "comercio": "Pescados Capitales",
       "categoria": "Sabores",
       "descuento": "40% dto.",
       "dia": [
-        "Lunes"
+        "Martes"
       ],
-      "dia_texto": "lunes de septiembre sucursales de Alonso de Córdova y Concón",
+      "dia_texto": "martes de septiembre",
       "canal": null,
       "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
       "condiciones": [
-        "Válido para consumo presencial 40% dto. todos los lunes de septiembre",
+        "Válido para consumo presencial 40% dto. todos los martes de septiembre",
         "Solicita el descuento al momento de pagar en el restaurant.",
         "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
         "No acumulable con otras promociones.",
@@ -21877,9 +20471,35 @@
         "Tope dto. $50.000 por mesa"
       ],
       "sucursales": [
-        "Alonso de Córdova #4260, Región Metropolitana, Vitacura",
-        "Av. José Alcalde Délano #10494, Región Metropolitana, Lo Barnechea",
-        "Sta. Elena #671, Región de Valparaíso, Concón"
+        "Av. Nueva Costanera #3723, Región Metropolitana, Vitacura"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Sakura",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Martes"
+      ],
+      "dia_texto": "martes de septiembre",
+      "canal": "Ambos",
+      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. todos los martes de septiembre presencial y online",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "Para compra online ingresa los 6 primeros dígitos de tu Tarjeta como código de descuento.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Av. Cristobal Colón #4401, Región Metropolitana, Las Condes",
+        "Camino Del Monje 10530 - B, Región Metropolitana, Lo Barnechea",
+        "Av. La Plaza #590 - Local 118, Región Metropolitana, Las Condes",
+        "San Damián #20 - Local 7, Región Metropolitana, Las Condes",
+        "Av. Luis Pasteur #5515 - Local 6, Región Metropolitana, Vitacura"
       ]
     },
     {
@@ -22017,6 +20637,246 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "Boga",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Lunes",
+        "Martes",
+        "Miércoles"
+      ],
+      "dia_texto": "lunes a miércoles de septiembre",
+      "canal": null,
+      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. todos los lunes a miércoles de septiembre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Avenida Presidente Kennedy Lateral #9001, Alto las Condes local 3236, Región Metropolitana, Las Condes"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Capri",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Martes",
+        "Miércoles"
+      ],
+      "dia_texto": "martes y miércoles de septiembre",
+      "canal": null,
+      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. martes y miércoles de septiembre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Gerónimo de Alderete 1423, Región Metropolitana, Vitacura",
+        "El Rodeo #13052, Región Metropolitana, Lo Barnechea"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Peluquería Francesa",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Lunes",
+        "Martes",
+        "Miércoles"
+      ],
+      "dia_texto": "lunes a miércoles de septiembre",
+      "canal": null,
+      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. lunes a miércoles de septiembre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Compañía de Jesús #2789, RM, Santiago, Teléfono: +56977989743"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Rishtedar",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Martes"
+      ],
+      "dia_texto": "martes de septiembre",
+      "canal": null,
+      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. todos los martes de septiembre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Holanda #160, Región Metropolitana, Providencia",
+        "Avda. Vitacura #5461, Región Metropolitana, Vitacura",
+        "Av. Principe De Gales #6500, Región Metropolitana, La Reina",
+        "El Rodeo #12850, Local 74 y 75, Región Metropolitana, Lo Barnechea"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "CuracaRibs",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Jueves"
+      ],
+      "dia_texto": "jueves de septiembre",
+      "canal": null,
+      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial en Restaurantes CuracaRibs Ruta 68 y CuracaRibs Vitacura. 40% dto. todos los jueves de septiembre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Tope de dcto. $50.000"
+      ],
+      "sucursales": [
+        "Ruta 68 km 45.500 km 45,5, Región Metropolitana, Curacaví",
+        "Los Abedules 3016, Región Metropolitana, Vitacura"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Kechua",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Miércoles"
+      ],
+      "dia_texto": "miércoles de septiembre",
+      "canal": null,
+      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial. 40% dto. miércoles de septiembre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dcto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Av San Josemaría Escrivá de Balaguer #6400, BordeRío, Región Metropolitana, Vitacura",
+        "Alcaldesa Balbina Vera #3561, Región Metropolitana, Ñuñoa"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Wayna Cevicheria by Kechua",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Miércoles"
+      ],
+      "dia_texto": "miércoles de septiembre",
+      "canal": null,
+      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial. 40% dto. miércoles de septiembre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dcto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Sta. Inés 1513, 1515 - 1517, Región Metropolitana, La Florida"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Siete Negronis - Terrazas San Cristóbal",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Jueves"
+      ],
+      "dia_texto": "jueves de septiembre",
+      "canal": null,
+      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial. 40% dto. jueves de septiembre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dcto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Terrazas San Cristobal, Constitución #241, Región Metropolitana, Providencia"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Tapas y Birra - Terrazas San Cristóbal",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Jueves"
+      ],
+      "dia_texto": "jueves de septiembre",
+      "canal": null,
+      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial. 40% dto. jueves de septiembre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dcto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Terrazas San Cristobal, Constitución #241, Región Metropolitana, Providencia"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Kechua - Terrazas San Cristóbal",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Jueves"
+      ],
+      "dia_texto": "jueves de septiembre",
+      "canal": null,
+      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial. 40% dto. jueves de septiembre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dcto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Terrazas San Cristobal, Constitución #241, Región Metropolitana, Providencia"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "Güeros - Ñuñoa",
       "categoria": "Sabores",
       "descuento": "40% dto.",
@@ -22041,6 +20901,29 @@
     {
       "banco": "Banco de Chile",
       "comercio": "Güeros - Terrazas San Cristobal",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Jueves"
+      ],
+      "dia_texto": "jueves de septiembre",
+      "canal": null,
+      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial. 40% dto. jueves de septiembre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dcto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Terrazas San Cristobal, Constitución #241, Región Metropolitana, Providencia"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Zacarías - Terrazas San Cristóbal",
       "categoria": "Sabores",
       "descuento": "40% dto.",
       "dia": [
@@ -22090,6 +20973,29 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "La Chimba - Terrazas San Cristóbal",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Jueves"
+      ],
+      "dia_texto": "jueves de septiembre",
+      "canal": null,
+      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial. 40% dto. jueves de septiembre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dcto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Terrazas San Cristobal, Constitución #241, Región Metropolitana, Providencia"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "Raffaella Cucina Napoletana",
       "categoria": "Sabores",
       "descuento": "50% dto.",
@@ -22134,6 +21040,255 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "DO SUSHI",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Miércoles",
+        "Sábado"
+      ],
+      "dia_texto": "miércoles y sábado de septiembre",
+      "canal": null,
+      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. todos los miércoles y sábado de septiembre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Avenida Suecia #155, Local 0167, Región Metropolitana, Providencia"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "PAD THAI",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Miércoles",
+        "Jueves",
+        "Viernes"
+      ],
+      "dia_texto": "miércoles a viernes de septiembre",
+      "canal": null,
+      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. miércoles a viernes de septiembre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dto. $50.000 por mesa",
+        "El día 31/12 el beneficio no aplica para cenas o eventos de año nuevo."
+      ],
+      "sucursales": [
+        "Manuel Montt #231, Región Metropolitana, Providencia"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Castillo Hamburgo",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Jueves",
+        "Domingo"
+      ],
+      "dia_texto": "jueves y domingo de septiembre",
+      "canal": null,
+      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. todos los jueves y domingo de septiembre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "40% dto. pagando con tus Tarjetas Visa del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Los Tres Antonios 397, Ñuñoa, Región Metropolitana"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Majestic",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Martes",
+        "Jueves",
+        "Sábado"
+      ],
+      "dia_texto": "martes, jueves y sábado de septiembre",
+      "canal": null,
+      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. martes, jueves y sábado de septiembre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial en www. majestic.cl o llamando al 242450337.",
+        "Dto no válido para el 14 de febrero día de los enamorados.",
+        "Tope dcto. $50.000 por mesa."
+      ],
+      "sucursales": [
+        "Av. Pdte. Kennedy Lateral 5600, Region Metropolitana, Las Condes"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Porfirio",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Martes",
+        "Viernes",
+        "Sábado"
+      ],
+      "dia_texto": "martes, viernes y sábado de septiembre",
+      "canal": null,
+      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. martes, viernes y sábado de septiembre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Av. Manuel Montt 697, Región Metropolitana, Providencia, Teléfono: +569 33919721"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Expendio",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Martes",
+        "Viernes",
+        "Sábado"
+      ],
+      "dia_texto": "martes, viernes y sábado de septiembre",
+      "canal": null,
+      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. martes, viernes y sábado de septiembre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Av. Manuel Montt 727, RM, Providencia"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "ANIMA",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Martes",
+        "Miércoles",
+        "Jueves",
+        "Viernes",
+        "Sábado",
+        "Domingo"
+      ],
+      "dia_texto": "martes a domingo de septiembre",
+      "canal": null,
+      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. martes a domingo de septiembre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Constitución 172, Región Metropolitana, Constitución 172"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "La Birrería",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Miércoles",
+        "Sábado"
+      ],
+      "dia_texto": "miércoles y sábado de septiembre",
+      "canal": null,
+      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. todos los miércoles y sábado de septiembre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dcto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Av. Pedro Fontova 7280, Local 106-107, Región Metropolitana, Huechuraba"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "ICA RESTAURANTE",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Sábado"
+      ],
+      "dia_texto": "sábado de septiembre",
+      "canal": null,
+      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. todos los sábado de septiembre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dcto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Isidora Goyenechea #2939, Región Metropolitana, Las Condes"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Majka Bistro",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Miércoles",
+        "Sábado"
+      ],
+      "dia_texto": "miércoles y sábado de septiembre",
+      "canal": null,
+      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. todos los miércoles y sábado de septiembre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Av. Príncipe de Gales #7102, Región Metropolitana, La Reina"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "miCoca-Cola.cl",
       "categoria": "Sabores",
       "descuento": "30% dto.",
@@ -22162,6 +21317,175 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "Al Pesto",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Jueves",
+        "Sábado"
+      ],
+      "dia_texto": "jueves y sábado de septiembre",
+      "canal": null,
+      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. jueves y sábado de septiembre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Boulevard Los Ingles, Av. Chicureo Km 2, Región Metropolitana, Colina"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Rolls Sushi & Nikkei",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Viernes",
+        "Domingo"
+      ],
+      "dia_texto": "viernes y domingo de septiembre",
+      "canal": null,
+      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. viernes y domingo de septiembre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Boulevard Los Ingles, Av. Chicureo Km 2, Región Metropolitana, Colina"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Miscelaneo Bar",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Martes",
+        "Miércoles",
+        "Jueves",
+        "Sábado"
+      ],
+      "dia_texto": "martes, miércoles, jueves y sábado de septiembre",
+      "canal": null,
+      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. todos los martes, miércoles, jueves y sábado de septiembre",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Santa María #5870, local 15, Región Metropolitana, Vitacura"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "La Cocina de Javier",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Miércoles",
+        "Sábado"
+      ],
+      "dia_texto": "miércoles y sábado de septiembre",
+      "canal": null,
+      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. todos los miércoles y sábado de septiembre",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "VITACURA #7482, Región Metropolitana, VITACURA"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Vitali´s",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Martes",
+        "Viernes"
+      ],
+      "dia_texto": "martes y viernes de septiembre",
+      "canal": null,
+      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. martes y viernes de septiembre",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Av Vitacura #8133, Región Metropolitana, Vitacura"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "SABOR Y AROMA",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Miércoles",
+        "Viernes"
+      ],
+      "dia_texto": "miércoles y viernes de septiembre",
+      "canal": null,
+      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. todos los miércoles y viernes de septiembre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Raúl Labbe #12559, Región Metropolitana, Lo Barnechea"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Aurea Restaurante",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Miércoles"
+      ],
+      "dia_texto": "miércoles de septiembre",
+      "canal": null,
+      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. miércoles de septiembre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "El Manantial #1781, Región Metropolitana, Vitacura, +569 35341318"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "Holy Moly",
       "categoria": "Sabores",
       "descuento": "20% dto.",
@@ -22182,6 +21506,121 @@
       "sucursales": [
         "Merced #318, Region Metropolitana, Santiago",
         "Hernando de Aguirre #129, Region Metropolitana, Providencia"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Barrica 94",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Sábado"
+      ],
+      "dia_texto": "sábado de septiembre",
+      "canal": null,
+      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. sábado de septiembre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Av. José Alcalde Délano #10533, local 1508, Región Metropolitana, Lo Barnechea"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Vitalicio",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Domingo"
+      ],
+      "dia_texto": "domingo de septiembre",
+      "canal": null,
+      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial. 40% dto. domingo de septiembre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dcto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "San Sebastián #2800, Región Metropolitana, Las Condes"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Barbazul - Terrazas San Cristóbal",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Jueves"
+      ],
+      "dia_texto": "jueves de septiembre",
+      "canal": null,
+      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial. 40% dto. jueves de septiembre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dcto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Terrazas San Cristobal, Constitución #241, Región Metropolitana, Providencia"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Vermutería - Terrazas San Cristóbal",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Jueves"
+      ],
+      "dia_texto": "jueves de septiembre",
+      "canal": null,
+      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial. 40% dto. jueves de septiembre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dcto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Terrazas San Cristobal, Constitución #241, Región Metropolitana, Providencia"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "YADO BY ASIA",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Martes"
+      ],
+      "dia_texto": "martes de septiembre",
+      "canal": null,
+      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. todos los martes de septiembre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Tomas Bonilla #815, Región de Tarapacá, Iquique"
       ]
     },
     {
@@ -22303,7 +21742,260 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "The Clock",
+      "comercio": "La Negra Restaurant",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Martes"
+      ],
+      "dia_texto": "martes de septiembre",
+      "canal": null,
+      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. martes de septiembre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Av. Senador Humberto Palza Corvacho #4040, Región de Arica y Parinacota, Arica"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Abrasas",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Martes"
+      ],
+      "dia_texto": "martes de septiembre",
+      "canal": null,
+      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. martes de septiembre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Pdte. Federico Errázuriz #952, Región de Magallanes y de la Antártica Chilena, Punta Arenas"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "MagBar",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Martes"
+      ],
+      "dia_texto": "martes de septiembre",
+      "canal": null,
+      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. todos los martes de septiembre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Avenida Argentina #255, Región de Ñuble, Chillán"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Mosto",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Martes"
+      ],
+      "dia_texto": "martes de septiembre",
+      "canal": null,
+      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. todos los martes de septiembre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Diego Portales #204, Región de los Lagos, Puerto Varas"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Margarita Bar",
+      "categoria": "Sabores",
+      "descuento": "40% dto",
+      "dia": [
+        "Martes"
+      ],
+      "dia_texto": "martes de septiembre",
+      "canal": null,
+      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial. 40% dto. todos los martes de septiembre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Piacavi #284, Región del Biobío, Concepción"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Novu",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Miércoles"
+      ],
+      "dia_texto": "miércoles de septiembre",
+      "canal": null,
+      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. todos los miércoles de septiembre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dcto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Carrera #301, Maule, Curicó"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Pata Liebre",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Miércoles"
+      ],
+      "dia_texto": "miércoles de septiembre",
+      "canal": null,
+      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. todos los miércoles de septiembre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dcto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Diego Portales #318, Región de los Los Lagos, Puerto Varas"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Sello de Raza",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Jueves"
+      ],
+      "dia_texto": "jueves de septiembre",
+      "canal": null,
+      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. todos los jueves de septiembre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Las Encinas #191, Región de los Ríos, Valdivia"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "La Joya Cantina",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Jueves"
+      ],
+      "dia_texto": "jueves de septiembre",
+      "canal": null,
+      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial. 40% dto. jueves de septiembre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dcto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "EUSEBIO LILLO #200, Región de Valparaíso, Valparaíso"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Club de Golf los lirios",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Viernes"
+      ],
+      "dia_texto": "viernes de septiembre",
+      "canal": null,
+      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial. 40% dto. todos los viernes de septiembre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Carretera 5 Sur Km 93 Los Lirios, Región de OHiggins, Requínoa"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Otto Burger",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Viernes"
+      ],
+      "dia_texto": "viernes de septiembre",
+      "canal": null,
+      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial. 40% dto. todos los viernes de septiembre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope de dto. $50.000"
+      ],
+      "sucursales": [
+        "Av Manuel Labra Lillo #350, Región Maule, Curicó"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Greta",
       "categoria": "Sabores",
       "descuento": "40% dto.",
       "dia": [
@@ -22313,15 +22005,15 @@
       "canal": null,
       "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
       "condiciones": [
-        "Válido para consumo presencial. 40% dto. sábados de septiembre.",
+        "Válido para consumo presencial 40% dto. sábados de septiembre.",
         "Solicita el descuento al momento de pagar en el restaurant.",
         "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
         "No acumulable con otras promociones.",
         "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dcto. $50.000 por mesa"
+        "Tope dto. $50.000 por mesa"
       ],
       "sucursales": [
-        "Conrado Amthauer #850, Los Lagos, Osorno"
+        "2 Nte. 3815, Región del Maule, Talca"
       ]
     },
     {
@@ -22602,6 +22294,319 @@
       "vigencia": null,
       "condiciones": [],
       "sucursales": []
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Local Burger",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Lunes",
+        "Domingo"
+      ],
+      "dia_texto": "lunes y domingo de septiembre",
+      "canal": null,
+      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. todos los lunes y domingo de septiembre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Los Militares #5934, Región Metropolitana, Las Condes",
+        "Irarrazaval #5350, Región Metropolitana, Ñuñoa",
+        "Providencia #1403, Región Metropolitana, Providencia"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Impasto",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Lunes",
+        "Martes",
+        "Jueves",
+        "Sábado"
+      ],
+      "dia_texto": "lunes, martes, jueves y sábado de septiembre",
+      "canal": null,
+      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. lunes, martes, jueves y sábado de septiembre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Tope dto. $50.000 por mesa."
+      ],
+      "sucursales": [
+        "Alférez Real #1485, Región Metropolitana, Providencia"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Ari Nikkei",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Lunes",
+        "Miércoles"
+      ],
+      "dia_texto": "lunes y miércoles de septiembre",
+      "canal": null,
+      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. todos los lunes y miércoles de septiembre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dcto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Cam. El Alba 11969, Región Metropolitana, Las Condes",
+        "Av. José Alcalde Délano 10492, Región Metropolitana, Lo Barnechea"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Brasas del Arriero",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Lunes",
+        "Martes",
+        "Miércoles",
+        "Jueves",
+        "Viernes"
+      ],
+      "dia_texto": "lunes a viernes de septiembre",
+      "canal": null,
+      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. lunes a viernes de septiembre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Trinidad Ote. 1307, Región Metropolitana, La Florida, (2) 2710 2321"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Verde Sazón",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días de septiembre",
+      "canal": null,
+      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. todos los días de septiembre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dcto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Miguel Claro 1873, Región Metropolitana, Providencia"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "La Previa Bar",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Lunes",
+        "Martes"
+      ],
+      "dia_texto": "lunes y martes de septiembre",
+      "canal": null,
+      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. lunes y martes de septiembre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Avenida Alemania #01765, Región de la Araucanía, Temuco"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Augusta",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Lunes"
+      ],
+      "dia_texto": "lunes de septiembre",
+      "canal": null,
+      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. todos los lunes de septiembre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dcto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Paso Hondo #209, Región del Bío Bío, Concepción"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "The Clock",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Sábado"
+      ],
+      "dia_texto": "sábados de septiembre",
+      "canal": null,
+      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial. 40% dto. sábados de septiembre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dcto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Conrado Amthauer #850, Los Lagos, Osorno"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Fogón Greed",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Domingo"
+      ],
+      "dia_texto": "domingos de septiembre",
+      "canal": null,
+      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. todos los domingos de septiembre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Ignacio Zenteno #2661,, Región de Los Lagos, Osorno"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Jardín Ulriksen",
+      "categoria": "Sabores",
+      "descuento": "40% dto",
+      "dia": [
+        "Lunes"
+      ],
+      "dia_texto": "lunes de septiembre",
+      "canal": null,
+      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial.",
+        "40% dto. lunes de septiembre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Av Guillermo Ulriksen #2845, Región de Coquimbo, La Serena"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Greed Taproom",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Martes"
+      ],
+      "dia_texto": "martes de septiembre",
+      "canal": null,
+      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. todos los martes de septiembre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Ignacio Zenteno #2661, Región de Los Lagos, Osorno"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Dominga Bistró",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Domingo"
+      ],
+      "dia_texto": "domingos de septiembre",
+      "canal": null,
+      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. todos los domingos de septiembre",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dto. $50.000 por mesa",
+        "Exclusivo Valdivia."
+      ],
+      "sucursales": [
+        "Filomena Valenzuela #221, Región de Tarapacá, Iquique"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Pistacho",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Domingo"
+      ],
+      "dia_texto": "domingos de septiembre",
+      "canal": null,
+      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. todos los domingos de septiembre",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope $50.000 de dto"
+      ],
+      "sucursales": [
+        "Strip Center Portal Las Quemas local 15 y 16, Osorno, Los Lagos"
+      ]
     },
     {
       "banco": "Banco de Chile",
@@ -23408,6 +23413,154 @@
       "sucursales": []
     },
     {
+      "banco": "Banco de Chile",
+      "comercio": "El mesón de la Patagonia",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Viernes"
+      ],
+      "dia_texto": "viernes de septiembre",
+      "canal": null,
+      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial. 40% dto. viernes de septiembre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dcto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Lo Barnechea #1223, Región Metropolitana, Lo Barnechea"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Santa Brasa",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Lunes"
+      ],
+      "dia_texto": "lunes de septiembre sucursales de Alonso de Córdova y Concón",
+      "canal": null,
+      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. todos los lunes de septiembre",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Alonso de Córdova #4260, Región Metropolitana, Vitacura",
+        "Av. José Alcalde Délano #10494, Región Metropolitana, Lo Barnechea",
+        "Sta. Elena #671, Región de Valparaíso, Concón"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Visa Days | Fiestas Patrias",
+      "categoria": "Entretención y Deportes",
+      "descuento": "Hasta 40% dto.",
+      "dia": [],
+      "dia_texto": "pagando con tus Tarjetas Visa",
+      "canal": null,
+      "vigencia": "Promoción válida el viernes 4 y sábado 5 de septiembre de 2026.",
+      "condiciones": [
+        "En estas Fiestas Patrias, celebra con descuentos exclusivos pagando con tus Tarjetas Visa. Promoción válida el viernes 4 y sábado 5 de septiembre de 2026.",
+        "HASTA 40% dto. en TIENDAS ADHERIDAS en compras presenciales con tu Tarjeta Visa Banco de Chile.",
+        "Viernes 4 y sábado 5 de septiembre de 2026 en Mall Marina, Mall Curicó, Mall del Centro Concepción, Parque Arauco, Arauco Maipú.",
+        "Marcas Adheridas: The Body Shop, BSOUL, Beauty.plus, Studio F, Reebok, Ópticas Schilling, Rosen, Ashley, Cocha, CIC, Victorinox, entre otras."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Shell",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "$100 dto. por litro",
+      "dia": [],
+      "dia_texto": "de combustible pagando con tus Tarjetas de Crédito",
+      "canal": null,
+      "vigencia": "Promoción válida del 16 a 20 de septiembre de 2026, o hasta agotar stock.",
+      "condiciones": [
+        "Promoción válida del 16 a 20 de septiembre de 2026, o hasta agotar stock.",
+        "⁠Disfruta de la ruta igual que tu destino pagando con tus Tarjetas de Crédito del Chile en la nueva App Shell:",
+        "$100 de descuento por litro de combustible.",
+        "Pagando con tus Tarjetas de Crédito a través de la Nueva App Shell.",
+        "2 usos por cliente durante el período de la promoción.",
+        "Tope de descuento hasta 70 litros por carga.",
+        "¿Cómo obtener tu descuento?",
+        "1.Descarga la nueva App Shell desde tu teléfono móvil.",
+        "2.Enrola tu Tarjeta de Crédito Banco de Chile en la sección Billetera.",
+        "3.Solicita al atendedor pagar con la App Shell y selecciona tu descuento Banco de Chile antes de pagar.",
+        "4.El descuento se aplicará automáticamente al momento del pago."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Piero Butti",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "20% dcto",
+      "dia": [
+        "Jueves"
+      ],
+      "dia_texto": "todos los jueves",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Ropa y accesorios de hombre Recuerda que:",
+        "Válido con Tarjetas de Crédito y Débito Santander.",
+        "Valido en tiendas físicas y en www.pierobuttistore.cl",
+        "No acumulable a descuentos y promociones vigentes. A fines de septiembre se sorteará una Moto Vespa entre sus seguidores de Instagram",
+        "Ingresa los 6 primeros dígitos de tu Tarjeta como código de descuento.",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "GOODYEAR",
+      "categoria": "Cuotas Sin Interés",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "3 a 6 cuotas sin interés",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "GOODYEAR",
+        "Exclusivo pagando con tus Tarjetas de Crédito Santander.",
+        "Válido en tienda.",
+        "CAE 1,36% Calculado por un monto referencial de compra de $1.000.000 en 6 cuotas. Costo total del Crédito: $1.003.960. Operación afecta a impuesto al crédito a cargo del cliente.",
+        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Mitta",
+      "categoria": "Viajes",
+      "descuento": "35% dcto.",
+      "dia": [],
+      "dia_texto": "en arriendo diario más 3 a 6 cuotas sin interés",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "¡Arriendos de autos con precios únicos!",
+        "Exclusivo con tus Tarjetas de Crédito y Débito Santander.",
+        "Válido en www.mitta.cl",
+        "Ingresando los 6 primeros dígitos de tu Tarjeta como código de descuento.",
+        "Promoción sujeta a disponibilidad de categorías. La tarifa publicada incluye CDW (colisión) que no es descontable. Descuento aplica solamente en arriendos de personas naturales. No aplica sobre opcionales y servicios adicionales (seguros, TAG, bencina, cargo aeropuerto, impuesto).",
+        "No acumulable a otras promociones.",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​​"
+      ],
+      "sucursales": []
+    },
+    {
       "banco": "Banco Santander",
       "comercio": "vambe",
       "categoria": null,
@@ -23628,27 +23781,6 @@
         "Tope de $50.000 de descuento en compras sobre $49.990",
         "Acumulable con otras promociones.",
         "Código de descuento: Santander15blik",
-        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Piero Butti",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": "20% dcto",
-      "dia": [
-        "Jueves"
-      ],
-      "dia_texto": "todos los jueves",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Ropa y accesorios de hombre Recuerda que:",
-        "Válido con Tarjetas de Crédito y Débito Santander.",
-        "Valido en tiendas físicas y en www.volkanica.cl",
-        "No acumulable a descuentos y promociones vigentes. A fines de septiembre se sorteará una Moto Vespa entre sus seguidores de Instagram",
-        "Ingresa los 6 primeros dígitos de tu Tarjeta como código de descuento.",
         "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
       ],
       "sucursales": []
@@ -24547,7 +24679,7 @@
       "dia": [
         "Jueves"
       ],
-      "dia_texto": "adicional todos los jueves y acumula 1 Milla LATAM Pass adicional",
+      "dia_texto": "adicional todos los jueves",
       "canal": null,
       "vigencia": null,
       "condiciones": [
@@ -27096,26 +27228,6 @@
         "Ingresando los 6 primeros dígitos de tu Tarjeta como código de descuento.",
         "Descuento máximo por pedido de $100.000",
         "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​"
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Mitta",
-      "categoria": "Viajes",
-      "descuento": "35% dcto.",
-      "dia": [],
-      "dia_texto": "en arriendo diario",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "¡Arriendos de autos con precios únicos!",
-        "Exclusivo con tus Tarjetas de Crédito y Débito Santander.",
-        "Válido en www.mitta.cl",
-        "Ingresando los 6 primeros dígitos de tu Tarjeta como código de descuento.",
-        "Promoción sujeta a disponibilidad de categorías. La tarifa publicada incluye CDW (colisión) que no es descontable. Descuento aplica solamente en arriendos de personas naturales. No aplica sobre opcionales y servicios adicionales (seguros, TAG, bencina, cargo aeropuerto, impuesto).",
-        "No acumulable a otras promociones.",
-        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​​"
       ],
       "sucursales": []
     },
