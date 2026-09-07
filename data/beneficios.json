@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-06T13:51",
+  "actualizado": "2026-09-07T16:12",
   "beneficios": [
     {
       "banco": "Banco de Chile",
@@ -10131,26 +10131,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Greed Taproom",
-      "categoria": "Sabores",
-      "descuento": "20% dto.",
-      "dia": [
-        "Domingo"
-      ],
-      "dia_texto": "domingo",
-      "canal": null,
-      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
-      "condiciones": [
-        "¡Bienvenidos a Greed Taproom! Abrimos nuestras puertas en 2021 y somos el bar cervecero de la ciudad de Osorno, y nos especializamos en ofrecer una experiencia única para todos aquellos que disfrutan de la buena comida y la cerveza artesanal. En nuestras casas, contamos con una fábrica de cerveza propia donde elaboramos cuidadosamente nuestras cervezas artesanales, lo que nos convierte en un auténtico Taproom. Utilizamos ingredientes de alta calidad y técnicas tradicionales para brindar a nuestros clientes una experiencia inigualable. Además de nuestras buenas cervezas, ofrecemos una variada carta influenciada por la gastronomía norteamericana, y en la barra una amplia selección de coctelería nacional y de autor. Nuestro objetivo es que te rías fuerte, tomes una buena cerveza (tragos también) y disfrutes de la buena mesa. ¡Aquí hay espacio para todos! ¡Ven a vivir la experiencia Greed Taproom!",
-        "20% dto todos los domingo pagando con tus Tarjetas del Chile.",
-        "No acumulable con otras ofertas, menú y/o promociones."
-      ],
-      "sucursales": [
-        "Ignacio Zenteno #2661, Región de Los Lagos, Osorno, Teléfono +569 61585365"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "Canje 100% Dólares-Premio",
       "categoria": "Retail y Otras Marcas",
       "descuento": null,
@@ -15591,45 +15571,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "EL VOLCAN",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": "20% dto.",
-      "dia": [
-        "Miércoles"
-      ],
-      "dia_texto": "miércoles",
-      "canal": "Ambos",
-      "vigencia": "Promoción válida hasta el 30 de junio de 2027.",
-      "condiciones": [
-        "Especialistas en mesa, cocina y equipamiento gastronómico. Más de 70 años de trayectoria como el aliado de confianza de la industria profesional y los hogares.",
-        "20% dto. todos los miércoles.",
-        "No acumulable a otras promociones y/o descuentos.",
-        "Beneficio excluye categorías electrodomésticos y maquinaria.",
-        "Para compras en tiendas físicas solicita tu descuento al momento de pagar.",
-        "Para compras online ingresa POS-VOLCANBCH como cupón de descuento en elvolcan.cl",
-        "Descuento no incluye valor de despacho (revisar cobertura y valores en elvolcan.cl )",
-        "Beneficio exclusivo pagando con tus Tarjetas del Chile."
-      ],
-      "sucursales": [
-        "La Tranquera, Av. Las Tranqueras 70, Región Metropolitana, Las Condes",
-        "Luis Pasteur, Av. Luis Pasteur 6607, Región Metropolitana, Vitacura",
-        "Parque Arauco, Av. Pdte. Kennedy 5413 Nivel 3 - Local 576, Región Metropolitana, Las Condes",
-        "San Diego, Av. San Diego 767, Región Metropolitana, Santiago",
-        "Easton Outlet Mall, Av. Eduardo Frei Montalva 9709 Ruta 5 Esq. San Ignacio. Local 712-B, Región Metropolitana, Quilicura",
-        "Mall Plaza Los Dominicos, Av. Padre Hurtado 875 Nivel 2 Local C2137-2141-2145, Región Metropolitana, Las Condes",
-        "Mall Plaza Egaña, Av. Larraín 5862 Local 145, Región Metropolitana, La Reina",
-        "Mall Plaza El Trébol, Av. Jorge Alessandri 3177, Concepción. Local F-152, F-154 y F-156, Región del Biobío, Talcahuano",
-        "Viña del Mar, Av. Libertad 859, Viña del Mar, Región de Valparaíso, Viña del Mar",
-        "Temuco, Av. Alemania 0890 Local 3, Región de la Araucanía, Temuco",
-        "Mall Plaza Oeste, Av. Américo Vespucio 1501, Cerrillos. Local BA 125-129, Región Metropolitana, Cerrillos",
-        "Costanera Center, Av. Andrés Bello 2425, Providencia Costanera Center - Nivel 4 Local 4142, Región Metropolitana, Providencia",
-        "Mall Plaza Maule, Circunvalación Oriente #1055. Talca Local: 2207, Nivel 2, Región del Maule, Talca",
-        "Mall Paseo Alerce, Outlet Paseo Alerce Local 121 - Nivel 1 - Av. Ferrocarril 2001, Región de Los Lagos, Puerto Montt",
-        "Patio Outlet Peñuelas, Outlet Patio Peñuelas Ruta 5 norte, Región Arica S/N, Local 1280, Región de Coquimbo, La Serena"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "MOTA",
       "categoria": "Retail y Otras Marcas",
       "descuento": "25% dto.",
@@ -19010,6 +18951,30 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "Pedro es una Pizza",
+      "categoria": "Sabores",
+      "descuento": "20% dto.",
+      "dia": [
+        "Martes"
+      ],
+      "dia_texto": "martes",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 30 de junio del 2027.",
+      "condiciones": [
+        "Un rincón con espíritu neoyorquino y un gran patio para disfrutar sin apuro. Las protagonistas son las pizzas estilo New York, de masa madre y larga fermentación, acompañadas de coctelería, cervezas bien heladas, ensaladas frescas y postres. Un espacio relajado, con buena música y ambiente casual, ideal para juntarse con amigos, compartir en familia o disfrutar de una buena pizza.",
+        "20% dto. martes presencial.",
+        "Tope de dto. $50.000",
+        "No válido para menú, Happy Hour ni otras promociones vigentes.",
+        "Solicita tu descuento al momento de pagar.",
+        "No acumulable con otras promociones.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Av. Los Leones 952, Region Metropolitana, Providencia"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "Il Mascarpone – Justo",
       "categoria": "Sabores",
       "descuento": "30% dto.",
@@ -19283,29 +19248,6 @@
       ],
       "sucursales": [
         "Simón Bolívar #5156, Región Metropolitana, Ñuñoa"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Preuniversitario Alameda",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": "25% dto.",
-      "dia": [
-        "Todos los días"
-      ],
-      "dia_texto": "todos los días",
-      "canal": "Ambos",
-      "vigencia": "Promoción válida hasta el 31 de agosto de 2027.",
-      "condiciones": [
-        "En Preuniversitario Alameda cuentan con más de 20 años de experiencia preparando a miles de estudiantes para su ingreso a la educación superior. A través de un equipo de profesores de excelencia, programas adaptados a todos los niveles y modalidades presenciales y online, ofrecen una preparación de calidad para enfrentar con éxito la PAES.",
-        "25% dto. en todos los programas y matrícula, presencial y en preualameda.cl",
-        "Para compra presencial solicita tu descuento al momento de pagar.",
-        "Para acceder al dto. online, agenda una asesoría en preualameda.cl e indica que vienes por la alianza para acceder al beneficio.",
-        "No acumulable con otras promociones.",
-        "Descuento exclusivo pagando con tus Tarjetas del Chile."
-      ],
-      "sucursales": [
-        "Almirante Barroso #156, Region Metropolitana, Santiago"
       ]
     },
     {
@@ -20276,6 +20218,29 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "Barra Olivo",
+      "categoria": "Sabores",
+      "descuento": "30% dto.",
+      "dia": [
+        "Viernes"
+      ],
+      "dia_texto": "viernes",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 30 de diciembre del 2027.",
+      "condiciones": [
+        "Barra Olivo es un restaurante de Chicureo que ofrece una experiencia gastronómica elegante y acogedora. Su propuesta combina cocina de inspiración peruana y mediterránea con una cuidada selección de cócteles y vinos. Un punto de encuentro ideal para disfrutar, compartir y vivir buenos momentos en torno a la mesa y su barra.",
+        "30% dto. viernes en compra presencial.",
+        "No válido para menú, Happy Hour ni otras promociones vigentes.",
+        "Solicita tu descuento al momento de pagar.",
+        "No acumulable con otras promociones.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Boulevard Los Ingleses de Chicureo, Local 16, Región Metropolitana, Colina"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "Clínica Estética Dr. Claudio Villegas",
       "categoria": "Salud y Belleza",
       "descuento": "20% dto.",
@@ -20553,6 +20518,45 @@
       "sucursales": [
         "Ruta H 66, Región del Libertador Gral. Bernardo OHiggins, Peumo",
         "local 5, Diego Portales 081, Región del Libertador Gral. Bernardo OHiggins, San Vicente"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "EL VOLCAN",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "20% dto.",
+      "dia": [
+        "Miércoles"
+      ],
+      "dia_texto": "miércoles",
+      "canal": "Ambos",
+      "vigencia": "Promoción válida hasta el 30 de junio de 2027.",
+      "condiciones": [
+        "Especialistas en mesa, cocina y equipamiento gastronómico. Más de 70 años de trayectoria como el aliado de confianza de la industria profesional y los hogares.",
+        "20% dto. todos los miércoles.",
+        "No acumulable a otras promociones y/o descuentos.",
+        "Beneficio excluye categorías electrodomésticos, maquinaria y parrillas.",
+        "Para compras en tiendas físicas solicita tu descuento al momento de pagar.",
+        "Para compras online ingresa POS-VOLCANBCH como cupón de descuento en elvolcan.cl",
+        "Descuento no incluye valor de despacho (revisar cobertura y valores en elvolcan.cl )",
+        "Beneficio exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "La Tranquera, Av. Las Tranqueras 70, Región Metropolitana, Las Condes",
+        "Luis Pasteur, Av. Luis Pasteur 6607, Región Metropolitana, Vitacura",
+        "Parque Arauco, Av. Pdte. Kennedy 5413 Nivel 3 - Local 576, Región Metropolitana, Las Condes",
+        "San Diego, Av. San Diego 767, Región Metropolitana, Santiago",
+        "Easton Outlet Mall, Av. Eduardo Frei Montalva 9709 Ruta 5 Esq. San Ignacio. Local 712-B, Región Metropolitana, Quilicura",
+        "Mall Plaza Los Dominicos, Av. Padre Hurtado 875 Nivel 2 Local C2137-2141-2145, Región Metropolitana, Las Condes",
+        "Mall Plaza Egaña, Av. Larraín 5862 Local 145, Región Metropolitana, La Reina",
+        "Mall Plaza El Trébol, Av. Jorge Alessandri 3177, Concepción. Local F-152, F-154 y F-156, Región del Biobío, Talcahuano",
+        "Viña del Mar, Av. Libertad 859, Viña del Mar, Región de Valparaíso, Viña del Mar",
+        "Temuco, Av. Alemania 0890 Local 3, Región de la Araucanía, Temuco",
+        "Mall Plaza Oeste, Av. Américo Vespucio 1501, Cerrillos. Local BA 125-129, Región Metropolitana, Cerrillos",
+        "Costanera Center, Av. Andrés Bello 2425, Providencia Costanera Center - Nivel 4 Local 4142, Región Metropolitana, Providencia",
+        "Mall Plaza Maule, Circunvalación Oriente #1055. Talca Local: 2207, Nivel 2, Región del Maule, Talca",
+        "Mall Paseo Alerce, Outlet Paseo Alerce Local 121 - Nivel 1 - Av. Ferrocarril 2001, Región de Los Lagos, Puerto Montt",
+        "Patio Outlet Peñuelas, Outlet Patio Peñuelas Ruta 5 norte, Región Arica S/N, Local 1280, Región de Coquimbo, La Serena"
       ]
     },
     {
@@ -21262,34 +21266,6 @@
       "sucursales": [
         "Av. Príncipe de Gales #7102, Región Metropolitana, La Reina"
       ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "miCoca-Cola.cl",
-      "categoria": "Sabores",
-      "descuento": "30% dto.",
-      "dia": [],
-      "dia_texto": "en miCoca-Cola.cl más despacho gratis",
-      "canal": null,
-      "vigencia": "Promoción válida del 31 de agosto al 6 de septiembre de 2026.",
-      "condiciones": [
-        "30% dto. en miCoca-Cola.cl más despacho gratis pagando con tus Tarjetas del Chile. en miCoca-Cola.cl del 31 de agosto al 6 de septiembre. ¿Cómo obtener tu descuento?",
-        "Ingresa a miCoca-Cola.cl",
-        "Elige tu ciudad.",
-        "Agrega al carrito de compras los productos que quieras.",
-        "Luego, ingresa los 6 primeros dígitos de tu Tarjeta como código de descuento.",
-        "Recibe tu pedido y disfruta.",
-        "Despacho gratis por compras sobre $30.000 después de aplicado el dto.",
-        "Beneficio exclusivo pagando con tus Tarjetas del Chile.",
-        "Beneficio no acumulable con otras promociones.",
-        "Tope de descuento $30.000 por compra.",
-        "Válido para 2 compras por cliente.",
-        "Un código de descuento válido por pedido.",
-        "No aplica en compras con Gift Cards.",
-        "Revisa cobertura de despacho en miCoca-Cola.cl",
-        "Recuerda que con tus Tarjetas de Crédito puedes pagar en 3 cuotas sin interés (2) Para una compra de $100.000 en 3 cuotas de $33.333 CAE de 1.19%. Costo Total $100.198"
-      ],
-      "sucursales": []
     },
     {
       "banco": "Banco de Chile",
@@ -22645,6 +22621,29 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "La Olla",
+      "categoria": "Sabores",
+      "descuento": "20% dto.",
+      "dia": [
+        "Martes"
+      ],
+      "dia_texto": "martes",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 31 de diciembre del 2027.",
+      "condiciones": [
+        "La Olla es un clásico de Puerto Varas y la mesa del mar a la que siempre se regresa. Una parada obligada por sus pescados y mariscos, el sabor de sus platos y una cocina honesta que, junto a su forma cercana de recibir, hace que siempre den ganas de volver.",
+        "20% dto. martes en compra presencial.",
+        "No válido para menú, Happy Hour ni otras promociones vigentes.",
+        "Solicita tu descuento al momento de pagar.",
+        "No acumulable con otras promociones.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Ruta 225 Los Castaños S/N Lote 1, Region de Los Lagos, Puerto Varas"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "El mesón de la Patagonia",
       "categoria": "Sabores",
       "descuento": "40% dto.",
@@ -22714,6 +22713,51 @@
       "sucursales": [
         "Filomena Valenzuela #221, Región de Tarapacá, Iquique",
         "Avenida Benjamín Viel S/N, Región de Los Ríos, Valdivia"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Expo Jardines 2026",
+      "categoria": "Entretención y Deportes",
+      "descuento": "25% dto.",
+      "dia": [],
+      "dia_texto": "en entradas",
+      "canal": null,
+      "vigencia": "Beneficio hasta agotar stock de 10.000 códigos para el evento.",
+      "condiciones": [
+        "Expo Jardines 2026 Lugar: Parque Bicentenario, Vitacura. Fechas: 15 al 18 de octubre Horario: 10:00 a 22:00 hrs Venta Entradas desde el 7 de septiembre de 2026 a las 12:00 hrs. hasta el 18 de octubre de 2026 o hasta agotar stock.",
+        "25% dto. en entradas pagando con tus Tarjetas del Chile.",
+        "Descarga tu código.",
+        "Ingrésalo como código de dto. en www.clubdejardinesdechile.cl",
+        "Paga con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Avda Bicentenario #3800, Región Metropolitana, Vitacura"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Preuniversitario Alameda",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "25% dto.",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días",
+      "canal": "Ambos",
+      "vigencia": "Promoción válida hasta el 31 de agosto de 2027.",
+      "condiciones": [
+        "En Preuniversitario Alameda cuentan con más de 20 años de experiencia preparando a miles de estudiantes para su ingreso a la educación superior. A través de un equipo de profesores de excelencia, programas adaptados a todos los niveles y modalidades presenciales y online, ofrecen una preparación de calidad para enfrentar con éxito la PAES.",
+        "25% dto. en todos los programas y matrícula, presencial y en preualameda.cl",
+        "Para compra presencial solicita tu descuento al momento de pagar.",
+        "Para acceder al dto. online, agenda una asesoría en preualameda.cl e indica que vienes por la alianza para acceder al beneficio.",
+        "No acumulable con otras promociones.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Almirante Barroso #156, Region Metropolitana, Santiago",
+        "Av. Libertador Bernardo O´Higgins #1112, Oficina #902, Region Metropolitana, Santiago",
+        "Yumbel #883, Región del Libertador General Bernardo O´Higgins, San Fernando"
       ]
     },
     {
@@ -23511,6 +23555,168 @@
       ]
     },
     {
+      "banco": "Banco de Chile",
+      "comercio": "La Barra",
+      "categoria": "Sabores",
+      "descuento": "20% dto. adicional",
+      "dia": [],
+      "dia_texto": "del 7 al 9 de septiembre",
+      "canal": null,
+      "vigencia": "Promoción válida del 7 al 9 de septiembre de 2026.",
+      "condiciones": [
+        "20% dto. adicional a otros descuentos pagando con tus Tarjetas del Chile del 7 al 9 de septiembre en labarra.cl y App La Barra.",
+        "Ingresa a labarra.cl o App La Barra",
+        "Paga a través del Botón de Pago Banco de Chile con tus Tarjetas de Crédito o Débito del Banco de Chile. ¡Recibe tu pedido y disfruta!",
+        "2 transacciones por cliente durante la vigencia de la promoción. Tope de dto. $60.000 por transacción.",
+        "Paga en 3 cuotas sin interés.",
+        "Tus compras en esta campaña tienen doble acumulación de Dólares-Premio."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "miCoca-Cola.cl",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "30% dcto.",
+      "dia": [],
+      "dia_texto": "y acumula 2 milla adicionales",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "¡Refréscate con miCoca-Cola.cl!",
+        "Con tus Tarjetas de Crédito : Beneficios válidos por compras sobre $30.000 (ya aplicado el descuento)",
+        "Máximo $30.000 de descuento.",
+        "2 usos por cliente.",
+        "1 cupón por pedido.",
+        "No acumulable con otras promociones/descuentos, ni pago con Giftcards.",
+        "Válido para Bines de Tarjetas de Crédito del Banco Santander.",
+        "Para acceder al descuento se deben ingresar los 6 primeros dígitos de tu tarjeta como código de descuento.",
+        "Despacho gratis válido en pedidos programados y en compras sobre $30.000, una vez aplicado el descuento.",
+        "Acumula 2 millas LATAM Pass adicionales por dólar gastado, pagando con tus Tarjetas de crédito Santander LATAM Pass",
+        "Con tus Tarjetas de Débito : Beneficios válidos por compras sobre $30.000 (ya aplicado el descuento)",
+        "Máximo $30.000 de descuento.",
+        "2 usos por cliente.",
+        "1 cupón por pedido.",
+        "No acumulable con otras promociones/descuentos, ni pago con Giftcards.",
+        "Válido para Bines de Tarjetas de Débito del Banco Santander.",
+        "Para acceder al descuento se deben ingresar los 6 primeros dígitos de tu tarjeta como código de descuento.",
+        "Despacho gratis válido en pedidos programados y en compras sobre $30.000, una vez aplicado el descuento.",
+        "Promoción válida solo para compras realizadas del 7 al 13 de septiembre de 2026 en micoca-cola.cl pagando con Tarjetas de Crédito Santander LATAM Pass. Conoce las condiciones del descuento en micoca-cola.cl. La bonificación de millas estructural se realizará según nivel y tarjeta de Crédito Santander LATAM Pass del cliente, más 2 millas adicionales por dólar gastado por compras realizadas en campaña. La acreditación de Millas LATAM Pass se realizará en el mes siguiente de la compra. Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio. La administración del programa LATAM Pass es de exclusiva responsabilidad de LATAM Airlines GroupS.A. sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Conoce más sobre Santander Rewards y su reglamento en: https:banco.santander.cl/rewards."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Revesderecho",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "25% dcto.",
+      "dia": [
+        "Lunes"
+      ],
+      "dia_texto": "hasta  todos los lunes",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Comparte tu arte, crea hoy. Materiales perfectos para crochet, tejido a dos agujas y todo tipo de manualidades.",
+        "Exclusivo pagando con tus Tarjetas de Crédito y Débito Santander.",
+        "Válido en tiendas y www.revesderecho.cl",
+        "Ingresa los 6 primeros dígitos de tu Tarjeta como código de descuento",
+        "No acumulable con otras promociones.",
+        "20% dcto. exclusivo en todos los ovillos.",
+        "25% dcto. exclusivo en accesorios, no incluye libros y sets.",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Penguin",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "20% dcto.",
+      "dia": [
+        "Martes"
+      ],
+      "dia_texto": "todos los martes",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Polos, vestuario, calzado y accesorios",
+        "Exclusivo pagando con tus Tarjetas de Crédito y Débito Santander.",
+        "Válido en tiendas y www.originalpenguin.cl",
+        "Ingresa los 6 primeros dígitos de tu Tarjeta como código de descuento.",
+        "Excluye días cyber.",
+        "No acumulable con otras promociones.",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Florsheim",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "20% dcto.",
+      "dia": [
+        "Martes"
+      ],
+      "dia_texto": "todos los martes",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Marca de calzado masculino proveniente de Estados Unidos que lleva más de 120 años diseñando zapatos para hombres",
+        "Exclusivo con tus Tarjetas de Crédito y Débito Santander.",
+        "Válido en tiendas y www.florsheim.cl",
+        "Ingresa los 6 primeros dígitos de tu Tarjeta como código de descuento.",
+        "Excluye días cyber.",
+        "No acumulable con otros descuentos o promociones.",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Perry Ellis",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "20% dcto.",
+      "dia": [
+        "Martes"
+      ],
+      "dia_texto": "todos los martes",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Calidad y estilo",
+        "Exclusivo con tus Tarjetas de Crédito y Débito Santander.",
+        "Válido en tiendas y www.perryellis.cl",
+        "Ingresa los 6 primeros dígitos de tu Tarjeta como código de descuento.",
+        "Excluye días cyber.",
+        "No acumulable con otros descuentos o promociones",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Trial",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "20% dcto.",
+      "dia": [
+        "Martes"
+      ],
+      "dia_texto": "todos los martes",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Combina materias primas de calidad con diseño inteligente y actual en las prendas",
+        "Exclusivo con tus Tarjetas de Crédito y Débito Santander.",
+        "Válido en tiendas y www.trial.cl",
+        "Excluye días cyber.",
+        "No acumulable a otras promociones",
+        "Ingresa los 6 primeros dígitos de tu Tarjeta como código de descuento",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
+      ],
+      "sucursales": []
+    },
+    {
       "banco": "Banco Santander",
       "comercio": "Acceso preferente",
       "categoria": "Musica",
@@ -24170,27 +24376,6 @@
         "No acumulable con otras promociones. Excluye Cyber y fechas Black.",
         "Exclusivo en el Curso Full mecánico. Curso Obtención licencia Clase A2 (Ley Uber, taxis y Van hasta 17 personas).",
         "Ingresa los 6 primeros dígitos de tu Tarjeta como código de descuento.",
-        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Revesderecho",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": "25% dcto.",
-      "dia": [],
-      "dia_texto": "hasta",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Comparte tu arte, crea hoy. Materiales perfectos para crochet, tejido a dos agujas y todo tipo de manualidades.",
-        "Exclusivo pagando con tus Tarjetas de Crédito y Débito Santander.",
-        "Válido en tiendas y www.revesderecho.cl",
-        "Ingresa los 6 primeros dígitos de tu Tarjeta como código de descuento",
-        "No acumulable con otras promociones.",
-        "20% dcto. exclusivo en todos los ovillos.",
-        "25% dcto. exclusivo en accesorios, no incluye libros y sets.",
         "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
       ],
       "sucursales": []
