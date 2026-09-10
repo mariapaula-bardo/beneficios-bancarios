@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-09T14:54",
+  "actualizado": "2026-09-10T14:42",
   "beneficios": [
     {
       "banco": "Banco de Chile",
@@ -22556,26 +22556,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Expo Jardines 2026",
-      "categoria": "Entretención y Deportes",
-      "descuento": "25% dto.",
-      "dia": [],
-      "dia_texto": "en entradas",
-      "canal": null,
-      "vigencia": "Beneficio hasta agotar stock de 10.000 códigos para el evento.",
-      "condiciones": [
-        "Expo Jardines 2026 Lugar: Parque Bicentenario, Vitacura. Fechas: 15 al 18 de octubre Horario: 10:00 a 22:00 hrs Venta Entradas desde el 7 de septiembre de 2026 a las 12:00 hrs. hasta el 18 de octubre de 2026 o hasta agotar stock.",
-        "25% dto. en entradas pagando con tus Tarjetas del Chile.",
-        "Descarga tu código.",
-        "Ingrésalo como código de dto. en www.clubdejardinesdechile.cl",
-        "Paga con tus Tarjetas del Chile."
-      ],
-      "sucursales": [
-        "Avda Bicentenario #3800, Región Metropolitana, Vitacura"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "Preuniversitario Alameda",
       "categoria": "Retail y Otras Marcas",
       "descuento": "25% dto.",
@@ -23395,22 +23375,23 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "La Barra",
-      "categoria": "Sabores",
-      "descuento": "20% dto. adicional",
+      "comercio": "Expo Jardines 2026",
+      "categoria": "Entretención y Deportes",
+      "descuento": "25% dto.",
       "dia": [],
-      "dia_texto": "del 7 al 9 de septiembre",
+      "dia_texto": "en entradas",
       "canal": null,
-      "vigencia": "Promoción válida del 7 al 9 de septiembre de 2026.",
+      "vigencia": "Beneficio hasta agotar stock de 10.000 códigos para el evento.",
       "condiciones": [
-        "20% dto. adicional a otros descuentos pagando con tus Tarjetas del Chile del 7 al 9 de septiembre en labarra.cl y App La Barra.",
-        "Ingresa a labarra.cl o App La Barra",
-        "Paga a través del Botón de Pago Banco de Chile con tus Tarjetas de Crédito o Débito del Banco de Chile. ¡Recibe tu pedido y disfruta!",
-        "2 transacciones por cliente durante la vigencia de la promoción. Tope de dto. $60.000 por transacción.",
-        "Paga en 3 cuotas sin interés.",
-        "Tus compras en esta campaña tienen doble acumulación de Dólares-Premio."
+        "Expo Jardines 2026 Lugar: Parque Bicentenario, Vitacura. Fechas: 15 al 18 de octubre Horario: 10:00 a 22:00 hrs Venta Entradas desde el 7 de septiembre de 2026 a las 12:00 hrs. hasta el 18 de octubre de 2026 o hasta agotar stock.",
+        "25% dto. en entradas pagando con tus Tarjetas del Chile.",
+        "Descarga tu código.",
+        "Ingrésalo como código de dto. en www.clubdejardinesdechile.cl",
+        "Paga con tus Tarjetas del Chile."
       ],
-      "sucursales": []
+      "sucursales": [
+        "Avda Bicentenario #3800, Región Metropolitana, Vitacura"
+      ]
     },
     {
       "banco": "Banco de Chile",
@@ -23608,6 +23589,52 @@
       "canal": null,
       "vigencia": null,
       "condiciones": [],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Crece seguro",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "10% dcto",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "adicional todos los días",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Productos innovadores y de calidad certificada para tus hijos",
+        "Válido con Tarjetas de Crédito y Débito Santander.",
+        "Válido en tiendas y www.creceseguro.cl",
+        "Av. Manquehue Norte 1270, Vitacura.",
+        "Tope de descuento: $75.000",
+        "Acumulable a otros descuentos y promociones.",
+        "Ingresa los 6 primeros dígitos de tu Tarjeta como código de descuento.",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Concurso Smusic",
+      "categoria": "Musica",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "Gana invitaciones dobles",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Concurso por invitaciones dobles",
+        "Inscríbete en banco.santander.cl/smusic/gana-con-smusic , usa tus Tarjetas Santander y participa por invitaciones dobles exclusivas para vivir los conciertos y espectáculos junto a tus artistas favoritos.",
+        "Participan tus compras desde $5.000.",
+        "Mientras más compras realices, más opciones tendrás de ganar.",
+        "Si eres cliente, cada compra suma opciones para ganar: Tarjeta de Débito x 1 opción de ganar.",
+        "Tarjetas de Crédito por niveles de Santander Rewards: Nivel 1 x 1 opción de ganar.",
+        "Nivel 2 x 1,5 opciones de ganar.",
+        "Nivel 3 x 2 opciones de ganar.",
+        "Exclusivo para clientes con Tarjetas de Crédito y Débito Santander.",
+        "Concursos sujetos a bases, condiciones y vigencia disponibles en banco.santander.cl/smusic/gana-con-smusic. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
+      ],
       "sucursales": []
     },
     {
@@ -23954,29 +23981,6 @@
     },
     {
       "banco": "Banco Santander",
-      "comercio": "Concurso Smusic",
-      "categoria": "Musica",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "Gana invitaciones dobles",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Concurso por invitaciones dobles",
-        "Debes inscribirte en Smusic, usar tus Tarjetas Santander y así podrás participar por invitaciones dobles exclusivas para vivir los conciertos y espectáculos junto a tus artistas favoritos.",
-        "Realiza 3 compras desde $5.000.",
-        "Mientras más compras realices, más opciones tendrás de ganar.",
-        "Si eres cliente, cada compra suma opciones para ganar: Tarjeta de Débito x 1 opción de ganar.",
-        "Tarjetas de Crédito por niveles de Santander Rewards: Nivel 1 x 1 opción de ganar.",
-        "Nivel 2 x 1,5 opciones de ganar.",
-        "Nivel 3 x 2 opciones de ganar.",
-        "Exclusivo para clientes con Tarjetas de Crédito y Débito Santander.",
-        "Concursos sujetos a bases, condiciones y vigencia disponibles en banco.santander.cl/smusic/gana-con-smusic. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
       "comercio": "Piero Butti",
       "categoria": "Retail y Otras Marcas",
       "descuento": "20% dcto",
@@ -23993,24 +23997,6 @@
         "No acumulable a descuentos y promociones vigentes. A fines de septiembre se sorteará una Moto Vespa entre sus seguidores de Instagram",
         "Ingresa los 6 primeros dígitos de tu Tarjeta como código de descuento.",
         "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "GOODYEAR",
-      "categoria": "Cuotas Sin Interés",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "3 a 6 cuotas sin interés",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "GOODYEAR",
-        "Exclusivo pagando con tus Tarjetas de Crédito Santander.",
-        "Válido en tienda.",
-        "CAE 1,36% Calculado por un monto referencial de compra de $1.000.000 en 6 cuotas. Costo total del Crédito: $1.003.960. Operación afecta a impuesto al crédito a cargo del cliente.",
-        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
       ],
       "sucursales": []
     },
@@ -24278,29 +24264,6 @@
         "Válido en tiendas físicas y en www.toyng.cl por compras sobre $14.990",
         "Ingresa los 6 primeros dígitos de tu Tarjeta como código de descuento.",
         "Acumulable a otras promociones.",
-        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Crece seguro",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": "10% dcto",
-      "dia": [
-        "Todos los días"
-      ],
-      "dia_texto": "adicional todos los días",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Productos innovadores y de calidad certificada para tus hijos",
-        "Válido con Tarjetas de Crédito y Débito Santander.",
-        "Válido en tiendas y www.creceseguro.cl",
-        "Av. Manquehue Norte 1270, Vitacura.",
-        "Tope de descuento: $75.000",
-        "Acumulable a otros descuentos y promociones.",
-        "Ingresa los 6 primeros dígitos de tu Tarjeta como código de descuento.",
         "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
       ],
       "sucursales": []
