@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-11T14:42",
+  "actualizado": "2026-09-12T13:48",
   "beneficios": [
     {
       "banco": "Banco de Chile",
@@ -662,37 +662,6 @@
       ],
       "sucursales": [
         "San Martin #599, Región de Arica y Parinacota, Arica"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Veterinaria San Martin",
-      "categoria": "Mascotas",
-      "descuento": "Hasta 50% dto.",
-      "dia": [
-        "Lunes",
-        "Martes",
-        "Miércoles",
-        "Jueves",
-        "Viernes"
-      ],
-      "dia_texto": "de lunes a viernes",
-      "canal": null,
-      "vigencia": "Promoción válida hasta el 28 de febrero de 2027.",
-      "condiciones": [
-        "Clínica Verterinaria donde podrás encontrar todos los servicios y productos que necesitas para tu mejor amig@.",
-        "Lunes: 10% de descuento en Medicamentos (excluye Bravectos, Seresto y apoquel)",
-        "Martes: 30% de descuento en Consultas General (excluye especialidad)",
-        "Miércoles: 20% de descuento en castraciones y ovario histerectomía felina (excluye braquicéfalos)",
-        "Jueves: 15% de descuento en alimentos Brit (excepto línea medicada)",
-        "Viernes a domingo: 20% de descuento en consulta Prequirúrgica",
-        "No incluye delivery",
-        "Los descuentos serán efectivos únicamente en vales de compra y/o atención de montos iguales o superiores a $15.000",
-        "Descuentos y/o Promociones no acumulables",
-        "El descuento de alimentos es válido sólo para pellet; no incluye Snack, premios, Latas y /o Galletas."
-      ],
-      "sucursales": [
-        "TERESA WILMS MONTT 2263, TARAPACA, IQUIQUE"
       ]
     },
     {
@@ -23590,6 +23559,56 @@
       "vigencia": null,
       "condiciones": [],
       "sucursales": []
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Mountain House",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "15% dto.",
+      "dia": [
+        "Martes"
+      ],
+      "dia_texto": "martes",
+      "canal": null,
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
+      "condiciones": [
+        "Tienda magallánica pionera en el rubro outdoor y de montaña desde el año 1979. Dedicada a productos diferenciados de marcas reconocidas por expertos a nivel mundial, importadas directamente desde los países de origen.",
+        "Obtén 15% dto todos los martes",
+        "Para compra online ingresa el cupón MOUNTAINHOUSEBCH al momento de finalizar compra en mountainhouse.cl",
+        "Para compra presencial solicita tu descuento al momento de pagar con tus Tarjetas del Chile.",
+        "No acumulable a otras promociones y/o descuentos.",
+        "Descuento no aplica al valor del despacho.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Armando Sanhueza #555, Región de Magallanes y de la Antártica Chilena, Punta Arenas",
+        "ZONA FRANCA LOCAL 128, MODULO CENTRAL, Región de Magallanes y de la Antártica Chilena, Punta Arenas"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Veterinaria San Martin",
+      "categoria": "Mascotas",
+      "descuento": "Hasta 50% dto.",
+      "dia": [
+        "Lunes",
+        "Martes",
+        "Miércoles",
+        "Jueves",
+        "Viernes"
+      ],
+      "dia_texto": "de lunes a viernes",
+      "canal": null,
+      "vigencia": "Promoción válida hasta el 28 de febrero de 2027.",
+      "condiciones": [
+        "Clínica Veterinaria donde podrás encontrar todos los servicios y productos que necesitas para tu mejor amig@.",
+        "20% dto. en consultas generales (excluye especialidades), castraciones y esterilizaciones felinas (excluye braquicéfalos).",
+        "10% dto. en medicamentos (excluye Bravecto, Seresto y Apoquel).",
+        "10% dto. en alimentos Brit (excepto línea medicada), Bravery y Josera. Aplica solo a pellets; excluye snacks, premios, latas y galletas."
+      ],
+      "sucursales": [
+        "TERESA WILMS MONTT 2263, TARAPACA, IQUIQUE"
+      ]
     },
     {
       "banco": "Banco Santander",
