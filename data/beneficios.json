@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-12T13:48",
+  "actualizado": "2026-09-13T14:44",
   "beneficios": [
     {
       "banco": "Banco de Chile",
@@ -16572,18 +16572,6 @@
         "3. Ingresa los primeros 6 dígitos de tu Tarjeta.",
         "4. Haz click en elegir auto y ¡listo! Ya podrás elegir tu próximo arriendo con el descuento Banco de Chile en Avis."
       ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Piknic #1 - 12 septiembre",
-      "categoria": "Entretención y Deportes",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "Compra tus entradas con los mejores beneficios de tus Tarjetas",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [],
       "sucursales": []
     },
     {
