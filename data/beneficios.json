@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-14T16:41",
+  "actualizado": "2026-09-15T15:21",
   "beneficios": [
     {
       "banco": "Banco de Chile",
@@ -1617,22 +1617,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Nikola",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "Paga en 4 a 24 cuotas sin interés",
-      "canal": null,
-      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
-      "condiciones": [
-        "¡Invierte en un futuro más rentable, seguro y sostenible! En Nikola te acompañamos con asesoría clara y personalizada para que evalúes un proyecto solar de alta calidad, ideal para tu hogar o Pyme. Somos parte del Grupo Solcor , empresa de origen belga con más de 10 años de experiencia en el mercado chileno, especializada en soluciones de energía solar eficientes y confiables. Solicita hoy tu cotización y asesoría gratuita en: www.nikola.cl"
-      ],
-      "sucursales": [
-        "Los Conquistadores #1730, Piso 21, Región Metropolitana, Providencia"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "Clínica ESAN",
       "categoria": "Salud y Belleza",
       "descuento": "Hasta 70% dto.",
@@ -2179,20 +2163,6 @@
       "vigencia": null,
       "condiciones": [
         "Travel Tienda"
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Travel Duty",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "Canjea tus Dólares-Premio por los mejores productos",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Travel Duty"
       ],
       "sucursales": []
     },
@@ -5544,30 +5514,6 @@
         "Mall marina Oriente, Calle 14 norte 976 local 245, Región de Valparaíso, Viña del mar",
         "Mall plaza Trébol, Av pdte. Jorge Alessandri Rodriguez 3177 nivel 1 Sector Aires local H-120, Región del Bíobio, Talcahuano",
         "Cenco Osorno, Plaza yungay 609 nivel 2 local 2060, Región de Los Lagos, Osorno"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Inca Pecador",
-      "categoria": "Sabores",
-      "descuento": "20% dto.",
-      "dia": [
-        "Lunes",
-        "Martes",
-        "Miércoles"
-      ],
-      "dia_texto": "lunes a miércoles",
-      "canal": "Tienda física",
-      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
-      "condiciones": [
-        "No hay amor más peruano que el amor por la comida. Sinergia creada entre dos familias cuyo propósito fue y ser siempre llegar a sus clientes y deleitarlos con su calidad.",
-        "20% dto. de lunes a miércoles presencial.",
-        "No acumulable con otras ofertas, menú y/o promociones.",
-        "Beneficio exclusivo pagando con tus Tarjetas del Chile."
-      ],
-      "sucursales": [
-        "Barros Arana #1030, Región de Los Lagos, Osorno",
-        "Los Colonos #1101, Región de Los Lagos, Puerto Varas"
       ]
     },
     {
@@ -22049,31 +21995,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Impasto",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Lunes",
-        "Martes",
-        "Jueves",
-        "Sábado"
-      ],
-      "dia_texto": "lunes, martes, jueves y sábado de septiembre",
-      "canal": null,
-      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial 40% dto. lunes, martes, jueves y sábado de septiembre.",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Tope dto. $50.000 por mesa."
-      ],
-      "sucursales": [
-        "Alférez Real #1485, Región Metropolitana, Providencia"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "Ari Nikkei",
       "categoria": "Sabores",
       "descuento": "40% dto.",
@@ -23597,30 +23518,46 @@
       "sucursales": []
     },
     {
-      "banco": "Banco Santander",
-      "comercio": "Nuevo iPhone 18 Pro",
-      "categoria": "Cuotas Sin Interés",
+      "banco": "Banco de Chile",
+      "comercio": "Impasto",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Lunes",
+        "Martes",
+        "Jueves",
+        "Sábado",
+        "Domingo"
+      ],
+      "dia_texto": "lunes, martes, jueves, sábado y domingo de septiembre",
+      "canal": null,
+      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. lunes, martes, jueves, sábado y domingo de septiembre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Tope dto. $50.000 por mesa."
+      ],
+      "sucursales": [
+        "Alférez Real #1485, Región Metropolitana, Providencia"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Nikola",
+      "categoria": "Retail y Otras Marcas",
       "descuento": null,
       "dia": [],
-      "dia_texto": "Nuevo iPhone 18 pro en 36 cuotas sin interés con 1 milla adicional o $50.000 dcto",
+      "dia_texto": "Paga hasta en 36 cuotas sin interés",
       "canal": null,
-      "vigencia": null,
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
       "condiciones": [
-        "¡Compra tu nuevo Iphone 18 Pro con tus Tarjetas Santander!",
-        "MACONLINE:",
-        "Exclusivo con tus Tarjetas de Crédito Santander.",
-        "36 cuotas sin interés + 1 milla adicional por dólar gastado en iPhone for Life.",
-        "CAE de 1,53% en 36 cuotas.",
-        "Además acumula 1 milla adicional por dólar gastado en todos los productos desde el 12 al 22 de septiembre 2026.",
-        "Válido en maconline.com",
-        "MERCADO LIBRE:",
-        "Exclusivo con tus Tarjetas de Crédito Santander.",
-        "36 cuotas sin interés + $50.000 dcto.",
-        "Válido hasta agotar stock de 760 cupones.",
-        "CAE de 1,53% en 36 cuotas.",
-        "Carga Anual Equivalente (CAE) 0,8% Costo total del Crédito $1.008.000 calculado por un monto referencial de compra de $1.000.000 en 36 cuotas. Operación afecta a impuesto al crédito a cargo del cliente. Las compras en cuotas están afectas a impuesto al crédito el cual será de cargo del cliente. Cupón Mercado Libre: Promoción válida exclusivamente para compras de iPhone 18 Pro y hasta agotar stock de cupones de 760 desde el 12 de septiembre de 2026 hasta el 30 de septiembre de 2026 en Mercado Libre. Acumulación de Millas adicionales: La bonificación de millas estructural se realizará según nivel y tarjeta de Crédito Santander LATAM Pass del cliente, más 1 o 2 millas adicionales por dólar gastado, según corresponda, por compras realizadas en campaña. La acreditación de Millas LATAM Pass se realizará en el mes siguiente de la compra. Beneficios no acumulables a otras promociones o descuentos. Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad de los comercios. La administración del programa LATAM Pass es de exclusiva responsabilidad de LATAM Airlines Group S.A. sin responsabilidad ni injerencia alguna para Banco Santander. Conoce más sobre Santander Rewards y su reglamento en: https:banco.santander.cl/rewards. Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
+        "¡Invierte en un futuro más rentable, seguro y sostenible! En Nikola te acompañamos con asesoría clara y personalizada para que evalúes un proyecto solar de alta calidad, ideal para tu casa o pyme. Somos parte de Energy Holding, grupo de origen belga con más de 10 años de experiencia en el mercado chileno, especializado en soluciones de energía solar eficientes y confiables. Contamos con más de 950 proyectos instalados en Chile, entre soluciones residenciales, pymes y electromovilidad. Solicita hoy tu cotización y asesoría gratuita para tu: proyecto solar Nikola"
       ],
-      "sucursales": []
+      "sucursales": [
+        "Los Conquistadores #1730, Piso 21, Región Metropolitana, Providencia"
+      ]
     },
     {
       "banco": "Banco Santander",
@@ -23643,6 +23580,32 @@
         "No acumulable con otras promociones.",
         "Descuento máximo por pedido de $40.000",
         "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Nuevo iPhone 18 Pro",
+      "categoria": "Cuotas Sin Interés",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "Nuevo iPhone 18 pro en 36 cuotas sin interés con 1 milla adicional o $50.000 dcto",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "¡Compra tu nuevo Iphone 18 Pro con tus Tarjetas Santander!",
+        "MACONLINE:",
+        "Exclusivo con tus Tarjetas de Crédito Santander.",
+        "36 cuotas sin interés + 1 milla adicional por dólar gastado en iPhone for Life.",
+        "CAE de 0,8% en 36 cuotas.",
+        "Además acumula 1 milla adicional por dólar gastado en todos los productos desde el 12 al 22 de septiembre 2026.",
+        "Válido en maconline.com",
+        "MERCADO LIBRE:",
+        "Exclusivo con tus Tarjetas de Crédito Santander.",
+        "36 cuotas sin interés + $50.000 dcto.",
+        "Válido hasta agotar stock de 760 cupones.",
+        "CAE de 0,8% en 36 cuotas.",
+        "Carga Anual Equivalente (CAE) 0,8% Costo total del Crédito $1.008.000 calculado por un monto referencial de compra de $1.000.000 en 36 cuotas. Operación afecta a impuesto al crédito a cargo del cliente. Las compras en cuotas están afectas a impuesto al crédito el cual será de cargo del cliente. Cupón Mercado Libre: Promoción válida exclusivamente para compras de iPhone 18 Pro y hasta agotar stock de cupones de 760 desde el 12 de septiembre de 2026 hasta el 30 de septiembre de 2026 en Mercado Libre. Acumulación de Millas adicionales: La bonificación de millas estructural se realizará según nivel y tarjeta de Crédito Santander LATAM Pass del cliente, más 1 o 2 millas adicionales por dólar gastado, según corresponda, por compras realizadas en campaña. La acreditación de Millas LATAM Pass se realizará en el mes siguiente de la compra. Beneficios no acumulables a otras promociones o descuentos. Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad de los comercios. La administración del programa LATAM Pass es de exclusiva responsabilidad de LATAM Airlines Group S.A. sin responsabilidad ni injerencia alguna para Banco Santander. Conoce más sobre Santander Rewards y su reglamento en: https:banco.santander.cl/rewards. Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
       ],
       "sucursales": []
     },
