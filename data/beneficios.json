@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-16T15:13",
+  "actualizado": "2026-09-17T15:22",
   "beneficios": [
     {
       "banco": "Banco de Chile",
@@ -16964,29 +16964,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Bold Barber Lounge Club",
-      "categoria": "Salud y Belleza",
-      "descuento": "20% dto.",
-      "dia": [
-        "Lunes",
-        "Martes"
-      ],
-      "dia_texto": "lunes y martes",
-      "canal": "Tienda física",
-      "vigencia": "Promoción válida hasta el 31 de julio 2027.",
-      "condiciones": [
-        "Bold Barber Lounge Club es una barbería especializada en cortes de cabello, servicios de barba y cuidado masculino. Ofrece una experiencia con atención personalizada, profesionales altamente capacitados, productos de primera calidad y un ambiente diseñado para que disfrutes cada visita.",
-        "20% dto. lunes y martes en todos los servicios.",
-        "Solicita tu descuento al momento de pagar.",
-        "No acumulable con otras promociones.",
-        "Descuento exclusivo pagando con tus Tarjetas del Chile."
-      ],
-      "sucursales": [
-        "Balmoral #309, Local 5, Región Metropolitana, Las Condes"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "Curunina Kids",
       "categoria": "Entretención y Deportes",
       "descuento": "25% dto.",
@@ -17442,6 +17419,29 @@
       ],
       "sucursales": [
         "Avenida Angamos #1605, Región de Antofagasta, Antofagasta"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Bold Barber Lounge Club",
+      "categoria": "Salud y Belleza",
+      "descuento": "20% dto.",
+      "dia": [
+        "Lunes",
+        "Martes"
+      ],
+      "dia_texto": "lunes y martes",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 31 de julio 2027.",
+      "condiciones": [
+        "Bold Barber Lounge Club es una barbería especializada en cortes de cabello, servicios de barba y cuidado masculino. Ofrece una experiencia con atención personalizada, profesionales altamente capacitados, productos de primera calidad y un ambiente diseñado para que disfrutes cada visita.",
+        "20% dto. lunes y martes en todos los servicios.",
+        "Solicita tu descuento indicando los 6 primeros dígitos de tu Tarjeta.",
+        "No acumulable con otras promociones.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Balmoral #309, Local 5, Región Metropolitana, Las Condes"
       ]
     },
     {
@@ -19860,56 +19860,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Porfirio",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Martes",
-        "Viernes",
-        "Sábado"
-      ],
-      "dia_texto": "martes, viernes y sábado de septiembre",
-      "canal": null,
-      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial 40% dto. martes, viernes y sábado de septiembre.",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dto. $50.000 por mesa"
-      ],
-      "sucursales": [
-        "Av. Manuel Montt 697, Región Metropolitana, Providencia, Teléfono: +569 33919721"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Expendio",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Martes",
-        "Viernes",
-        "Sábado"
-      ],
-      "dia_texto": "martes, viernes y sábado de septiembre",
-      "canal": null,
-      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial 40% dto. martes, viernes y sábado de septiembre.",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dto. $50.000 por mesa"
-      ],
-      "sucursales": [
-        "Av. Manuel Montt 727, RM, Providencia"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "ANIMA",
       "categoria": "Sabores",
       "descuento": "40% dto.",
@@ -21222,6 +21172,38 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "Antiage TUA",
+      "categoria": "Salud y Belleza",
+      "descuento": "25% dto.",
+      "dia": [
+        "Martes",
+        "Jueves"
+      ],
+      "dia_texto": "martes  y jueves",
+      "canal": "Ambos",
+      "vigencia": "Promoción válida hasta el 31 de agosto 2027.",
+      "condiciones": [
+        "Antiage TUA es una propuesta de belleza y cuidado de la piel inspirada en las tendencias de K-Beauty y skincare coreano, enfocada en rutinas de cuidado facial, hidratación, luminosidad y prevención de los signos del envejecimiento. Su propuesta combina innovación, bienestar y cuidado diario para lograr una piel más saludable, uniforme y radiante.",
+        "25% dto. martes y jueves en compra presencial y en tua.cl/antiagetua",
+        "Para compra presencial solicita tu descuento al momento de pagar.",
+        "Para compra online ingresa los 6 primeros dígitos de tu Tarjeta como cupón de descuento.",
+        "Descuento no aplica para valor del despacho.",
+        "Revisa cobertura de despacho en tua.cl/antiagetua",
+        "No acumulable con otras promociones.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Av. Jorge Alessandri N° 3177 E22, Mallplaza Trébol, Región del Biobío, Concepción",
+        "Baquedano 86 Local 2252, Mall Vivo Coquimbo, Región de Coquimbo, Coquimbo",
+        "Avenida Libertad 1348 Local 116, Mall Marina, Región de Valparaíso, Viña del Mar",
+        "Av. Camilo Henríquez 3692, Mallplaza Tobalaba, Región Metropolitana, Puente Alto",
+        "Av. Américo Vespucio N° 1737 P-1337, Mallplaza Norte, Región Metropolitana, Huechuraba",
+        "Av. Vicuña Mackenna 7110 MP1045, Mallplaza Vespucio, Región Metropolitana, La Florida",
+        "Av. Américo Vespucio N° 1501 C-233 / C-229, Mallplaza Oeste, Región Metropolitana, Cerrillos"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "Santa Brasa",
       "categoria": "Sabores",
       "descuento": "40% dto.",
@@ -21243,6 +21225,56 @@
         "Alonso de Córdova #4260, Región Metropolitana, Vitacura",
         "Av. José Alcalde Délano #10494, Región Metropolitana, Lo Barnechea",
         "Sta. Elena #671, Región de Valparaíso, Concón"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Expendio",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Martes",
+        "Viernes",
+        "Sábado"
+      ],
+      "dia_texto": "martes, viernes y sábado de septiembre",
+      "canal": null,
+      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. martes, viernes y sábado de septiembre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Av. Manuel Montt 727, RM, Providencia"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Porfirio",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Martes",
+        "Viernes",
+        "Sábado"
+      ],
+      "dia_texto": "martes, viernes y sábado de septiembre",
+      "canal": null,
+      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. martes, viernes y sábado de septiembre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Av. Manuel Montt 697, Región Metropolitana, Providencia, Teléfono: +569 33919721"
       ]
     },
     {
@@ -22398,6 +22430,73 @@
       ]
     },
     {
+      "banco": "Banco de Chile",
+      "comercio": "Transprint Patagonia",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "15% dto.",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 31 de agosto de 2027.",
+      "condiciones": [
+        "Con Transprint Patagonia, recorre los rincones más espectaculares de la Patagonia chilena y argentina. Viaja entre Puerto Natales, El Calafate y El Chaltén con un servicio de transporte de estándar superior, pensado para brindarte una experiencia cómoda, segura y sin complicaciones. Disfruta cada paisaje y aprovecha al máximo tu viaje.",
+        "15% dto. todos los días en tours y transfers, privados y compartidos.",
+        "Solicita tu descuento al momento de pagar la segunda parte de tu reserva de manera presencial.",
+        "No acumulable con otras promociones.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Tomas Rogers #87, Región de Magallanes y de la Antártica Chilena, Puerto Natales"
+      ]
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Chiuso",
+      "categoria": "Sabores",
+      "descuento": null,
+      "dia": [
+        "Lunes"
+      ],
+      "dia_texto": "50% de dcto. todos los lunes",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Cocina Italiana mediterranea",
+        "Exclusivo con tus Tarjetas de Crédito Santander American Express.",
+        "Válido para consumo en local.",
+        "Av. Nueva Costanera 3835, Vitacura",
+        "Tope de descuento de $50.000.",
+        "No acumulable a otras promociones.",
+        "Se excluyen propinas, menús, happy hours.",
+        "Descuento válido todos los lunes desde desde el 01 de septiembre de 2026 hasta el 30 de noviembre de 2026, ambas fechas inclusive, para consumos realizados en el establecimiento en el horario de atención de público del restaurante. Exclusivo para clientes que paguen con las Tarjetas de Crédito Santander de American Express indicadas seguidamente y que soliciten el descuento al momento de pagar presencialmente. Beneficio consistente en un descuento de un 50% del total del consumo (excluida propina) con un tope de $50.000.- diarios por cuenta y por mes. Beneficio no aplicable: (a) Al consumo de cigarrillos y de cualquier otro producto de tabaco y, (b) A consumos hechos por un mismo grupo de personas que pagan el total dividido o por mesa. El consumo podrá pagarse utilizando más de una de las Tarjetas American Express® incluidas en el beneficio. Las Tarjetas Santander de American Express admitidas son: The Platinum Card®, WorldMember Limited ECO, WorldMember ECO y Platinum LATAM Pass ECO. No se aceptarán las tarjetas de formato horizontal. Ni American Express ni Servicios Empresariales Orsan S.A. se responsabilizan por los productos y/o servicios ofrecidos por los establecimientos y/o adquiridos en ellos. Descuento no acumulable e intransferible. No válido para consumos para llevar, delivery o pedidos a través de plataformas externas. El comercio se reserva el derecho de aplicar el beneficio en días festivos, feriados y con significancia comercial, sea general o particular del restorán. Listado de establecimientos adheridos en www.AmericanExpress.cl. American Express es una marca de American Express. Las Tarjetas son emitidas por Banco Santander bajo licencia de American Express."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Ventura",
+      "categoria": "Sabores",
+      "descuento": "40% dcto.",
+      "dia": [
+        "Miércoles"
+      ],
+      "dia_texto": "todos los miércoles",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Exclusivo con tus Tarjetas de Crédito Santander",
+        "Válido para consumo en local.",
+        "Av. circunvalación ote, talca",
+        "Tope de descuento de $40.000.",
+        "No acumulable a otras promociones.",
+        "Se excluyen propinas, menús, happy hours.",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​"
+      ],
+      "sucursales": []
+    },
+    {
       "banco": "Banco Santander",
       "comercio": "Valle Nevado",
       "categoria": "Viajes",
@@ -22668,28 +22767,6 @@
         "Nivel 3 x 2 opciones de ganar.",
         "Exclusivo para clientes con Tarjetas de Crédito y Débito Santander.",
         "Concursos sujetos a bases, condiciones y vigencia disponibles en banco.santander.cl/smusic/gana-con-smusic. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Ventura",
-      "categoria": "Sabores",
-      "descuento": "40% dcto.",
-      "dia": [
-        "Miércoles"
-      ],
-      "dia_texto": "todos los miércoles",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Exclusivo con tus Tarjetas de Crédito Santander",
-        "Válido para consumo en local.",
-        "Av. circunvalación ote, talca",
-        "Tope de descuento de $40.000.",
-        "No acumulable a otras promociones.",
-        "Se excluyen propinas, menús, happy hours.",
-        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​"
       ],
       "sucursales": []
     },
@@ -23630,29 +23707,6 @@
         "Tope de descuento de $50.000.",
         "No acumulable a otras promociones.",
         "Descuento válido todos los martes desde desde el 01 de septiembre de 2026 hasta el 30 de noviembre de 2026, ambas fechas inclusive, para consumos realizados en el establecimiento en el horario de atención de público del restaurante. Exclusivo para clientes que paguen con las Tarjetas de Crédito Santander de American Express indicadas seguidamente y que soliciten el descuento al momento de pagar presencialmente. Beneficio consistente en un descuento de un 50% del total del consumo (excluida propina) con un tope de $50.000.- diarios por cuenta y por mes. Beneficio no aplicable: (a) Al consumo de cigarrillos y de cualquier otro producto de tabaco y, (b) A consumos hechos por un mismo grupo de personas que pagan el total dividido o por mesa. El consumo podrá pagarse utilizando más de una de las Tarjetas American Express® incluidas en el beneficio. Las Tarjetas Santander de American Express admitidas son: The Platinum Card®, WorldMember Limited ECO, WorldMember ECO y Platinum LATAM Pass ECO. No se aceptarán las tarjetas de formato horizontal. Ni American Express ni Servicios Empresariales Orsan S.A. se responsabilizan por los productos y/o servicios ofrecidos por los establecimientos y/o adquiridos en ellos. Descuento no acumulable e intransferible. No válido para consumos para llevar, delivery o pedidos a través de plataformas externas. El comercio se reserva el derecho de aplicar el beneficio en días festivos, feriados y con significancia comercial, sea general o particular del restorán. Listado de establecimientos adheridos en www.AmericanExpress.cl. American Express es una marca de American Express. Las Tarjetas son emitidas por Banco Santander bajo licencia de American Express."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Chiuso",
-      "categoria": "Sabores",
-      "descuento": null,
-      "dia": [
-        "Lunes"
-      ],
-      "dia_texto": "50% de dcto. todos los lunes",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Cocina Italiana mediterranea",
-        "Exclusivo con tus Tarjetas de Crédito Santander American Express.",
-        "Válido para consumo en local.",
-        "Av. Nueva Costanera 3835, Vitacura",
-        "Tope de descuento de $50.000.",
-        "No acumulable a otras promociones.",
-        "Se excluyen propinas, menús, happy hours.",
-        "Descuento válido todos los lunes desde desde el 01 de septiembre de 2026 hasta el 30 de noviembre de 2026, ambas fechas inclusive, para consumos realizados en el establecimiento en el horario de atención de público del restaurante. Exclusivo para clientes que paguen con las Tarjetas de Crédito Santander de American Express indicadas seguidamente y que soliciten el descuento al momento de pagar presencialmente. Beneficio consistente en un descuento de un 50% del total del consumo (excluida propina) con un tope de $50.000.- diarios por cuenta y por mes. Beneficio no aplicable: (a) Al consumo de cigarrillos y de cualquier otro producto de tabaco y, (b) A consumos hechos por un mismo grupo de personas que pagan el total dividido o por mesa. El consumo podrá pagarse utilizando más de una de las Tarjetas American Express® incluidas en el beneficio. Las Tarjetas Santander de American Express admitidas son: The Platinum Card®, WorldMember Limited ECO, WorldMember ECO y Platinum LATAM Pass ECO. No se aceptarán las tarjetas de formato horizontal. Ni American Express ni Servicios Empresariales Orsan S.A. se responsabilizan por los productos y/o servicios ofrecidos por los establecimientos y/o adquiridos en ellos. Descuento no acumulable e intransferible. No válido para consumos para llevar, delivery o pedidos a través de plataformas externas. El comercio se reserva el derecho de aplicar el beneficio en días festivos, feriados y con significancia comercial, sea general o particular del restorán. Listado de establecimientos adheridos en www.AmericanExpress.cl. American Express es una marca de American Express. Las Tarjetas son emitidas por Banco Santander bajo licencia de American Express."
       ],
       "sucursales": []
     },
