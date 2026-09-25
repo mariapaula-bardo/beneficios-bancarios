@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-24T15:36",
+  "actualizado": "2026-09-25T15:40",
   "beneficios": [
     {
       "banco": "Banco de Chile",
@@ -12144,6 +12144,537 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "7Veinte",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "20% dto.",
+      "dia": [
+        "Miércoles",
+        "Jueves",
+        "Viernes"
+      ],
+      "dia_texto": "miércoles a viernes",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
+      "condiciones": [
+        "20% dto. miércoles a viernes presencial",
+        "Tope de dto. $50.000",
+        "Genera tu código de descuento y preséntalo al momento de pagar.",
+        "No acumulable con otras promociones.",
+        "Descuento no aplica para compras con facturas y en cambios.",
+        "Excluye Vans.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Local 209, CALLE IGNACIO SERRANO 574, LOS LAGOS, CASTRO",
+        "Local 3010, AV. KENNEDY 9001, RM, SANTIAGO",
+        "Local 102, AVDA.LAS CONDES 13451, RM, SANTIAGO",
+        "Local N L3-12, AV. KENNEDY N5601, RM, SANTIAGO",
+        "Local 4128, AV. ANDRES BELLO N2447, RM, SANTIAGO",
+        "AV.LARRAIN 5862 A3076/A-3080, RM, SANTIAGO",
+        "Local 501 A, AV.AMERICO VESPUCIO N#399, RM, SANTIAGO",
+        "Local 301 A, CALLE EL ROBLE N 770, BIO-BIO, CHILLAN",
+        "Local 1, CAMILO HENRIQUEZ 466, LOS LAGOS, VALDIVIA",
+        "Local 139-140, AVENIDA CIRCUNVALACION ORIENTE N1055, MAULE, TALCA",
+        "CALLE SALVADOR 129, LOS LAGOS, PUERTO VARAS"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Columbia",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "20% dto.",
+      "dia": [
+        "Miércoles",
+        "Jueves",
+        "Viernes"
+      ],
+      "dia_texto": "miércoles a viernes",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
+      "condiciones": [
+        "20% dto. miércoles a viernes presencial",
+        "Tope de dto. $50.000",
+        "Genera tu código de descuento y preséntalo al momento de pagar.",
+        "No acumulable con otras promociones.",
+        "Descuento no aplica para compras con facturas y en cambios.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Local 314 C NIVEL 3, CALLE IGNACIO SERRANO #574, LOS LAGOS, CHILOE",
+        "L 230/L 232, AV. BALMACEDA # 2355, ANTOFAGASTA, ANTOFAGASTA",
+        "Local A1076,A1080, CALLE MAIPU N 0110, ATACAMA, COPIAPO",
+        "Local C-104 C-108, BALMACEDA N#3242, ANTOFAGASTA, CALAMA",
+        "Local 103, AV. LIBERTAD #1348, Valparaiso, VIÑA DEL MAR",
+        "Local 391, AV KENNEDY 5413, RM, SANTIAGO",
+        "Local 2068, AV. LA DEHESA # 1445, RM, SANTIAGO",
+        "Local 3045, AV. KENNEDY # 9001, RM, SANTIAGO",
+        "Local 4196, AV.ANDRES BELLO 2447, RM, SANTIAGO",
+        "Local 102, AVDA.LAS CONDES 13451, RM, SANTIAGO",
+        "Local A-155, AV. VESPUCIO #1.501, RM, SANTIAGO",
+        "Local 1085, AV. VICU?A MACKENNA # 6100, RM, SANTIAGO",
+        "Local BA217A BA221A, AVDA.VICUNA MACKENNA ORIENTE 7110, RM, SANTIAGO",
+        "Local 381, AV. AMERICO VESPUCIO #399, RM, SANTIAGO",
+        "Local B-3032 / B-3036, AV.LARRAIN N# 5862, RM, SANTIAGO",
+        "Local J2, AV. CARLOS VALDOVINOS 200, RM, SANTIAGO",
+        "Local C166-C170, CAMILO HENRIQUEZ N3692, RM, SANTIAGO",
+        "Local A2072-A2074, AV. JORGE ALESSANDRI 20040, RM, SANTIAGO",
+        "Local C-110-112, AV. J. ALESSANDRI 3177 -, BIO-BIO, TALCAHUANO",
+        "Local A-300/ A-302 / A-304, VALDIVIA # 440, BIO-BIO, LOS ANGELES",
+        "Local 2059, AV. ALEMANIA # 671, ARAUCANIA, TEMUCO",
+        "Local 319 A, CALLE EL ROBLE N 770, BIO-BIO, CHILLAN",
+        "Local 231, ILLAPEL #10, LOS LAGOS, PUERTO MONTT",
+        "Local 188, ARAUCO 561, LOS RIOS, VALDIVIA",
+        "Local 114, CALLE SAN FRANCISCO N#666, LOS LAGOS, PUERTO VARAS",
+        "PLAZA YUNGAY 609 L3029, LOS LAGOS, OSORNO",
+        "Local 168-170, AV. EDUARDO FREI MONTALVA N 01110, MAGALLANES, PUNTA ARENAS",
+        "21 DE MAYO N447, AYSEN, COYHAIQUE"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Under Armour",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "20% dto.",
+      "dia": [
+        "Miércoles",
+        "Jueves",
+        "Viernes"
+      ],
+      "dia_texto": "miércoles a viernes",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
+      "condiciones": [
+        "20% dto. miércoles a viernes presencial",
+        "Tope de dto. $50.000",
+        "Genera tu código de descuento y preséntalo al momento de pagar.",
+        "No acumulable con otras promociones.",
+        "Descuento no aplica para compras con facturas y en cambios.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Local 308 NIVEL 4, JUAN SOLER MANFREDINI #131, REGIÓN DE LOS LAGOS, PUERTO MONTT",
+        "AV. BALMACEDA 2355, REGIÓN DE ANTOFAGASTA, ANTOFAGASTA",
+        "Local 24-25, CAMINO LA CANTERA 2325, REGIÓN DE COQUIMBO, COQUIMBO",
+        "Local E11, AV. LIBERTAD 1348, REGIÓN DE VALPARAISO, VIÑA DEL MAR",
+        "Local 13, AV. LOMAS DE LA LUZ 4650, REGIÓN DE VALPARAISO, VALPARAISO",
+        "Local 117, AV PRESIDENTE KENNEDY 5413 PISO 1, REGIÓN METROPOLITANA, LAS CONDES",
+        "Local 4189, ANDRES BELLO 2447, REGIÓN METROPOLITANA, LAS CONDES",
+        "Local B2084, AV. PADRE HURTADO 875 NIVEL 2, REGIÓN METROPOLITANA, LAS CONDES",
+        "AV. LAS CONDES 11281, REGIÓN METROPOLITANA, LAS CONDES",
+        "Local 135-2, AV LAS CONDES 13451, REGIÓN METROPOLITANA, LAS CONDES",
+        "Local 3060, AVDA.VICUNA MACKENNA 6100, REGIÓN METROPOLITANA, LA FLORIDA",
+        "AV VICUNA MACKENNA 7110, REGIÓN METROPOLITANA, LA FLORIDA",
+        "AV. PDTE. FREI MONTALVA 9709 L132 L134 Y B103, REGIÓN METROPOLITANA, QUILICURA",
+        "Local 84, AV SAN IGNACIO 500, REGIÓN METROPOLITANA, QUILICURA",
+        "Local H260 264, AV. JORGE ALESSANDRI 3177, REGIÓN DEL BIO-BIO, TALCAHUANO",
+        "Local 3536, CALLE PORTAL SAN PEDRO 4850, REGIÓN DEL BIO-BIO, CONCEPCION",
+        "AV. ALEMANIA 0671 L3074, REGIÓN DE LA ARAUCANIA, TEMUCO",
+        "Local 305 NIVEL 3, AV. RAMON PICARTE #422, REGIÓN DE LOS RIOS, VALDIVIA",
+        "AV. LAS CONDES 11281, TORRE C, REGIÓN METROPOLITANA, LAS CONDES"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Rockford",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "20% dto.",
+      "dia": [
+        "Miércoles",
+        "Jueves",
+        "Viernes"
+      ],
+      "dia_texto": "miércoles a viernes",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
+      "condiciones": [
+        "20% dto. miércoles a viernes presencial",
+        "Tope de dto. $50.000",
+        "Genera tu código de descuento y preséntalo al momento de pagar.",
+        "No acumulable con otras promociones.",
+        "Descuento no aplica para compras con facturas y en cambios.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Local 4196 Costanera Center, Av. Andrés Bello 2447, Región Metropolitana, Providencia, Teléfono: (+562) 2618 9502",
+        "Local 3045 Alto Las Condes, Av. Kennedy 9001, Región Metropolitana, Las Condes, Teléfono: (+562) 2370 1622",
+        "Local 2068 Portal La Dehesa, Av. La Dehesa 1445, Región Metropolitana, La Dehesa, Teléfono: (+562) 22166402",
+        "Local 391 Boulevard del Parque Arauco, Av. Kennedy 5413, Región Metropolitana, Vitacura, Teléfono: (+562) 2432 9111",
+        "Local 1085 Florida Center, Av. Vicuña Mackenna 6100, Región Metropolitana, La Florida, Teléfono: (+562) 2755 5305",
+        "Local 381 Arauco Maipú, Av. Américo Vespucio 399, Región Metropolitana, Maipú",
+        "Local B3032 - B3036 Plaza Egaña, Av. Larraín 5862, Región Metropolitana, La Reina",
+        "Local BA-217A - BA-221A Plaza Vespucio, Av. Vicuña Mackenna 7100, Región Metropolitana, La Florida",
+        "Mall Plaza La Serena Local C114, Av. Alberto Solari 1400, Región de Coquimbo, La Serena, Teléfono: +56-51-551-555.",
+        "Mall Marina Arauco Local 6, Libertad 1348, Región de Valparaíso, Viña del Mar, Teléfono, +56-32-246-0758.",
+        "Local 3-4, Germán Riesco 49, Región de Valparaíso, Zapallar, Teléfono: +56-33-742-030.",
+        "Mall Curicó Local 201, Av. Bernardo OHiggins 201, Región del Maule, Curicó, Teléfono: +56-75-543-039.",
+        "Mall Plaza El Trébol Local E109-E111, Av. José Alessandri 3177, Región del Biobío, Talcahuano, Teléfono: +56-41-290-92-44.",
+        "Mall Plaza El Roble Local 235, El Roble 770, Región de Ñuble, Chillán, Teléfono: +56-42-435-075.",
+        "Mall Plaza Los Ángeles Local 204, Valdivia 440, Región de Los Ríos, Los Ángeles, Teléfono: +56-43-630-026."
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Hush Puppies",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "20% dto.",
+      "dia": [
+        "Miércoles",
+        "Jueves",
+        "Viernes"
+      ],
+      "dia_texto": "miércoles a viernes",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
+      "condiciones": [
+        "Obtén 20% dto con un tope de $50.000 en las tiendas de Hush Puppies.",
+        "Genera tu código de descuento y preséntalo al momento de pagar.",
+        "No acumulable con otras promociones.",
+        "Descuento no aplica para compras con factura y en cambios."
+      ],
+      "sucursales": [
+        "Local 012, AV. LOS HEROES DE LA CONCEPCION #2555, TARAPACA, IQUIQUE",
+        "Local 134-133 1ER NIVEL, AV. BALMACEDA 3242, ANTOFAGASTA, CALAMA",
+        "CORDOVEZ 590, COQUIMBO, LA SERENA",
+        "Local C 109-113, AV. ALBERTO SOLARI 1400, COQUIMBO, LA SERENA",
+        "VICUNA MACKENNA 161, COQUIMBO, OVALLE",
+        "Local 130- 132, AV BALMACEDA N 2355, ANTOFAGASTA, ANTOFAGASTA",
+        "Local A-1084 / A-1088, CALLE MAIPU N# 0110, ATACAMA, COPIAPO",
+        "Local 15-17, 15 NORTE #871, Valparaiso, VIÑA DEL MAR",
+        "Local 1072, AV. LA DEHESA 1445, RM, SANTIAGO",
+        "Local 2064, AV. KENNEDY 9001, RM, SANTIAGO",
+        "Local 245-246, AV. KENNEDY 5413, RM, SANTIAGO",
+        "Local 3157 PISO 4, AV. ANDRES BELLO 2447, RM, SANTIAGO",
+        "Local A1012-A1016, AV. PADRE HURTADO SUR N#875, RM, SANTIAGO",
+        "Local B 109-113, AV. AMERICO VESPUCIO 1501, RM, SANTIAGO",
+        "Local 258-259, AV. V. MACKENNA 7110, RM, SANTIAGO",
+        "Local 1082, VICUNA MACKENNA #6100, RM, SANTIAGO",
+        "Local 109, SERRANO #395, RM, MELIPILLA",
+        "Local 359, AV AMERICO VESPUCIO 399, RM, SANTIAGO",
+        "Local 2017, AV. JOSE PEDRO ALESSANDRI # 1166, RM, SANTIAGO",
+        "Local 133, CALLE SAN IGNACIO 300, RM, SANTIAGO",
+        "Local 238, EL ROBLE #770, BIO-BIO, CHILLAN",
+        "Local C 101-105, J. ALESSANDRI # 3.177, BIO-BIO, TALCAHUANO",
+        "COLON 515, BIO-BIO, LOS ANGELES",
+        "Local 209-210, VALDIVIA # 440, BIO-BIO, LOS ANGELES",
+        "Local 13, AV BDO OHIGGINS #201, MAULE, CURICO",
+        "RAFAEL CASANOVA 158 - C, OHIGGINS, SANTA CRUZ",
+        "Local A-1021 / A1025, LOS CARRERAS PONIENTE 301, BIO-BIO, CONCEPCION",
+        "Local 17-01, BARROS ARANA 1038, BIO-BIO, CONCEPCION",
+        "Local 1236-1240, AV. BERNARDO OHIGGINS 701, OHIGGINS, SAN FERNANDO",
+        "Local 1003, CARRETERA EL COBRE PRESIDENTE FREI N750, OHIGGINS, RANCAGUA",
+        "Local 116 A, CALLE UNO SUR N1537, MAULE, TALCA",
+        "BULNES 466, ARAUCANIA, TEMUCO",
+        "CAMILO HENRIQUEZ 446, ARAUCANIA, VILLARRICA",
+        "LETELIER 202, LOS RIOS, VALDIVIA",
+        "RAMIREZ 1007, LOS LAGOS, OSORNO",
+        "Local 117-118, URMENETA # 582, LOS LAGOS, PUERTO MONTT",
+        "Local 1018, AV ALEMANIA 671, ARAUCANIA, TEMUCO",
+        "Local 220 A, ILLAPEL 10, LOS LAGOS, PUERTO MONTT",
+        "Local 144 - 146, AV EDO FREI MONTALVA 1110, MAGALLANES, PUNTA ARENAS",
+        "CALLE 21 DE MAYO # 419, AYSEN, COYHAIQUE",
+        "Local 115, CALLE SAN FRANCISCO N#666, LOS LAGOS, PUERTO VARAS"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Merrell",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "20% dto.",
+      "dia": [
+        "Miércoles",
+        "Jueves",
+        "Viernes"
+      ],
+      "dia_texto": "miércoles a viernes",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
+      "condiciones": [
+        "20% dto. miércoles a viernes presencial",
+        "Tope de dto. $50.000",
+        "Genera tu código de descuento y preséntalo al momento de pagar.",
+        "No acumulable con otras promociones.",
+        "Descuento no aplica para compras con facturas y en cambios.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Local 1, CAMILO HENRÍQUEZ 466, LOS RIOS, VALDIVIA",
+        "Local A045 A1049, CALLE MAIPU N 0110, ATACAMA, COPIAPO",
+        "Local BA-134 BA-138, AVENIDA HUANHUALI N105, COQUIMBO, LA SERENA",
+        "Local 58, AV.LIBERTAD 1348, Valparaiso, VIÑA DEL MAR",
+        "Local 303, AVDA.KENNEDY 5413, RM, SANTIAGO",
+        "Local 2044, AV. LA DEHESA # 1445, RM, SANTIAGO",
+        "Local 2118, AV. KENNEDY N 9001, RM, SANTIAGO",
+        "Local 3196, AV.ANDRES BELLO 2447, RM, SANTIAGO",
+        "Local BA- 233A/ BA-237A, AV. VICU?A MACKENNA #7110, RM, SANTIAGO",
+        "Local BA-132, AV. AMERICO VESPUCIO N# 1501, RM, SANTIAGO",
+        "Local B-3040 / B-3044, AV.LARRAIN # 5862, RM, SANTIAGO",
+        "AVENIDA LAS CONDES 11281, RM, SANTIAGO",
+        "Local 3081, AV. VICUNA MACKENNA N# 6100, RM, SANTIAGO",
+        "Local 141, CALLE SAN IGNACIO N500, RM, SANTIAGO",
+        "Local H-140 H-144, AV. JORGE ALESSANDRI # 3177, BIO-BIO, CONCEPCION",
+        "Local 316 - L318, CALLE VALDIVIA LOCAL 316A -, BIO-BIO, LOS ANGELES",
+        "Local 014, AV. BERNARDO OHIGGINS #201, MAULE, CURICO",
+        "Local 320 A, CALLE EL ROBLE N 770, ÑUBLE, CHILLAN",
+        "Local N122 - A, AV CIRCUNVALACION ORIENTE N1055, MAULE, TALCA",
+        "Local 3054, AV.ALEMANIA 0671, ARAUCANIA, TEMUCO",
+        "Local 1, CALLE O HIGGINS 463, LOS RIOS, VALDIVIA",
+        "Local 245, CALLE ILLAPEL N#10, LOS LAGOS, PUERTO MONTT",
+        "CALLE BERNARDO OHIGGINS N112, ARAUCANIA, PUCON",
+        "21 DE MAYO N447, AYSEN, COYHAIQUE",
+        "CALLE SALVADOR N 129, LOS LAGOS, PUERTO VARAS",
+        "Local 148 150, AV. BALMACEDA N2355, ANTOFAGASTA, ANTOFAGASTA",
+        "Local F-162 164 166, AV. JORGE ALESSANDRI N3177, BIO-BIO, TALCAHUANO",
+        "Local A 189 - A 191, AV. BALMACEDA 3242, ANTOFAGASTA, CALAMA",
+        "AV. BALMACEDA N 2355 L 256-258, ANTOFAGASTA, ANTOFAGASTA"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Azaleia",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "20% dto.",
+      "dia": [
+        "Miércoles",
+        "Jueves",
+        "Viernes"
+      ],
+      "dia_texto": "miércoles a viernes",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
+      "condiciones": [
+        "20% dto. miércoles a viernes presencial",
+        "Tope de dto. $50.000",
+        "Genera tu código de descuento y preséntalo al momento de pagar.",
+        "No acumulable con otras promociones.",
+        "Descuento no aplica para compras con facturas y en cambios.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "LAUTARO 1320, ARAUCANIA, TEMUCO",
+        "Local A-1069 / A-1073, CALLE MAIPU Nro 0110, ATACAMA, COPIAPO",
+        "Local C 241 - 245, ALBERTO SOLARI # 1400, COQUIMBO, LA SERENA",
+        "Local 19, 13 NORTE 871, Valparaiso, VIÑA DEL MAR",
+        "Local 1044, AV. KENNEDY 9001, RM, SANTIAGO",
+        "Local 1092, AV LA DEHESA 1445, RM, SANTIAGO",
+        "Local 283-284, VICUNA MACKENNA 7110, RM, SANTIAGO",
+        "Local 1045, AV.VICU?A MACKENNA #6100, RM, SANTIAGO",
+        "Local 210, AV AMERICO VESPUCIO 399, RM, SANTIAGO",
+        "Local A 106 - 110, AV AMERICO VESPUCIO # 1501, RM, SANTIAGO",
+        "Local 204, CALLE SERRANO N#395, RM, MELIPILLA",
+        "Local 1082, AV EL LLANO SUBERCASEAUX N3519 A, RM, SANTIAGO",
+        "Local 116-118-120, SARGENTO CUEVAS #483, OHIGGINS, RANCAGUA",
+        "Local 2180, AV. BERNARDO OHIGGINS 701, OHIGGINS, SAN FERNANDO",
+        "Local 118, AV CIRCUNVALACION ORIENTE N1055, MAULE, TALCA",
+        "Local 54, AV BERNARDO OHIGGINS N201, MAULE, CURICO",
+        "Local 1007, AV. ALEMANIA 0671, ARAUCANIA, TEMUCO",
+        "Local N2084, PLAZA YUNGAY N609, LOS LAGOS, OSORNO",
+        "Local C213 217 221 225, AV. AMERICO VESPUCIO N1501, RM, SANTIAGO"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Hush Puppies Kids",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "20% dto.",
+      "dia": [
+        "Miércoles",
+        "Jueves",
+        "Viernes"
+      ],
+      "dia_texto": "miércoles a viernes",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
+      "condiciones": [
+        "20% dto. miércoles a viernes presencial",
+        "Tope de dto. $50.000",
+        "Genera tu código de descuento y preséntalo al momento de pagar.",
+        "No acumulable con otras promociones.",
+        "Descuento no aplica para compras con facturas y en cambios.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Local 2078, PLAZA YUNGAY 609, LOS LAGOS, OSORNO",
+        "Local 147-149, AV.BALMACEDA Nro 2355, ANTOFAGASTA, ANTOFAGASTA",
+        "Local 14, 13 NORTE #871, Valparaiso, VIÑA DEL MAR",
+        "Local 1069, AV. KENNEDY 9001, RM, SANTIAGO",
+        "Local 303-30, AV. KENNEDY 5413, RM, SANTIAGO",
+        "Local 1098, VICU?A MACKENNA #6100, RM, SANTIAGO",
+        "Local 359 - A, AV. AMERICO VESPUCIO N# 399, RM, SANTIAGO",
+        "Local E221-223, J. ALESSANDRI #3.177, BIO-BIO, TALCAHUANO",
+        "Local 30, AV. BDO O HIGGINS Nro 201, MAULE, CURICO",
+        "Local 359, CALLE ISABEL RIQUELME Nro709-745, BIO-BIO, CHILLAN",
+        "BULNES Nro472, ARAUCANIA, TEMUCO",
+        "AV. ALEMANIA 0671 L1034, ARAUCANIA, TEMUCO"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "CAT",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "20% dto.",
+      "dia": [
+        "Miércoles",
+        "Jueves",
+        "Viernes"
+      ],
+      "dia_texto": "miércoles a viernes",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
+      "condiciones": [
+        "Obtén 20% dto con un tope de $50.000 en las tiendas de CAT.",
+        "Genera tu código de descuento y preséntalo al momento de pagar.",
+        "No acumulable con otras promociones.",
+        "Descuento no aplica para compras con factura y en cambios."
+      ],
+      "sucursales": [
+        "Local 1B, CALLE OHIGGINS 463, LOS LAGOS, VALDIVIA",
+        "Local 234- L 236, AV. BALMACEDA # 2355, ANTOFAGASTA, ANTOFAGASTA",
+        "Local C-129/C-133/C-137, AV. BALMACEDA # 3242 ., ANTOFAGASTA, CALAMA",
+        "Local BA-126-130, AV. HUANHUALI 105, COQUIMBO, LA SERENA",
+        "Local C-1020 / C-1024 / C1028, CALLE MAIPU N# 0110, ATACAMA, COPIAPO",
+        "Local 287-289, AV. HEROES DE LA CONCEPCION N2555, TARAPACA, IQUIQUE",
+        "Local 9, AVDA. 13 NORTE 853, Valparaiso, VIÑA DEL MAR",
+        "Local 387, AV. KENNEDY 5413, RM, SANTIAGO",
+        "Local 3132, AV. ANDRES BELLO 2425, RM, SANTIAGO",
+        "Local 3170, AV. KENNEDY 9001, RM, SANTIAGO",
+        "Local B3028-3032-B3036, AV. PADRE HURTADO SUR N#875, RM, SANTIAGO",
+        "Local 1077, AV. VICU?A MACKENA N?6100, RM, SANTIAGO",
+        "Local 2016, AV. JOSE PEDRO ALESSANDRI # 1166, RM, SANTIAGO",
+        "Local P-1312/P1308, AV. AMERICO VESPUCIO # 1737, RM, SANTIAGO",
+        "AV. CAMILO HENRIQUEZ 3296 D108-112-116, RM, SANTIAGO",
+        "AV. VICUnA MACKENNA ORIENTE N#7110, RM, SANTIAGO",
+        "Local 386, AV. AMERICO VESPUCIO #399, RM, SANTIAGO",
+        "Local B-3056 / B-3060, AV. LARRAIN N# 5862, RM, SANTIAGO",
+        "Local BA-124/BA-128, AV. AMERICO VESPUCIO N# 1501, RM, SANTIAGO",
+        "Local J1, CARLOS VALDOVINOS 200, RM, SANTIAGO",
+        "Local A2070, AV. JORGE ALESSANDRI 20040, RM, SANTIAGO",
+        "Local 124, AVENIDA INDEPENDENCIA 565, RM, SANTIAGO",
+        "Local 142, CALLE SAN IGNACIO N300, RM, SANTIAGO",
+        "Local 1081, AV EL LLANO SUBERCASEAUX N3519 A, RM, SANTIAGO",
+        "Local E 114 - E 116, AV. J. ALESSANDRI #3177, BIO-BIO, TALCAHUANO",
+        "Local 10, AV. BERNARDO O`HIGGINS N# 201, MAULE, CURICO",
+        "Local 107, UNO SUR 1533, MAULE, TALCA",
+        "Local 3046, AV. ALEMANIA # 0671, ARAUCANIA, TEMUCO",
+        "Local 08-02, BARROS ARANA #1068, BIO-BIO, CONCEPCION",
+        "Local 317 A, CALLE EL ROBLE N#770, BIO-BIO, CHILLAN",
+        "Local 1001, CARRETERA EL COBRE PRESIDENTE FREI N750, OHIGGINS, RANCAGUA",
+        "CALLE OHIGGINS N467, LOS RIOS, VALDIVIA",
+        "Local 314-315, VALDIVIA 440, BIO-BIO, LOS ANGELES",
+        "Local 244, CALLE ILLAPEL N#10, LOS LAGOS, PUERTO MONTT",
+        "Local 2032, PLAZA YUNGAY 609, LOS LAGOS, OSORNO"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Funsport",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "20% dto.",
+      "dia": [
+        "Miércoles",
+        "Jueves",
+        "Viernes"
+      ],
+      "dia_texto": "miércoles a viernes",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
+      "condiciones": [
+        "20% dto. miércoles a viernes presencial",
+        "Tope de dto. $50.000",
+        "Genera tu código de descuento y preséntalo al momento de pagar.",
+        "No acumulable con otras promociones.",
+        "Descuento no aplica para compras con facturas y en cambios.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Local 111-112, AV. PARQUE INDUSTRIAL 450, LOS LAGOS, PUERTO MONTT",
+        "Local 134-136-138, AV. HEROES DE LA CONCEPCION 2555, TARAPACA, IQUIQUE",
+        "Local A 189 - A 191, AV BALMACEDA 3242, ANTOFAGASTA, CALAMA",
+        "Local 256-258, AV. BALMACEDA N 2355, ANTOFAGASTA, ANTOFAGASTA",
+        "Local A110-112, ALAMEDA BDO OHIGGINS #3470, RM, SANTIAGO",
+        "Local 105, CALLE SERRANO # 395, RM, MELIPILLA",
+        "Local A.2055-2057, AV.JORGE ALESSANDRI 20040, RM, SANTIAGO",
+        "Local 36, AV BDO OHIGGINS # 201, MAULE, CURICO",
+        "Local 1232, AV. BERNARDO OHIGGINS 701, OHIGGINS, SAN FERNANDO",
+        "Local 1003, AV ALEMANIA 671, ARAUCANIA, TEMUCO"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "SHOEXPRESS",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "20% dto.",
+      "dia": [
+        "Miércoles",
+        "Jueves",
+        "Viernes"
+      ],
+      "dia_texto": "miércoles a viernes",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
+      "condiciones": [
+        "20% dto. miércoles a viernes presencial",
+        "Tope de dto. $50.000",
+        "Genera tu código de descuento y preséntalo al momento de pagar.",
+        "No acumulable con otras promociones.",
+        "Descuento no aplica para compras con facturas y en cambios.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "CALLE RAMIREZ N 1030, LOS LAGOS, OSORNO",
+        "SAN PABLO 3248-3252, RM, SANTIAGO",
+        "Local 0654, AV SAN FRANCISCO DE BORJA 66, RM, SANTIAGO",
+        "ISABEL RIQUELME 1002, BIO-BIO, CHILLAN",
+        "Local A-B-C, COLON 7948, BIO-BIO, TALCAHUANO",
+        "Local 545, AV. AMERICO VESPUCIO N# 399, RM, SANTIAGO"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "DHouse",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "20% dto.",
+      "dia": [
+        "Miércoles",
+        "Jueves",
+        "Viernes"
+      ],
+      "dia_texto": "miércoles a viernes",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
+      "condiciones": [
+        "20% dto. miércoles a viernes presencial",
+        "Tope de dto. $50.000",
+        "Genera tu código de descuento y preséntalo al momento de pagar.",
+        "No acumulable con otras promociones.",
+        "Descuento no aplica para compras con facturas y en cambios.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "L 179, A. Vespucio #399, Región Metropolitana, Maipú",
+        "A. Departamental #01053, Región Metropolitana, La Florida",
+        "A. Vespucio Norte #1789, Región Metropolitana, Huechuraba",
+        "Local #2057, Francisco Bilbao #8750, Región Metropolitana, La Reina",
+        "Camino A Melipilla #9400, Región Metropolitana, Maipú",
+        "Local 1034, Mar Tirreno #5449, Región Metropolitana, Peñalolén",
+        "Local A305, Av. Alameda Bdo. OHiggins 3470, Región Metropolitana, Santiago",
+        "Local 2, San Ignacio 500 Buenaventura, Región Metropolitana, Quilicura",
+        "L.12, Avda. OHiggins 581, Región Metropolitana, Quilicura",
+        "L 502 Easton Center, Eduardo Freí Montalvo 9709, Región Metropolitana, Quilicura",
+        "Local 128, Av. Lo Espejo 943, Región Metropolitana, Lo Espejo",
+        "JVACIO, orge Alessandri S/N Sector Home Center - Lider, Región del Biobío, Concepción",
+        "Av. Ramón Freire #1851, Región de Valparaíso, Quilpué",
+        "Av. Francisco De Aguirre #02, Región de Coquimbo, La Serena",
+        "L.1003, Carretera El Cobre Presidente Frei #750, Región del Libertador Bernardo OHiggins, Rancagua",
+        "Local 9-10-11, Argentina #1, Región de Valparaíso, Valparaíso",
+        "Local 111-112, Av. Parque Industrial 450, Región de los Lagos, Puerto Montt",
+        "Local 23-24, Calle Portal San Pedro 4850, Región del Biobío, Concepción",
+        "Local 109, Av. Einstein 290, Región del Libertador Bernardo OHiggins, Rancagua",
+        "Local Le 18 - Lc 34, Camino Internacional 2440, Región de Valparaíso, Viña del Mar",
+        "Local S17, Av. Lomas De La Luz 4650, Región de Valparaíso, Curauma"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "Monnier Chocolat",
       "categoria": "Sabores",
       "descuento": "20% dto.",
@@ -13672,6 +14203,35 @@
         "CW Independencia, Av. Independencia 565, Región Metropolitana, Independencia",
         "CW Paseo Ross, Av. Argentina 540, Valparaíso, Región de Valparaiso, Valparaiso",
         "CW La Fabrica, Av. Carlos Valdovinos 200, Región Metropolitana, San Joaquín"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "BURTON",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "20% dto. miércoles a viernes",
+      "dia": [],
+      "dia_texto": null,
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
+      "condiciones": [
+        "20% dto. de miércoles a viernes presencial",
+        "Tope de dto. $50.000",
+        "Genera tu código de descuento y preséntalo al momento de pagar.",
+        "No acumulable con otras promociones.",
+        "Descuento no aplica para compras con facturas y en cambios.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Calle Salvador, 129, LOS LAGOS, PUERTO VARAS",
+        "Av. Circunvalacion Oriente, 1055, Maule, TALCA",
+        "Calle El Roble, 70, Ñuble, CHILLAN",
+        "Av. Larrain, 5862, RM, LA REINA",
+        "Av. Kennedy, 5601, RM, LAS CONDES",
+        "Av. Las Condes, 13451, RM, LAS CONDES",
+        "Av. Américo Vespucio, 399, RM, MAIPU",
+        "Av. Kennedy, 9001, RM, LAS CONDES",
+        "Local 4128, Av. Andrés Bello N 2447, RM, PROVIDENCIA"
       ]
     },
     {
@@ -15228,6 +15788,33 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "Mountain Hardwear",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "20% dto.",
+      "dia": [
+        "Miércoles",
+        "Jueves",
+        "Viernes"
+      ],
+      "dia_texto": "miércoles a viernes",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
+      "condiciones": [
+        "20% dto. miércoles a viernes presencial",
+        "Tope de dto. $50.000",
+        "Genera tu código de descuento y preséntalo al momento de pagar.",
+        "No acumulable con otras promociones.",
+        "Descuento no aplica para compras con facturas y en cambios.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Local 3133, AV.ANDRES BELLO 2447, RM, SANTIAGO",
+        "CALLE 21 DE MAYO Nro 419, AYSEN, COYHAIQUE",
+        "Local 104-105C, AVENIDA LAS CONDES N 13451, RM, SANTIAGO"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "Rosselot Rent a Car",
       "categoria": "Viajes",
       "descuento": "Hasta 30% dto",
@@ -15284,18 +15871,6 @@
       "sucursales": [
         "Av. Doctor Guillermo Bühler #2005, piso 8 oficina 804-805-806-810, Región de Los Lagos, Osorno"
       ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Ozuna - 24 de septiembre",
-      "categoria": "Entretención y Deportes",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "Compra tus entradas con los mejores beneficios de tus Tarjetas",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [],
-      "sucursales": []
     },
     {
       "banco": "Banco de Chile",
@@ -15418,6 +15993,36 @@
       ],
       "sucursales": [
         "Puerta oriente 361, oficina 512 C Edificio Da Vinci, Puertas de Chicureo, Región Metropolitana, Chicureo"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Crocs",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "20% dto.",
+      "dia": [
+        "Miércoles",
+        "Jueves",
+        "Viernes"
+      ],
+      "dia_texto": "miércoles a viernes",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
+      "condiciones": [
+        "20% dto. miércoles a viernes presencial",
+        "Tope de dto. $50.000",
+        "Genera tu código de descuento y preséntalo al momento de pagar.",
+        "No acumulable con otras promociones.",
+        "Descuento no aplica para compras con facturas y en cambios.",
+        "Descuento no válido en colecciones con colaboración.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "AV PRESIDENTE KENNEDY #9001, LOCAL 2012 ALTO LAS CONDES, Región Metropolitana, Las Condes",
+        "AV. LIBERTAD #1348, LOCAL 236 MARINA ARAUCO, Región de Valparaíso, Viña del Mar",
+        "Crocs - Costanera Center LOCAL 4145, AV. ANDRES BELLO #2447, Región Metropolitana, Providencia",
+        "Crocs - Mall Plaza Vespucio LOCAL 049-050, AV. VICUNA MACKENNA #7110, Región Metropolitana, La Florida",
+        "Crocs - Outlet Buenaventura LOCAL 133, CALLE SAN IGNACIO #300, Región Metropolitana, Quilicura"
       ]
     },
     {
@@ -22553,6 +23158,113 @@
       ]
     },
     {
+      "banco": "Banco de Chile",
+      "comercio": "Oktoberfest 2026",
+      "categoria": "Entretención y Deportes",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "9, 10 y 11 de octubre",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Compra con los mejores beneficios de tus tarjetas"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "BSoul",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "20% dto.",
+      "dia": [
+        "Miércoles",
+        "Jueves",
+        "Viernes"
+      ],
+      "dia_texto": "miércoles a viernes",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
+      "condiciones": [
+        "20% dto. miércoles a viernes presencial",
+        "Tope de dto. $50.000",
+        "Genera tu código de descuento y preséntalo al momento de pagar.",
+        "No acumulable con otras promociones.",
+        "Descuento no aplica para compras con facturas y en cambios.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Local 108 NIVEL2, JUAN SOLER MANFREDINI N131, LOS LAGOS, PUERTO MONTT",
+        "Local 133 2DO NIVEL, AV. LIBERTAD #1348, Valparaiso, VIÑA DEL MAR",
+        "Local 274, AV. KENNEDY N5413, RM, SANTIAGO",
+        "Local 119, AVDA LAS CONDES # 13451, RM, SANTIAGO",
+        "Local 3083, AV. KENNEDY #9001, RM, SANTIAGO"
+      ]
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "UC CHRISTUS",
+      "categoria": "Cuotas Sin Interés",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "3 a 18 cuotas sin interés",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Revisa todos los servicios y especialidades de UC CHRISTUS.",
+        "Exclusivo pagando con tus Tarjetas de Crédito Santander.",
+        "Válido para todos los servicios de UC CHRISTUS. Para el pago de cuentas hospitarias asociado a este convenio, el pago debe realizarse exclusivamente a través del portal web de UC CHRISTUS.",
+        "Cuotas válidas para montos desde $100.000",
+        "No es acumulable con otras promociones.CAE 1,51% Calculado por un monto referencial de compra de $1.000.000 en 24 cuotas. Costo total del Crédito: $1.015.840. Operación afecta a impuesto al crédito a cargo del cliente.",
+        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Skydive Colchagua",
+      "categoria": "Viajes",
+      "descuento": "20% dcto.",
+      "dia": [
+        "Viernes"
+      ],
+      "dia_texto": "todos los viernes",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Vive la experiencia de la caída libre a más de 220 km/h en una actividad única, llena de adrenalina y emociones intensas.",
+        "Exclusivo pagando con tus Tarjetas de Crédito y Débito Santander.",
+        "Viña Santa Cruz, Valle de Colchagua, Región de O´higgins, Chile.",
+        "No acumulable a otras promociones.",
+        "Válido online con link de pago via WhatsApp",
+        "Código de descuento SALTOSANTANDER2026",
+        "Salto sujeto a condiciones climáticas.",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Cueros Vélez",
+      "categoria": "Cuotas Sin Interés",
+      "descuento": "30% dcto",
+      "dia": [],
+      "dia_texto": "3 a 6 cuotas sin interés +  por compras de 2 o más productos",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "3 a 6 cuotas sin interés",
+        "Pagando con tus Tarjetas de Crédito Santander.",
+        "Válido en tiendas físicas, línea WhatsApp +56 9 8673 2392 y tienda online velez.cl",
+        "Descuento no aplica para chaquetas, fragancias, morral Archaeology, bowling Lili, bandolera Mini lili, bandolera Garniel, productos de cuidado del cuero, productos exclusivo online, costo de la marcación láser, producto personalizado de taller artesano (pigmentación), ni bonos regalo.",
+        "Beneficio exclusivo para clientes que se registren en el programa Quiero Vélez.",
+        "Redimible una (1) sola vez por persona.",
+        "Cupón para compras online VZCL2X30BS",
+        "CAE 1,36% Calculado por un monto referencial de compra de $1.000.000 en 6 cuotas. Costo total del Crédito: $1.003.960. Operación afecta a impuesto al crédito a cargo del cliente.",
+        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
+      ],
+      "sucursales": []
+    },
+    {
       "banco": "Banco Santander",
       "comercio": "Giullietta",
       "categoria": "Sabores",
@@ -26962,24 +27674,6 @@
     },
     {
       "banco": "Banco Santander",
-      "comercio": "Vélez",
-      "categoria": "Cuotas Sin Interés",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "3 a 6 cuotas sin interés",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "3 a 6 cuotas sin interés",
-        "Pagando con tus Tarjetas de Crédito Santander.",
-        "Válido en tiendas físicas.",
-        "CAE 1,36% Calculado por un monto referencial de compra de $1.000.000 en 6 cuotas. Costo total del Crédito: $1.003.960. Operación afecta a impuesto al crédito a cargo del cliente.",
-        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
       "comercio": "Kitchen Center",
       "categoria": "Cuotas Sin Interés",
       "descuento": null,
@@ -27441,24 +28135,6 @@
         "No es acumulable con otras promociones.",
         "CAE de 1,51%. Calculado por un monto referencial de compra de $1.000.000 en 24 cuotas. Costo total del Crédito: $1.015.840. Operación afecta a impuesto al crédito.",
         "Horario: - Lunes a Viernes 9:00 - 19:00 hrs. Sábados: 9:30 - 14:00 hrs. - Dirección: Av. La Dehesa 440, oficina 303, Lo Barnechea. - Teléfono: +56933151853.",
-        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "UC CHRISTUS",
-      "categoria": "Cuotas Sin Interés",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "3 a 24 cuotas sin interés",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Revisa todos los servicios y especialidades de UC CHRISTUS.",
-        "Exclusivo pagando con tus Tarjetas de Crédito Santander.",
-        "Válido en todos los servicios de UC CHRISTUS.",
-        "No es acumulable con otras promociones.CAE 1,51% Calculado por un monto referencial de compra de $1.000.000 en 24 cuotas. Costo total del Crédito: $1.015.840. Operación afecta a impuesto al crédito a cargo del cliente.",
         "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
       ],
       "sucursales": []
