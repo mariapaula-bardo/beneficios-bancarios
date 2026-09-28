@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-27T15:27",
+  "actualizado": "2026-09-28T18:19",
   "beneficios": [
     {
       "banco": "Banco de Chile",
@@ -17074,6 +17074,34 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "Vestuario y calzado Clientes Plan Océano",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "40% dto.",
+      "dia": [],
+      "dia_texto": "en grandes marcas de vestuario y calzado",
+      "canal": null,
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
+      "condiciones": [
+        "Para disfrutar de este beneficio ingresa al link ."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Vestuario y calzado Clientes Plan Cordillera",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "30% dto.",
+      "dia": [],
+      "dia_texto": "en grandes marcas de vestuario y calzado",
+      "canal": null,
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
+      "condiciones": [
+        "Para disfrutar de este beneficio ingresa al link ."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "Brisas del Mar Ñuñoa",
       "categoria": "Sabores",
       "descuento": "25% dto.",
@@ -17972,6 +18000,41 @@
         "Av. Presidente Kennedy #2702, Región de OHiggins, Rancagua",
         "Av. Carlos León Briceño #103, Región de Valparaíso, Quillota",
         "Francisco Bilbao #434, Región de La Araucanía, Temuco"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "ASICS",
+      "categoria": "Entretención y Deportes",
+      "descuento": "20% dto.",
+      "dia": [
+        "Lunes",
+        "Martes"
+      ],
+      "dia_texto": "lunes y martes",
+      "canal": "Ambos",
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
+      "condiciones": [
+        "ASICS es una marca japonesa dedicada al deporte, reconocida por su innovación tecnológica y enfoque en el rendimiento y bienestar. El nombre proviene del lema latino \"Anima Sana In Corpore Sano\", que significa “mente sana en cuerpo sano”.",
+        "Para compra presencial solicita tu descuento al momento de pagar.",
+        "Para compra online obtén tu descuento ingresando BCHILE20 como código de dto.",
+        "Descuento no aplica para valor del despacho.",
+        "Revisa cobertura de despacho en asics.cl",
+        "No acumulable con otras promociones.",
+        "Beneficio excluye la línea Metaspeed, lanzamientos, productos de colaboraciones especiales y tiendas outlet.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Av. Pdte. Kennedy 5413, Región Metropolitana, Las Condes",
+        "Av. Andrés Bello 2425, Región Metropolitana, Providencia",
+        "Av. Las Condes 13501, Región Metropolitana, Las Condes",
+        "Av. Libertad 1348, Región de Valparaíso, Viña del Mar",
+        "Av. Américo Vespucio 1501, Región Metropolitana, Cerrillos",
+        "San Ignacio 500 Y 300, Región Metropolitana, Quilicura",
+        "Av. Pdte. Jorge Alessandri Rodriguez 3177, Región del Biobío, Talcahuano",
+        "Av. Vicuña Mackenna Ote. 7110, Región Metropolitana, La Florida",
+        "Av. Américo Vespucio 399, Región Metropolitana, Maipu",
+        "Av. Américo Vespucio 1737, Región Metropolitana, Huechuraba"
       ]
     },
     {
@@ -21295,29 +21358,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Fogón Greed",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Domingo"
-      ],
-      "dia_texto": "domingos de septiembre",
-      "canal": null,
-      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial 40% dto. todos los domingos de septiembre.",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dto. $50.000 por mesa"
-      ],
-      "sucursales": [
-        "Ignacio Zenteno #2661,, Región de Los Lagos, Osorno"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "Jardín Ulriksen",
       "categoria": "Sabores",
       "descuento": "40% dto",
@@ -23236,6 +23276,505 @@
       "sucursales": [
         "Av. Vicente Perez Rosales 1A Km 71.5, Las Cascadas Puerto Octay, Region de los Lagos, Osorno"
       ]
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "GG Electrics",
+      "categoria": "Cuotas Sin Interés",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "3 a 36 cuotas sin interés",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Cotiza tu proyecto de Energía Solar, Aires AC, temperado de piscinas, bombas de calor, etc.",
+        "Exclusivo pagando con tus Tarjetas de Crédito Santander.",
+        "Válido en www.ggelectrics.cl",
+        "CAE 1,53% Calculado por un monto referencial de compra de $1.000.000 en 36 cuotas. Costo total del Crédito: $1.023.760. Operación afecta a impuesto al crédito a cargo del cliente.",
+        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Zenit 90",
+      "categoria": "Cuotas Sin Interés",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "3 a 36 cuotas sin interés y acumula 1 Milla LATAM Pass adicional",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Especialistas en diseño e instalación de sistemas fotovoltaicos para hogares y empresas en Chile.",
+        "Exclusivo pagando con tus Tarjetas de Crédito Santander.",
+        "Válido en www.zenit90.com",
+        "Acumulación de 1 milla adicional exclusivo pagando con tus Tarjetas de Crédito Santander LATAM Pass",
+        "CAE 1,53% Calculado por un monto referencial de compra de $1.000.000 en 36 cuotas. Costo total del Crédito: $1.023.760. Operación afecta a impuesto al crédito a cargo del cliente.",
+        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. La bonificación de millas estructural se realizará según nivel y tarjeta de Crédito Santander LATAM Pass del cliente, más 1 milla adicional por dólar gastado por compras realizadas en campaña. Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio; la administración del programa LATAM Pass es de exclusiva responsabilidad de LATAM Airlines Group S.A. sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl. Conoce más sobre Santander Rewards y su reglamento en: https://banco.santander.cl/rewards."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Ruuf",
+      "categoria": "Cuotas Sin Interés",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "3 a 48 cuotas sin interés",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Cámbiate a la energía solar y ahorra con paneles solares",
+        "Exclusivo pagando con tus Tarjetas de Crédito Santander y Tarjetas de Crédito Santander Empresas.",
+        "Válido en compras online.",
+        "CAE 1,54% Calculado por un monto referencial de compra de $1.000.000 en 48 cuotas. Costo total del Crédito: $1.031.680. Operación afecta a impuesto al crédito a cargo del cliente.",
+        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Proyecta Energía",
+      "categoria": "Cuotas Sin Interés",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "3 a 36 cuotas sin interés",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Ahorra hasta un 90% en tu cuenta de luz con paneles solares.",
+        "Exclusivo pagando con tus Tarjetas de Crédito Santander y Tarjetas de Crédito Santander Empresas.",
+        "Válido online.",
+        "CAE 1,53% Calculado por un monto referencial de compra de $1.000.000 en 36 cuotas. Costo total del Crédito: $1.023.760. Operación afecta a impuesto al crédito a cargo del cliente.",
+        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Bipsolar",
+      "categoria": "Cuotas Sin Interés",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "3 a 48 cuotas sin interés",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Instala paneles solares en tu hogar y disfruta de energía limpia, sostenible y económica.",
+        "Exclusivo pagando con tus Tarjetas de Crédito Santander y Tarjetas de Crédito Santander Empresas.",
+        "Válido online",
+        "CAE 1,54% y Monto Total a pagar de $1.031.680, anunciados son ejemplares y corresponden a compra de monto de $1.000.000 cursada en modalidad de pago de 48 cuotas mensuales, y consideran impuestos.",
+        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Solei",
+      "categoria": "Cuotas Sin Interés",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "3 a 36 cuotas sin interés",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Especialistas en sistemas solares fotovoltaicos.",
+        "Exclusivo pagando con tus Tarjetas de Crédito Santander y Tarjetas de Crédito Santander Empresas.",
+        "Válido en compras online.",
+        "CAE 1,53% Calculado por un monto referencial de compra de $1.000.000 en 36 cuotas. Costo total del Crédito: $1.023.760. Operación afecta a impuesto al crédito a cargo del cliente.",
+        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Nexsolar",
+      "categoria": "Cuotas Sin Interés",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "3 a 36 cuotas sin interés",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Descubre con NexSolar como conseguir tu independencia energética y cambiarte a energía solar",
+        "Exclusivo pagando con tus Tarjetas de Crédito Santander y Tarjetas de Crédito Santander Empresas.",
+        "Válido en compras online.",
+        "CAE 1,53% Calculado por un monto referencial de compra de $1.000.000 en 36 cuotas. Costo total del Crédito: $1.023.760. Operación afecta a impuesto al crédito a cargo del cliente.",
+        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Edify",
+      "categoria": "Cuotas Sin Interés",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "3 a 48 cuotas sin interés",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Cuida al planeta con soluciones energéticas a través de paneles solares.",
+        "Exclusivo pagando con tus Tarjetas de Crédito Santander y Tarjetas de Crédito Santander Empresas.",
+        "Válido en compras online.",
+        "CAE 1,54% Calculado por un monto referencial de compra de $1.000.000 en 48 cuotas. Costo total del Crédito: $1.031.680. Operación afecta a impuesto al crédito a cargo del cliente.",
+        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Copec Flux",
+      "categoria": "Cuotas Sin Interés",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "3 a 48 cuotas sin interés",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Súmate a la energía solar y reduce tu cuenta de electricidad con paneles solares.",
+        "Exclusivo pagando con tus Tarjetas de Crédito Santander y Tarjetas de Crédito Santander Empresas.",
+        "Es válido en online en www.copecflux.cl",
+        "Exclusivo en paneles solares.",
+        "CAE 1,54% y monto total a pagar de $1.031.680, anunciados son ejemplares y corresponden a compra de monto de $1.000.000 cursada en modalidad de pago de 48 cuotas mensuales, y consideran impuestos.",
+        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Nikola",
+      "categoria": "Cuotas Sin Interés",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "3 a 48 cuotas sin interés",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "¡Aprovecha al máximo los recursos naturales y la energía con paneles solares para tu hogar!",
+        "Exclusivo pagando con tus Tarjetas de Crédito Santander y Tarjetas de Crédito Santander Empresas.",
+        "Es válido en www.nikola.cl",
+        "No es acumulable con otras promociones.",
+        "CAE 1,54% Calculado por un monto referencial de compra de $1.000.000 en 48 cuotas. Costo total del Crédito: $1.031.680 . Operación afecta a impuesto al crédito a cargo del cliente.",
+        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Warmtec",
+      "categoria": "Cuotas Sin Interés",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "3 a 36 cuotas sin interés",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Descubre la innovadora tecnología en calefacción para tu hogar.",
+        "Exclusivo pagando con tus Tarjetas de Crédito Santander y Tarjetas de Crédito Santander Empresas.",
+        "Es válido en tiendas y online.",
+        "No es acumulable con otras promociones.",
+        "CAE 1,53% Calculado por un monto referencial de compra de $1.000.000 en 36 cuotas. Costo total del Crédito: $1.023.760. Operación afecta a impuesto al crédito a cargo del cliente.",
+        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "FreeMet",
+      "categoria": "Sustentable",
+      "descuento": "20% dcto.",
+      "dia": [],
+      "dia_texto": "en freemet.cl",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Productos de limpieza ecológicos y efectivos que cuidan el planeta y tu salud.",
+        "Exclusivo con tus Tarjetas de Crédito y Débito Santander.",
+        "Válido en todos los productos en www.freemet.cl",
+        "Ingresa los 6 primeros dígitos de tu Tarjeta como código de descuento.",
+        "No acumulable a otras promociones.",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "EcoMovers",
+      "categoria": "Sustentable",
+      "descuento": "20% dcto",
+      "dia": [
+        "Lunes",
+        "Martes",
+        "Miércoles"
+      ],
+      "dia_texto": "en ecomovers.cl lunes a miércoles",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Mudanzas ecofriendly para hogares, startup, empresas e instituciones. Recuerda que:",
+        "Exclusivo con tus Tarjetas de Crédito y Débito Santander.",
+        "Válido en www.ecomovers.cl",
+        "Descuento válido para Región Metropolitana, Valparaíso y O'Higgins en la primera compra.",
+        "Abonos de reserva no reembolsable.",
+        "Tope de descuento $150.000",
+        "Ingresa el cupón SANTANDER2025 , como código de descuento al comprar por la web.",
+        "No acumulable a otras promociones.",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Biobrush",
+      "categoria": "Sustentable",
+      "descuento": "20% dcto.",
+      "dia": [],
+      "dia_texto": "en biobrush.cl",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "¡Reemplacemos el plástico por materiales biodegradables!",
+        "Conoce los productos eco amigables, Peta & Vegan, sustentables, reciclables, compostables y reutilizables.",
+        "Exclusivo pagando con tus Tarjetas de Crédito y Débito Santander.",
+        "Válido en www.biobrush.cl.",
+        "Ingresa los 6 primeros dígitos como código de descuento.",
+        "No es acumulable con otras promociones.",
+        "Sin tope de descuento.",
+        "Exclusivo en Pasta dental Natural Menta S/Flúor con adición de Hidroxiapatita (HA).",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Cenit",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": null,
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "10% de descuento en todos los planes de Cenit todos los días",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Los impuestos de tu pyme en simple.",
+        "Válido con tus Tarjetas de Crédito Santander Empresa y Débito Santander Empresa.",
+        "No acumulable a otras promociones",
+        "Exclusivo en la App Cenit.AI",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Figi",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "30% de dcto en todos los servicios figi: plataforma, videos y operación total",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Crea y activa experiencias de video en espacios físicos y digitales.",
+        "Beneficio Santander Empresas :",
+        "Válido en figi.video",
+        "ingresa el código de descuento figi.santander.empresas",
+        "Cada empresa debe contar con los derechos de uso de su contenido."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Portal Motores",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "25% de dcto y 50% de dcto en plan anual comercios",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Registrándote en la app de Portal Motores obtendrás un 20% de descuento en servicios para tu auto y 50% de descuento en plan anual para comercios automotrices.",
+        "Agenda servicios FULL a domicilio desde Portal Motores y paga menos usando tu Tarjeta Santander.",
+        "Beneficio Santander Empresas :",
+        "50% de descuento en plan anual comercios. Precio normal 129.990 + IVA. Precio clientes Santander 64.990 + IVA",
+        "Ingresa los 6 primeros dígitos de tu Tarjeta empresa Santander.",
+        "Exclusivo con tus Tarjetas de Crédito Santander Empresas.",
+        "Beneficios Santander:",
+        "Exclusivo con tus Tarjetas de Crédito y Débito Santander.",
+        "25% de descuento en cualquiera de los servicios FULL para tu auto en Portal Motores.",
+        "Válido en www.portalmotores.cl y app.",
+        "Ingresa los 6 primeros dígitos de tu Tarjeta Santander como código de descuento.",
+        "Descuento máximo de $100.000 . Máximo 1 uso por usuario .",
+        "No acumulable con otras promociones."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Starken",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "15% dcto",
+      "dia": [],
+      "dia_texto": "en todos los envíos",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Descuento en todos los envíos en sucursales Starken y tótems de autoatención.",
+        "Exclusivo con tus Tarjetas de Crédito, Débito y Tarjetas de Crédito Santander Empresas.",
+        "Sólo aplica para envíos.",
+        "Tope de 15% dcto.",
+        "No es acumulable con otras promociones.",
+        "En caja pide tu descuento al momento de pagar.",
+        "En totems de autoatención, ingresa los 6 primeros dígitos de tu Tarjeta como código de descuento.",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Impulsa CRM",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "50% descuento",
+      "dia": [],
+      "dia_texto": "en WhatsApp API con IA",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Digitaliza tus procesos comerciales con la mejor tecnología y servicio",
+        "Beneficio Santander Empresas :",
+        "Exclusivo con tus Tarjetas de Crédito Santander Empresas.",
+        "Válido en https://www.impulsasuite.com/lps/suite/santander?tags=santander25",
+        "Código de descuento: santander25",
+        "No acumulable con otras promociones.",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Legale by Despapeliza",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "20% de descuento en tu suscripción",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Plataforma de automatización y gestión inteligente para procesos empresariales, administra digitalmente todo tipo de documentos.",
+        "Beneficio Santander Empresas :",
+        "Exclusivo con tus Tarjetas de Crédito Santander Empresas.",
+        "Válido en local.",
+        "Código de descuento: Despapelizasantander2025",
+        "No acumulable con otras promociones.",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Duemint",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "Primeros 2 meses gratis y costo de implementación bonificado.   ",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Optimiza tu gestión financiera con Duemint, automatiza tu cobranza, conciliación y pagos sin costos iniciales y lleva el control de tus finanzas al siguiente nivel.",
+        "Beneficio Santander Empresas :",
+        "Exclusivo con tus Tarjetas de Crédito Santander Empresas.",
+        "Válido en https://land.duemint.com/beneficio-santander",
+        "Acumulable con otras promociones.",
+        "Considera tramos de hasta 300 documentos facturados mensualmente.",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Blue Express",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "20% de descuento en envíos",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Plataforma de envíos a todo Chile.",
+        "Beneficio Santander Empresas :",
+        "Exclusivo con tus Tarjetas de Crédito Santander Empresas.",
+        "Válido en App bluex.cl o la App Copec.",
+        "Aplica exclusivamente para envíos gestionados en app.bluex.cl y App Copec",
+        "Código de descuento SANTANDERBLUE26",
+        "1. Entrar a la página www.blue.cl y dirigirse al botón “Haz tu envío” 2. Ingresa con tu correo electrónico o crea tu cuenta. 3. Completa los datos del envío. 4. Ingresa tu código SANTANDERBLUE26 5. Dirígete con tu pedido etiquetado a tu Punto Blue Express más cercano.",
+        "Tope de 15 envíos por usuario al mes.",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "US1Box",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "20% dcto.",
+      "dia": [],
+      "dia_texto": "en el flete internacional y 3 a 12 cuotas sin interés",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Trae tus compras de USA con descuento.",
+        "Servicios de Pick up dentro USA, almacenamiento en Hub Miami, envíos aéreo, nacionalización y entrega en todo Chile.",
+        "Beneficio Santander Empresas :",
+        "Exclusivo con tus Tarjetas de Crédito Santander Empresas.",
+        "Válido en https://us1box.com/santander/",
+        "No acumulable con otras promociones.",
+        "CAE 1,46% Calculado por un monto referencial de compra de $1.000.000 en 12 cuotas. Costo total del Crédito: $1.007.920. Operación afecta a impuesto al crédito a cargo del cliente.",
+        "Las compras de USA con 20% de descuento aplican sólo para transporte internacional para clientes con Tarjetas de Crédito Santander Empresas de Banco Santander en Chile y como máximo de hasta 500 Kilos por envío de 3 hasta 12 cuotas sin interés. En el caso de compras mayores a 500 kilos, el cliente deberá pagar el peso excedente. Promoción ilimitada válida durante la vigencia de la promoción. Promoción exclusiva pagando con Tarjetas de Crédito Santander Empresas. El descuento sólo aplica sobre flete Internacional de USA a país destino, no aplica para impuestos, seguro, aduana, ni impuesto de internación. Aplica solo a un peso de hasta 500 kilos por envío. Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Oh Box",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": null,
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "50% de dcto. en 4 meses de mini bodegas todos los días",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Guarda todo lo que necesites en nuestras mini bodegas de 4 a 29 metros cuadrados en el corazón de Las Condes",
+        "Beneficio Santander Empresas :",
+        "Exclusivo con tus Tarjetas de Crédito Santander Empresas.",
+        "Válido en local.",
+        "Manquehue Norte 958, Las Condes.",
+        "Aplica solo para nuevos clientes. Sujeto a disponibilidad de stock.",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Akikb",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "35% dcto.",
+      "dia": [],
+      "dia_texto": "en arriendo por 3 meses de minibodegas en todas las sucursales",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Arriendo de mini bodegas",
+        "Beneficio Santander Empresas :",
+        "Exclusivo con tus Tarjetas de Crédito, Debito Santander y Tarjetas de Crédito Santander Empresas.",
+        "Válido en locales.",
+        "No válido para compras online. Excluye clientes existentes.",
+        "Descuento válido en Downtown: Eleuterio 737, Santiago - Santiago Sur: Santiago 1130, Santiago - Viña del Mar: Camino Internacional 4750 - Viña del Mar - Enea: Los Cactus 10010 Pudahuel - Valle Norte: Av. Chamisero 12400, Valle Norte, Chamisero - Alonso de Ovalle: Alonso Ovalle 1320 Santiago - La Reina: Fernando Castillo Velasco 8595, La Reina - San Francisco: Chiloé N°1734, Santiago - Ciudad Empresarial 3: Rinconada 497, Huechuraba Rosas: Manuel Rodriguez Norte 730, Stgo. Centro - Marathon: Avda. Marathon 2499, Macul - Tarapacá: Tarapacá 1028, Stgo. Centro - Vicuña Mackenna: Av Matta 067, Ñuñoa - Cantagallo: Nva Las Condes 12375, Las Condes.",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
+      ],
+      "sucursales": []
     },
     {
       "banco": "Banco Santander",
@@ -28965,275 +29504,6 @@
     },
     {
       "banco": "Banco Santander",
-      "comercio": "GG Electrics",
-      "categoria": "Cuotas Sin Interés",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "3 a 36 cuotas sin interés",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Cotiza tu proyecto de Energía Solar, Aires AC, temperado de piscinas, bombas de calor, etc.",
-        "Exclusivo pagando con tus Tarjetas de Crédito Santander.",
-        "Válido en www.ggelectrics.cl",
-        "CAE 1,53% Calculado por un monto referencial de compra de $1.000.000 en 36 cuotas. Costo total del Crédito: $1.023.760. Operación afecta a impuesto al crédito a cargo del cliente.",
-        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Zenit 90",
-      "categoria": "Cuotas Sin Interés",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "3 a 36 cuotas sin interés y acumula 1 Milla LATAM Pass adicional",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Especialistas en diseño e instalación de sistemas fotovoltaicos para hogares y empresas en Chile.",
-        "Exclusivo pagando con tus Tarjetas de Crédito Santander.",
-        "Válido en www.zenit90.com",
-        "Acumulación de 1 milla adicional exclusivo pagando con tus Tarjetas de Crédito Santander LATAM Pass",
-        "CAE 1,53% Calculado por un monto referencial de compra de $1.000.000 en 36 cuotas. Costo total del Crédito: $1.023.760. Operación afecta a impuesto al crédito a cargo del cliente.",
-        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. La bonificación de millas estructural se realizará según nivel y tarjeta de Crédito Santander LATAM Pass del cliente, más 1 milla adicional por dólar gastado por compras realizadas en campaña. Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio; la administración del programa LATAM Pass es de exclusiva responsabilidad de LATAM Airlines Group S.A. sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl. Conoce más sobre Santander Rewards y su reglamento en: https://banco.santander.cl/rewards."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Ruuf",
-      "categoria": "Cuotas Sin Interés",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "3 a 48 cuotas sin interés",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Cámbiate a la energía solar y ahorra con paneles solares",
-        "Exclusivo pagando con tus Tarjetas de Crédito Santander y Tarjetas de Crédito Santander Empresas.",
-        "Válido en compras online.",
-        "CAE 1,54% Calculado por un monto referencial de compra de $1.000.000 en 48 cuotas. Costo total del Crédito: $1.031.680. Operación afecta a impuesto al crédito a cargo del cliente.",
-        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Proyecta Energía",
-      "categoria": "Cuotas Sin Interés",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "3 a 36 cuotas sin interés",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Ahorra hasta un 90% en tu cuenta de luz con paneles solares.",
-        "Exclusivo pagando con tus Tarjetas de Crédito Santander y Tarjetas de Crédito Santander Empresas.",
-        "Válido online.",
-        "CAE 1,53% Calculado por un monto referencial de compra de $1.000.000 en 36 cuotas. Costo total del Crédito: $1.023.760. Operación afecta a impuesto al crédito a cargo del cliente.",
-        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Bipsolar",
-      "categoria": "Cuotas Sin Interés",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "3 a 48 cuotas sin interés",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Instala paneles solares en tu hogar y disfruta de energía limpia, sostenible y económica.",
-        "Exclusivo pagando con tus Tarjetas de Crédito Santander y Tarjetas de Crédito Santander Empresas.",
-        "Válido online",
-        "CAE 1,54% y Monto Total a pagar de $1.031.680, anunciados son ejemplares y corresponden a compra de monto de $1.000.000 cursada en modalidad de pago de 48 cuotas mensuales, y consideran impuestos.",
-        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Solei",
-      "categoria": "Cuotas Sin Interés",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "3 a 36 cuotas sin interés",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Especialistas en sistemas solares fotovoltaicos.",
-        "Exclusivo pagando con tus Tarjetas de Crédito Santander y Tarjetas de Crédito Santander Empresas.",
-        "Válido en compras online.",
-        "CAE 1,53% Calculado por un monto referencial de compra de $1.000.000 en 36 cuotas. Costo total del Crédito: $1.023.760. Operación afecta a impuesto al crédito a cargo del cliente.",
-        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Nexsolar",
-      "categoria": "Cuotas Sin Interés",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "3 a 36 cuotas sin interés",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Descubre con NexSolar como conseguir tu independencia energética y cambiarte a energía solar",
-        "Exclusivo pagando con tus Tarjetas de Crédito Santander y Tarjetas de Crédito Santander Empresas.",
-        "Válido en compras online.",
-        "CAE 1,53% Calculado por un monto referencial de compra de $1.000.000 en 36 cuotas. Costo total del Crédito: $1.023.760. Operación afecta a impuesto al crédito a cargo del cliente.",
-        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Edify",
-      "categoria": "Cuotas Sin Interés",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "3 a 48 cuotas sin interés",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Cuida al planeta con soluciones energéticas a través de paneles solares.",
-        "Exclusivo pagando con tus Tarjetas de Crédito Santander y Tarjetas de Crédito Santander Empresas.",
-        "Válido en compras online.",
-        "CAE 1,54% Calculado por un monto referencial de compra de $1.000.000 en 48 cuotas. Costo total del Crédito: $1.031.680. Operación afecta a impuesto al crédito a cargo del cliente.",
-        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Copec Flux",
-      "categoria": "Cuotas Sin Interés",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "3 a 48 cuotas sin interés",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Súmate a la energía solar y reduce tu cuenta de electricidad con paneles solares.",
-        "Exclusivo pagando con tus Tarjetas de Crédito Santander y Tarjetas de Crédito Santander Empresas.",
-        "Es válido en online en www.copecflux.cl",
-        "Exclusivo en paneles solares.",
-        "CAE 1,54% y monto total a pagar de $1.031.680, anunciados son ejemplares y corresponden a compra de monto de $1.000.000 cursada en modalidad de pago de 48 cuotas mensuales, y consideran impuestos.",
-        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Nikola",
-      "categoria": "Cuotas Sin Interés",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "3 a 48 cuotas sin interés",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "¡Aprovecha al máximo los recursos naturales y la energía con paneles solares para tu hogar!",
-        "Exclusivo pagando con tus Tarjetas de Crédito Santander y Tarjetas de Crédito Santander Empresas.",
-        "Es válido en www.nikola.cl",
-        "No es acumulable con otras promociones.",
-        "CAE 1,54% Calculado por un monto referencial de compra de $1.000.000 en 48 cuotas. Costo total del Crédito: $1.031.680 . Operación afecta a impuesto al crédito a cargo del cliente.",
-        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Warmtec",
-      "categoria": "Cuotas Sin Interés",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "3 a 36 cuotas sin interés",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Descubre la innovadora tecnología en calefacción para tu hogar.",
-        "Exclusivo pagando con tus Tarjetas de Crédito Santander y Tarjetas de Crédito Santander Empresas.",
-        "Es válido en tiendas y online.",
-        "No es acumulable con otras promociones.",
-        "CAE 1,53% Calculado por un monto referencial de compra de $1.000.000 en 36 cuotas. Costo total del Crédito: $1.023.760. Operación afecta a impuesto al crédito a cargo del cliente.",
-        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "FreeMet",
-      "categoria": "Sustentable",
-      "descuento": "20% dcto.",
-      "dia": [],
-      "dia_texto": "en freemet.cl",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Productos de limpieza ecológicos y efectivos que cuidan el planeta y tu salud.",
-        "Exclusivo con tus Tarjetas de Crédito y Débito Santander.",
-        "Válido en todos los productos en www.freemet.cl",
-        "Ingresa los 6 primeros dígitos de tu Tarjeta como código de descuento.",
-        "No acumulable a otras promociones.",
-        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "EcoMovers",
-      "categoria": "Sustentable",
-      "descuento": "20% dcto",
-      "dia": [
-        "Lunes",
-        "Martes",
-        "Miércoles"
-      ],
-      "dia_texto": "en ecomovers.cl lunes a miércoles",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Mudanzas ecofriendly para hogares, startup, empresas e instituciones. Recuerda que:",
-        "Exclusivo con tus Tarjetas de Crédito y Débito Santander.",
-        "Válido en www.ecomovers.cl",
-        "Descuento válido para Región Metropolitana, Valparaíso y O'Higgins en la primera compra.",
-        "Abonos de reserva no reembolsable.",
-        "Tope de descuento $150.000",
-        "Ingresa el cupón SANTANDER2025 , como código de descuento al comprar por la web.",
-        "No acumulable a otras promociones.",
-        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Biobrush",
-      "categoria": "Sustentable",
-      "descuento": "20% dcto.",
-      "dia": [],
-      "dia_texto": "en biobrush.cl",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "¡Reemplacemos el plástico por materiales biodegradables!",
-        "Conoce los productos eco amigables, Peta & Vegan, sustentables, reciclables, compostables y reutilizables.",
-        "Exclusivo pagando con tus Tarjetas de Crédito y Débito Santander.",
-        "Válido en www.biobrush.cl.",
-        "Ingresa los 6 primeros dígitos como código de descuento.",
-        "No es acumulable con otras promociones.",
-        "Sin tope de descuento.",
-        "Exclusivo en Pasta dental Natural Menta S/Flúor con adición de Hidroxiapatita (HA).",
-        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
       "comercio": "eCook",
       "categoria": "Sabores",
       "descuento": "40% dcto.",
@@ -29444,236 +29714,6 @@
         "No acumulable a otras promociones.",
         "Descuento máximo por pedido de $40.000.",
         "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​"
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Cenit",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": null,
-      "dia": [
-        "Todos los días"
-      ],
-      "dia_texto": "10% de descuento en todos los planes de Cenit todos los días",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Los impuestos de tu pyme en simple.",
-        "Válido con tus Tarjetas de Crédito Santander Empresa y Débito Santander Empresa.",
-        "No acumulable a otras promociones",
-        "Exclusivo en la App Cenit.AI",
-        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Figi",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "30% de dcto en todos los servicios figi: plataforma, videos y operación total",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Crea y activa experiencias de video en espacios físicos y digitales.",
-        "Beneficio Santander Empresas :",
-        "Válido en figi.video",
-        "ingresa el código de descuento figi.santander.empresas",
-        "Cada empresa debe contar con los derechos de uso de su contenido."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Portal Motores",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "25% de dcto y 50% de dcto en plan anual comercios",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Registrándote en la app de Portal Motores obtendrás un 20% de descuento en servicios para tu auto y 50% de descuento en plan anual para comercios automotrices.",
-        "Agenda servicios FULL a domicilio desde Portal Motores y paga menos usando tu Tarjeta Santander.",
-        "Beneficio Santander Empresas :",
-        "50% de descuento en plan anual comercios. Precio normal 129.990 + IVA. Precio clientes Santander 64.990 + IVA",
-        "Ingresa los 6 primeros dígitos de tu Tarjeta empresa Santander.",
-        "Exclusivo con tus Tarjetas de Crédito Santander Empresas.",
-        "Beneficios Santander:",
-        "Exclusivo con tus Tarjetas de Crédito y Débito Santander.",
-        "25% de descuento en cualquiera de los servicios FULL para tu auto en Portal Motores.",
-        "Válido en www.portalmotores.cl y app.",
-        "Ingresa los 6 primeros dígitos de tu Tarjeta Santander como código de descuento.",
-        "Descuento máximo de $100.000 . Máximo 1 uso por usuario .",
-        "No acumulable con otras promociones."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Starken",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": "15% dcto",
-      "dia": [],
-      "dia_texto": "en todos los envíos",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Descuento en todos los envíos en sucursales Starken y tótems de autoatención.",
-        "Exclusivo con tus Tarjetas de Crédito, Débito y Tarjetas de Crédito Santander Empresas.",
-        "Sólo aplica para envíos.",
-        "Tope de 15% dcto.",
-        "No es acumulable con otras promociones.",
-        "En caja pide tu descuento al momento de pagar.",
-        "En totems de autoatención, ingresa los 6 primeros dígitos de tu Tarjeta como código de descuento.",
-        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Impulsa CRM",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": "50% descuento",
-      "dia": [],
-      "dia_texto": "en WhatsApp API con IA",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Digitaliza tus procesos comerciales con la mejor tecnología y servicio",
-        "Beneficio Santander Empresas :",
-        "Exclusivo con tus Tarjetas de Crédito Santander Empresas.",
-        "Válido en https://www.impulsasuite.com/lps/suite/santander?tags=santander25",
-        "Código de descuento: santander25",
-        "No acumulable con otras promociones.",
-        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Legale by Despapeliza",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "20% de descuento en tu suscripción",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Plataforma de automatización y gestión inteligente para procesos empresariales, administra digitalmente todo tipo de documentos.",
-        "Beneficio Santander Empresas :",
-        "Exclusivo con tus Tarjetas de Crédito Santander Empresas.",
-        "Válido en local.",
-        "Código de descuento: Despapelizasantander2025",
-        "No acumulable con otras promociones.",
-        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Duemint",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "Primeros 2 meses gratis y costo de implementación bonificado.   ",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Optimiza tu gestión financiera con Duemint, automatiza tu cobranza, conciliación y pagos sin costos iniciales y lleva el control de tus finanzas al siguiente nivel.",
-        "Beneficio Santander Empresas :",
-        "Exclusivo con tus Tarjetas de Crédito Santander Empresas.",
-        "Válido en https://land.duemint.com/beneficio-santander",
-        "Acumulable con otras promociones.",
-        "Considera tramos de hasta 300 documentos facturados mensualmente.",
-        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Blue Express",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "20% de descuento en envíos",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Plataforma de envíos a todo Chile.",
-        "Beneficio Santander Empresas :",
-        "Exclusivo con tus Tarjetas de Crédito Santander Empresas.",
-        "Válido en App bluex.cl o la App Copec.",
-        "Aplica exclusivamente para envíos gestionados en app.bluex.cl y App Copec",
-        "Código de descuento SANTANDERBLUE26",
-        "1. Entrar a la página www.blue.cl y dirigirse al botón “Haz tu envío” 2. Ingresa con tu correo electrónico o crea tu cuenta. 3. Completa los datos del envío. 4. Ingresa tu código SANTANDERBLUE26 5. Dirígete con tu pedido etiquetado a tu Punto Blue Express más cercano.",
-        "Tope de 15 envíos por usuario al mes.",
-        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "US1Box",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": "20% dcto.",
-      "dia": [],
-      "dia_texto": "en el flete internacional y 3 a 12 cuotas sin interés",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Trae tus compras de USA con descuento.",
-        "Servicios de Pick up dentro USA, almacenamiento en Hub Miami, envíos aéreo, nacionalización y entrega en todo Chile.",
-        "Beneficio Santander Empresas :",
-        "Exclusivo con tus Tarjetas de Crédito Santander Empresas.",
-        "Válido en https://us1box.com/santander/",
-        "No acumulable con otras promociones.",
-        "CAE 1,46% Calculado por un monto referencial de compra de $1.000.000 en 12 cuotas. Costo total del Crédito: $1.007.920. Operación afecta a impuesto al crédito a cargo del cliente.",
-        "Las compras de USA con 20% de descuento aplican sólo para transporte internacional para clientes con Tarjetas de Crédito Santander Empresas de Banco Santander en Chile y como máximo de hasta 500 Kilos por envío de 3 hasta 12 cuotas sin interés. En el caso de compras mayores a 500 kilos, el cliente deberá pagar el peso excedente. Promoción ilimitada válida durante la vigencia de la promoción. Promoción exclusiva pagando con Tarjetas de Crédito Santander Empresas. El descuento sólo aplica sobre flete Internacional de USA a país destino, no aplica para impuestos, seguro, aduana, ni impuesto de internación. Aplica solo a un peso de hasta 500 kilos por envío. Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Oh Box",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": null,
-      "dia": [
-        "Todos los días"
-      ],
-      "dia_texto": "50% de dcto. en 4 meses de mini bodegas todos los días",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Guarda todo lo que necesites en nuestras mini bodegas de 4 a 29 metros cuadrados en el corazón de Las Condes",
-        "Beneficio Santander Empresas :",
-        "Exclusivo con tus Tarjetas de Crédito Santander Empresas.",
-        "Válido en local.",
-        "Manquehue Norte 958, Las Condes.",
-        "Aplica solo para nuevos clientes. Sujeto a disponibilidad de stock.",
-        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Akikb",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": "35% dcto.",
-      "dia": [],
-      "dia_texto": "en arriendo por 3 meses de minibodegas en todas las sucursales",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Arriendo de mini bodegas",
-        "Beneficio Santander Empresas :",
-        "Exclusivo con tus Tarjetas de Crédito, Debito Santander y Tarjetas de Crédito Santander Empresas.",
-        "Válido en locales.",
-        "No válido para compras online. Excluye clientes existentes.",
-        "Descuento válido en Downtown: Eleuterio 737, Santiago - Santiago Sur: Santiago 1130, Santiago - Viña del Mar: Camino Internacional 4750 - Viña del Mar - Enea: Los Cactus 10010 Pudahuel - Valle Norte: Av. Chamisero 12400, Valle Norte, Chamisero - Alonso de Ovalle: Alonso Ovalle 1320 Santiago - La Reina: Fernando Castillo Velasco 8595, La Reina - San Francisco: Chiloé N°1734, Santiago - Ciudad Empresarial 3: Rinconada 497, Huechuraba Rosas: Manuel Rodriguez Norte 730, Stgo. Centro - Marathon: Avda. Marathon 2499, Macul - Tarapacá: Tarapacá 1028, Stgo. Centro - Vicuña Mackenna: Av Matta 067, Ñuñoa - Cantagallo: Nva Las Condes 12375, Las Condes.",
-        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
       ],
       "sucursales": []
     },
