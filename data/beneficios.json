@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-28T18:19",
+  "actualizado": "2026-09-29T16:41",
   "beneficios": [
     {
       "banco": "Banco de Chile",
@@ -22,28 +22,6 @@
       ],
       "sucursales": [
         "Carampangue #190, Región de los Ríos, Valdivia"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Los Cangrejos Playa Amarilla",
-      "categoria": "Sabores",
-      "descuento": "20% dto.",
-      "dia": [
-        "Martes",
-        "Jueves"
-      ],
-      "dia_texto": "martes y jueves",
-      "canal": null,
-      "vigencia": "Promoción válida hasta el 30 de septiembre de 2026.",
-      "condiciones": [
-        "Los Cangrejos Playa Amarilla comenzó en 2009 como un modesto food truck. Somos una familia de esfuerzo que se aventuró en el mundo de la comida rápida en Concón. Con el tiempo, nos destacamos especialmente en la preparación de empanadas fritas, ofreciendo más de 50 variedades frescas al momento. Con 15 años de experiencia, hemos ganado reconocimiento a nivel comunal y nos hemos expandido hacia la elaboración de platos preparados, entregando lo mejor con productos de calidad, frescos y hechos con amor",
-        "20% dto martes y jueves pagando con tus Tarjetas del Chile.",
-        "No acumulable con otras ofertas, menú y/o promociones.",
-        "Beneficio exclusivo pagando con tus Tarjetas del Chile."
-      ],
-      "sucursales": [
-        "Avenida Borgoño #29941, Región de Valparaíso, Concón"
       ]
     },
     {
@@ -162,56 +140,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "El Valenciano Mallplaza Vespucio",
-      "categoria": "Sabores",
-      "descuento": "20% dto.",
-      "dia": [
-        "Lunes",
-        "Martes",
-        "Miércoles",
-        "Jueves",
-        "Viernes"
-      ],
-      "dia_texto": "lunes a viernes",
-      "canal": "Tienda física",
-      "vigencia": "Promoción válida hasta el 30 de septiembre de 2026.",
-      "condiciones": [
-        "Auténtica cocina mediterránea con el mejor sabor español",
-        "20% dto. Lunes a viernes compra presencial.",
-        "Solicita tu descuento al momento de pagar.",
-        "No acumulable con otras promociones.",
-        "Tope dto. $40.000 por mesa.",
-        "Descuento exclusivo pagando con tus Tarjetas del Chile."
-      ],
-      "sucursales": [
-        "Mall Plaza Vespucio, Froilan Roa #7205, Región Metropolitana, La Florida"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Centro de Estimulación Temprana AYELÉN",
-      "categoria": "Salud y Belleza",
-      "descuento": "Hasta 30% dto.",
-      "dia": [
-        "Lunes",
-        "Martes"
-      ],
-      "dia_texto": "lunes y martes",
-      "canal": null,
-      "vigencia": "Promoción válida hasta el 30 de septiembre 2026.",
-      "condiciones": [
-        "Somos un Centro terapéutico y de estimulación temprana, especializado en las diferentes áreas del desarrollo infantil, contando con un equipo multiprofesional de gran calidad humana y amplia experiencia, donde podemos apoyarte para potenciar las habilidades de tu hijo(a), superar los desafíos que presente y alcanzar un mayor bienestar.",
-        "Obtén 30% dto en evaluaciones individuales de fonoaudiología, Terapia Ocupacional, Kinesiología y Educación Diferencial los días lunes y martes.",
-        "Obtén 20% dto Terapias individuales de fonoaudiología, Terapia Ocupacional, Kinesiología, psicología y educación diferencial, los días lunes y martes.",
-        "Solicita tu descuento al momento de pagar con tus tarjetas del Banco de manera presencial.",
-        "Beneficio excluye compra en planes y no es acumulable con otras promociones y/o campañas."
-      ],
-      "sucursales": [
-        "Orompello #559 A interior, Región del Biobío, Concepción"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "Tus Odontopediatras",
       "categoria": "Salud y Belleza",
       "descuento": "Hasta 50% dto.",
@@ -236,53 +164,6 @@
       "sucursales": [
         "Salvador Correa #337, Región del Libertador General Bernardo OHiggins, San Vicente",
         "Curalí #930, Región del Libertador General Bernardo OHiggins, San Fernando"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Mala Mía",
-      "categoria": "Sabores",
-      "descuento": "20% dto.",
-      "dia": [
-        "Martes",
-        "Jueves",
-        "Viernes"
-      ],
-      "dia_texto": "martes, jueves y viernes",
-      "canal": "Tienda física",
-      "vigencia": "Promoción válida hasta el 30 de septiembre de 2026.",
-      "condiciones": [
-        "Nuestra cocina fresca y natural que crea platos exquisitos, de colores vivos y sabores únicos en un espacio verde lleno de plantas, luminoso y de buena vibra donde puedes disfrutar, celebrar y brindar con cocktails y mocktails en el corazón de Barrio Italia.",
-        "20% dto. martes, jueves y viernes en compra presencial.",
-        "Solicita tu descuento al momento de pagar.",
-        "No acumulable con otras promociones.",
-        "Descuento exclusivo pagando con tus Tarjetas del Chile."
-      ],
-      "sucursales": [
-        "Av. Italia #825, Región Metropolitana, Providencia"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "KMOVE Kinesiología",
-      "categoria": "Salud y Belleza",
-      "descuento": "30% dto.",
-      "dia": [
-        "Martes"
-      ],
-      "dia_texto": "martes",
-      "canal": "Tienda física",
-      "vigencia": "Promoción válida hasta el 30 de septiembre 2026.",
-      "condiciones": [
-        "Somos especialistas en rehabilitación musculoesquelética y deportiva (pre/postoperatoria, dolor y lesiones). Pioneros en rehabilitación en movimiento en La Araucanía y el sur de Chile. Nuestro propósito es transformar vidas a través de la rehabilitación en movimiento. Aseguramos resultados visibles desde la primera sesión, por eso más de 2.000 pacientes recuperados en Temuco respaldan nuestra trayectoria.",
-        "30% dto. los martes en Kinesiología",
-        "Beneficio incluye evaluación completa inicial más 10 sesiones de rehabilitación personalizada e individualizada.",
-        "Solicita tu descuento al momento de pagar.",
-        "No acumulable con otras promociones.",
-        "Descuento exclusivo pagando con tus Tarjetas del Chile."
-      ],
-      "sucursales": [
-        "Av. Los Pablos #2050, Región de La Araucanía, Temuco"
       ]
     },
     {
@@ -411,81 +292,6 @@
       ],
       "sucursales": [
         "Pedro Lira #195 PISO 2, Región del Biobío, San Pedro de la Paz"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "La Pizzería de Los Cracks",
-      "categoria": "Sabores",
-      "descuento": "Hasta 30% dto.",
-      "dia": [
-        "Martes",
-        "Miércoles",
-        "Jueves"
-      ],
-      "dia_texto": "martes a jueves",
-      "canal": "Ambos",
-      "vigencia": "Promoción válida hasta el 30 de septiembre de 2026.",
-      "condiciones": [
-        "En La Pizzería de los Cracks disfrutarás de una pizza artesanal y casera, con masa aireada y crujiente y muzzarella propia, que hacen que cada trozo sea único y delicioso. Una pizza distinta y auténtica, que una vez probada, querrás repetir siempre. Nuestro sabor genuino te permite lucirte con tus invitados, porque comer una buena pizza nunca fue tan fácil y satisfactorio.",
-        "Hasta 30% dto. martes a jueves en compra presencial y teléfonica",
-        "Para compra presencial solicita tu descuento al momento de pagar.",
-        "Para compra telefónica llamar al +569 79775617",
-        "Formato de entrega: El producto se entrega en formato fresco y refrigerado, listo para su finalización en horno.",
-        "Recomendación de consumo: Se sugiere hornear inmediatamente antes de su servicio, siguiendo las instrucciones indicadas en el envase, con el fin de alcanzar el punto óptimo de temperatura, textura y sabor. Este procedimiento asegura una experiencia de consumo de alta calidad, evitando que la pizza sea servida tibia y garantizando el resultado de una pizza recién horneada.",
-        "No acumulable con otras promociones.",
-        "Descuento exclusivo pagando con tus Tarjetas del Chile."
-      ],
-      "sucursales": [
-        "Av. Chicureo 1.700 Chicureo, Región Metropolitana, Colina"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Fogón del Leñador",
-      "categoria": "Sabores",
-      "descuento": "20% dto.",
-      "dia": [
-        "Martes"
-      ],
-      "dia_texto": "martes",
-      "canal": "Tienda física",
-      "vigencia": "Promoción válida hasta el 30 de septiembre de 2026.",
-      "condiciones": [
-        "En Fogón del Leñador nos dedicamos a ofrecer experiencias gastronómicas únicas y auténticas, donde la tradición y el sabor se unen para dar vida a platos preparados con ingredientes frescos y de la más alta calidad. Nuestro compromiso es mantener una identidad culinaria honesta, cálida y cercana, reflejada en un ambiente acogedor y rústico que invita a disfrutar de cada detalle.",
-        "20% dto. martes compra presencial.",
-        "Solicita tu descuento al momento de pagar.",
-        "No acumulable con otras promociones.",
-        "Descuento exclusivo pagando con tus Tarjetas del Chile.",
-        "Tope de descuento $50.000 por mesa."
-      ],
-      "sucursales": [
-        "15 de mayo st 1 colina, Región Metropolitana, Chicureo"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Panca",
-      "categoria": "Sabores",
-      "descuento": "20% dto.",
-      "dia": [
-        "Lunes",
-        "Martes",
-        "Miércoles",
-        "Jueves"
-      ],
-      "dia_texto": "lunes a jueves",
-      "canal": "Tienda física",
-      "vigencia": "Promoción válida hasta el 30 de septiembre de 2026.",
-      "condiciones": [
-        "Panca Sabor Peruano, es un restaurante con amplia trayectoria en gastronomía peruana. Reconocido por su excelente atención, variedad de platos y cómodo estacionamiento, se destaca como el primer restaurante peruano de la ciudad, símbolo de tradición y referencia culinaria en Osorno.",
-        "20% dto. lunes a jueves compra presencial.",
-        "Solicita tu descuento al momento de pagar.",
-        "No acumulable con otras promociones.",
-        "Descuento exclusivo pagando con tus Tarjetas del Chile."
-      ],
-      "sucursales": [
-        "Manuel Rodríguez #1737, Región de Los Lagos, Osorno"
       ]
     },
     {
@@ -2133,32 +1939,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Glowmed",
-      "categoria": "Salud y Belleza",
-      "descuento": "Hasta un 60% dto.",
-      "dia": [
-        "Martes",
-        "Jueves"
-      ],
-      "dia_texto": "en prestaciones los días martes y jueves",
-      "canal": "Tienda física",
-      "vigencia": "Promoción válida hasta el 30 de septiembre de 2026.",
-      "condiciones": [
-        "Somos un Centro Odontológico y Médico ubicados en la comuna de La Florida. Contamos con profesionales altamente especializados. Ayudamos a nuestros pacientes a encontrar soluciones, brindando una atención de excelencia y gran calidez humana.",
-        "60% de Descuento en Limpiezas y Blanqueamientos.",
-        "40% de Descuento en Arreglos.",
-        "30% de Descuento en Implantes, Rehabilitaciones, Ortodoncia y Estética.",
-        "20% de Descuento en Psicología Adulto y Niño, Psicología Perinatal, Kinesiología, Ginecología y Ecografías 5D.",
-        "Evaluación y Plan de tratamiento sin costo.",
-        "No acumulable con otras promociones.",
-        "Solicita tu descuento al momento de pagar con tus Tarjetas del Chile."
-      ],
-      "sucursales": [
-        "Av. Diego Portales #1594, Región Metropolitana, La Florida"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "Travel Tienda",
       "categoria": "Retail y Otras Marcas",
       "descuento": null,
@@ -2924,30 +2704,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Gatopardo Bistró",
-      "categoria": "Sabores",
-      "descuento": "20% dto.",
-      "dia": [
-        "Martes",
-        "Jueves"
-      ],
-      "dia_texto": "martes y jueves",
-      "canal": "Tienda física",
-      "vigencia": "Promoción válida hasta el 30 de septiembre de 2026.",
-      "condiciones": [
-        "Gatopardo vuelve a la escena gastronómica con su reapertura en Alonso de Córdova. El nuevo Gatopardo Bistró trae una propuesta mediterránea contemporánea. Inspirado desde sus inicios en la novela Il Gattopardo, este renacer mantiene su esencia: cambiar para seguir siendo el mismo. Recuperamos ese espíritu de elegancia simple, buena mesa y cercanía que hizo de Gatopardo un punto de encuentro durante los años 90 y 2000. La propuesta se enfoca en sabores precisos, preparaciones honestas y una experiencia que recupera la hospitalidad clásica: mantel, atención dedicada y platos que evocan hogar, todo en un espacio moderno, sobrio y minimalista. Entre los destacados se encuentran los Locos en Chardonnay, los Fettuccine Frutti di Mare y reinterpretaciones modernas de clásicos como el Confit de pato y el conejo, en versiones actuales y sutiles.",
-        "20% dto. martes y jueves presencial.",
-        "Solicita tu descuento al momento de pagar.",
-        "No acumulable con otras promociones.",
-        "Excluye menú almuerzo.",
-        "Descuento exclusivo pagando con tus Tarjetas del Chile."
-      ],
-      "sucursales": [
-        "Alonso de Córdova 4308, Región Metropolitana, Vitacura"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "Carolina Varela",
       "categoria": "Salud y Belleza",
       "descuento": null,
@@ -3218,29 +2974,6 @@
       ],
       "sucursales": [
         "CALLE 2 NORTE N°130 VIÑA DEL MAR, Región Valparaíso, POBLACION VERGARA"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Akami Sushi Bar",
-      "categoria": "Sabores",
-      "descuento": "15% dto.",
-      "dia": [
-        "Lunes",
-        "Martes",
-        "Miércoles",
-        "Jueves"
-      ],
-      "dia_texto": "lunes a jueves",
-      "canal": null,
-      "vigencia": "Promoción válida hasta el 30 de septiembre de 2026.",
-      "condiciones": [
-        "Con más de una década de experiencia en Chillán, nos hemos consolidado como un referente de la buena mesa y la excelencia en el servicio. Nuestra especialidad en sushi nikkei fusiona lo mejor de la tradición japonesa con toques de creatividad, utilizando siempre los ingredientes más frescos y de la más alta calidad. Contamos con un bar de primer nivel que ofrece exquisita coctelería de temporada, clásica y de autor, diseñada para realzar tu experiencia. Nuestro equipo de anfitriones te brindará una atención cálida y personalizada, asegurando que cada visita sea memorable.",
-        "15% dto. de lunes a jueves pagando con tus tarjetas del Chile.",
-        "No acumulable con otras promociones, menú ni happy hour."
-      ],
-      "sucursales": [
-        "Av. OHiggins #1650, Región de Ñuble, Chillán"
       ]
     },
     {
@@ -3636,28 +3369,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Bibimbap",
-      "categoria": "Sabores",
-      "descuento": "20% dto.",
-      "dia": [
-        "Martes",
-        "Miércoles",
-        "Jueves"
-      ],
-      "dia_texto": "martes a jueves",
-      "canal": null,
-      "vigencia": "Promoción válida hasta el 30 de septiembre de 2026.",
-      "condiciones": [
-        "En Bibimbap encontrarás los platos coreanos más conocidos en el mundo, prueba un delicioso pollo frito en salsa picante, bibimbap, Tteokbokki, una parrillada tradicional para compartir con familia y amigos, hay opciones vegetarianas. También te ofrecemos platos de Tailandia y el famosísimo ramén japonés, imperdibles! Todo esto lo puedes acompañar con coctelería de autor, jugos y bebidas.",
-        "20% de descuento de martes a jueves pagando con tus tarjetas del Chile.",
-        "No acumulable con otras promociones, menús ni happy hour."
-      ],
-      "sucursales": [
-        "Obispo Hipólito Salas #25, Región del Biobío, Concepción"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "Blokids",
       "categoria": "Retail y Otras Marcas",
       "descuento": "Hasta 20% dto.",
@@ -3816,27 +3527,6 @@
       ],
       "sucursales": [
         "Av. Kennedy #5600 esquina Luis Carrera, Región Metropolitana, Vitacura, Teléfono: (+562) 32450338"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Cafetería La Naranja",
-      "categoria": "Sabores",
-      "descuento": "15% dto.",
-      "dia": [
-        "Martes",
-        "Jueves"
-      ],
-      "dia_texto": "martes y jueves",
-      "canal": null,
-      "vigencia": "Promoción válida hasta el 30 de septiembre de 2026.",
-      "condiciones": [
-        "Somos una cafetería con 40 años de experiencia, en nuestro local podrás encontrar una variada carta con jugos naturales , frescas ensaladas con productos del valle de Azapa, tacos , pizzas, tradicionales sándwiches y de especialidad. Nuestro café en grano Illy se destaca por ser un blend de 9 orígenes de grano arábica, con un sabor suave y aterciopelado. Disponemos de un ambiente acogedor y una excelente atención.",
-        "15% dto los martes y jueves pagando con tus tarjetas del Chile.",
-        "No acumulable con otras ofertas, menú y/o promociones."
-      ],
-      "sucursales": [
-        "18 de Septiembre #301, locales 13, 14 y 15, Región de Arica y Parinacota, Arica"
       ]
     },
     {
@@ -4007,23 +3697,25 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Ceiba",
-      "categoria": "Sabores",
-      "descuento": "20% dto.",
+      "comercio": "Centro de Estimulación Temprana AYELÉN",
+      "categoria": "Salud y Belleza",
+      "descuento": "Hasta 30% dto.",
       "dia": [
-        "Jueves"
+        "Lunes",
+        "Martes"
       ],
-      "dia_texto": "todos los jueves",
+      "dia_texto": "lunes y martes",
       "canal": null,
-      "vigencia": "Promoción válida hasta el 30 de septiembre de 2026.",
+      "vigencia": "Promoción válida hasta el 30 de septiembre de 2027.",
       "condiciones": [
-        "Descubre una experiencia única en gastronomía amazónica en pleno corazón de La Dehesa! Nuestro bar gastronómico te transportará a la exuberante selva amazónica a través de sabores auténticos y coctelería de autor, todo mientras disfrutas de la vista panorámica desde nuestro rooftop. Sumérgete en una aventura culinaria que combina la riqueza de la zona con la creatividad de nuestros mixólogos, todo en un ambiente acogedor y único con vistas espectaculares. Ven y déjate llevar por los misterios y los sabores del Amazonas en nuestro rincón de la Dehesa con estacionamientos privados .",
-        "20% dto todos los jueves pagando con tus Tarjetas del Chile.",
-        "No acumulable con otras promociones, menú ni happy hour.",
-        "Tope de descuento de $50.000 pesos."
+        "Somos un Centro terapéutico y de estimulación temprana, especializado en las diferentes áreas del desarrollo infantil, contando con un equipo multiprofesional de gran calidad humana y amplia experiencia, donde podemos apoyarte para potenciar las habilidades de tu hijo(a), superar los desafíos que presente y alcanzar un mayor bienestar.",
+        "Obtén 30% dto en evaluaciones individuales de fonoaudiología, Terapia Ocupacional, Kinesiología y Educación Diferencial los días lunes y martes.",
+        "Obtén 20% dto Terapias individuales de fonoaudiología, Terapia Ocupacional, Kinesiología, psicología y educación diferencial, los días lunes y martes.",
+        "Solicita tu descuento al momento de pagar con tus tarjetas del Banco de manera presencial.",
+        "Beneficio excluye compra en planes y no es acumulable con otras promociones y/o campañas."
       ],
       "sucursales": [
-        "Avenida José Alcalde Délano #10425, Región Metropolitana, Lo Barnechea"
+        "Orompello #559 A interior, Región del Biobío, Concepción"
       ]
     },
     {
@@ -4284,36 +3976,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Clínica JIREZ",
-      "categoria": "Salud y Belleza",
-      "descuento": "Hasta 55% dto.",
-      "dia": [
-        "Todos los días"
-      ],
-      "dia_texto": "todos los días",
-      "canal": "Tienda física",
-      "vigencia": "Promoción válida hasta el 30 de septiembre de 2026.",
-      "condiciones": [
-        "Somos una Clínica de Especialidades Odontológicas ubicada en la ciudad de Temuco. Contamos con un equipo de profesionales altamente capacitados y especializados en las diversas áreas de la odontología. Utilizamos tecnologías digitales de última generación para garantizar la máxima comodidad, precisión y eficacia en cada procedimiento que realizamos.",
-        "55% dto. en Plan Soy del Chile: $38.250 (Precio de referencia: $85.000) Evaluación, radiografías intraorales (si lo requiere), profilaxis y plan de tratamiento. Profilaxis de control a los 6 meses con 50% dto. Cobertura del 30% para cualquier prestación clínica en todas las Especialidades Odontológicas de lunes a sábado.",
-        "40% dto. en Plan Escolar: $77.990 (Precio de referencia: $129.990) Evaluación y diagnóstico, radiografías intraorales iniciales (si se requiere), profilaxis, Aplicación de flúor barniz y 4 sellantes.",
-        "35% dto. en Plan Mi Sonrisa: $136.500. (Precio de referencia: $209.990) Evaluación, plan de tratamiento, radiografías intraorales iniciales, profilaxis y blanqueamiento (previo estudio de factibilidad).",
-        "35% dto. en tratamiento completo de Ortodoncia que puede incluir: Ortodoncia Convencional, Ortodoncia Estética (Brackets Cerámicos) y Ortodoncia con Alineadores (sólo para prestaciones clínicas).",
-        "30% dto. Estética Facial para tratamientos: Botox, Profhilo, Hilos PDO, Dermaheal con Dermapen (sujeto a evaluación previa) los jueves.",
-        "Procedimientos Quirúrgicos: 35% dto para cualquier procedimiento de pabellón (exodoncias de muelas del juicio, implantología oral y otras cirugías menores) todos los sábados.",
-        "Solicita tu descuento al momento de pagar presencialmente.",
-        "Beneficio no incluye los costos de laboratorio para las especialidades odontológicas u otro procedimiento que así lo requiera.",
-        "Beneficio no incluye el derecho a pabellón para procedimientos quirúrgicos, ni insumos para la especialidad que se requiera (implante dental, membranas, injertos, ni aditamentos entre otros).",
-        "Radiografías solo intraorales o periapicales.",
-        "Descuento exclusivo pagando con tus Tarjetas del Chile.",
-        "Descuentos no acumulables con otras promociones."
-      ],
-      "sucursales": [
-        "Andrés Bello #841, oficina 402, Región de La Araucanía, Temuco"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "Clínica Luxsalud",
       "categoria": "Salud y Belleza",
       "descuento": "20% dto.",
@@ -4504,73 +4166,6 @@
       ],
       "sucursales": [
         "Orrego Luco #40, Región Metropolitana, Providencia"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "CONSERBAR",
-      "categoria": "Sabores",
-      "descuento": "20% dto.",
-      "dia": [
-        "Miércoles",
-        "Sábado"
-      ],
-      "dia_texto": "miércoles y sábado",
-      "canal": null,
-      "vigencia": "Promoción válida hasta el 30 de septiembre de 2026.",
-      "condiciones": [
-        "ConserBar, es un resto-bar de cocteleria y cocina de autor que pone en valor el producto nacional, el cuidado por la materia prima, la identidad de Barrio Italia y la memoria colectiva. Con un poco más de 4 años de vida, ConserBar se posiciona dentro del circuito, siendo reconocido por la prensa especializada como uno de los bares que debes conocer si eres amante de la coctelería de autor, clásica, y del momento.",
-        "20% de descuento los miércoles y sábado pagando con tus tarjetas del Chile.",
-        "No acumulable con otras ofertas, happy hour, menú y/o promociones."
-      ],
-      "sucursales": [
-        "Av Condell #1189, Región Metropolitana, Providencia, Teléfono: +569 6830 5467"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "DELTAMOTORS",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": "20% dto.",
-      "dia": [
-        "Todos los días"
-      ],
-      "dia_texto": "todos los días",
-      "canal": "Tienda física",
-      "vigencia": "Promoción válida hasta el 30 de septiembre de 2026.",
-      "condiciones": [
-        "DELTAMOTORS está contigo cuando más lo necesitas. Con profesionalismo y años de experiencia, nos encargamos de tu auto como si fuera nuestro. Ya sea un mantenimiento o un rescate en grúa, puedes confiar en que recibirás un servicio rápido, confiable y con la calidad que mereces.",
-        "20% dto. en mantenimiento por kilometraje.",
-        "20% dto. en diagnóstico del estado mecánico del vehículo.",
-        "20% dto. en traslado en grúa de rescate en la Región Metropolitana (beneficio sujeto a disponibilidad).",
-        "Solicita tu descuento al momento de pagar.",
-        "Beneficio no es acumulable con otras promociones y/o descuentos.",
-        "Beneficio no incluye reparaciones, modificaciones o diagnósticos adicionales.",
-        "Beneficio exclusivo pagando con tus Tarjetas del Chile."
-      ],
-      "sucursales": [
-        "Exequiel Fernández 3685, Bodega 270, Región Metropolitana, Macul"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Dolce",
-      "categoria": "Sabores",
-      "descuento": "20% dto.",
-      "dia": [
-        "Martes",
-        "Jueves"
-      ],
-      "dia_texto": "martes y jueves",
-      "canal": null,
-      "vigencia": "Promoción válida hasta el 30 de septiembre de 2026.",
-      "condiciones": [
-        "En Dolce somos especialistas en elaboración de Churros premium Valdivianos, y Waffles en sus distintas variedades. Además, contamos con heladería, café al paso, y distintas preparaciones dulces y refrescantes. Te esperamos en el punto más Dolce de Valdivia.",
-        "20% de descuento los martes y jueves pagando con tus tarjetas del Chile.",
-        "No acumulable con otras promociones, menú ni happy hour."
-      ],
-      "sucursales": [
-        "BERNARDO OHIGGINS #396, Región de los Ríos, VALDIVIA"
       ]
     },
     {
@@ -4797,6 +4392,33 @@
       ],
       "sucursales": [
         "FILOMENA VALENZUELA #270, Región de Tarapacá, Iquique"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "El Valenciano Mallplaza Vespucio",
+      "categoria": "Sabores",
+      "descuento": "20% dto.",
+      "dia": [
+        "Lunes",
+        "Martes",
+        "Miércoles",
+        "Jueves",
+        "Viernes"
+      ],
+      "dia_texto": "lunes a viernes",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 31 de marzo de 2027.",
+      "condiciones": [
+        "Auténtica cocina mediterránea con el mejor sabor español",
+        "20% dto. Lunes a viernes compra presencial.",
+        "Solicita tu descuento al momento de pagar.",
+        "No acumulable con otras promociones.",
+        "Tope dto. $40.000 por mesa.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Mall Plaza Vespucio, Froilan Roa #7205, Región Metropolitana, La Florida"
       ]
     },
     {
@@ -5028,6 +4650,29 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "Fogón del Leñador",
+      "categoria": "Sabores",
+      "descuento": "20% dto.",
+      "dia": [
+        "Martes"
+      ],
+      "dia_texto": "martes",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 31 de marzo de 2027.",
+      "condiciones": [
+        "En Fogón del Leñador nos dedicamos a ofrecer experiencias gastronómicas únicas y auténticas, donde la tradición y el sabor se unen para dar vida a platos preparados con ingredientes frescos y de la más alta calidad. Nuestro compromiso es mantener una identidad culinaria honesta, cálida y cercana, reflejada en un ambiente acogedor y rústico que invita a disfrutar de cada detalle.",
+        "20% dto. martes compra presencial.",
+        "Solicita tu descuento al momento de pagar.",
+        "No acumulable con otras promociones.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile.",
+        "Tope de descuento $50.000 por mesa."
+      ],
+      "sucursales": [
+        "15 de mayo st 1 colina, Región Metropolitana, Chicureo"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "Freshwater",
       "categoria": "Sustentable",
       "descuento": "20% dto.",
@@ -5114,6 +4759,30 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "Gatopardo Bistró",
+      "categoria": "Sabores",
+      "descuento": "20% dto.",
+      "dia": [
+        "Martes",
+        "Jueves"
+      ],
+      "dia_texto": "martes y jueves",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 31 de marzo de 2027.",
+      "condiciones": [
+        "Gatopardo vuelve a la escena gastronómica con su reapertura en Alonso de Córdova. El nuevo Gatopardo Bistró trae una propuesta mediterránea contemporánea. Inspirado desde sus inicios en la novela Il Gattopardo, este renacer mantiene su esencia: cambiar para seguir siendo el mismo. Recuperamos ese espíritu de elegancia simple, buena mesa y cercanía que hizo de Gatopardo un punto de encuentro durante los años 90 y 2000. La propuesta se enfoca en sabores precisos, preparaciones honestas y una experiencia que recupera la hospitalidad clásica: mantel, atención dedicada y platos que evocan hogar, todo en un espacio moderno, sobrio y minimalista. Entre los destacados se encuentran los Locos en Chardonnay, los Fettuccine Frutti di Mare y reinterpretaciones modernas de clásicos como el Confit de pato y el conejo, en versiones actuales y sutiles.",
+        "20% dto. martes y jueves presencial.",
+        "Solicita tu descuento al momento de pagar.",
+        "No acumulable con otras promociones.",
+        "Excluye menú almuerzo.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Alonso de Córdova 4308, Región Metropolitana, Vitacura"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "Geomar",
       "categoria": "Sabores",
       "descuento": "20% dto.",
@@ -5194,15 +4863,23 @@
       "banco": "Banco de Chile",
       "comercio": "Glowmed",
       "categoria": "Salud y Belleza",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "Paga en 4 a 12 cuotas sin interés",
-      "canal": null,
-      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
+      "descuento": "Hasta un 60% dto.",
+      "dia": [
+        "Martes",
+        "Jueves"
+      ],
+      "dia_texto": "en prestaciones los días martes y jueves",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 30 de septiembre de 2027.",
       "condiciones": [
         "Somos un Centro Odontológico y Médico ubicados en la comuna de La Florida. Contamos con profesionales altamente especializados. Ayudamos a nuestros pacientes a encontrar soluciones, brindando una atención de excelencia y gran calidez humana.",
-        "Paga todos tus tratamientos de 4 a 12 cuotas sin interés con tus Tarjetas de Crédito del Chile.",
-        "Para una compra referencial de $500.000 en 12 cuotas de $41.667 CAE : 1,47%, Costo total: $504.000"
+        "60% de Descuento en Limpiezas y Blanqueamientos.",
+        "40% de Descuento en Arreglos.",
+        "30% de Descuento en Implantes, Rehabilitaciones, Ortodoncia y Estética.",
+        "20% de Descuento en Psicología Adulto y Niño, Psicología Perinatal, Kinesiología, Ginecología y Ecografías 5D.",
+        "Evaluación y Plan de tratamiento sin costo.",
+        "No acumulable con otras promociones.",
+        "Solicita tu descuento al momento de pagar con tus Tarjetas del Chile."
       ],
       "sucursales": [
         "Av. Diego Portales #1594, Región Metropolitana, La Florida"
@@ -5515,29 +5192,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Jardín Marino",
-      "categoria": "Sabores",
-      "descuento": "20% dto.",
-      "dia": [
-        "Lunes",
-        "Martes",
-        "Miércoles"
-      ],
-      "dia_texto": "lunes, martes y miércoles",
-      "canal": null,
-      "vigencia": "Promoción válida hasta el 30 de septiembre de 2026.",
-      "condiciones": [
-        "Jardin Marino, desde 1993 resaltando los sabores del mar con su gastronomía, estamos ubicados en la Playa de Arauco, con una vista privilegiada frente al mar, y ahora con sucursal en San Pedro de la Paz, se destaca por calidad de productos y servicios. Nuestra especialidad son pescados y mariscos, sin dejar de pensar en las personas vegetarianas y veganas, ven a disfrutar los placeres del mar.",
-        "20% dto todos los lunes, martes y miércoles, pagando con tus tarjetas del Chile.",
-        "No acumulable con otras ofertas, menú y/o promociones.",
-        "Descuento no valido para días festivos."
-      ],
-      "sucursales": [
-        "Avenida Prat s/n sector playa, Región del Biobío, Arauco"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "Kine Provita",
       "categoria": "Salud y Belleza",
       "descuento": "Hasta 30% dto.",
@@ -5559,6 +5213,29 @@
       ],
       "sucursales": [
         "LOS MIRLOS #220, Región de Valparaíso, REÑACA"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "KMOVE Kinesiología",
+      "categoria": "Salud y Belleza",
+      "descuento": "30% dto.",
+      "dia": [
+        "Martes"
+      ],
+      "dia_texto": "martes",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 30 de septiembre de 2027.",
+      "condiciones": [
+        "Somos especialistas en rehabilitación musculoesquelética y deportiva (pre/postoperatoria, dolor y lesiones). Pioneros en rehabilitación en movimiento en La Araucanía y el sur de Chile. Nuestro propósito es transformar vidas a través de la rehabilitación en movimiento. Aseguramos resultados visibles desde la primera sesión, por eso más de 2.000 pacientes recuperados en Temuco respaldan nuestra trayectoria.",
+        "30% dto. los martes en Kinesiología",
+        "Beneficio incluye evaluación completa inicial más 10 sesiones de rehabilitación personalizada e individualizada.",
+        "Solicita tu descuento al momento de pagar.",
+        "No acumulable con otras promociones.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Av. Los Pablos #2050, Región de La Araucanía, Temuco"
       ]
     },
     {
@@ -5600,29 +5277,6 @@
         "Beneficios válidos pagando a través del Botón de Pago Banco de Chile con sus Tarjetas de Crédito Banco de Chile."
       ],
       "sucursales": []
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "La Bonaerense",
-      "categoria": "Sabores",
-      "descuento": "20% dto.",
-      "dia": [
-        "Lunes",
-        "Martes",
-        "Miércoles",
-        "Jueves"
-      ],
-      "dia_texto": "lunes a jueves",
-      "canal": null,
-      "vigencia": "Promoción válida hasta el 30 de septiembre de 2026.",
-      "condiciones": [
-        "Pizza Bar con auténtica masa argentina.",
-        "20% dto de lunes a jueves en el total de la cuenta pagando con Tarjetas del Chile.",
-        "Excluye promociones, menú o happy hour."
-      ],
-      "sucursales": [
-        "Local TE 108, Americo Vespucio 1737, RM, Huechuraba"
-      ]
     },
     {
       "banco": "Banco de Chile",
@@ -5686,32 +5340,6 @@
       ],
       "sucursales": [
         "Ruta 5 Sur #2053, Región de Los Lagos, Castro"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "La Crew",
-      "categoria": "Sabores",
-      "descuento": "20% dto.",
-      "dia": [
-        "Lunes",
-        "Martes",
-        "Miércoles",
-        "Jueves"
-      ],
-      "dia_texto": "lunes a jueves",
-      "canal": null,
-      "vigencia": "Promoción válida hasta el 30 de septiembre de 2026.",
-      "condiciones": [
-        "Donde la comida es arte y el arte es cultura En La Crew, la cultura urbana cobra vida en cada detalle. Desde nuestra galería de arte street hasta nuestra coctelería de autor y cocina nikkei, todo está diseñado para sorprenderte. Somos más que un bar: somos un espacio donde la gastronomía y el street art se mezclan para crear una experiencia inigualable, la música da ritmo a la noche y el arte urbano convierte nuestro espacio en una galería viva. Sumérgete en un ambiente único en Iquique, donde cada plato es una obra maestra y cada noche es una historia por contar.",
-        "20% de dto. de lunes a jueves hasta las 22:00 Hrs. pagando con tus Tarjetas del Chile.",
-        "Tope de descuento $30.000 por mesa.",
-        "No acumulable con otras ofertas, menú y/o promociones.",
-        "Se excluyen eventos dentro del local (Segundo Piso).",
-        "Beneficio exclusivo pagando con tus Tarjetas del Chile."
-      ],
-      "sucursales": [
-        "Tomás Bonilla B. 917, Región de Tarapacá, Iquique"
       ]
     },
     {
@@ -5804,24 +5432,29 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "LA MURTA",
+      "comercio": "La Pizzería de Los Cracks",
       "categoria": "Sabores",
-      "descuento": "20% dto.",
+      "descuento": "Hasta 30% dto.",
       "dia": [
-        "Viernes",
-        "Sábado",
-        "Domingo"
+        "Martes",
+        "Miércoles",
+        "Jueves"
       ],
-      "dia_texto": "viernes a domingo",
-      "canal": null,
-      "vigencia": "Promoción válida hasta el 30 de septiembre de 2026.",
+      "dia_texto": "martes a jueves",
+      "canal": "Ambos",
+      "vigencia": "Promoción válida hasta el 31 de marzo de 2027.",
       "condiciones": [
-        "Un lugar encantador para disfrutar de una experiencia gastronómica donde destaca la frescura y la calidad de los ingredientes de mercado, con una combinación perfecta de vinos de pequeños productores, biodinámicos y orgánicos, todo esto en un ambiente tranquilo y moderno.",
-        "20% dto todos los viernes, sábados y domingos, pagando con tus tarjetas del Chile.",
-        "No acumulable con otras ofertas, menú y/o promociones."
+        "En La Pizzería de los Cracks disfrutarás de una pizza artesanal y casera, con masa aireada y crujiente y muzzarella propia, que hacen que cada trozo sea único y delicioso. Una pizza distinta y auténtica, que una vez probada, querrás repetir siempre. Nuestro sabor genuino te permite lucirte con tus invitados, porque comer una buena pizza nunca fue tan fácil y satisfactorio.",
+        "Hasta 30% dto. martes a jueves en compra presencial y teléfonica",
+        "Para compra presencial solicita tu descuento al momento de pagar.",
+        "Para compra telefónica llamar al +569 79775617",
+        "Formato de entrega: El producto se entrega en formato fresco y refrigerado, listo para su finalización en horno.",
+        "Recomendación de consumo: Se sugiere hornear inmediatamente antes de su servicio, siguiendo las instrucciones indicadas en el envase, con el fin de alcanzar el punto óptimo de temperatura, textura y sabor. Este procedimiento asegura una experiencia de consumo de alta calidad, evitando que la pizza sea servida tibia y garantizando el resultado de una pizza recién horneada.",
+        "No acumulable con otras promociones.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
       ],
       "sucursales": [
-        "Holanda #222, Región Metropolitana, Providencia"
+        "Av. Chicureo 1.700 Chicureo, Región Metropolitana, Colina"
       ]
     },
     {
@@ -6050,6 +5683,28 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "Los Cangrejos Playa Amarilla",
+      "categoria": "Sabores",
+      "descuento": "20% dto.",
+      "dia": [
+        "Martes",
+        "Jueves"
+      ],
+      "dia_texto": "martes y jueves",
+      "canal": null,
+      "vigencia": "Promoción válida hasta el 31 de marzo de 2027.",
+      "condiciones": [
+        "Los Cangrejos Playa Amarilla comenzó en 2009 como un modesto food truck. Somos una familia de esfuerzo que se aventuró en el mundo de la comida rápida en Concón. Con el tiempo, nos destacamos especialmente en la preparación de empanadas fritas, ofreciendo más de 50 variedades frescas al momento. Con 15 años de experiencia, hemos ganado reconocimiento a nivel comunal y nos hemos expandido hacia la elaboración de platos preparados, entregando lo mejor con productos de calidad, frescos y hechos con amor",
+        "20% dto martes y jueves pagando con tus Tarjetas del Chile.",
+        "No acumulable con otras ofertas, menú y/o promociones.",
+        "Beneficio exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Avenida Borgoño #29941, Región de Valparaíso, Concón"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "Los Hornitos",
       "categoria": "Sabores",
       "descuento": "30% dto.",
@@ -6131,6 +5786,30 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "Mala Mía",
+      "categoria": "Sabores",
+      "descuento": "20% dto.",
+      "dia": [
+        "Martes",
+        "Jueves",
+        "Viernes"
+      ],
+      "dia_texto": "martes, jueves y viernes",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 31 de marzo de 2027.",
+      "condiciones": [
+        "Nuestra cocina fresca y natural que crea platos exquisitos, de colores vivos y sabores únicos en un espacio verde lleno de plantas, luminoso y de buena vibra donde puedes disfrutar, celebrar y brindar con cocktails y mocktails en el corazón de Barrio Italia.",
+        "20% dto. martes, jueves y viernes en compra presencial.",
+        "Solicita tu descuento al momento de pagar.",
+        "No acumulable con otras promociones.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Av. Italia #825, Región Metropolitana, Providencia"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "MALDITO ARROZ",
       "categoria": "Sabores",
       "descuento": "20% dto.",
@@ -6172,31 +5851,6 @@
       ],
       "sucursales": [
         "Leonardo da vinci 7410, RM, Las Condes"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Mandala Food & Bar",
-      "categoria": "Sabores",
-      "descuento": "20% dto.",
-      "dia": [
-        "Lunes",
-        "Martes",
-        "Miércoles",
-        "Jueves",
-        "Viernes",
-        "Sábado"
-      ],
-      "dia_texto": "lunes a sábado de 17:00 a 22:00 Hrs",
-      "canal": null,
-      "vigencia": "Promoción válida hasta el 30 de septiembre de 2026.",
-      "condiciones": [
-        "Si estás buscando un lugar donde los sabores, las especias y la tradición india cobren vida, Sabor de la India es el restaurante que necesitas visitar. Ubicado en Providencia, Santiago, este lugar combina lo mejor de la gastronomía india con un ambiente acogedor y vibrante que te transportará directamente a las calles de Delhi o Mumbai.",
-        "20% dto de lunes a sábado de 17:00 a 22:00 Hrs. pagando con tus tarjetas del Chile.",
-        "No acumulable con otras ofertas, menú y/o promociones."
-      ],
-      "sucursales": [
-        "Carlos Antunez #1823, Región Metropolitana, Providencia"
       ]
     },
     {
@@ -6422,26 +6076,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "MIRO",
-      "categoria": "Sabores",
-      "descuento": "20% dto.",
-      "dia": [
-        "Martes"
-      ],
-      "dia_texto": "martes",
-      "canal": null,
-      "vigencia": "Promoción válida hasta el 30 de septiembre de 2026.",
-      "condiciones": [
-        "20% de descuento martes pagando con tus tarjetas del Chile.",
-        "No acumulable con otras ofertas, menú y/o promociones."
-      ],
-      "sucursales": [
-        "13 NORTE #810, Región de Valparaíso, VIÑA DEL MAR",
-        "JORGE MONTT #2285, Región de Valparaíso, VIÑA DEL MAR"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "Misceláneo Bar",
       "categoria": "Sabores",
       "descuento": "20% dto.",
@@ -6635,28 +6269,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Nikkei 419",
-      "categoria": "Sabores",
-      "descuento": "20% dto.",
-      "dia": [
-        "Lunes",
-        "Martes",
-        "Miércoles"
-      ],
-      "dia_texto": "lunes a miércoles",
-      "canal": null,
-      "vigencia": "Promoción válida hasta el 30 de septiembre de 2026.",
-      "condiciones": [
-        "Nikkei 419 es un restaurante ubicado en Viña del Mar, que fusiona la cocina japonesa con influencias peruanas, lo que se conoce como cocina nikkei. Este estilo culinario combina técnicas y sabores de ambas culturas para crear platos únicos y deliciosos. En cuanto a su oferta gastronómica, variedad de sushi, ceviches, tiraditos, y otros platos típicos de la cocina japonesa y peruana, así como algunas creaciones originales ,que combinan ingredientes y técnicas de ambas tradiciones culinarias con deliciosos Cocktails y Mocktails . La fusión de sabores y estilos culinarios en Nikkei 419 ofrece a los comensales , una experiencia gastronómica única y emocionante en Viña del Mar",
-        "20% dto de lunes a miércoles pagando con tus Tarjetas del Chile.",
-        "No acumulable con otras ofertas, menú y/o promociones."
-      ],
-      "sucursales": [
-        "Av. San Martín #419, Región de Valparaiso, Viña del Mar"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "Nosu",
       "categoria": "Sabores",
       "descuento": "20% dto.",
@@ -6673,26 +6285,6 @@
       ],
       "sucursales": [
         "Av Vitacura #3600, Región Metropolitana, Vitacura"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "NS AUTOMOTRIZ",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": "15% dto.",
-      "dia": [
-        "Todos los días"
-      ],
-      "dia_texto": "en mantención todos los días",
-      "canal": null,
-      "vigencia": "Promoción válida hasta el 22 de octubre de 2026.",
-      "condiciones": [
-        "Con más de 15 años de experiencia en el sector automotriz, NS Automotriz se especializa en ofrecer soluciones integrales para vehículos diésel y bencineros. Nuestro enfoque abarca desde el mantenimiento preventivo y correctivo hasta el diagnóstico avanzado de sistemas DPF e Inyección diésel. Nos destacamos por brindar atención personalizada, utilizando repuestos originales para asegurar la máxima calidad en cada servicio. Además, priorizamos la eficiencia y rapidez para que nuestros clientes puedan seguir con su rutina diaria sin interrupciones. Confía en NS Automotriz, donde tu vehículo está en manos expertas.",
-        "Obtén tu beneficio pagando con tus Tarjetas del Chile.",
-        "No acumulable con otras promociones."
-      ],
-      "sucursales": [
-        "Ejercito #434, Región del Biobío, Concepción"
       ]
     },
     {
@@ -7027,6 +6619,31 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "Panca",
+      "categoria": "Sabores",
+      "descuento": "20% dto.",
+      "dia": [
+        "Lunes",
+        "Martes",
+        "Miércoles",
+        "Jueves"
+      ],
+      "dia_texto": "lunes a jueves",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 31 de marzo de 2027.",
+      "condiciones": [
+        "Panca Sabor Peruano, es un restaurante con amplia trayectoria en gastronomía peruana. Reconocido por su excelente atención, variedad de platos y cómodo estacionamiento, se destaca como el primer restaurante peruano de la ciudad, símbolo de tradición y referencia culinaria en Osorno.",
+        "20% dto. lunes a jueves compra presencial.",
+        "Solicita tu descuento al momento de pagar.",
+        "No acumulable con otras promociones.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Manuel Rodríguez #1737, Región de Los Lagos, Osorno"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "Pastelería Riesco",
       "categoria": "Sabores",
       "descuento": "25% dto.",
@@ -7308,30 +6925,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Restaurant Colo Colo",
-      "categoria": "Sabores",
-      "descuento": "20% dto.",
-      "dia": [
-        "Lunes",
-        "Martes",
-        "Miércoles",
-        "Jueves"
-      ],
-      "dia_texto": "lunes a jueves",
-      "canal": null,
-      "vigencia": "Promoción válida hasta el 30 de septiembre de 2026.",
-      "condiciones": [
-        "Colo-Colo conocido por la mejor plateada de chile, del trabajo de doña Raquel Orellana en el año 1970, en la comuna de Romeral, región del Maule. Hoy en manos de su nieto Juan Pablo, quien está trabajando en expandir esta tradicional “picada” a otras ciudades para acercar esta maravillosa preparación a más personas.",
-        "20% de descuento de lunes a jueves con tus tarjetas del Chile.",
-        "No acumulable con otras ofertas, menú y/o promociones."
-      ],
-      "sucursales": [
-        "Av. Chile #332, Región de El Maule, Romeral",
-        "O´Higgins 201 Local R11, Región de El Maule, Curicó"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "Restaurant Urbano 136",
       "categoria": "Sabores",
       "descuento": "20% dto.",
@@ -7458,30 +7051,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "SABOR X2",
-      "categoria": "Sabores",
-      "descuento": "20% dto.",
-      "dia": [
-        "Lunes",
-        "Martes",
-        "Miércoles",
-        "Jueves"
-      ],
-      "dia_texto": "lunes a jueves",
-      "canal": null,
-      "vigencia": "Promoción válida hasta el 30 de septiembre de 2026.",
-      "condiciones": [
-        "¡Ven a vivir una experiencia única, atención rápida y comida exquisita, te esperamos!",
-        "20% de descuento de lunes a jueves pagando con tus tarjetas del Chile.",
-        "No acumulable con otras ofertas, happy hour, menú y/o promociones."
-      ],
-      "sucursales": [
-        "Gran Avenida 7957, RM, La Cisterna",
-        "Gran Avenida 4251, RM, San Miguel"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "Sabores del Ají Seco",
       "categoria": "Sabores",
       "descuento": "20% dto.",
@@ -7526,26 +7095,24 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Saki",
+      "comercio": "Salvo Event Hall",
       "categoria": "Sabores",
       "descuento": "20% dto.",
       "dia": [
-        "Martes",
-        "Jueves"
+        "Martes"
       ],
-      "dia_texto": "martes y jueves",
-      "canal": null,
-      "vigencia": "Promoción válida hasta el 30 de septiembre de 2026.",
+      "dia_texto": "martes",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 31 de marzo de 2027.",
       "condiciones": [
-        "20% dto martes y jueves",
-        "Sushi Bar y gastronomía peruana, descubre nuestros sabores fusión Nikkei y una mezcla de sabores que cautivarán tu paladar.",
-        "No válido en menú y Happy Hours.",
-        "Excluye promociones.",
-        "20% de dcto en la carta."
+        "Salvo Event Hall, ubicado en las afueras de Chillán, es un versátil centro de entretenimiento y eventos conocido por su hermoso entorno natural protagonizado por una laguna. Su propuesta combina tres atractivos principales: un elegante salón de eventos muy solicitado para matrimonios, un singular restaurante flotante con vistas panorámicas y una moderna pista de bowling. Es el lugar ideal tanto para realizar una celebración memorable como para disfrutar de una salida familiar o con amigos que mezcle buena comida y diversión. En resumen, Salvo ofrece una experiencia completa que integra con éxito gastronomía, naturaleza y entretenimiento en un solo lugar.",
+        "20% dto. martes compra presencial.",
+        "Solicita tu descuento al momento de pagar.",
+        "No acumulable con otras promociones.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
       ],
       "sucursales": [
-        "Santa Victoria 192, RM, Santiago",
-        "Local 3, Pedro de Valdivia 3601, RM, Ñuñoa"
+        "Camino a Huape Km8, Región de Ñuble, Chillán"
       ]
     },
     {
@@ -8107,29 +7674,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Travesía",
-      "categoria": "Sabores",
-      "descuento": "20% dto.",
-      "dia": [
-        "Lunes",
-        "Martes",
-        "Miércoles",
-        "Jueves"
-      ],
-      "dia_texto": "lunes a Jueves",
-      "canal": null,
-      "vigencia": "Promoción válida hasta el 30 de septiembre de 2026.",
-      "condiciones": [
-        "Somos un Bar y Cocina de Autor con tendencia regionalista",
-        "20% de descuento de lunes a jueves pagando con tus tarjetas del Chile.",
-        "No acumulable con otras ofertas, menú y/o promociones."
-      ],
-      "sucursales": [
-        "Ramón Carrasco #256, Región del Bío Bío, Concepción"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "Trayecto Editorial",
       "categoria": "Entretención y Deportes",
       "descuento": "30% dto",
@@ -8382,28 +7926,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "We Love Pizza",
-      "categoria": "Sabores",
-      "descuento": "20% dto.",
-      "dia": [
-        "Martes",
-        "Miércoles"
-      ],
-      "dia_texto": "martes y miércoles",
-      "canal": null,
-      "vigencia": "Promoción válida hasta el 30 de septiembre de 2026.",
-      "condiciones": [
-        "We Love Pizza\" es una pizzería Neo-napolitana, mantiene la esencia de la tradición napolitana con un toque contemporáneo. Se ciñe a los procesos de elaboración de la masa y la cocción de una auténtica pizza napolitana, pero lleva la combinación de sabores e ingredientes hacia direcciones nuevas y emocionantes. La pizza se hornea a la piedra en un horno de leña a 450°C a la llama, lo que garantiza una textura y sabor únicos. Nuestra masa, fermentada durante al menos 24 horas, tiene un equilibrio perfecto: delgada en el centro, con bordes gruesos y aireados. Cada pizza es elaborada con ingredientes frescos, seleccionados con cuidado para ofrecer una experiencia auténtica y memorable.",
-        "20% de descuento de martes y miércoles pagando con tus tarjetas del Chile.",
-        "Válido para compra presencial con tus tarjetas del Chile y en WWW.WELOVEPIZZA.CL ingresando los 6 primeros digitos de tu tarjeta.",
-        "No acumulable con otras promociones, menús ni happy hour."
-      ],
-      "sucursales": [
-        "Itata #850, Región de Ñuble, Chillán"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "Wfitness",
       "categoria": "Entretención y Deportes",
       "descuento": "20% dto.",
@@ -8429,31 +7951,6 @@
         "Camino El Alba #12620, San Carlos de Apoquindo, Región Metropolitana, Las Condes",
         "San Ignacio #1624, Región Metropolitana, Padre Hurtado",
         "Los Carrera #4723, Región de Atacama, Copiapó"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Wine & House",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": "15% dto.",
-      "dia": [
-        "Martes"
-      ],
-      "dia_texto": "martes",
-      "canal": "Ambos",
-      "vigencia": "Promoción válida hasta el 30 de septiembre de 2026.",
-      "condiciones": [
-        "Wine&House es el lugar perfecto para los que disfrutan de recibir, celebrar y hacer de cada comida una experiencia especial. Nos especializamos en menaje, cristalería, utensilios de cocina, accesorios para el vino y objetos de decoración con estilo. Trabajamos con marcas reconocidas a nivel internacional como Riedel, Laguiole Jean Dubost, La Rochere, RCR, Crystalex, Revol, entre muchas otras, seleccionadas para ayudarte a transformar tu mesa en el centro de cada encuentro.",
-        "15% dto. los martes en compra presencial y en winehouse.cl",
-        "Para compra presencial solicita tu descuento al momento de pagar.",
-        "Para compra online ingresa los 6 primeros dígitos de tu Tarjeta como cupón de descuento.",
-        "Descuento no aplica para valor del despacho.",
-        "Revisa cobertura de despacho en winehouse.cl",
-        "No acumulable con otras promociones.",
-        "Descuento exclusivo pagando con tus Tarjetas del Chile."
-      ],
-      "sucursales": [
-        "José Alcalde Délano #10682, Paseo las pataguas local 11, Región Metropolitana, Lo Barnechea"
       ]
     },
     {
@@ -8490,26 +7987,6 @@
       "sucursales": [
         "Huérfanos #830, Región Metropolitana, Santiago Centro",
         "Av. Andrés Bello 2447, Local 113, Región Metropolitana, Providencia"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "YADO BY ASIA",
-      "categoria": "Sabores",
-      "descuento": "20% dto.",
-      "dia": [
-        "Martes"
-      ],
-      "dia_texto": "todos los martes",
-      "canal": null,
-      "vigencia": "Promoción válida hasta el 30 de septiembre de 2026.",
-      "condiciones": [
-        "En lo más profundo de un pueblo de la antigua Asía, se escondía un misterioso tesoro culinario…. Yadō lo nombró la dinastía Min… El restaurant estaba imbuido de magia ancestral y su chef, descendiente de una antigua estirpe de cocineros místicos, preparaba platos que llevaba consigo siglos de sabiduría culinaria, brindando una conexión con lo sagrado y transportando a los comensales a un viaje a través de la cultura asiática. Hoy Yadō abre sus puertas nuevamente …… Te invitamos a conocer la magia de nuestras ceremonias y los encantos de los rituales que hemos preparado para ti. Yadō es el lugar donde la gastronomía y la espiritualidad se entrelazan, dejando una huella imborrable en el corazón de quienes nos visitan porque dentro de nuestras paredes encontrarás magia en cada detalle, abundancia y fortuna a través de los 5 elementos que nos entrega el universo….. Y para aquellos que dejan su corazón abierto a este lugar de maravillas, experimentarán una transformación interna que perdurará para siempre en sus recuerdos….",
-        "20% de descuento todos los martes pagando con tus Tarjetas del Chile.",
-        "No acumulable con otras ofertas, menú y/o promociones."
-      ],
-      "sucursales": [
-        "Tomas Bonilla #815, Región de Tarapacá, Iquique"
       ]
     },
     {
@@ -8625,29 +8102,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Abrasas",
-      "categoria": "Sabores",
-      "descuento": "20% dto.",
-      "dia": [
-        "Lunes",
-        "Martes",
-        "Miércoles",
-        "Jueves"
-      ],
-      "dia_texto": "lunes a jueves",
-      "canal": null,
-      "vigencia": "Promoción válida hasta el 30 de septiembre de 2026.",
-      "condiciones": [
-        "Restaurant que destaca por ofrecer exclusivos cortes de carnes preparados a las brasas, alcanzando una perfecta cocción que realza su sabor y textura al máximo. Para acompañar este viaje de sabores ofrece una fina selección de vinos y cepas de las mejores viñas del país. Además, podrás deleitarte con espacios diseñados para que disfrutes de exquisitos cócteles y entretenimiento.",
-        "20% de descuento de lunes a jueves pagando con tus tarjetas del Chile.",
-        "No acumulable con otras promociones, menú ni happy hour."
-      ],
-      "sucursales": [
-        "Pdte. Federico Errázuriz #952, Región de Magallanes y de la Antártica Chilena, Punta Arenas"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "ABTAO",
       "categoria": "Sabores",
       "descuento": "20% dto.",
@@ -8740,30 +8194,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "TERRAANGAMOS",
-      "categoria": "Sabores",
-      "descuento": "20% dto.",
-      "dia": [
-        "Lunes",
-        "Martes",
-        "Miércoles",
-        "Jueves",
-        "Viernes"
-      ],
-      "dia_texto": "lunes a viernes",
-      "canal": "Tienda física",
-      "vigencia": "Promoción válida hasta el 30 de septiembre de 2026.",
-      "condiciones": [
-        "Restaurant especialista en pescados, marisco y parrilladas.",
-        "20% dto. lunes a viernes presencial pagando con tus Tarjetas del Chile.",
-        "No acumulable con otras ofertas, menú y/o promociones."
-      ],
-      "sucursales": [
-        "Av. Colon 1062, Bío-Bío, Talcahuano"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "Terralomas",
       "categoria": "Sabores",
       "descuento": "20% dto.",
@@ -8817,64 +8247,171 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Saint Patrick´s Day",
+      "comercio": "SABOR X2",
       "categoria": "Sabores",
-      "descuento": "15% dto.",
+      "descuento": "20% dto.",
       "dia": [
-        "Lunes"
+        "Lunes",
+        "Martes",
+        "Miércoles",
+        "Jueves"
       ],
-      "dia_texto": "lunes",
+      "dia_texto": "lunes a jueves",
       "canal": null,
-      "vigencia": "Promoción válida hasta el 30 de septiembre de 2026.",
+      "vigencia": "Promoción válida hasta el 31 de marzo de 2027.",
       "condiciones": [
-        "En pleno corazón del Barrio Brasil, el bar St. Patrick’s Day combina la temática irlandesa con el toque único chileno. Conocido por sus chorrillanas gigantes las que alcanzan hasta para cinco personas y su carta con más de 100 cervezas de todos los tipos, es el lugar ideal para disfrutar rica comida y deportes. ¡Pantallas distribuidas por todo el local transmiten fútbol, rugby y la NBA durante todo el año! El día más importante para este local es el 17 de marzo, donde celebran en grande San Patricio. Además si visitas el bar vestido de verde los días 17 de cualquier mes, ¡Te regalan una cerveza! Revisa su carta completa y sigue todas sus novedades en Instagram: @st.patricksrestobar. Vísítalo en Av. Ricardo Cumming 340, Metro Cumming. Abierto de lunes a jueves de 15:30 a 00:00 hrs Viernes y sábado de 14:00 a 01:00 hrs. Domingo: cerrado",
-        "15% dto. lunes pagando con tus Tarjetas del Chile.",
-        "No acumulable con otras promociones, menú ni happy hour."
+        "¡Ven a vivir una experiencia única, atención rápida y comida exquisita, te esperamos!",
+        "20% de descuento de lunes a jueves pagando con tus tarjetas del Chile.",
+        "No acumulable con otras ofertas, happy hour, menú y/o promociones."
       ],
       "sucursales": [
-        "Av. Ricardo Cumming #340, Región Metropolitana, Santiago"
+        "Gran Avenida 7957, RM, La Cisterna",
+        "Gran Avenida 4251, RM, San Miguel"
       ]
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "ULTIMATE FITNESS",
-      "categoria": "Entretención y Deportes",
-      "descuento": "20% dto. adicional",
+      "comercio": "Clínica JIREZ",
+      "categoria": "Salud y Belleza",
+      "descuento": "Hasta 55% dto.",
       "dia": [
-        "Jueves"
+        "Todos los días"
       ],
-      "dia_texto": "jueves",
-      "canal": null,
-      "vigencia": "Promoción válida hasta el 30 de septiembre de 2026.",
+      "dia_texto": "todos los días",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 30 de abril de 2027.",
       "condiciones": [
-        "ULTIMATE. Somos una marca que busca dar lo mejor para acompañar tus entrenamientos y la vida deportiva. Nos preocupamos por entregar la mejor calidad, con una tecnología y durabilidad del más alto nivel. Pensado para deportistas que busquen superar su límites.",
-        "20% dto. adicional con un tope de $50.000 todos los jueves.",
-        "Obtén dcto todos los jueves ingresando ULTIMATEBCH como cupón de dcto. al momento de finalizar compra en ultimatefitness.cl",
-        "No acumulable con otros cupones y con campañas de Cyber.",
-        "Descuento no aplica al valor del despacho."
+        "Somos una Clínica de Especialidades Odontológicas ubicada en la ciudad de Temuco. Contamos con un equipo de profesionales altamente capacitados y especializados en las diversas áreas de la odontología. Utilizamos tecnologías digitales de última generación para garantizar la máxima comodidad, precisión y eficacia en cada procedimiento que realizamos.",
+        "55% dto. en Plan Soy del Chile: $38.250 (Precio de referencia: $85.000) Evaluación, radiografías intraorales (si lo requiere), profilaxis y plan de tratamiento. Profilaxis de control a los 6 meses con 50% dto. Cobertura del 30% para cualquier prestación clínica en todas las Especialidades Odontológicas de lunes a sábado.",
+        "40% dto. en Plan Escolar: $77.990 (Precio de referencia: $129.990) Evaluación y diagnóstico, radiografías intraorales iniciales (si se requiere), profilaxis, Aplicación de flúor barniz y 4 sellantes.",
+        "35% dto. en Plan Mi Sonrisa: $136.500. (Precio de referencia: $209.990) Evaluación, plan de tratamiento, radiografías intraorales iniciales, profilaxis y blanqueamiento (previo estudio de factibilidad).",
+        "35% dto. en tratamiento completo de Ortodoncia que puede incluir: Ortodoncia Convencional, Ortodoncia Estética (Brackets Cerámicos) y Ortodoncia con Alineadores (sólo para prestaciones clínicas).",
+        "30% dto. Estética Facial para tratamientos: Botox, Profhilo, Hilos PDO, Dermaheal con Dermapen (sujeto a evaluación previa) los jueves.",
+        "Procedimientos Quirúrgicos: 35% dto para cualquier procedimiento de pabellón (exodoncias de muelas del juicio, implantología oral y otras cirugías menores) todos los sábados.",
+        "Solicita tu descuento al momento de pagar presencialmente.",
+        "Beneficio no incluye los costos de laboratorio para las especialidades odontológicas u otro procedimiento que así lo requiera.",
+        "Beneficio no incluye el derecho a pabellón para procedimientos quirúrgicos, ni insumos para la especialidad que se requiera (implante dental, membranas, injertos, ni aditamentos entre otros).",
+        "Radiografías solo intraorales o periapicales.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile.",
+        "Descuentos no acumulables con otras promociones."
       ],
-      "sucursales": []
+      "sucursales": [
+        "Andrés Bello #841, oficina 402, Región de La Araucanía, Temuco"
+      ]
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Tirua Bar-Restorán",
+      "comercio": "DELTAMOTORS",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "20% dto.",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 31 de marzo de 2027.",
+      "condiciones": [
+        "DELTAMOTORS está contigo cuando más lo necesitas. Con profesionalismo y años de experiencia, nos encargamos de tu auto como si fuera nuestro. Ya sea un mantenimiento o un rescate en grúa, puedes confiar en que recibirás un servicio rápido, confiable y con la calidad que mereces.",
+        "20% dto. en mantenimiento por kilometraje.",
+        "20% dto. en diagnóstico del estado mecánico del vehículo.",
+        "20% dto. en traslado en grúa de rescate en la Región Metropolitana (beneficio sujeto a disponibilidad).",
+        "Solicita tu descuento al momento de pagar.",
+        "Beneficio no es acumulable con otras promociones y/o descuentos.",
+        "Beneficio no incluye reparaciones, modificaciones o diagnósticos adicionales.",
+        "Beneficio exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Exequiel Fernández 3685, Bodega 270, Región Metropolitana, Macul"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "TERRAANGAMOS",
       "categoria": "Sabores",
       "descuento": "20% dto.",
       "dia": [
-        "Martes"
+        "Lunes",
+        "Martes",
+        "Miércoles",
+        "Jueves",
+        "Viernes"
       ],
-      "dia_texto": "martes",
-      "canal": null,
-      "vigencia": "Promoción válida hasta el 30 de septiembre de 2026.",
+      "dia_texto": "lunes a viernes",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 31 de marzo de 2027.",
       "condiciones": [
-        "TIRUA es un Bar-Restaurant rodeado de naturaleza ubicado en pleno corazón de Pirque. Cómo lo indica su nombre en Mapudungún, TIRUA es el lugar de encuentro para la familia y los amigos en el sector sur de Santiago. Gastronómicamente podrás encontrar platos variados, desde sanguches y pizzas artesanales, hasta fondos más elaborados como osobuco con arroz caldúo de zetas o el exquisito atún con puré de habas y tocino. También podrás experimentar nuestra exclusiva coctelería de autor, siempre rodeado de buena música y una excelente atención. Te esperamos en tu nuevo lugar de encuentro!",
-        "20% dto todos los martes, pagando con tus Tarjetas del Chile.",
-        "No acumulable con otras ofertas, menú y/o promociones.",
-        "Si eres Plan Océano obtén 20% dto. adicional Solicita tu dto. al momento de pagar en el restaurant y te devolveremos 20% de dto. adicional (Tope $20.000 por compra) como abono en tu siguiente o subsiguiente estado de cuenta de la Tarjeta con que pagaste.",
-        "Si eres Plan Cordillera obtén 10% dto. adicional Solicita tu dto. al momento de pagar en el restaurant y te devolveremos 10% de dto. adicional (Tope $10.000 por compra) como abono en tu siguiente o subsiguiente estado de cuenta de la Tarjeta con que pagaste."
+        "Restaurant especialista en pescados, marisco y parrilladas.",
+        "20% dto. lunes a viernes presencial pagando con tus Tarjetas del Chile.",
+        "No acumulable con otras ofertas, menú y/o promociones."
       ],
       "sucursales": [
-        "Ramón Subercaseaux #455, Región Metropolitana, Pirque"
+        "Av. Colon 1062, Bío-Bío, Talcahuano"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Cafetería La Naranja",
+      "categoria": "Sabores",
+      "descuento": "15% dto.",
+      "dia": [
+        "Martes",
+        "Jueves"
+      ],
+      "dia_texto": "martes y jueves",
+      "canal": null,
+      "vigencia": "Promoción válida hasta el 31 de marzo de 2027.",
+      "condiciones": [
+        "Somos una cafetería con 40 años de experiencia, en nuestro local podrás encontrar una variada carta con jugos naturales , frescas ensaladas con productos del valle de Azapa, tacos , pizzas, tradicionales sándwiches y de especialidad. Nuestro café en grano Illy se destaca por ser un blend de 9 orígenes de grano arábica, con un sabor suave y aterciopelado. Disponemos de un ambiente acogedor y una excelente atención.",
+        "15% dto los martes y jueves pagando con tus tarjetas del Chile.",
+        "No acumulable con otras ofertas, menú y/o promociones."
+      ],
+      "sucursales": [
+        "18 de Septiembre #301, locales 13, 14 y 15, Región de Arica y Parinacota, Arica"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Abrasas",
+      "categoria": "Sabores",
+      "descuento": "20% dto.",
+      "dia": [
+        "Lunes",
+        "Martes",
+        "Miércoles",
+        "Jueves"
+      ],
+      "dia_texto": "lunes a jueves",
+      "canal": null,
+      "vigencia": "Promoción válida hasta el 31 de marzo de 2027.",
+      "condiciones": [
+        "Restaurant que destaca por ofrecer exclusivos cortes de carnes preparados a las brasas, alcanzando una perfecta cocción que realza su sabor y textura al máximo. Para acompañar este viaje de sabores ofrece una fina selección de vinos y cepas de las mejores viñas del país. Además, podrás deleitarte con espacios diseñados para que disfrutes de exquisitos cócteles y entretenimiento.",
+        "20% de descuento de lunes a jueves pagando con tus tarjetas del Chile.",
+        "No acumulable con otras promociones, menú ni happy hour."
+      ],
+      "sucursales": [
+        "Pdte. Federico Errázuriz #952, Región de Magallanes y de la Antártica Chilena, Punta Arenas"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Bibimbap",
+      "categoria": "Sabores",
+      "descuento": "20% dto.",
+      "dia": [
+        "Martes",
+        "Miércoles",
+        "Jueves"
+      ],
+      "dia_texto": "martes a jueves",
+      "canal": null,
+      "vigencia": "Promoción válida hasta el 31 de marzo de 2027.",
+      "condiciones": [
+        "En Bibimbap encontrarás los platos coreanos más conocidos en el mundo, prueba un delicioso pollo frito en salsa picante, bibimbap, Tteokbokki, una parrillada tradicional para compartir con familia y amigos, hay opciones vegetarianas. También te ofrecemos platos de Tailandia y el famosísimo ramén japonés, imperdibles! Todo esto lo puedes acompañar con coctelería de autor, jugos y bebidas.",
+        "20% de descuento de martes a jueves pagando con tus tarjetas del Chile.",
+        "No acumulable con otras promociones, menús ni happy hour."
+      ],
+      "sucursales": [
+        "Obispo Hipólito Salas #25, Región del Biobío, Concepción"
       ]
     },
     {
@@ -8896,6 +8433,96 @@
       ],
       "sucursales": [
         "Jorge Washington #2421, Región de Antofagasta, Antofagasta"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Ceiba",
+      "categoria": "Sabores",
+      "descuento": "20% dto.",
+      "dia": [
+        "Jueves"
+      ],
+      "dia_texto": "todos los jueves",
+      "canal": null,
+      "vigencia": "Promoción válida hasta el 31 de marzo de 2027.",
+      "condiciones": [
+        "Descubre una experiencia única en gastronomía amazónica en pleno corazón de La Dehesa! Nuestro bar gastronómico te transportará a la exuberante selva amazónica a través de sabores auténticos y coctelería de autor, todo mientras disfrutas de la vista panorámica desde nuestro rooftop. Sumérgete en una aventura culinaria que combina la riqueza de la zona con la creatividad de nuestros mixólogos, todo en un ambiente acogedor y único con vistas espectaculares. Ven y déjate llevar por los misterios y los sabores del Amazonas en nuestro rincón de la Dehesa con estacionamientos privados .",
+        "20% dto todos los jueves pagando con tus Tarjetas del Chile.",
+        "No acumulable con otras promociones, menú ni happy hour.",
+        "Tope de descuento de $50.000 pesos."
+      ],
+      "sucursales": [
+        "Avenida José Alcalde Délano #10425, Región Metropolitana, Lo Barnechea"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Jardín Marino",
+      "categoria": "Sabores",
+      "descuento": "20% dto.",
+      "dia": [
+        "Lunes",
+        "Martes",
+        "Miércoles"
+      ],
+      "dia_texto": "lunes, martes y miércoles",
+      "canal": null,
+      "vigencia": "Promoción válida hasta el 31 de marzo de 2027.",
+      "condiciones": [
+        "Jardin Marino, desde 1993 resaltando los sabores del mar con su gastronomía, estamos ubicados en la Playa de Arauco, con una vista privilegiada frente al mar, y ahora con sucursal en San Pedro de la Paz, se destaca por calidad de productos y servicios. Nuestra especialidad son pescados y mariscos, sin dejar de pensar en las personas vegetarianas y veganas, ven a disfrutar los placeres del mar.",
+        "20% dto todos los lunes, martes y miércoles, pagando con tus tarjetas del Chile.",
+        "No acumulable con otras ofertas, menú y/o promociones.",
+        "Descuento no valido para días festivos."
+      ],
+      "sucursales": [
+        "Avenida Prat s/n sector playa, Región del Biobío, Arauco"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Dolce",
+      "categoria": "Sabores",
+      "descuento": "20% dto.",
+      "dia": [
+        "Martes",
+        "Jueves"
+      ],
+      "dia_texto": "martes y jueves",
+      "canal": null,
+      "vigencia": "Promoción válida hasta el 31 de marzo de 2027.",
+      "condiciones": [
+        "En Dolce somos especialistas en elaboración de Churros premium Valdivianos, y Waffles en sus distintas variedades. Además, contamos con heladería, café al paso, y distintas preparaciones dulces y refrescantes. Te esperamos en el punto más Dolce de Valdivia.",
+        "20% de descuento los martes y jueves pagando con tus tarjetas del Chile.",
+        "No acumulable con otras promociones, menú ni happy hour."
+      ],
+      "sucursales": [
+        "BERNARDO OHIGGINS #396, Región de los Ríos, VALDIVIA"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Mandala Food & Bar",
+      "categoria": "Sabores",
+      "descuento": "20% dto.",
+      "dia": [
+        "Lunes",
+        "Martes",
+        "Miércoles",
+        "Jueves",
+        "Viernes",
+        "Sábado"
+      ],
+      "dia_texto": "lunes a sábado de 17:00 a 22:00 Hrs",
+      "canal": null,
+      "vigencia": "Promoción válida hasta el 31 de marzo de 2027.",
+      "condiciones": [
+        "Si estás buscando un lugar donde los sabores, las especias y la tradición india cobren vida, Sabor de la India es el restaurante que necesitas visitar. Ubicado en Providencia, Santiago, este lugar combina lo mejor de la gastronomía india con un ambiente acogedor y vibrante que te transportará directamente a las calles de Delhi o Mumbai.",
+        "20% dto de lunes a sábado de 17:00 a 22:00 Hrs. pagando con tus tarjetas del Chile.",
+        "No acumulable con otras ofertas, menú y/o promociones."
+      ],
+      "sucursales": [
+        "Carlos Antunez #1823, Región Metropolitana, Providencia"
       ]
     },
     {
@@ -8923,6 +8550,71 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "We Love Pizza",
+      "categoria": "Sabores",
+      "descuento": "20% dto.",
+      "dia": [
+        "Martes",
+        "Miércoles"
+      ],
+      "dia_texto": "martes y miércoles",
+      "canal": null,
+      "vigencia": "Promoción válida hasta el 31 de marzo de 2027.",
+      "condiciones": [
+        "We Love Pizza\" es una pizzería Neo-napolitana, mantiene la esencia de la tradición napolitana con un toque contemporáneo. Se ciñe a los procesos de elaboración de la masa y la cocción de una auténtica pizza napolitana, pero lleva la combinación de sabores e ingredientes hacia direcciones nuevas y emocionantes. La pizza se hornea a la piedra en un horno de leña a 450°C a la llama, lo que garantiza una textura y sabor únicos. Nuestra masa, fermentada durante al menos 24 horas, tiene un equilibrio perfecto: delgada en el centro, con bordes gruesos y aireados. Cada pizza es elaborada con ingredientes frescos, seleccionados con cuidado para ofrecer una experiencia auténtica y memorable.",
+        "20% de descuento de martes y miércoles pagando con tus tarjetas del Chile.",
+        "Válido para compra presencial con tus tarjetas del Chile y en WWW.WELOVEPIZZA.CL ingresando los 6 primeros digitos de tu tarjeta.",
+        "No acumulable con otras promociones, menús ni happy hour."
+      ],
+      "sucursales": [
+        "Itata #850, Región de Ñuble, Chillán"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Nikkei 419",
+      "categoria": "Sabores",
+      "descuento": "20% dto.",
+      "dia": [
+        "Lunes",
+        "Martes",
+        "Miércoles"
+      ],
+      "dia_texto": "lunes a miércoles",
+      "canal": null,
+      "vigencia": "Promoción válida hasta el 31 de marzo de 2027.",
+      "condiciones": [
+        "Nikkei 419 es un restaurante ubicado en Viña del Mar, que fusiona la cocina japonesa con influencias peruanas, lo que se conoce como cocina nikkei. Este estilo culinario combina técnicas y sabores de ambas culturas para crear platos únicos y deliciosos. En cuanto a su oferta gastronómica, variedad de sushi, ceviches, tiraditos, y otros platos típicos de la cocina japonesa y peruana, así como algunas creaciones originales ,que combinan ingredientes y técnicas de ambas tradiciones culinarias con deliciosos Cocktails y Mocktails . La fusión de sabores y estilos culinarios en Nikkei 419 ofrece a los comensales , una experiencia gastronómica única y emocionante en Viña del Mar",
+        "20% dto de lunes a miércoles pagando con tus Tarjetas del Chile.",
+        "No acumulable con otras ofertas, menú y/o promociones."
+      ],
+      "sucursales": [
+        "Av. San Martín #419, Región de Valparaiso, Viña del Mar"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "CONSERBAR",
+      "categoria": "Sabores",
+      "descuento": "20% dto.",
+      "dia": [
+        "Miércoles",
+        "Sábado"
+      ],
+      "dia_texto": "miércoles y sábado",
+      "canal": null,
+      "vigencia": "Promoción válida hasta el 31 de marzo de 2027.",
+      "condiciones": [
+        "ConserBar, es un resto-bar de cocteleria y cocina de autor que pone en valor el producto nacional, el cuidado por la materia prima, la identidad de Barrio Italia y la memoria colectiva. Con un poco más de 4 años de vida, ConserBar se posiciona dentro del circuito, siendo reconocido por la prensa especializada como uno de los bares que debes conocer si eres amante de la coctelería de autor, clásica, y del momento.",
+        "20% de descuento los miércoles y sábado pagando con tus tarjetas del Chile.",
+        "No acumulable con otras ofertas, happy hour, menú y/o promociones."
+      ],
+      "sucursales": [
+        "Av Condell #1189, Región Metropolitana, Providencia, Teléfono: +569 6830 5467"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "Mulata",
       "categoria": "Sabores",
       "descuento": "20% dto.",
@@ -8942,6 +8634,51 @@
       ],
       "sucursales": [
         "Av. Arturo Prat Chacón #902, Región de Tarapacá, Iquique"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Travesía",
+      "categoria": "Sabores",
+      "descuento": "20% dto.",
+      "dia": [
+        "Lunes",
+        "Martes",
+        "Miércoles",
+        "Jueves"
+      ],
+      "dia_texto": "lunes a Jueves",
+      "canal": null,
+      "vigencia": "Promoción válida hasta el 31 de marzo de 2027.",
+      "condiciones": [
+        "Somos un Bar y Cocina de Autor con tendencia regionalista",
+        "20% de descuento de lunes a jueves pagando con tus tarjetas del Chile.",
+        "No acumulable con otras ofertas, menú y/o promociones."
+      ],
+      "sucursales": [
+        "Ramón Carrasco #256, Región del Bío Bío, Concepción"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "LA MURTA",
+      "categoria": "Sabores",
+      "descuento": "20% dto.",
+      "dia": [
+        "Viernes",
+        "Sábado",
+        "Domingo"
+      ],
+      "dia_texto": "viernes a domingo",
+      "canal": null,
+      "vigencia": "Promoción válida hasta el 31 de marzo de 2027.",
+      "condiciones": [
+        "Un lugar encantador para disfrutar de una experiencia gastronómica donde destaca la frescura y la calidad de los ingredientes de mercado, con una combinación perfecta de vinos de pequeños productores, biodinámicos y orgánicos, todo esto en un ambiente tranquilo y moderno.",
+        "20% dto todos los viernes, sábados y domingos, pagando con tus tarjetas del Chile.",
+        "No acumulable con otras ofertas, menú y/o promociones."
+      ],
+      "sucursales": [
+        "Holanda #222, Región Metropolitana, Providencia"
       ]
     },
     {
@@ -8966,6 +8703,166 @@
       ],
       "sucursales": [
         "Local 18 GALERÍA 2 CARACOLES, Nueva Lyon 45, RM, Providencia"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "La Bonaerense",
+      "categoria": "Sabores",
+      "descuento": "20% dto.",
+      "dia": [
+        "Lunes",
+        "Martes",
+        "Miércoles",
+        "Jueves"
+      ],
+      "dia_texto": "lunes a jueves",
+      "canal": null,
+      "vigencia": "Promoción válida hasta el 31 de marzo de 2027.",
+      "condiciones": [
+        "Pizza Bar con auténtica masa argentina.",
+        "20% dto de lunes a jueves en el total de la cuenta pagando con Tarjetas del Chile.",
+        "Excluye promociones, menú o happy hour."
+      ],
+      "sucursales": [
+        "Local TE 108, Americo Vespucio 1737, RM, Huechuraba"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Restaurant Colo Colo",
+      "categoria": "Sabores",
+      "descuento": "20% dto.",
+      "dia": [
+        "Lunes",
+        "Martes",
+        "Miércoles",
+        "Jueves"
+      ],
+      "dia_texto": "lunes a jueves",
+      "canal": null,
+      "vigencia": "Promoción válida hasta el 31 de marzo de 2027.",
+      "condiciones": [
+        "Colo-Colo conocido por la mejor plateada de chile, del trabajo de doña Raquel Orellana en el año 1970, en la comuna de Romeral, región del Maule. Hoy en manos de su nieto Juan Pablo, quien está trabajando en expandir esta tradicional “picada” a otras ciudades para acercar esta maravillosa preparación a más personas.",
+        "20% de descuento de lunes a jueves con tus tarjetas del Chile.",
+        "No acumulable con otras ofertas, menú y/o promociones."
+      ],
+      "sucursales": [
+        "Av. Chile #332, Región de El Maule, Romeral",
+        "O´Higgins 201 Local R11, Región de El Maule, Curicó"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "MIRO",
+      "categoria": "Sabores",
+      "descuento": "20% dto.",
+      "dia": [
+        "Martes"
+      ],
+      "dia_texto": "martes",
+      "canal": null,
+      "vigencia": "Promoción válida hasta el 31 de marzo de 2027.",
+      "condiciones": [
+        "20% de descuento martes pagando con tus tarjetas del Chile.",
+        "No acumulable con otras ofertas, menú y/o promociones."
+      ],
+      "sucursales": [
+        "13 NORTE #810, Región de Valparaíso, VIÑA DEL MAR",
+        "JORGE MONTT #2285, Región de Valparaíso, VIÑA DEL MAR"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Saki",
+      "categoria": "Sabores",
+      "descuento": "20% dto.",
+      "dia": [
+        "Martes",
+        "Jueves"
+      ],
+      "dia_texto": "martes y jueves",
+      "canal": null,
+      "vigencia": "Promoción válida hasta el 31 de marzo de 2027.",
+      "condiciones": [
+        "20% dto martes y jueves",
+        "Sushi Bar y gastronomía peruana, descubre nuestros sabores fusión Nikkei y una mezcla de sabores que cautivarán tu paladar.",
+        "No válido en menú y Happy Hours.",
+        "Excluye promociones.",
+        "20% de dcto en la carta."
+      ],
+      "sucursales": [
+        "Santa Victoria 192, RM, Santiago",
+        "Local 3, Pedro de Valdivia 3601, RM, Ñuñoa"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "YADO BY ASIA",
+      "categoria": "Sabores",
+      "descuento": "20% dto.",
+      "dia": [
+        "Martes"
+      ],
+      "dia_texto": "todos los martes",
+      "canal": null,
+      "vigencia": "Promoción válida hasta el 31 de marzo de 2027.",
+      "condiciones": [
+        "En lo más profundo de un pueblo de la antigua Asía, se escondía un misterioso tesoro culinario…. Yadō lo nombró la dinastía Min… El restaurant estaba imbuido de magia ancestral y su chef, descendiente de una antigua estirpe de cocineros místicos, preparaba platos que llevaba consigo siglos de sabiduría culinaria, brindando una conexión con lo sagrado y transportando a los comensales a un viaje a través de la cultura asiática. Hoy Yadō abre sus puertas nuevamente …… Te invitamos a conocer la magia de nuestras ceremonias y los encantos de los rituales que hemos preparado para ti. Yadō es el lugar donde la gastronomía y la espiritualidad se entrelazan, dejando una huella imborrable en el corazón de quienes nos visitan porque dentro de nuestras paredes encontrarás magia en cada detalle, abundancia y fortuna a través de los 5 elementos que nos entrega el universo….. Y para aquellos que dejan su corazón abierto a este lugar de maravillas, experimentarán una transformación interna que perdurará para siempre en sus recuerdos….",
+        "20% de descuento todos los martes pagando con tus Tarjetas del Chile.",
+        "No acumulable con otras ofertas, menú y/o promociones."
+      ],
+      "sucursales": [
+        "Tomas Bonilla #815, Región de Tarapacá, Iquique"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Akami Sushi Bar",
+      "categoria": "Sabores",
+      "descuento": "15% dto.",
+      "dia": [
+        "Lunes",
+        "Martes",
+        "Miércoles",
+        "Jueves"
+      ],
+      "dia_texto": "lunes a jueves",
+      "canal": null,
+      "vigencia": "Promoción válida hasta el 31 de marzo de 2027.",
+      "condiciones": [
+        "Con más de una década de experiencia en Chillán, nos hemos consolidado como un referente de la buena mesa y la excelencia en el servicio. Nuestra especialidad en sushi nikkei fusiona lo mejor de la tradición japonesa con toques de creatividad, utilizando siempre los ingredientes más frescos y de la más alta calidad. Contamos con un bar de primer nivel que ofrece exquisita coctelería de temporada, clásica y de autor, diseñada para realzar tu experiencia. Nuestro equipo de anfitriones te brindará una atención cálida y personalizada, asegurando que cada visita sea memorable.",
+        "15% dto. de lunes a jueves pagando con tus tarjetas del Chile.",
+        "No acumulable con otras promociones, menú ni happy hour."
+      ],
+      "sucursales": [
+        "Av. OHiggins #1650, Región de Ñuble, Chillán"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "La Crew",
+      "categoria": "Sabores",
+      "descuento": "20% dto.",
+      "dia": [
+        "Lunes",
+        "Martes",
+        "Miércoles",
+        "Jueves"
+      ],
+      "dia_texto": "lunes a jueves",
+      "canal": null,
+      "vigencia": "Promoción válida hasta el 31 de marzo de 2027.",
+      "condiciones": [
+        "Donde la comida es arte y el arte es cultura En La Crew, la cultura urbana cobra vida en cada detalle. Desde nuestra galería de arte street hasta nuestra coctelería de autor y cocina nikkei, todo está diseñado para sorprenderte. Somos más que un bar: somos un espacio donde la gastronomía y el street art se mezclan para crear una experiencia inigualable, la música da ritmo a la noche y el arte urbano convierte nuestro espacio en una galería viva. Sumérgete en un ambiente único en Iquique, donde cada plato es una obra maestra y cada noche es una historia por contar.",
+        "20% de dto. de lunes a jueves hasta las 22:00 Hrs. pagando con tus Tarjetas del Chile.",
+        "Tope de descuento $30.000 por mesa.",
+        "No acumulable con otras ofertas, menú y/o promociones.",
+        "Se excluyen eventos dentro del local (Segundo Piso).",
+        "Beneficio exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Tomás Bonilla B. 917, Región de Tarapacá, Iquique"
       ]
     },
     {
@@ -9750,6 +9647,31 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "Wine & House",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "15% dto.",
+      "dia": [
+        "Martes"
+      ],
+      "dia_texto": "martes",
+      "canal": "Ambos",
+      "vigencia": "Promoción válida hasta el 30 de septiembre de 2027.",
+      "condiciones": [
+        "Wine&House es el lugar perfecto para los que disfrutan de recibir, celebrar y hacer de cada comida una experiencia especial. Nos especializamos en menaje, cristalería, utensilios de cocina, accesorios para el vino y objetos de decoración con estilo. Trabajamos con marcas reconocidas a nivel internacional como Riedel, Laguiole Jean Dubost, La Rochere, RCR, Crystalex, Revol, entre muchas otras, seleccionadas para ayudarte a transformar tu mesa en el centro de cada encuentro.",
+        "15% dto. los martes en compra presencial y en winehouse.cl",
+        "Para compra presencial solicita tu descuento al momento de pagar.",
+        "Para compra online ingresa los 6 primeros dígitos de tu Tarjeta como cupón de descuento.",
+        "Descuento no aplica para valor del despacho.",
+        "Revisa cobertura de despacho en winehouse.cl",
+        "No acumulable con otras promociones.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "José Alcalde Délano #10682, Paseo las pataguas local 11, Región Metropolitana, Lo Barnechea"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "Quiero Mi Masaje",
       "categoria": "Salud y Belleza",
       "descuento": "25% dto.",
@@ -9841,6 +9763,28 @@
       ],
       "sucursales": [
         "Av Central Gonzalo Pérez Llona 419, RM, Maipú"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Tirua Bar-Restorán",
+      "categoria": "Sabores",
+      "descuento": "20% dto.",
+      "dia": [
+        "Martes"
+      ],
+      "dia_texto": "martes",
+      "canal": null,
+      "vigencia": "Promoción válida hasta el 31 de marzo de 2027.",
+      "condiciones": [
+        "TIRUA es un Bar-Restaurant rodeado de naturaleza ubicado en pleno corazón de Pirque. Cómo lo indica su nombre en Mapudungún, TIRUA es el lugar de encuentro para la familia y los amigos en el sector sur de Santiago. Gastronómicamente podrás encontrar platos variados, desde sanguches y pizzas artesanales, hasta fondos más elaborados como osobuco con arroz caldúo de zetas o el exquisito atún con puré de habas y tocino. También podrás experimentar nuestra exclusiva coctelería de autor, siempre rodeado de buena música y una excelente atención. Te esperamos en tu nuevo lugar de encuentro!",
+        "20% dto todos los martes, pagando con tus Tarjetas del Chile.",
+        "No acumulable con otras ofertas, menú y/o promociones.",
+        "Si eres Plan Océano obtén 20% dto. adicional Solicita tu dto. al momento de pagar en el restaurant y te devolveremos 20% de dto. adicional (Tope $20.000 por compra) como abono en tu siguiente o subsiguiente estado de cuenta de la Tarjeta con que pagaste.",
+        "Si eres Plan Cordillera obtén 10% dto. adicional Solicita tu dto. al momento de pagar en el restaurant y te devolveremos 10% de dto. adicional (Tope $10.000 por compra) como abono en tu siguiente o subsiguiente estado de cuenta de la Tarjeta con que pagaste."
+      ],
+      "sucursales": [
+        "Ramón Subercaseaux #455, Región Metropolitana, Pirque"
       ]
     },
     {
@@ -11299,6 +11243,24 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "Glowmed",
+      "categoria": "Salud y Belleza",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "Paga en 4 a 12 cuotas sin interés",
+      "canal": null,
+      "vigencia": "Promoción válida hasta el 30 de septiembre de 2027.",
+      "condiciones": [
+        "Somos un Centro Odontológico y Médico ubicados en la comuna de La Florida. Contamos con profesionales altamente especializados. Ayudamos a nuestros pacientes a encontrar soluciones, brindando una atención de excelencia y gran calidez humana.",
+        "Paga todos tus tratamientos de 4 a 12 cuotas sin interés con tus Tarjetas de Crédito del Chile.",
+        "Para una compra referencial de $500.000 en 12 cuotas de $41.667 CAE : 1,47%, Costo total: $504.000"
+      ],
+      "sucursales": [
+        "Av. Diego Portales #1594, Región Metropolitana, La Florida"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "LA BASE",
       "categoria": "Sabores",
       "descuento": "20% dto.",
@@ -12052,6 +12014,26 @@
         "Av. Andrés Bello #2447, Local 248 PB, Región Metropolitana, Providencia",
         "Av. Jorge Alessandri #3177, Local C-207 segundo piso, Región del Biobío, Concepción"
       ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "ULTIMATE FITNESS",
+      "categoria": "Entretención y Deportes",
+      "descuento": "20% dto. adicional",
+      "dia": [
+        "Jueves"
+      ],
+      "dia_texto": "jueves",
+      "canal": null,
+      "vigencia": "Promoción válida hasta el 30 de septiembre de 2027.",
+      "condiciones": [
+        "ULTIMATE. Somos una marca que busca dar lo mejor para acompañar tus entrenamientos y la vida deportiva. Nos preocupamos por entregar la mejor calidad, con una tecnología y durabilidad del más alto nivel. Pensado para deportistas que busquen superar su límites.",
+        "20% dto. adicional con un tope de $50.000 todos los jueves.",
+        "Obtén dcto todos los jueves ingresando ULTIMATEBCH como cupón de dcto. al momento de finalizar compra en ultimatefitness.cl",
+        "No acumulable con otros cupones y con campañas de Cyber.",
+        "Descuento no aplica al valor del despacho."
+      ],
+      "sucursales": []
     },
     {
       "banco": "Banco de Chile",
@@ -17441,32 +17423,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Cafetano",
-      "categoria": "Sabores",
-      "descuento": "30% dto.",
-      "dia": [
-        "Lunes"
-      ],
-      "dia_texto": "lunes",
-      "canal": "Tienda física",
-      "vigencia": "Promoción válida hasta el 31 de octubre de 2026.",
-      "condiciones": [
-        "Cafetano es una cadena de cafeterías que nace de la pasión por el café y el espíritu emprendedor chileno. Ofrece una variedad de preparaciones en espacios acogedores, ideales para disfrutar, compartir o hacer una pausa durante el día.",
-        "30% dto. lunes compra presencial.",
-        "Solicita tu descuento al momento de pagar.",
-        "No acumulable con otras promociones.",
-        "Descuento exclusivo pagando con tus Tarjetas del Chile."
-      ],
-      "sucursales": [
-        "Augusto Leguia Sur #70, Región Metropolitana, las condes",
-        "Miraflores #358, Región Metropolitana, santiago",
-        "San Francisco #220, Región Metropolitana, Santiago",
-        "Independencia #1121, Local 1f, Región Metropolitana, Independencia",
-        "Irarrazaval #2401, Región Metropolitana, ñuñoa"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "Ludovico Einaudi - 9 de marzo 2027",
       "categoria": "Entretención y Deportes",
       "descuento": null,
@@ -18388,6 +18344,28 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "Lagün",
+      "categoria": "Entretención y Deportes",
+      "descuento": "30% dto.",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días",
+      "canal": "Online",
+      "vigencia": "Promoción válida hasta el 28 de febrero de 2027.",
+      "condiciones": [
+        "Lagün es una línea de hidratación saludable inspirada en la Patagonia, elaborada con frutos y botánicos, sin azúcar añadida y levemente gasificada. A través de sus Momentos —CALMA, FOCO, ACTIVA y RENUEVA— invita a elegir cómo sentirse y a hidratarse con propósito.",
+        "30% dto. todos los días en lagun.cl",
+        "Obtén tu descuento ingresando LAGUNBCH como código de dto.",
+        "Descuento no aplica para valor del despacho.",
+        "No acumulable con otras promociones.",
+        "Revisa cobertura de despacho en lagun.cl",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "Gregoria Cocina",
       "categoria": "Sabores",
       "descuento": "30% dto.",
@@ -18421,6 +18399,32 @@
       "vigencia": null,
       "condiciones": [],
       "sucursales": []
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Cafetano",
+      "categoria": "Sabores",
+      "descuento": "30% dto.",
+      "dia": [
+        "Lunes"
+      ],
+      "dia_texto": "lunes",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 31 de octubre de 2026.",
+      "condiciones": [
+        "Cafetano es una cadena de cafeterías que nace de la pasión por el café y el espíritu emprendedor chileno. Ofrece una variedad de preparaciones en espacios acogedores, ideales para disfrutar, compartir o hacer una pausa durante el día.",
+        "30% dto. lunes compra presencial.",
+        "Solicita tu descuento al momento de pagar.",
+        "No acumulable con otras promociones.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Augusto Leguia Sur #70, Región Metropolitana, Las Condes",
+        "Miraflores #358, Región Metropolitana, Santiago",
+        "San Francisco #220, Región Metropolitana, Santiago",
+        "Independencia #1121, Local 1f, Región Metropolitana, Independencia",
+        "Irarrazaval #2401, Región Metropolitana, Ñuñoa"
+      ]
     },
     {
       "banco": "Banco de Chile",
@@ -20499,29 +20503,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Vermutería - Terrazas San Cristóbal",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Jueves"
-      ],
-      "dia_texto": "jueves de septiembre",
-      "canal": null,
-      "vigencia": "Promoción válida desde el 01 al 30 de septiembre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial. 40% dto. jueves de septiembre.",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dcto. $50.000 por mesa"
-      ],
-      "sucursales": [
-        "Terrazas San Cristobal, Constitución #241, Región Metropolitana, Providencia"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "YADO BY ASIA",
       "categoria": "Sabores",
       "descuento": "40% dto.",
@@ -20992,32 +20973,6 @@
         "Av. CRISTOBAL COLON 8961, Región del Biobío, Hualpen",
         "Av. ESPAÑA 01405, Región de Magallanes y la Antartica Chilena, Punta Arenas"
       ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Viña Undurraga",
-      "categoria": "Sabores",
-      "descuento": "55% dto.",
-      "dia": [
-        "Miércoles",
-        "Viernes",
-        "Sábado",
-        "Domingo"
-      ],
-      "dia_texto": "miércoles y viernes a domingo",
-      "canal": "Online",
-      "vigencia": "Promoción válida hasta el 30 de noviembre de 2026.",
-      "condiciones": [
-        "Descubre lo mejor de Undurraga Wine Group y explora la increíble selección de espumantes y vinos de las prestigiosas marcas Undurraga, Bouchon, Bisquertt y Volcanes. Cada copa es una nueva experiencia que celebra la tradición, la innovación y la pasión por el vino.",
-        "55% dto. miércoles y viernes a domingo en tiendaonline.undurraga.cl",
-        "Obtén tu descuento ingresando los 6 primeros dígitos de tus Tarjetas del Chile como código de dto.",
-        "Beneficio excluye categoría packs y undubar.",
-        "Descuento no aplica para valor del despacho.",
-        "No acumulable con otras promociones.",
-        "Revisa cobertura de despacho en tiendaonline.undurraga.cl",
-        "Descuento exclusivo pagando con tus Tarjetas del Chile."
-      ],
-      "sucursales": []
     },
     {
       "banco": "Banco de Chile",
@@ -23007,6 +22962,33 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "Coppelia",
+      "categoria": "Sabores",
+      "descuento": "30% dto.",
+      "dia": [
+        "Miércoles"
+      ],
+      "dia_texto": "miércoles",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 28 de febrero de 2027.",
+      "condiciones": [
+        "Nacida en 1949 de la mano de la pastelería francesa, Coppelia es un ícono de la cultura y la tradición en Chile. Este histórico punto de encuentro reúne heladería artesanal, tortas y sus clásicos sándwiches, ofreciendo la frescura y el sabor de siempre. Su historia y tradición se reflejan en cada bocado.",
+        "30% dto. miércoles en compra presencial.",
+        "No válido para menú, Happy Hour ni otras promociones vigentes.",
+        "Solicita tu descuento al momento de pagar.",
+        "No acumulable con otras promociones.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Luis Thayer Ojeda #0140, Region metropolitana, Providencia",
+        "Av. Francisco Bilbao #4144, Local 230 Jumbo Bilbao, Region metropolitana, Las Condes",
+        "Av. Vicuña Mackenna #6100, Local 3069, Region metropolitana, La Florida",
+        "Av. Américo Vespucio #1001, Local 1021 Jumbo Maipú, Region metropolitana, Maipú",
+        "Av. Bernardo O´higgins #3750, Local 126 y 127, Region metropolitana, Estacion Central"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "MARCOPOLO",
       "categoria": "Sabores",
       "descuento": "30% dto.",
@@ -23127,6 +23109,29 @@
       "sucursales": [
         "Tomas Rogers #87, Región de Magallanes y de la Antártica Chilena, Puerto Natales"
       ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Viña Undurraga",
+      "categoria": "Sabores",
+      "descuento": "55% dto.",
+      "dia": [
+        "Miércoles"
+      ],
+      "dia_texto": "miércoles",
+      "canal": "Online",
+      "vigencia": "Promoción válida hasta el 30 de noviembre de 2026.",
+      "condiciones": [
+        "Descubre lo mejor de Undurraga Wine Group y explora la increíble selección de espumantes y vinos de las prestigiosas marcas Undurraga, Bouchon, Bisquertt y Volcanes. Cada copa es una nueva experiencia que celebra la tradición, la innovación y la pasión por el vino.",
+        "55% dto. miércoles en tiendaonline.undurraga.cl",
+        "Obtén tu descuento ingresando los 6 primeros dígitos de tus Tarjetas del Chile como código de dto.",
+        "Beneficio excluye categoría packs y undubar.",
+        "Descuento no aplica para valor del despacho.",
+        "No acumulable con otras promociones.",
+        "Revisa cobertura de despacho en tiendaonline.undurraga.cl",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": []
     },
     {
       "banco": "Banco de Chile",
@@ -23276,6 +23281,97 @@
       "sucursales": [
         "Av. Vicente Perez Rosales 1A Km 71.5, Las Cascadas Puerto Octay, Region de los Lagos, Osorno"
       ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "NS AUTOMOTRIZ",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "15% dto.",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "en mantención todos los días",
+      "canal": null,
+      "vigencia": "Promoción válida hasta el 30 de septiembre de 2027.",
+      "condiciones": [
+        "Con más de 15 años de experiencia en el sector automotriz, NS Automotriz se especializa en ofrecer soluciones integrales para vehículos diésel y bencineros. Nuestro enfoque abarca desde el mantenimiento preventivo y correctivo hasta el diagnóstico avanzado de sistemas DPF e Inyección diésel. Nos destacamos por brindar atención personalizada, utilizando repuestos originales para asegurar la máxima calidad en cada servicio. Además, priorizamos la eficiencia y rapidez para que nuestros clientes puedan seguir con su rutina diaria sin interrupciones. Confía en NS Automotriz, donde tu vehículo está en manos expertas.",
+        "Obtén tu beneficio pagando con tus Tarjetas del Chile.",
+        "No acumulable con otras promociones."
+      ],
+      "sucursales": [
+        "Ejercito #434, Región del Biobío, Concepción"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "El nuevo iPhone 18 Pro",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "Puede ser tuyo con el programa iPhone for life",
+      "canal": null,
+      "vigencia": "Hasta el 31 de octubre de 2026",
+      "condiciones": [
+        "Renueva, ahorra, repite",
+        "Cambia tu iPhone cada 2 años y ahorra hasta un 30% del costo total de tu iPhone",
+        "Entrega tu iPhone en óptimas condiciones en parte de pago.",
+        "¡Desde los 24 meses podrás volver a renovarlo!",
+        "Desde $40.278 al mes sin interés.",
+        "CAE de 0,52%, Calculado por un monto referencial de compra de $1.449.990 en 36 cuotas. Costo Total del Crédito: $1.461.590. Operación afecta a impuesto al crédito.",
+        "Recuerda: Exclusivo en www.maconline.com pagando con tus Tarjetas de Crédito del Banco de Chile. Los modelos de iPhone que podrás suscribir al programa iPhone for Life son: iPhone 18 Pro y iPhone 18 Pro Max en todas las capacidades disponibles.",
+        "¿Cómo me inscribo a iPhone for Life?",
+        "1.Elige tu iPhone 18 Pro en la tienda MacOnline.",
+        "2.Inscríbete al Programa iPhone for Life, en el momento de completar la compra de tu iPhone 18 Pro.",
+        "3.Paga tu iPhone en 36 cuotas sin interés con Tarjetas de Crédito Banco de Chile (incluye Banco Edwards).",
+        "Una vez facturada la cuota mensual 24 en tu estado de cuenta de tu Tarjeta de Crédito Banco de Chile, accedes al período de recompra (renovación) de tu iPhone usado en buen estado en las tiendas MacOnline, el cual podrás entregar en pago de las cuotas mensuales pendientes."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Saint Patrick´s Day",
+      "categoria": "Sabores",
+      "descuento": "15% dto.",
+      "dia": [
+        "Lunes"
+      ],
+      "dia_texto": "lunes",
+      "canal": null,
+      "vigencia": "Promoción válida hasta el 31 de marzo de 2027.",
+      "condiciones": [
+        "En pleno corazón del Barrio Brasil, el bar St. Patrick’s Day combina la temática irlandesa con el toque único chileno. Conocido por sus chorrillanas gigantes las que alcanzan hasta para cinco personas y su carta con más de 100 cervezas de todos los tipos, es el lugar ideal para disfrutar rica comida y deportes. ¡Pantallas distribuidas por todo el local transmiten fútbol, rugby y la NBA durante todo el año! El día más importante para este local es el 17 de marzo, donde celebran en grande San Patricio. Además si visitas el bar vestido de verde los días 17 de cualquier mes, ¡Te regalan una cerveza! Revisa su carta completa y sigue todas sus novedades en Instagram: @st.patricksrestobar. Vísítalo en Av. Ricardo Cumming 340, Metro Cumming. Abierto de lunes a jueves de 15:30 a 00:00 hrs Viernes y sábado de 14:00 a 01:00 hrs. Domingo: cerrado",
+        "15% dto. lunes pagando con tus Tarjetas del Chile.",
+        "No acumulable con otras promociones, menú ni happy hour."
+      ],
+      "sucursales": [
+        "Av. Ricardo Cumming #340, Región Metropolitana, Santiago"
+      ]
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "The Candle Shop, Air Beauty",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "15% dcto",
+      "dia": [
+        "Martes",
+        "Jueves"
+      ],
+      "dia_texto": "los días martes y jueves",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Velas y fragancia",
+        "Recuerdas que:",
+        "Exclusivo pagando con tus Tarjetas de Crédito y Débito Santander.",
+        "Válido en tiendas y thecandleshop.cl",
+        "Tope de descuento: Sin tope",
+        "Código de descuento: SANTANDERTCS15",
+        "No acumula con otras promociones.",
+        "Tipo de Tarjeta que aplica: crédito y débito",
+        "Tiendas: Portal la Dehesa / Parque Arauco / Costanera Center",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad de Huerto Sur Cafeterías SPA y Sociedad Bustorf Larsen Cía., sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
+      ],
+      "sucursales": []
     },
     {
       "banco": "Banco Santander",
