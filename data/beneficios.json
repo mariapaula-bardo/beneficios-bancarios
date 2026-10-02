@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-01T17:11",
+  "actualizado": "2026-10-02T16:25",
   "beneficios": [
     {
       "banco": "Banco de Chile",
@@ -3152,25 +3152,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Amandine Bistró Dólares-Premio",
-      "categoria": "Dólares-Premio",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "Consumo por $80.000",
-      "canal": null,
-      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
-      "condiciones": [
-        "Amandine es un bistró contemporáneo que trabaja con la técnica francesa de cocina utilizando productos locales de nuestro territorio. Su chef Rudi Scholdis , conocido mundialmente , invita a una experiencia de placer tanto de los platos como de una gran variedad de vinos que tienen en su cava. Ubicado en el corazón del barrio el golf cuenta con estacionamiento gratuito desde las 20:00 horas.",
-        "Consumo por $80.000.",
-        "No incluye propina.",
-        "Tu código será enviado en un plazo de hasta 12 horas hábiles."
-      ],
-      "sucursales": [
-        "Enrique Foster 30, REGIÓN METROPOLITANA, Las Condes, (2) 3340 1704"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "ANWO",
       "categoria": "Retail y Otras Marcas",
       "descuento": "40% dto.",
@@ -3616,25 +3597,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Cafetería Espresso Dólares-Premio",
-      "categoria": "Dólares-Premio",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "Consumo por $10.000",
-      "canal": null,
-      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
-      "condiciones": [
-        "Espresso Oriente Café es una linda cafetería italiana con una amplia oferta de opciones dulces y saladas. Su cálida atmósfera y su encantadora terraza la convierten en el lugar ideal para disfrutar de un momento de tranquilidad y buena gastronomía.",
-        "Consumo por $10.000.",
-        "No incluye propina.",
-        "Tu código será enviado en un plazo de hasta 12 horas hábiles."
-      ],
-      "sucursales": [
-        "Av. Kennedy #5600 esquina Luis Carrera, Región Metropolitana, Vitacura, Teléfono: (+562) 32450338"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "Cafetería Le Grand de La Fete",
       "categoria": "Sabores",
       "descuento": "20% dto.",
@@ -3649,25 +3611,6 @@
         "Solicita tu descuento e indica los 6 primeros dígitos de tu Tarjeta del Chile al momento de pagar.",
         "Tope de descuento 20.000 por compra.",
         "No acumulable con otras promociones."
-      ],
-      "sucursales": [
-        "Camino Los Trapenses 3145, REGIÓN METROPOLITANA, Lo Barnechea"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Cafetería Le Grand de La Fete Dólares-Premio",
-      "categoria": "Dólares-Premio",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "Consumo por $30.000",
-      "canal": null,
-      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
-      "condiciones": [
-        "Canjea tus Dólares-Premio en Cafetería Le Grand de La Fete.",
-        "Consumo por $30.000.",
-        "No incluye propina.",
-        "Tu código será enviado en un plazo de hasta 12 horas hábiles."
       ],
       "sucursales": [
         "Camino Los Trapenses 3145, REGIÓN METROPOLITANA, Lo Barnechea"
@@ -3711,25 +3654,6 @@
       ],
       "sucursales": [
         "Cumming #168,, Región de Valparaíso, Valparaíso"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Capogrossi Dólares-Premio",
-      "categoria": "Dólares-Premio",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "Consumo por $80.000",
-      "canal": null,
-      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
-      "condiciones": [
-        "Capogrossi nació en Roma, Italia. En 1922, una familia fundó un pintoresco restaurante en el corazón de Fiumicino. Con casi un siglo de historia, Capogrossi llegó a Alonso de Córdova para ofrecer una experiencia gastronómica de primer nivel, destacando la tradición de sus raíces culturales y fusionándose con modernidad e innovación. En su carta podrás encontrar: Antipasti, entrantes, pasta fresca, pasta seca, ensaladas, risottos, carnes y más.",
-        "Consumo por $80.000.",
-        "No incluye propina.",
-        "Tu código será enviado en un plazo de hasta 12 horas hábiles."
-      ],
-      "sucursales": [
-        "Alonso de Córdova #4225, Región Metropolitana, Vitacura, Teléfono: +569 44693223"
       ]
     },
     {
@@ -3871,25 +3795,6 @@
         "Malaquías Concha #0375 (Barrio Italia), Región Metropolitana, Providencia",
         "Manquehue Norte #1695, local 110 (Pueblo del Inglés), Región Metropolitana, Vitacura",
         "Río de Janeiro #278, (Barrio Patronato), Región Metropolitana, Recoleta"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Ciudadano Dólares-Premio",
-      "categoria": "Dólares-Premio",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "Consumo por $50.000",
-      "canal": null,
-      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
-      "condiciones": [
-        "Una alternativa novedosa, entretenida e informal para disfrutar de la cocina tradicional italiana con toques de nuestras tierras sudamericanas, que se van renovando constantemente.",
-        "Consumo por $50.000.",
-        "No incluye propina.",
-        "Tu código será enviado en un plazo de hasta 12 horas hábiles."
-      ],
-      "sucursales": [
-        "Seminario #400, REGIÓN METROPOLITANA, Providencia, (+562) 22489548"
       ]
     },
     {
@@ -5606,26 +5511,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "La Tabla Dólares-Premio",
-      "categoria": "Dólares-Premio",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "Consumo por $40.000",
-      "canal": null,
-      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
-      "condiciones": [
-        "Restaurant La Tabla, 25 años en Borderío ofreciendo cortes premium a la parrilla, americanos, argentinos y chilenos, bife de chorizo, entrañas, mollejas y filetes con ricas salsas forman su core, destacando también sus estupendos postres todo hecho en casa. Es destacable también su agradable terraza donde se disfruta de su amplia carta de cócteles muy apropiados para las tardes de verano.",
-        "Canjea tus Dólares-Premio en Restaurante La TABLA.",
-        "Consumo por $40.000",
-        "No incluye propina.",
-        "Tu código será enviado en un plazo de hasta 12 horas hábiles."
-      ],
-      "sucursales": [
-        "Local 5, Av San Josemaria Escriva de Balaguer 6400, Región Metropolitana, Vitacura, Teléfono: +56 228692808‬"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "LAM BURGUESA",
       "categoria": "Sabores",
       "descuento": "20% dto.",
@@ -5867,25 +5752,6 @@
       ],
       "sucursales": [
         "Local 4, Av. Borgoño 13955, Valparaíso, Viña del Mar"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Majestic Dólares-Premio",
-      "categoria": "Dólares-Premio",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "Consumo por $50.000",
-      "canal": null,
-      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
-      "condiciones": [
-        "En una ambientación que evoca los grandes palacios de Oriente, Restaurant Majestic ofrece la más auténtica gastronomía india en Santiago. Nuestros platos, preparados con gran dedicación por nuestro Chef originario de India, han sido premiados por los más importantes críticos gastronómicos de Chile y han sido destacados a nivel internacional. Lo invitamos a disfrutar de una experiencia única para usted y su familia.",
-        "Consumo por $50.000.",
-        "No incluye propina.",
-        "Tu código será enviado en un plazo de hasta 12 horas hábiles."
-      ],
-      "sucursales": [
-        "Av. Pdte. Kennedy Lateral 5600, RM, Las Condes"
       ]
     },
     {
@@ -6873,26 +6739,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Pizzeria Capri Dólares-Premio",
-      "categoria": "Dólares-Premio",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "Consumo por$30.000",
-      "canal": null,
-      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
-      "condiciones": [
-        "Capri Restaurante, vive la experiencia completa de una amplia terraza dispuesta para grupos grandes y también una cena romántica, tu eliges. Disfruta de nuestras pizzas, elegidas como las N°29 dentro de las mejores de LATAM y también de pastas frescas, rellenas y platos de proteína. Vive la experiencia completa junto a coctelería de autor, shops artesanales y muchos más!! Cuenta con estacionamiento y son petfriendly.",
-        "Consumo por $30.000",
-        "No incluye propina.",
-        "Tu código será enviado en un plazo de hasta 12 horas hábiles."
-      ],
-      "sucursales": [
-        "Gerónimo de Alderete #1423, Región Metropolitana, Vitacura",
-        "El Rodeo #13052, Región Metropolitana, Lo barnechea"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "Psiquis Bar",
       "categoria": "Sabores",
       "descuento": "20% dto.",
@@ -7563,76 +7409,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Tanaka La Dehesa Dólares-Premio",
-      "categoria": "Dólares-Premio",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "Consumo por $50.000",
-      "canal": null,
-      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
-      "condiciones": [
-        "En Tanaka, la cocina Nikkei rinde tributo a lo mejor de la gastronomía japonesa y peruana. En nuestra carta se destaca una amplia variedad de preparaciones frías y calientes, con sabores sorprendentes. Disfruta de entradas como, ceviches, tiraditos, platos a la plancha, al sartén y al wok. Además de sushi, gunkan, nigiris y cortes frescos de la pesca del día. Te esperamos en nuestras dos ubicaciones: El Rodeo, Lo Barnechea, y Alonso de Córdova, Vitacura.",
-        "Consumo por $50.000.",
-        "No incluye propina.",
-        "Tu código será enviado en un plazo de hasta 12 horas hábiles."
-      ],
-      "sucursales": [
-        "Av El Rodeo 13032, Región Metropolitana, Lo Barnechea"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Tanaka La Dehesa Dólares-Premio",
-      "categoria": "Dólares-Premio",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "Consumo por $80.000",
-      "canal": null,
-      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
-      "condiciones": [
-        "Canjea tus Dólares-Premio en Tanaka La Dehesa.",
-        "Consumo por $80.000.",
-        "No incluye propina.",
-        "Tu código será enviado en un plazo de hasta 12 horas hábiles."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Tanaka Vitacura Dólares-Premio",
-      "categoria": "Dólares-Premio",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "Consumo por $50.000",
-      "canal": null,
-      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
-      "condiciones": [
-        "En Tanaka, la cocina Nikkei rinde tributo a lo mejor de la gastronomía japonesa y peruana. En nuestra carta se destaca una amplia variedad de preparaciones frías y calientes, con sabores sorprendentes. Disfruta de entradas como, ceviches, tiraditos, platos a la plancha, al sartén y al wok. Además de sushi, gunkan, nigiris y cortes frescos de la pesca del día. Te esperamos en nuestras dos ubicaciones: El Rodeo, Lo Barnechea, y Alonso de Córdova, Vitacura.",
-        "Consumo por $50.000.",
-        "No incluye propina.",
-        "Tu código será enviado en un plazo de hasta 12 horas hábiles."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Tanaka Vitacura Dólares-Premio",
-      "categoria": "Dólares-Premio",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "Consumo por $80.000",
-      "canal": null,
-      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
-      "condiciones": [
-        "Canjea tus Dólares-Premio en Tanaka Vitacura todos los días.",
-        "Consumo por $80.000.",
-        "No incluye propina.",
-        "Tu código será enviado en un plazo de hasta 12 horas hábiles."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "Tendencias Gourmet",
       "categoria": "Sabores",
       "descuento": "20% dto.",
@@ -8168,25 +7944,6 @@
         "Mall Arauco Maipú, Av. Américo Vespucio #399, Región Metropolitana, Maipú",
         "Mall Florida Center, Av. Vicuña Mackenna #6100, Región Metropolitana, La Florida",
         "Mall Costanera Center, Av. Andrés Bello #2425, Región Metropolitana, Providencia"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "La Cocina de Javier  Dólares-Premio",
-      "categoria": "Dólares-Premio",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "Consumo por $50.000",
-      "canal": null,
-      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
-      "condiciones": [
-        "La Cocina de Javier, vive la experiencia de la gastronomía española y toda su magia, viajando a través de deliciosos platos y variedad de vinos al corazón de España.",
-        "Consumo por $50.000",
-        "No incluye propina.",
-        "Tu código será enviado en un plazo de hasta 12 horas hábiles."
-      ],
-      "sucursales": [
-        "VITACURA #7482, Región Metropolitana, VITACURA"
       ]
     },
     {
@@ -10872,25 +10629,6 @@
         "Tienda Calle, Calle Gobernador Carlos Bories N° 837, Región de Magallanes y de la Antártica Chilena, Punta Arenas",
         "Mall Arauco maipu, Av. Américo Vespucio 399, local 673, Región Metropolitana, Maipú",
         "Mall Arauco Coronel, Av carlos prat 913 local 1217 piso 1, Región del Biobio, Coronel"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Restaurante Hotel Magnolia Dólares-Premio",
-      "categoria": "Dólares-Premio",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "Consumo por $50.000",
-      "canal": null,
-      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
-      "condiciones": [
-        "El restaurante del Hotel Magnolia ofrece una experiencia gastronómica de alto nivel en su elegante salón interior y su acogedora terraza con vistas al Cerro Santa Lucía. Su propuesta combina técnicas de vanguardia con sabores chilenos, en un ambiente sofisticado y acogedor. La terraza es el lugar ideal para disfrutar de coctelería de autor y una atmósfera única en el corazón de Santiago.",
-        "Consumo por $50.000.",
-        "No incluye propina.",
-        "Tu código será enviado en un plazo de hasta 12 horas hábiles."
-      ],
-      "sucursales": [
-        "Huérfanos #539, Región Metropolitana, Santiago, Teléfono: +569 34084149"
       ]
     },
     {
@@ -14154,6 +13892,25 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "Ciudadano Dólares-Premio",
+      "categoria": "Dólares-Premio",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "Consumo por $50.000",
+      "canal": null,
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
+      "condiciones": [
+        "Una alternativa novedosa, entretenida e informal para disfrutar de la cocina tradicional italiana con toques de nuestras tierras sudamericanas, que se van renovando constantemente.",
+        "Consumo por $50.000.",
+        "No incluye propina.",
+        "Tu código será enviado en un plazo de hasta 12 horas hábiles."
+      ],
+      "sucursales": [
+        "Seminario #400, REGIÓN METROPOLITANA, Providencia, (+562) 22489548"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "Rally Kart",
       "categoria": "Entretención y Deportes",
       "descuento": "Hasta 40% en vueltas extras",
@@ -14483,7 +14240,26 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Basking by Aurea Dólares-Premio",
+      "comercio": "Amandine Bistró Dólares-Premio",
+      "categoria": "Dólares-Premio",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "Consumo por $80.000",
+      "canal": null,
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
+      "condiciones": [
+        "Amandine es un bistró contemporáneo que trabaja con la técnica francesa de cocina utilizando productos locales de nuestro territorio. Su chef Rudi Scholdis , conocido mundialmente , invita a una experiencia de placer tanto de los platos como de una gran variedad de vinos que tienen en su cava. Ubicado en el corazón del barrio el golf cuenta con estacionamiento gratuito desde las 20:00 horas.",
+        "Consumo por $80.000.",
+        "No incluye propina.",
+        "Tu código será enviado en un plazo de hasta 12 horas hábiles."
+      ],
+      "sucursales": [
+        "Enrique Foster 30, REGIÓN METROPOLITANA, Las Condes, (2) 3340 1704"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Majestic Dólares-Premio",
       "categoria": "Dólares-Premio",
       "descuento": null,
       "dia": [],
@@ -14491,13 +14267,13 @@
       "canal": null,
       "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
       "condiciones": [
-        "Perseguimos la originalidad en la propuesta de la nueva Cocina de autor Chilena, plasmando en cada detalle de nuestros espacios y preparaciones nuestras visión de lo que debe ser uno experiencia culinaria, única, una experiencia Áurea.",
+        "En una ambientación que evoca los grandes palacios de Oriente, Restaurant Majestic ofrece la más auténtica gastronomía india en Santiago. Nuestros platos, preparados con gran dedicación por nuestro Chef originario de India, han sido premiados por los más importantes críticos gastronómicos de Chile y han sido destacados a nivel internacional. Lo invitamos a disfrutar de una experiencia única para usted y su familia.",
         "Consumo por $50.000.",
         "No incluye propina.",
         "Tu código será enviado en un plazo de hasta 12 horas hábiles."
       ],
       "sucursales": [
-        "El Manantial #1781, REGIÓN METROPOLITANA, Vitacura, +569 35341318"
+        "Av. Pdte. Kennedy Lateral 5600, RM, Las Condes"
       ]
     },
     {
@@ -14519,44 +14295,6 @@
       ],
       "sucursales": [
         "Alonso de Córdova 4294, RM, Vitacura"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Cocoa Dólares-Premio",
-      "categoria": "Dólares-Premio",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "Consumo por $80.000",
-      "canal": null,
-      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
-      "condiciones": [
-        "Cocoa Dólares-Premio",
-        "Consumo por $80.000.",
-        "No incluye propina.",
-        "Tu código será enviado en un plazo de hasta 12 horas hábiles."
-      ],
-      "sucursales": [
-        "Alberto Le Blanc #1750, Región Metropolitana, Lo Barnechea, Teléfono: +569 34308131"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Cocoa Dólares-Premio",
-      "categoria": "Dólares-Premio",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "Consumo por $50.000",
-      "canal": null,
-      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
-      "condiciones": [
-        "Cocoa Dólares-Premio",
-        "Consumo por $50.000.",
-        "No incluye propina.",
-        "Tu código será enviado en un plazo de hasta 12 horas hábiles."
-      ],
-      "sucursales": [
-        "Alberto Le Blanc #1750, Región Metropolitana, Lo Barnechea, Teléfono: +569 34308131"
       ]
     },
     {
@@ -14585,6 +14323,25 @@
         "Av. Providencia 2362, RM, Providencia",
         "Moneda 782, RM, Santiago",
         "San Antonio 263, RM, Santiago"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Cafetería Le Grand de La Fete Dólares-Premio",
+      "categoria": "Dólares-Premio",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "Consumo por $30.000",
+      "canal": null,
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
+      "condiciones": [
+        "Canjea tus Dólares-Premio en Cafetería Le Grand de La Fete.",
+        "Consumo por $30.000.",
+        "No incluye propina.",
+        "Tu código será enviado en un plazo de hasta 12 horas hábiles."
+      ],
+      "sucursales": [
+        "Camino Los Trapenses 3145, REGIÓN METROPOLITANA, Lo Barnechea"
       ]
     },
     {
@@ -14672,6 +14429,25 @@
         "No acumulable con otras promociones."
       ],
       "sucursales": []
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Restaurante Hotel Magnolia Dólares-Premio",
+      "categoria": "Dólares-Premio",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "Consumo por $50.000",
+      "canal": null,
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
+      "condiciones": [
+        "El restaurante del Hotel Magnolia ofrece una experiencia gastronómica de alto nivel en su elegante salón interior y su acogedora terraza con vistas al Cerro Santa Lucía. Su propuesta combina técnicas de vanguardia con sabores chilenos, en un ambiente sofisticado y acogedor. La terraza es el lugar ideal para disfrutar de coctelería de autor y una atmósfera única en el corazón de Santiago.",
+        "Consumo por $50.000.",
+        "No incluye propina.",
+        "Tu código será enviado en un plazo de hasta 12 horas hábiles."
+      ],
+      "sucursales": [
+        "Huérfanos #539, Región Metropolitana, Santiago, Teléfono: +569 34084149"
+      ]
     },
     {
       "banco": "Banco de Chile",
@@ -15073,7 +14849,7 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "YMA Dólares-Premio",
+      "comercio": "Tanaka Vitacura Dólares-Premio",
       "categoria": "Dólares-Premio",
       "descuento": null,
       "dia": [],
@@ -15081,18 +14857,16 @@
       "canal": null,
       "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
       "condiciones": [
-        "Comida clásica peruana de autor ambiente acogedor y cálido.",
+        "Canjea tus Dólares-Premio en Tanaka Vitacura todos los días.",
         "Consumo por $80.000.",
         "No incluye propina.",
         "Tu código será enviado en un plazo de hasta 12 horas hábiles."
       ],
-      "sucursales": [
-        "Nueva costanera #3900, Casa Costanera 4to piso, Región Metropolitana, Vitacura, Teléfono: +569 323820635"
-      ]
+      "sucursales": []
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "YMA Dólares-Premio",
+      "comercio": "Tanaka Vitacura Dólares-Premio",
       "categoria": "Dólares-Premio",
       "descuento": null,
       "dia": [],
@@ -15100,13 +14874,125 @@
       "canal": null,
       "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
       "condiciones": [
-        "Comida clásica peruana de autor ambiente acogedor y cálido.",
+        "En Tanaka, la cocina Nikkei rinde tributo a lo mejor de la gastronomía japonesa y peruana. En nuestra carta se destaca una amplia variedad de preparaciones frías y calientes, con sabores sorprendentes. Disfruta de entradas como, ceviches, tiraditos, platos a la plancha, al sartén y al wok. Además de sushi, gunkan, nigiris y cortes frescos de la pesca del día. Te esperamos en nuestras dos ubicaciones: El Rodeo, Lo Barnechea, y Alonso de Córdova, Vitacura.",
+        "Consumo por $50.000.",
+        "No incluye propina.",
+        "Tu código será enviado en un plazo de hasta 12 horas hábiles."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Tanaka La Dehesa Dólares-Premio",
+      "categoria": "Dólares-Premio",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "Consumo por $80.000",
+      "canal": null,
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
+      "condiciones": [
+        "Canjea tus Dólares-Premio en Tanaka La Dehesa.",
+        "Consumo por $80.000.",
+        "No incluye propina.",
+        "Tu código será enviado en un plazo de hasta 12 horas hábiles."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Tanaka La Dehesa Dólares-Premio",
+      "categoria": "Dólares-Premio",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "Consumo por $50.000",
+      "canal": null,
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
+      "condiciones": [
+        "En Tanaka, la cocina Nikkei rinde tributo a lo mejor de la gastronomía japonesa y peruana. En nuestra carta se destaca una amplia variedad de preparaciones frías y calientes, con sabores sorprendentes. Disfruta de entradas como, ceviches, tiraditos, platos a la plancha, al sartén y al wok. Además de sushi, gunkan, nigiris y cortes frescos de la pesca del día. Te esperamos en nuestras dos ubicaciones: El Rodeo, Lo Barnechea, y Alonso de Córdova, Vitacura.",
         "Consumo por $50.000.",
         "No incluye propina.",
         "Tu código será enviado en un plazo de hasta 12 horas hábiles."
       ],
       "sucursales": [
-        "Nueva costanera #3900, Casa Costanera 4to piso, Región Metropolitana, Vitacura, Teléfono: +569 323820635"
+        "Av El Rodeo 13032, Región Metropolitana, Lo Barnechea"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Cafetería Espresso Dólares-Premio",
+      "categoria": "Dólares-Premio",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "Consumo por $10.000",
+      "canal": null,
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
+      "condiciones": [
+        "Espresso Oriente Café es una linda cafetería italiana con una amplia oferta de opciones dulces y saladas. Su cálida atmósfera y su encantadora terraza la convierten en el lugar ideal para disfrutar de un momento de tranquilidad y buena gastronomía.",
+        "Consumo por $10.000.",
+        "No incluye propina.",
+        "Tu código será enviado en un plazo de hasta 12 horas hábiles."
+      ],
+      "sucursales": [
+        "Av. Kennedy #5600 esquina Luis Carrera, Región Metropolitana, Vitacura, Teléfono: (+562) 32450338"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "La Cocina de Javier  Dólares-Premio",
+      "categoria": "Dólares-Premio",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "Consumo por $50.000",
+      "canal": null,
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
+      "condiciones": [
+        "La Cocina de Javier, vive la experiencia de la gastronomía española y toda su magia, viajando a través de deliciosos platos y variedad de vinos al corazón de España.",
+        "Consumo por $50.000",
+        "No incluye propina.",
+        "Tu código será enviado en un plazo de hasta 12 horas hábiles."
+      ],
+      "sucursales": [
+        "VITACURA #7482, Región Metropolitana, VITACURA"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "La Tabla Dólares-Premio",
+      "categoria": "Dólares-Premio",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "Consumo por $40.000",
+      "canal": null,
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
+      "condiciones": [
+        "Restaurant La Tabla, 25 años en Borderío ofreciendo cortes premium a la parrilla, americanos, argentinos y chilenos, bife de chorizo, entrañas, mollejas y filetes con ricas salsas forman su core, destacando también sus estupendos postres todo hecho en casa. Es destacable también su agradable terraza donde se disfruta de su amplia carta de cócteles muy apropiados para las tardes de verano.",
+        "Canjea tus Dólares-Premio en Restaurante La TABLA.",
+        "Consumo por $40.000",
+        "No incluye propina.",
+        "Tu código será enviado en un plazo de hasta 12 horas hábiles."
+      ],
+      "sucursales": [
+        "Local 5, Av San Josemaria Escriva de Balaguer 6400, Región Metropolitana, Vitacura, Teléfono: +56 228692808‬"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Pizzeria Capri Dólares-Premio",
+      "categoria": "Dólares-Premio",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "Consumo por$30.000",
+      "canal": null,
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
+      "condiciones": [
+        "Capri Restaurante, vive la experiencia completa de una amplia terraza dispuesta para grupos grandes y también una cena romántica, tu eliges. Disfruta de nuestras pizzas, elegidas como las N°29 dentro de las mejores de LATAM y también de pastas frescas, rellenas y platos de proteína. Vive la experiencia completa junto a coctelería de autor, shops artesanales y muchos más!! Cuenta con estacionamiento y son petfriendly.",
+        "Consumo por $30.000",
+        "No incluye propina.",
+        "Tu código será enviado en un plazo de hasta 12 horas hábiles."
+      ],
+      "sucursales": [
+        "Gerónimo de Alderete #1423, Región Metropolitana, Vitacura",
+        "El Rodeo #13052, Región Metropolitana, Lo barnechea"
       ]
     },
     {
@@ -15137,6 +15023,25 @@
         "Buenos Aires 338, REGIÓN METROPOLITANA, Recoleta, +569 39223035 ‬",
         "Hans Christian Andersen 34, REGIÓN METROPOLITANA, Las Condes, +569 39223035 ‬",
         "Los Toros 5441, REGIÓN METROPOLITANA, Puente Alto, +569 39223035 ‬"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Capogrossi Dólares-Premio",
+      "categoria": "Dólares-Premio",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "Consumo por $80.000",
+      "canal": null,
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
+      "condiciones": [
+        "Capogrossi nació en Roma, Italia. En 1922, una familia fundó un pintoresco restaurante en el corazón de Fiumicino. Con casi un siglo de historia, Capogrossi llegó a Alonso de Córdova para ofrecer una experiencia gastronómica de primer nivel, destacando la tradición de sus raíces culturales y fusionándose con modernidad e innovación. En su carta podrás encontrar: Antipasti, entrantes, pasta fresca, pasta seca, ensaladas, risottos, carnes y más.",
+        "Consumo por $80.000.",
+        "No incluye propina.",
+        "Tu código será enviado en un plazo de hasta 12 horas hábiles."
+      ],
+      "sucursales": [
+        "Alonso de Córdova #4225, Región Metropolitana, Vitacura, Teléfono: +569 44693223"
       ]
     },
     {
@@ -15405,6 +15310,82 @@
       ],
       "sucursales": [
         "Av. Borgoño 13955, local 2 Stripcenter Piazza, Región de Valparaíso, Reñaca"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Cocoa Dólares-Premio",
+      "categoria": "Dólares-Premio",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "Consumo por $50.000",
+      "canal": null,
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
+      "condiciones": [
+        "Cocoa Dólares-Premio",
+        "Consumo por $50.000.",
+        "No incluye propina.",
+        "Tu código será enviado en un plazo de hasta 12 horas hábiles."
+      ],
+      "sucursales": [
+        "Alberto Le Blanc #1750, Región Metropolitana, Lo Barnechea, Teléfono: +569 34308131"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Cocoa Dólares-Premio",
+      "categoria": "Dólares-Premio",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "Consumo por $80.000",
+      "canal": null,
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
+      "condiciones": [
+        "Cocoa Dólares-Premio",
+        "Consumo por $80.000.",
+        "No incluye propina.",
+        "Tu código será enviado en un plazo de hasta 12 horas hábiles."
+      ],
+      "sucursales": [
+        "Alberto Le Blanc #1750, Región Metropolitana, Lo Barnechea, Teléfono: +569 34308131"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "YMA Dólares-Premio",
+      "categoria": "Dólares-Premio",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "Consumo por $50.000",
+      "canal": null,
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
+      "condiciones": [
+        "Comida clásica peruana de autor ambiente acogedor y cálido.",
+        "Consumo por $50.000.",
+        "No incluye propina.",
+        "Tu código será enviado en un plazo de hasta 12 horas hábiles."
+      ],
+      "sucursales": [
+        "Nueva costanera #3900, Casa Costanera 4to piso, Región Metropolitana, Vitacura, Teléfono: +569 323820635"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "YMA Dólares-Premio",
+      "categoria": "Dólares-Premio",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "Consumo por $80.000",
+      "canal": null,
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
+      "condiciones": [
+        "Comida clásica peruana de autor ambiente acogedor y cálido.",
+        "Consumo por $80.000.",
+        "No incluye propina.",
+        "Tu código será enviado en un plazo de hasta 12 horas hábiles."
+      ],
+      "sucursales": [
+        "Nueva costanera #3900, Casa Costanera 4to piso, Región Metropolitana, Vitacura, Teléfono: +569 323820635"
       ]
     },
     {
@@ -17920,35 +17901,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "De Pura Madre – Justo",
-      "categoria": "Sabores",
-      "descuento": "30% dto.",
-      "dia": [
-        "Todos los días"
-      ],
-      "dia_texto": "todos los días",
-      "canal": "Online",
-      "vigencia": "Promoción válida hasta el 30 de junio de 2027.",
-      "condiciones": [
-        "30% dto. todos los días en la App Justo o en pide.getjusto.com",
-        "Ingresa a la App Justo o en pide.getjusto.com",
-        "Elige De Pura Madre.",
-        "Ingresa el código BCHJUSTO26 como cupón de descuento al momento de pagar con tus Tarjetas del Chile.",
-        "Tope de dto. $8.000.",
-        "2 usos mensuales por cliente.",
-        "Descuento no aplica para valor del despacho.",
-        "No acumulable con otras promociones.",
-        "Beneficio exclusivo pagando con tus Tarjetas del Chile."
-      ],
-      "sucursales": [
-        "General John O´Brien #3050, Región Metropolitana, Vitacura",
-        "Paseo Colina Sur #14600, Región Metropolitana, Colina",
-        "Avenida Vitacura #5321, Región Metropolitana, Vitacura",
-        "El Rodeo #12850, Región Metropolitana, Lo Barnechea"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "Pizzería Roma – Justo",
       "categoria": "Sabores",
       "descuento": "25% dto.",
@@ -18892,32 +18844,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Puma",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": "Hasta 30% dto.",
-      "dia": [
-        "Lunes",
-        "Martes",
-        "Miércoles"
-      ],
-      "dia_texto": "lunes a miércoles",
-      "canal": "Online",
-      "vigencia": "Promoción válida hasta el 31 de octubre de 2026.",
-      "condiciones": [
-        "PUMA es una de las marcas deportivas más reconocidas a nivel mundial, conocida por combinar rendimiento, innovación y estilo urbano. En puma.cl encontrarás miles de productos, desde zapatillas, ropa deportiva, accesorios y moda urbana. Diseñado para atletas, pensados para el día a día.",
-        "Hasta 30% dto. lunes a miércoles online",
-        "30% dto. en productos sin descuento.",
-        "15% dto. en productos con descuento.",
-        "Exclusivo en cl.puma.com/alianzas.html ingresando tu código descargado.",
-        "Descuento no aplica para valor del despacho.",
-        "Beneficio no aplica para cyber.",
-        "Revisa cobertura de despacho en cl.puma.com/alianzas.html",
-        "Descuento exclusivo pagando con tus Tarjetas del Chile."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "GeForce NOW",
       "categoria": "Entretención y Deportes",
       "descuento": "50% dto.",
@@ -19373,28 +19299,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Parigó",
-      "categoria": "Sabores",
-      "descuento": "50% dto.",
-      "dia": [
-        "Lunes"
-      ],
-      "dia_texto": "lunes de octubre",
-      "canal": null,
-      "vigencia": "Promoción válida desde el 01 al 31 de octubre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial 50% dto pagando con Tarjetas Visa Infinite. todos los lunes de octubre.",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA INFINITE del Chile.",
-        "No acumulable con otras promociones.",
-        "Tope dto. $65.000 por mesa"
-      ],
-      "sucursales": [
-        "Reyes Lavalle #3300, Región Metropolitana, Las Condes"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "La Sociedad",
       "categoria": "Sabores",
       "descuento": "50% dto.",
@@ -19439,32 +19343,6 @@
         "Merced #318, Region Metropolitana, Santiago",
         "Hernando de Aguirre #129, Region Metropolitana, Providencia"
       ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "PedidosYA",
-      "categoria": "Sabores",
-      "descuento": "30% dto. adicional",
-      "dia": [
-        "Todos los días"
-      ],
-      "dia_texto": "todos los días en PedidosYa Market",
-      "canal": null,
-      "vigencia": "Promoción válida hasta el 31 de octubre de 2026.",
-      "condiciones": [
-        "Disfruta 30% dto. adicional todos los días en PedidosYa Market pagando con tus Tarjetas del Chile.",
-        "30% dto. adicional en toda la categoría ingresando BCHPEYA1026 todos los días pagando con tus Tarjetas del Chile.",
-        "Válido para 1 uso mensual por usuario.",
-        "Sin mínimo de compra.",
-        "Tope de descuento $5.000.",
-        "El descuento se verá reflejado al momento de la compra.",
-        "Ingresa a PedidosYa, Selecciona PedidosYa Market.",
-        "Elige tus productos.",
-        "Ingresa el cupón BCHPEYA1026 y verás el descuento reflejado de manera automática.",
-        "Al pagar, ingresa tu Tarjeta de Crédito o Débito del Chile o selecciónala si ya está ingresada (ingresa tu código de seguridad).",
-        "Recibe tu pedido y disfrútalo."
-      ],
-      "sucursales": []
     },
     {
       "banco": "Banco de Chile",
@@ -20347,30 +20225,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "La Cocina de Javier",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Miércoles",
-        "Sábado"
-      ],
-      "dia_texto": "miércoles y sábado de octubre",
-      "canal": null,
-      "vigencia": "Promoción válida del 01 al 31 de octubre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial 40% dto. todos los miércoles y sábado de octubre.",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dto. $50.000 por mesa"
-      ],
-      "sucursales": [
-        "VITACURA #7482, Región Metropolitana, VITACURA"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "Verde Sazón",
       "categoria": "Sabores",
       "descuento": "40% dto.",
@@ -20719,29 +20573,6 @@
         "Alonso de Córdova #4260, Región Metropolitana, Vitacura",
         "Av. José Alcalde Délano #10494, Región Metropolitana, Lo Barnechea",
         "Sta. Elena #671, Región de Valparaíso, Concón"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Margarita Bar",
-      "categoria": "Sabores",
-      "descuento": "40% dto",
-      "dia": [
-        "Martes"
-      ],
-      "dia_texto": "martes de octubre",
-      "canal": null,
-      "vigencia": "Promoción válida del 01 al 31 de octubre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial. 40% dto. todos los martes de octubre.",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dto. $50.000 por mesa"
-      ],
-      "sucursales": [
-        "Piacavi #284, Región del Biobío, Concepción"
       ]
     },
     {
@@ -22364,6 +22195,30 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "Tesla",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "24 cuotas sin interés y 36 o 48 cuotas a tasa preferencial",
+      "canal": null,
+      "vigencia": "Promoción válida hasta el 31 de octubre de 2026.",
+      "condiciones": [
+        "Elige uno de los nuevos modelos Model 3 RWD, Model 3 Premium LR RWD y Model Y Premium LR RWD de Tesla con tus Tarjetas de Crédito Banco de Chile.",
+        "24 cuotas sin interés con Tarjetas Visa Infinite, 36 y 48 cuotas a tasa preferencial 0,79% Para todas las tarjetas Banco de Chile.",
+        "Para compra de $29.900.000 con Tarjetas de crédito Visa Infinite a 24 cuotas sin interés de $1.245.833 CAE 0,77% Costo Total $30.139.200.",
+        "Para compra de $29.900.000 con Tarjetas de crédito Banco de Chile a 48 cuotas de 750.896 a tasa preferencial de 0,79% mensual, CAE 9,9%. Costo Total del Crédito: $36.282.220.",
+        "Simulaciones a precio total del automóvil, no incluye pie ni gastos operacionales.",
+        "Conoce los modelos disponibles en https://www.tesla.com/es_CL Sucursales: Alto Las Condes, Parque Arauco, Concepción (Mall Plaza El Trebol), Viña del Mar (Paseo Dunas)"
+      ],
+      "sucursales": [
+        "Av. Pdte. Kennedy #5413, Mall Parque Arauco, Región Metropolitana, Las Condes",
+        "Av Pdte. Jorge Alessandri Rodriguez 3177, Mallplaza El Trebol, Región del Biobío, Talcahuano",
+        "Av. Pdte. Kennedy Lateral #9001 Suite 1143, Mall Alto las Condes, Región Metropolitana, Las Condes",
+        "Av. Gastón Hamel Nieto #527, Paseo Dunas, Región deValparaíso, Viña del Mar"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "Porfirio",
       "categoria": "Sabores",
       "descuento": "40% dto.",
@@ -23024,6 +22879,25 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "Basking by Aurea Dólares-Premio",
+      "categoria": "Dólares-Premio",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "Consumo por $50.000",
+      "canal": null,
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
+      "condiciones": [
+        "Perseguimos la originalidad en la propuesta de la nueva Cocina de autor Chilena, plasmando en cada detalle de nuestros espacios y preparaciones nuestras visión de lo que debe ser uno experiencia culinaria, única, una experiencia Áurea.",
+        "Consumo por $50.000.",
+        "No incluye propina.",
+        "Tu código será enviado en un plazo de hasta 12 horas hábiles."
+      ],
+      "sucursales": [
+        "El Manantial #1781, REGIÓN METROPOLITANA, Vitacura, +569 35341318"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "BSoul",
       "categoria": "Retail y Otras Marcas",
       "descuento": "20% dto.",
@@ -23079,6 +22953,30 @@
         "Av. Kennedy, 9001, RM, LAS CONDES",
         "Local 4128, Av. Andrés Bello N 2447, RM, PROVIDENCIA"
       ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "NatuPet",
+      "categoria": "Mascotas",
+      "descuento": "Hasta 20% dto.",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días",
+      "canal": "Online",
+      "vigencia": "Promoción válida hasta el  31 de julio de 2027.",
+      "condiciones": [
+        "Desde hace más de 15 años, Natupet se dedica a la alimentación de mascotas, combinando ciencia, calidad y cuidado. Cuenta con las marcas DocKennedy, súper premium de origen francés y holandés, además de Kawsay, de origen nacional. También representa a Kikikat, arena sanitaria turca elaborada con arcillas finas.",
+        "20% dto. en alimentos DocKennedy .",
+        "15% dto. en alimentos Kawsay .",
+        "5% dto. en arenas sanitarias KikiKat .",
+        "Obtén tu descuento ingresando los 6 primeros dígitos de tus Tarjetas del Chile como código de dto.",
+        "Descuento no aplica para valor del despacho.",
+        "No acumulable con otras promociones.",
+        "Revisa cobertura de despacho en natupet.cl",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": []
     },
     {
       "banco": "Banco de Chile",
@@ -23474,6 +23372,63 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "Lumiére Bistró Dólares-Premio",
+      "categoria": "Dólares-Premio",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "Consumo por $30.000",
+      "canal": null,
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
+      "condiciones": [
+        "Lumière es un bistró cotidiano que une la tradición de los grandes bistrós con el carácter de Chile.",
+        "Consumo por $30.000.",
+        "No incluye propina.",
+        "Tu código será enviado en un plazo de hasta 2 horas hábiles."
+      ],
+      "sucursales": [
+        "Puerta del Sol #19, Región Metropolitana, Las Condes"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Lumiére Bistró Dólares-Premio",
+      "categoria": "Dólares-Premio",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "Consumo por $50.000",
+      "canal": null,
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
+      "condiciones": [
+        "Lumière es un bistró cotidiano que une la tradición de los grandes bistrós con el carácter de Chile.",
+        "Consumo por $50.000.",
+        "No incluye propina.",
+        "Tu código será enviado en un plazo de hasta 2 horas hábiles."
+      ],
+      "sucursales": [
+        "Puerta del Sol #19, Región Metropolitana, Las Condes"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "La Campiña Cocina Francesa Dólares-Premio",
+      "categoria": "Dólares-Premio",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "Consumo por $50.000",
+      "canal": null,
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
+      "condiciones": [
+        "Un rincón donde la cocina tradicional de Francia se vive sin formalidades. Aquí se viene a disfrutar, a conversar y a viajar con cada plato.",
+        "Consumo por $50.000.",
+        "No incluye propina.",
+        "Tu código será enviado en un plazo de hasta 2 horas hábiles."
+      ],
+      "sucursales": [
+        "El Rodeo #13165, Región Metropolitana, Lo Barnechea"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "Transvip",
       "categoria": "Viajes",
       "descuento": null,
@@ -23527,6 +23482,32 @@
         "Debe escribir a programa@travel.cl para gestionar la entrega de un nuevo código.",
         "No, el beneficio aplica solo para traslados hacia o desde el aeropuerto y cada código corresponde a un tramo.",
         "Compras Travel Viajes: válidas desde el 15.10.2025 al 31.10.2026. Líneas Aéreas: válido para compras en Chile para destinos nacionales e internacionales superiores a $300.000 en rubro líneas aéreas (Compras registradas en pesos en el estado de cuenta nacional. No aplica en compra en Dólares) desde el 15.10.2025 al 31.10.2026. Código válido para ser usado hasta el 31.10.2026. No aplica a las compras efectuadas a través de recaudadores o plataformas de pago como Mercado Pago y operadores (excepto Travel Viajes). El servicio del traslado es responsabilidad de Transvip. Dto con tope de $50.000 por viaje. Si el monto del viaje supera los $50.000, la diferencia debe ser pagada por el pasajero de manera directa a Transvip con su Tarjeta de Crédito del Banco de Chile. No acumulable con otras promociones. Revisa cobertura de Transvip.cl."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "PedidosYA",
+      "categoria": "Sabores",
+      "descuento": "30% dto. adicional",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días en PedidosYa Market",
+      "canal": null,
+      "vigencia": "Promoción válida hasta el 31 de octubre de 2026.",
+      "condiciones": [
+        "Disfruta 30% dto. adicional todos los días en PedidosYa Market pagando con tus Tarjetas del Chile.",
+        "30% dto. adicional en toda la categoría ingresando BCHPEYA1026 todos los días pagando con tus Tarjetas del Chile.",
+        "Válido para 1 uso mensual por usuario.",
+        "Sin mínimo de compra.",
+        "Tope de descuento $5.000.",
+        "El descuento se verá reflejado al momento de la compra.",
+        "Ingresa a PedidosYa, Selecciona PedidosYa Market.",
+        "Elige tus productos.",
+        "Ingresa el cupón BCHPEYA1026 y verás el descuento reflejado de manera automática.",
+        "Al pagar, ingresa tu Tarjeta de Crédito o Débito del Chile o selecciónala si ya está ingresada (ingresa tu código de seguridad).",
+        "Recibe tu pedido y disfrútalo."
       ],
       "sucursales": []
     },
@@ -23593,6 +23574,68 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "La Campiña Cocina Francesa Dólares-Premio",
+      "categoria": "Dólares-Premio",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "Consumo por $80.000",
+      "canal": null,
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
+      "condiciones": [
+        "Un rincón donde la cocina tradicional de Francia se vive sin formalidades. Aquí se viene a disfrutar, a conversar y a viajar con cada plato.",
+        "Consumo por $80.000.",
+        "No incluye propina.",
+        "Tu código será enviado en un plazo de hasta 2 horas hábiles."
+      ],
+      "sucursales": [
+        "El Rodeo #13165, Región Metropolitana, Lo Barnechea"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Parigó Dólares-Premio",
+      "categoria": "Dólares-Premio",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "Consumo por $30.000",
+      "canal": null,
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
+      "condiciones": [
+        "Llegas, te sientas. Primero, tu entrada: ensalada fresca (lechuga, apio, palta, nueces y su dressing) o consomé de vacuno. Luego, tu principal a las brasas a elección sobre un fondo de salsa secreta, acompañado de papas fritas con un refill incluido.",
+        "Consumo por $30.000.",
+        "No incluye propina.",
+        "Tu código será enviado en un plazo de hasta 2 horas hábiles."
+      ],
+      "sucursales": [
+        "Reyes Lavalle #3310, Región Metropolitana, Las Condes"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "La Cocina de Javier",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Martes",
+        "Miércoles"
+      ],
+      "dia_texto": "martes y miércoles de octubre",
+      "canal": null,
+      "vigencia": "Promoción válida del 01 al 31 de octubre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. martes y miércoles de octubre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "VITACURA #7482, Región Metropolitana, VITACURA"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "Novu",
       "categoria": "Sabores",
       "descuento": "40% dto.",
@@ -23613,6 +23656,415 @@
       "sucursales": [
         "Carrera #301, Maule, Curicó"
       ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Marathon Cyber",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "10% dto.",
+      "dia": [],
+      "dia_texto": "adicional en Cyber",
+      "canal": null,
+      "vigencia": "Promoción válida 4 al 11 de octubre de 2026.",
+      "condiciones": [
+        "Marathon es una marca especializada en la venta de productos deportivos de las principales marcas internacionales, ofreciendo una amplia gama de artículos para diversas disciplinas, como zapatillas, ropa deportiva y accesorios.",
+        "10% dto. adicional desde el 4 al 11 de octubre en marathon.cl",
+        "Obtén descuento ingresando los seis primeros dígitos de tu tarjeta al momento de finalizar compra en marathon.cl",
+        "Descuento no aplica sobre el valor del despacho.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Puma",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "Hasta 30% dto.",
+      "dia": [
+        "Lunes",
+        "Martes",
+        "Miércoles"
+      ],
+      "dia_texto": "lunes a miércoles",
+      "canal": "Online",
+      "vigencia": "Promoción válida hasta el 31 de octubre de 2026.",
+      "condiciones": [
+        "PUMA es una de las marcas deportivas más reconocidas a nivel mundial, conocida por combinar rendimiento, innovación y estilo urbano. En puma.cl encontrarás miles de productos, desde zapatillas, ropa deportiva, accesorios y moda urbana. Diseñado para atletas, pensados para el día a día.",
+        "Hasta 30% dto. lunes a miércoles online",
+        "30% dto. en productos sin descuento.",
+        "15% dto. en productos con descuento.",
+        "Exclusivo en cl.puma.com/alianzas.html ingresando tu código descargado.",
+        "Descuento no aplica para valor del despacho.",
+        "Beneficio no aplica para cyber.",
+        "Revisa cobertura de despacho en cl.puma.com/alianzas.html",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Parigó Dólares-Premio",
+      "categoria": "Dólares-Premio",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "Consumo por $50.000",
+      "canal": null,
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
+      "condiciones": [
+        "Llegas, te sientas. Primero, tu entrada: ensalada fresca (lechuga, apio, palta, nueces y su dressing) o consomé de vacuno. Luego, tu principal a las brasas a elección sobre un fondo de salsa secreta, acompañado de papas fritas con un refill incluido.",
+        "Consumo por $50.000.",
+        "No incluye propina.",
+        "Tu código será enviado en un plazo de hasta 2 horas hábiles."
+      ],
+      "sucursales": [
+        "Reyes Lavalle #3310, Región Metropolitana, Las Condes"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Meli Melo Dólares-Premio",
+      "categoria": "Dólares-Premio",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "Consumo por $30.000",
+      "canal": null,
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
+      "condiciones": [
+        "Una cocina que nace desde la frescura de los ingredientes, la temporalidad y el oficio, con un solo destino: el sabor. From brunch to bar, en el MUT.",
+        "Consumo por $30.000.",
+        "No incluye propina.",
+        "Tu código será enviado en un plazo de hasta 2 horas hábiles."
+      ],
+      "sucursales": [
+        "Encomenderos #65, Piso 3, Región Metropolitana, Las Condes"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Meli Melo Dólares-Premio",
+      "categoria": "Dólares-Premio",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "Consumo por $50.000",
+      "canal": null,
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
+      "condiciones": [
+        "Una cocina que nace desde la frescura de los ingredientes, la temporalidad y el oficio, con un solo destino: el sabor. From brunch to bar, en el MUT.",
+        "Consumo por $50.000.",
+        "No incluye propina.",
+        "Tu código será enviado en un plazo de hasta 2 horas hábiles."
+      ],
+      "sucursales": [
+        "Encomenderos #65, Piso 3, Región Metropolitana, Las Condes"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Margarita Bar",
+      "categoria": "Sabores",
+      "descuento": "40% dto",
+      "dia": [
+        "Miércoles"
+      ],
+      "dia_texto": "miércoles de octubre",
+      "canal": null,
+      "vigencia": "Promoción válida del 01 al 31 de octubre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial. 40% dto. miércoles de octubre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Piacavi #284, Región del Biobío, Concepción"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Parigó",
+      "categoria": "Sabores",
+      "descuento": "50% dto.",
+      "dia": [
+        "Lunes"
+      ],
+      "dia_texto": "lunes de octubre",
+      "canal": null,
+      "vigencia": "Promoción válida desde el 01 al 31 de octubre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 50% dto. pagando con Tarjetas Visa Infinite, todos los lunes de octubre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA INFINITE del Chile.",
+        "No acumulable con otras promociones.",
+        "Tope dto. $65.000 por mesa"
+      ],
+      "sucursales": [
+        "Reyes Lavalle #3300, Región Metropolitana, Las Condes"
+      ]
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Huevos la Castellana",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "30% dcto",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Huevos la Castellana",
+        "Exclusivo pagando con tus Tarjetas de Crédito y Débito Santander.",
+        "Válido en www.huevoslacastellana.com",
+        "Ingresa los 6 primeros dígitos de tu Tarjeta como código de descuento.",
+        "Máximo 5 productos por compra.",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Figurella",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "45% dcto.",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "en todos los días",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Método italiano 100% natural hecho para mujeres.",
+        "Exclusivo pagando con tus Tarjetas de Crédito y Débito Santander.",
+        "Válido en sucursales.",
+        "Exclusivo en Programa Figurella Transformación y Figurella Activación",
+        "No acumulable con otras promociones.",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Clinique.cl",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "20% dcto",
+      "dia": [
+        "Domingo"
+      ],
+      "dia_texto": "todos los domingos",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Clinique.cl",
+        "Válido con Tarjetas de Crédito y Débito Santander.",
+        "Válido en clinique.cl",
+        "No acumulable a descuentos y promociones vigentes.",
+        "Ingresa el cupón CLINIQUEXSANTANDER , como código de descuento al comprar por la web",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Revesderecho",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "20% dcto",
+      "dia": [
+        "Lunes"
+      ],
+      "dia_texto": "en ovillo todos los lunes y  en accesorios todos los lunes",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Comparte tu arte, crea hoy. Materiales perfectos para crochet, tejido a dos agujas y todo tipo de manualidades.",
+        "Válido con Tarjetas de Crédito y Débito Santander.",
+        "Valido en tiendas físicas y en www.volkanica.cl",
+        "20% de descuento en ovillos. No acumulable con otras promociones por compras sobre $20.000",
+        "25% de descuento en accesorios. No incluye libros y sets. No acumulable con otras promociones por compras sobre $20.000",
+        "No acumulable a otros descuentos y promociones.",
+        "Ingresa los 6 primeros dígitos de tu Tarjeta como código de descuento.",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "RODA",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "15% dcto",
+      "dia": [
+        "Jueves"
+      ],
+      "dia_texto": "todos los jueves",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "RODA",
+        "Exclusivo pagando con tus Tarjetas de Crédito y Débito Santander.",
+        "Válido en tiendas físicas y www.roda.cl",
+        "Ingresa los 6 primeros dígitos de tu Tarjeta como código de descuento.",
+        "No acumulable a descuentos y promociones vigentes.",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Jack&Jones",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "20% dcto",
+      "dia": [
+        "Jueves"
+      ],
+      "dia_texto": "todos los jueves",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Jack&Jones",
+        "Exclusivo pagando con tus Tarjetas de Crédito y Débito Santander.",
+        "Válido en tiendas físicas y www.jackjones.cl",
+        "Ingresa los 6 primeros dígitos de tu Tarjeta como código de descuento.",
+        "No acumulable a otros descuentos. Excluye tienda outlet.",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "ONLY",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "20% dcto",
+      "dia": [
+        "Jueves"
+      ],
+      "dia_texto": "todos los jueves",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "ONLY",
+        "Exclusivo pagando con tus Tarjetas de Crédito y Débito Santander.",
+        "Válido en tiendas físicas y www.only.cl",
+        "Ingresa los 6 primeros dígitos de tu Tarjeta como código de descuento.",
+        "No acumulable a otros descuentos. Excluye tienda outlet.",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Hertz",
+      "categoria": "Viajes",
+      "descuento": "30% dcto",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Rent a car",
+        "Exclusivo pagando con tus Tarjetas de Crédito y Débito Santander.",
+        "Válido en tiendas y www.hertz.cl",
+        "Ingresa los 6 primeros dígitos de tu Tarjeta como código de descuento.",
+        "Solo es a la tarifa tiempo / kilometro. No se extiende a otros productos ofrecidos por Hertz Chile.",
+        "Cupón de descuento: SANTANDER30",
+        "No acumulable a otros descuentos.",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Toyng",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "20% dcto",
+      "dia": [
+        "Martes",
+        "Jueves"
+      ],
+      "dia_texto": "adicional. todos los martes y jueves",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Puzzles, Juegos de Mesa, Autos a escala y juguetes y más.",
+        "Exclusivo pagando con tus Tarjetas de Crédito y Débito Santander.",
+        "Válido en tiendas físicas y en www.toyng.cl por compras sobre $14.990",
+        "Ingresa los 6 primeros dígitos de tu Tarjeta como código de descuento.",
+        "Acumulable a otras promociones.",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Hestia",
+      "categoria": "Sabores",
+      "descuento": "40% dcto.",
+      "dia": [
+        "Miércoles"
+      ],
+      "dia_texto": "todos los miércoles",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "¡Cámbiale el sabor a tus miércoles con los Miércoles de Sabores!",
+        "Exclusivo con tus Tarjetas de Crédito Santander.",
+        "Válido presencial.",
+        "No acumulable a otras promociones.",
+        "Descuento máximo por pedido de $40.000.",
+        "Avenida Isidoro del solar 177, Talca",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Vitalicio",
+      "categoria": "Sabores",
+      "descuento": "40% dcto",
+      "dia": [
+        "Sábado"
+      ],
+      "dia_texto": "todos los sábados",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Exclusivo con tus Tarjetas de Crédito Santander",
+        "Válido en local",
+        "No acumulable con otras promociones y descuentos",
+        "Descuento no incluye propina",
+        "Válido un descuento por mesa",
+        "San Sebastian 2800, Las Condes",
+        "Tope de descuento $40.000",
+        "Para hacer efectivo el descuento debe ser solicitado mostrando y pagando con tus Tarjetas Santander.",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "El Mundo del Vino",
+      "categoria": "Sabores",
+      "descuento": "40% dcto.",
+      "dia": [
+        "Lunes"
+      ],
+      "dia_texto": "todos los lunes en viñas seleccionadas",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "¡El mejor vino para ti!",
+        "Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass.",
+        "Válido para compras en local y www.elmundodelvino.cl",
+        "No acumulable a otras promociones.",
+        "En viñas seleccionadas: Clos de Luz, Barón Philippe, Tres Palacios, Las Veletas, San Pedro, Tarapaca, Tabali, Ventisquero, Errazuriz.",
+        "Ingresando los 6 primeros dígitos de tu Tarjeta como código de descuento.",
+        "Descuento máximo por pedido de $100.000",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​"
+      ],
+      "sucursales": []
     },
     {
       "banco": "Banco Santander",
@@ -23909,28 +24361,6 @@
     },
     {
       "banco": "Banco Santander",
-      "comercio": "Hestia",
-      "categoria": "Sabores",
-      "descuento": "40% dcto.",
-      "dia": [
-        "Miércoles"
-      ],
-      "dia_texto": "todos los miércoles",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "¡Cámbiale el sabor a tus miércoles con los Miércoles de Sabores!",
-        "Exclusivo con tus Tarjetas de Crédito Santander.",
-        "Válido presencial.",
-        "No acumulable a otras promociones.",
-        "Descuento máximo por pedido de $100.000.",
-        "Avenida Isidoro del solar 177, Talca",
-        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​"
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
       "comercio": "Nativa Bar",
       "categoria": "Sabores",
       "descuento": "40% dcto",
@@ -23966,27 +24396,6 @@
         "Descuento no aplica para productos en promociones o con descuentos.",
         "Tope de descuento $40.000.",
         "Av. Americo Vespucio Norte 014, Las Condes",
-        "Para hacer efectivo el descuento debe ser solicitado mostrando y pagando con tus Tarjetas Santander.",
-        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​"
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Vitalicio",
-      "categoria": "Sabores",
-      "descuento": "40% dcto",
-      "dia": [
-        "Sábado"
-      ],
-      "dia_texto": "todos los sábados",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Exclusivo con tus Tarjetas de Crédito Santander",
-        "Válido en local",
-        "San Sebastian 2800, Las Condes",
-        "Tope de descuento $40.000",
         "Para hacer efectivo el descuento debe ser solicitado mostrando y pagando con tus Tarjetas Santander.",
         "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​"
       ],
@@ -24455,28 +24864,6 @@
         "Edmundo Eluchans 3047. Of. 36. Reñaca Norte. Viña del Mar",
         "No acumulable a otros descuentos y promociones.",
         "Ingresa los 6 primeros dígitos de tu Tarjeta como código de descuento.",
-        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Toyng",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": "20% dcto.",
-      "dia": [
-        "Martes",
-        "Jueves"
-      ],
-      "dia_texto": "todos los martes y jueves",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Puzzles, Juegos de Mesa, Autos a escala y juguetes y más.",
-        "Exclusivo pagando con tus Tarjetas de Crédito y Débito Santander.",
-        "Válido en tiendas físicas y en www.toyng.cl por compras sobre $14.990",
-        "Ingresa los 6 primeros dígitos de tu Tarjeta como código de descuento.",
-        "Acumulable a otras promociones.",
         "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
       ],
       "sucursales": []
@@ -27084,29 +27471,6 @@
         "No acumulable a otras promociones.",
         "Se excluyen propinas, menús, happy hours.",
         "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "El Mundo del Vino",
-      "categoria": "Sabores",
-      "descuento": "40% dcto.",
-      "dia": [
-        "Lunes"
-      ],
-      "dia_texto": "todos los lunes en viñas seleccionadas",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "¡El mejor vino para ti!",
-        "Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass.",
-        "Válido para compras en local y www.elmundodelvino.cl",
-        "No acumulable a otras promociones.",
-        "En viñas seleccionadas: Clos de Luz, Barón Philippe, Tres Palacio, Las Veletas, San Pedro, Tarapaca, Tabali, Ventisquero, Errazuriz, Clos de luz.",
-        "Ingresando los 6 primeros dígitos de tu Tarjeta como código de descuento.",
-        "Descuento máximo por pedido de $100.000",
-        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​"
       ],
       "sucursales": []
     },
