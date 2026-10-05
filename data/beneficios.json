@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-04T15:33",
+  "actualizado": "2026-10-05T19:26",
   "beneficios": [
     {
       "banco": "Banco de Chile",
@@ -22964,6 +22964,29 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "La Redonda",
+      "categoria": "Sabores",
+      "descuento": "20% dto.",
+      "dia": [
+        "Viernes"
+      ],
+      "dia_texto": "viernes",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 31 de marzo del 2027.",
+      "condiciones": [
+        "Masa, música y muzza. La Redonda trae a Talca la verdadera pizza al molde de Buenos Aires, hecha por argentinos: gruesa, generosa y con muzza que no perdona. Su propuesta invita a compartir con amigos y vivir el viernes a la porteña.",
+        "20% dto. viernes en compra presencial.",
+        "No válido para menú, Happy Hour ni otras promociones vigentes.",
+        "Solicita tu descuento al momento de pagar.",
+        "No acumulable con otras promociones.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "7 Oriente #1440, Región del Maule, Talca"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "Restaurant Cascadas Hotel",
       "categoria": "Sabores",
       "descuento": "20% dto.",
@@ -23788,6 +23811,512 @@
       ]
     },
     {
+      "banco": "Banco de Chile",
+      "comercio": "UC CHRISTUS",
+      "categoria": "Salud y Belleza",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "Paga en 4 a 18 cuotas sin interés",
+      "canal": null,
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
+      "condiciones": [
+        "UC CHRISTUS es la red de atención médica privada más importante del país, con un amplio campo clínico en el que se forman los médicos del mañana. Cuenta con catorce Centros Médicos, más de 70 Unidades de Toma de Muestras para exámenes de laboratorio, un hospital y una clínica. Cerca de mil médicos y más de cuatro mil personas dedican su trabajo al cuidado de la salud de las personas.",
+        "En operaciones individuales superiores a $100.000 , para todos los servicios de UC CHRISTUS.",
+        "Para el pago de cuentas hospitalarias asociado a este convenio, aplica solo a través del portal web de UC CHRISTUS, sujeto a disponibilidad, condiciones y vigencia de cada convenio."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Barrica 94",
+      "categoria": "Sabores",
+      "descuento": "40% dcto.",
+      "dia": [],
+      "dia_texto": "todos los viermes",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "¡Disfruta el punto de encuentro entre el vino y la gastronomía!",
+        "Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass.",
+        "Válido para consumo en local.",
+        "Av. José Alcalde Délano 10533, Lo Barnechea",
+        "No acumulable a otras promociones.",
+        "Pide tu descuento al momento de pagar.",
+        "Descuento máximo por pedido de $100.000.",
+        "Se excluyen propinas, menús, happy hours.",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Kaufmann",
+      "categoria": "Cuotas Sin Interés",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "13 a 48 cuotas sin interés",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Mercedes Benz, smart y Seminuevos",
+        "Exclusivo con tus Tarjetas de Crédito Santander Chile.",
+        "Válido en concesionarias Kaufmann en compras de autos Mercedes Benz, smart y Seminuevos.",
+        "CAE 0,8%: Monto Total a pagar de $10.080.000, son referenciales y corresponden a una compra por $10.000.000 cursada en modalidad de pago de 48 cuotas mensuales, y consideran impuestos.",
+        "Se excluyen de la promoción los autos Seminuevos de sucursal JPN.",
+        "Vigencia de la promoción hasta el 31 de agosto de 2026, válido para autos nuevos Mercedes Benz, smart y Seminuevos. Se excluyen de la promoción los autos Seminuevos de sucursal JPN. CAE 0,8%: Monto Total a pagar de $10.080.000, son referenciales y corresponden a una compra por $10.000.000 cursada en modalidad de pago de 48 cuotas mensuales, y consideran impuestos. Límite mensual de compras que da derecho a acumulación de millas LATAM Pass; The Platinum Card American Express Santander LATAM Pass: monto menor entre: (a) la cantidad de 60.000 Dólares en cada periodo de facturación, y (b) el monto del respectivo cupo de la Tarjeta. Límite mensual de compras que da derecho a acumulación WorldMember Limited Santander LATAM Pass: monto menor entre: (a) la cantidad de 30.000 Dólares en cada periodo de facturación, y (b) el monto del respectivo cupo de la Tarjeta. Consulte por otros eventuales cargos. La acumulación de millas y otros beneficios no financieros anunciados son responsabilidad de LATAM AIRLINES GROUP S.A. o de terceros que los otorguen, sin que corresponda a Banco Santander Chile intervención alguna en ello, ni en la ulterior atención que ello demande. Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "RODA",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "15% dcto",
+      "dia": [
+        "Jueves"
+      ],
+      "dia_texto": "todos los jueves",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "RODA",
+        "Exclusivo pagando con tus Tarjetas de Crédito y Débito Santander.",
+        "Válido en tiendas físicas y www.roda.cl",
+        "Ingresa los 6 primeros dígitos de tu Tarjeta como código de descuento.",
+        "No acumulable a descuentos y promociones vigentes.",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "GMO - cyber",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "25% de descuentos en anteojos ópticos (Armazon + cristal)",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Comodidad y estilo",
+        "25% de descuentos en anteojos ópticos (Armazon + cristal)",
+        "Exclusivo pagando con tus Tarjetas de Crédito y Débito Santander en tiendas.",
+        "Aplica a armazón + cristales o armazón cliente + cristales o Gafas de sol + cristales.",
+        "No aplica sobre otras promociones, ni convenios.",
+        "en caja da el código GMOSANTANDER para obtener el descuento.",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Econopticas - cyber",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "25% de descuentos en anteojos ópticos (Armazon + cristal)",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Comodidad y estilo",
+        "25% de descuentos en anteojos ópticos (Armazon + cristal)",
+        "Exclusivo pagando con tus Tarjetas de Crédito y Débito Santander.",
+        "Exclusivo presencial",
+        "No aplica sobre otras promociones, ni convenios.",
+        "en caja presenta el código ECOSANTANDER para obtener el descuento.",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "ChefLab - Cyber",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "10% dcto",
+      "dia": [],
+      "dia_texto": "adicional",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "ChefLab",
+        "Exclusivo pagando con tus Tarjetas de Crédito y Débito Santander.",
+        "Válido solo en www.vesperstore.cl",
+        "Ingresando los 6 primeros dígitos de tu Tarjeta como código de descuento.",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Vesper - Cyber",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "10% dcto",
+      "dia": [],
+      "dia_texto": "adicional",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Vesper",
+        "Exclusivo pagando con tus Tarjetas de Crédito y Débito Santander.",
+        "Válido solo en www.vesperstore.cl",
+        "Ingresando los 6 primeros dígitos de tu Tarjeta como código de descuento.",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Sony - Cyber",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "10% dcto.",
+      "dia": [],
+      "dia_texto": "Hasta  en productos seleccionados",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Encuentra los mejores productos con precios especiales.",
+        "Exclusivo pagando con tus Tarjetas de Crédito y Débito Santander.",
+        "Válido en tiendas físicas y store.sony.cl",
+        "10% de descuento exclusivo en categoría Audio, TV y fotografía. No acumulable a promociones flash u otros cupones.",
+        "5% de descuento exclusivo en video juegos. No acumulable a promociones flash u otros cupones.",
+        "Ingresando los 6 primeros dígitos de tu Tarjeta como código de descuento.",
+        "No acumulable a descuentos y promociones vigentes",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Privilege - Cyber",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "20% dcto.",
+      "dia": [],
+      "dia_texto": "en tiendas y web",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Descubre nuestra marca exclusiva de vestuario y accesorios femeninos",
+        "Exclusivo pagando con tus Tarjetas de Crédito y Débito Santander.",
+        "Válido en tiendas físicas y www.privilege.cl",
+        "Excluye outlet. No acumulable con otros descuentos o promociones.",
+        "Ingresa los 6 primeros dígitos de tu Tarjeta como código de descuento.",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Ópticas Place Vendome - Cyber",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "25% de descuentos en anteojos ópticos (Armazon + cristal)",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Ópticas Place Vendome",
+        "Exclusivo pagando con tus Tarjetas de Crédito y Débito Santander en tiendas.",
+        "25% de descuentos en anteojos ópticos en armazón + cristales o armazón cliente + cristales o Gafas de sol + cristales.",
+        "No aplica sobre otras promociones, ni convenios.",
+        "en caja da el código OPV SANTANDER para obtener el descuento.",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "HP - Cyber",
+      "categoria": "Cuotas Sin Interés",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "13 a 36 cuotas sin interés, $28.000 de dcto",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Descubre la gran colección de Notebooks, Desktops, Impresoras, Monitores, Accesorios y más.",
+        "$28.000 de dcto.",
+        "Beneficio válido con tus Tarjetas Crédito y Débito Santander.",
+        "13 a 36 cuotas sin interés en www.hp.cl",
+        "Exclusivo categoría Notebooks y hasta agotar 50 cupones.",
+        "Cupón de descuento: SANTANDERHP",
+        "CAE 0,80% Calculado por un monto referencial de compra de $1.000.000 en 36 cuotas. Costo total del Crédito: $1.008.000. Operación afecta a impuesto al crédito a cargo del cliente.",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Mercado Libre - Cyber",
+      "categoria": "Cuotas Sin Interés",
+      "descuento": "10% dcto.",
+      "dia": [],
+      "dia_texto": "18 y 36 cuotas sin interés y",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Encuentra miles de marcas y productos a precios increíbles.",
+        "Exclusivo pagando con tus Tarjetas de Crédito Santander.",
+        "18 y 36 cuotas sin interés en mercadolibre.cl y en App Mercado Libre.",
+        "10% dcto. por compras sobre $99.000 con tope de $30.000 de descuento.",
+        "No acumulable con otras promociones.",
+        "Exclusivo en categoría notebooks y gaming por compras mínimas de $99.990",
+        "CAE 0,80% Calculado por un monto referencial de compra de $1.000.000 en 36 cuotas. Costo total del Crédito: $1.008.000. Operación afecta a impuesto al crédito a cargo del cliente.",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "miCoca-Cola.cl - Cyber",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "50% dcto",
+      "dia": [],
+      "dia_texto": "Hasta  + 10% adicional para clientes Santander y acumula 1 milla adicionales",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "¡Refréscate con miCoca-Cola.cl!",
+        "Válido con Tarjetas de Crédito y Débito Santander en https://www.micoca-cola.cl/",
+        "Beneficios válidos por compras sobre $30.000 (ya aplicado el descuento)",
+        "Máximo $30.000 de descuento.",
+        "1 usos por cliente.",
+        "1 cupón por pedido.",
+        "Tope de $10.000 descuento adicional.",
+        "Acumulable con otras promociones.",
+        "Para acceder al descuento se deben ingresar los 6 primeros dígitos de tu tarjeta como código de descuento.",
+        "Despacho gratis válido en pedidos programados y en compras sobre $30.000, una vez aplicado el descuento.",
+        "1 milla adicional por dólar gastado exclusivo para compras con Tarjeta de Crédito Santander LATAM Pass.",
+        "Promoción válida solo para compras realizadas del 05 al 11 de octubre de 2026 en micoca-cola.cl pagando con Tarjetas de Crédito Santander LATAM Pass. Conoce las condiciones del descuento en micoca-cola.cl. La bonificación de millas estructural se realizará según nivel y tarjeta de Crédito Santander LATAM Pass del cliente, más 1 millas adicional por dólar gastado por compras realizadas en campaña. La acreditación de Millas LATAM Pass se realizará en el mes siguiente de la compra. Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio. La administración del programa LATAM Pass es de exclusiva responsabilidad de LATAM Airlines GroupS.A. sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Conoce más sobre Santander Rewards y su reglamento en: https:banco.santander.cl/rewards."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Tefal - Cyber",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "10% dcto.",
+      "dia": [],
+      "dia_texto": "3 a 12 cuotas sin interés,  y acumula 2 Millas LATAM Pass adicionales",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "¡Encuentra lo mejor para tu cocina aquí!",
+        "Exclusivo pagando con tus Tarjetas de Crédito Santander.",
+        "10% dcto. válido en www.tefalstore.cl",
+        "Descuento válido usando cupón SANTANDER10",
+        "No es acumulable con otras promociones",
+        "CAE 0,80% Calculado por un monto referencial de compra de $1.000.000 en 12 cuotas. Costo total del Crédito: $1.008.000. Operación afecta a impuesto al crédito a cargo del cliente.",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Chile Lentes - Cyber",
+      "categoria": "Cuotas Sin Interés",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "3 a 12 cuotas sin interés y acumula 1 Milla LATAM Pass adicional",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Chile Lentes",
+        "Válido con Tarjetas de Crédito Santander LATAM Pass.",
+        "Válido en www.chilelentes.cl para compras a través de Webpay",
+        "No acumulable a descuentos y promociones vigentes. Incluye personalizados.",
+        "CAE 0,80% Calculado por un monto referencial de compra de $1.000.000 en 12 cuotas. Costo total del Crédito: $1.008.000. Operación afecta a impuesto al crédito a cargo del cliente.",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Samsung - Cyber",
+      "categoria": "Cuotas Sin Interés",
+      "descuento": "60% dcto",
+      "dia": [],
+      "dia_texto": "3 a 24 y 36 cuotas sin interés, hasta  y acumula 1 Milla LATAM Pass adicional",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "¡Saca el máximo provecho a tu día a día con todos los productos de tecnología en Samsung!",
+        "Beneficio válido con tus Tarjetas de Crédito y Débito Santander.",
+        "Válido en www.samsung.com/cl/multistore/cl_santander/ en productos seleccionados.",
+        "Acumulable con otras promociones.",
+        "Ingresando los 6 primeros dígitos de tu Tarjeta como código de descuento.",
+        "CAE 0,80% Calculado por un monto referencial de compra de $1.000.000 en 36 cuotas. Costo total del Crédito: $1.008.000. Operación afecta a impuesto al crédito a cargo del cliente.",
+        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Identity Theft Protection",
+      "categoria": null,
+      "descuento": null,
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "Incluido todos los días",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Anticípate al robo de identidad",
+        "Exclusivo con tus Tarjetas de Crédito Santander Empresa",
+        "Incluido con las Tarjetas Mastercard",
+        "Válido en https://mastercardamericas-smb.idprotectiononline.com/login",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Orientación Legal y Fiscal",
+      "categoria": null,
+      "descuento": null,
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "Acceso a plataforma para asesorías jurídicas y fiscales todos los días",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Asesoría legal y tributaria a un solo clic.",
+        "Exclusivo con tus Tarjetas de Crédito Santander Empresa",
+        "Incluido con las Tarjetas Mastercard",
+        "Válido en https://mastercardassistances.com/",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Reembolso de Membresía LinkedIn Business Premium",
+      "categoria": null,
+      "descuento": null,
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "Reembolso de Membresía todos los días",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Recupera el costo de LinkedIn Business Premium (Reembolso de Membresía)",
+        "Exclusivo con tus Tarjetas de Crédito Santander Empresa",
+        "Incluido con las Tarjetas Mastercard Business",
+        "Válido en https://mastercardassistances.com/",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Optimización de la presencia digital de Beedigital",
+      "categoria": null,
+      "descuento": null,
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "Optimización de la presencia digital de Beedigital todos los días",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Haz crecer tu presencia digital",
+        "Exclusivo con tus Tarjetas de Crédito Santander Empresa",
+        "Incluido con las Tarjetas Mastercard Business",
+        "Válido en https://dpo.beesible.ai/",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Recuperación de PyME en el hogar (Home Care)",
+      "categoria": null,
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "Cobertura para gastos de hasta $250 USD al día, hasta por 10 días",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Respaldo para tu negocio cuando más lo necesitas",
+        "Exclusivo con tus Tarjetas de Crédito Santander Empresa",
+        "Incluido con las Tarjetas Mastercard",
+        "Válido en https://mastercardassistances.com/",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Rock & Road",
+      "categoria": "Cuotas Sin Interés",
+      "descuento": null,
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "3 a 24 cuotas sin interés todos los días",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Bicicletas",
+        "Exclusivo pagando con tus Tarjetas de Crédito Santander.",
+        "Válido en tiendas y compras online.",
+        "CAE 1,53% Calculado por un monto referencial de compra de $1.000.000 en 24 cuotas. Costo total del Crédito: $1.023.760. Operación afecta a impuesto al crédito a cargo del cliente.",
+        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Visa - Centro del Vino Concha y Toro",
+      "categoria": "Entretención y Deportes",
+      "descuento": "30% dcto.",
+      "dia": [],
+      "dia_texto": "Hasta  en Centro del Vino Concha y Toro con Visa",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Tours, degustaciones y beneficios.",
+        "Experiencias Centro del Vino Concha y Toro",
+        "30% de descuento en Ticket Acceso Temporada Baja (octubre a mayo).",
+        "Máximo 2 tickets por credencial Visa.",
+        "Beneficio sujeto a un máximo de 13.151 entradas con descuento durante la vigencia.",
+        "WineShop Centro del Vino",
+        "10% de descuento en compras presenciales durante Temporada Baja (octubre a mayo).",
+        "Beneficio no aplicable a vinos íconos .",
+        "Exclusivo pagando con Tarjetas Visa Signature e Infinite.",
+        "Para experiencias, el descuento aplica online ingresando los primeros 6 dígitos de la tarjeta Visa en el campo promocional correspondiente.",
+        "Para WineShop, el beneficio aplica pagando presencialmente con una tarjeta Visa.",
+        "Beneficio vigente desde el 1 de octubre de 2026 hasta 31 mayo de 2027",
+        "Promoción válida hasta agotar stock o 31 de mayo de 2027. Los descuentos y beneficios son entregados exclusivamente por el comercio. **Los beneficios aplican para: Visita Guiada Premium + Tasting Marqués de Casa Concha Visita Guiada Premium + Tasting The New Wines Visita Guiada Premium + Tasting Cellar Collection Visita Guiada Casa Don Melchor y Parque Histórico + Tasting Amelia Visita Guiada Premium + Tasting y Maridaje Terrunyo Visita Guiada Premium + Maridaje La Gran Barra Experiencia Nocturna Casillero del Diablo + Maridaje la Gran Barra Experiencia Nocturna Casillero del Diablo + Cena Visita Guiada Premium + Almuerzo Bodega 1883 Visita Guiada Premium + Maridaje Icono la Gran Barra 1883 Productos superiores a desarrollar (experiencias premium)."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Kiara",
+      "categoria": "Sabores",
+      "descuento": null,
+      "dia": [
+        "Jueves"
+      ],
+      "dia_texto": "40%. dcto. todos los jueves",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Cocina Nikkei",
+        "Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass.",
+        "Válido para consumo en local.",
+        "El Rodeo 13332, Lo Barnechea.",
+        "Tope de descuento de $100.000.",
+        "No acumulable a otras promociones.",
+        "Se excluyen propinas, menús, happy hours.",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
+      ],
+      "sucursales": []
+    },
+    {
       "banco": "Banco Santander",
       "comercio": "Café Amor Perfecto",
       "categoria": "Retail y Otras Marcas",
@@ -23891,27 +24420,6 @@
         "25% de descuento en accesorios. No incluye libros y sets. No acumulable con otras promociones por compras sobre $20.000",
         "No acumulable a otros descuentos y promociones.",
         "Ingresa los 6 primeros dígitos de tu Tarjeta como código de descuento.",
-        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "RODA",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": "15% dcto",
-      "dia": [
-        "Jueves"
-      ],
-      "dia_texto": "todos los jueves",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "RODA",
-        "Exclusivo pagando con tus Tarjetas de Crédito y Débito Santander.",
-        "Válido en tiendas físicas y www.roda.cl",
-        "Ingresa los 6 primeros dígitos de tu Tarjeta como código de descuento.",
-        "No acumulable a descuentos y promociones vigentes.",
         "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
       ],
       "sucursales": []
@@ -24808,26 +25316,6 @@
         "Av. San Josemaría Escrivá de Balaguer 13105 Oficina 1007, Vitacura.",
         "No acumulable a otros descuentos y promociones.",
         "Exclusivo en masajes y tratamientos de radiofrecuencia y ultrasonido facial y corporal. Excluye tratamientos de Emsculpt Neo",
-        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Crece Seguro",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": "15% dcto.",
-      "dia": [],
-      "dia_texto": "adicional",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Productos y accesorios de bebe como sillas de auto, coches, colchones, y más.",
-        "Exclusivo con tus Tarjetas de Crédito y Débito Santander.",
-        "Válido en compras presenciales y en www.creceseguro.cl",
-        "Exclusivo en juguetes magnéticos marca Geomag y lentes de sol marca Mokki.",
-        "Acumulable a otras promociones.",
-        "Ingresa los 6 primeros dígitos de tu Tarjeta como código de descuento.",
         "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
       ],
       "sucursales": []
@@ -27396,28 +27884,6 @@
     },
     {
       "banco": "Banco Santander",
-      "comercio": "Barrica 94",
-      "categoria": "Sabores",
-      "descuento": "40% dcto.",
-      "dia": [],
-      "dia_texto": "todos los viermes",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "¡Disfruta el punto de encuentro entre el vino y la gastronomía!",
-        "Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass.",
-        "Válido para consumo en local.",
-        "Av. José Alcalde Délano 10533, Lo Barnechea",
-        "No acumulable a otras promociones.",
-        "Pide tu descuento al momento de pagar.",
-        "Descuento máximo por pedido de $100.000.",
-        "Se excluyen propinas, menús, happy hours.",
-        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​"
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
       "comercio": "Cosecha del Mar",
       "categoria": "Sabores",
       "descuento": "40% dcto.",
@@ -27435,29 +27901,6 @@
         "Tope de dcto. mensual $100.000",
         "No acumulable a otras promociones.",
         "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​"
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Kiara",
-      "categoria": "Sabores",
-      "descuento": null,
-      "dia": [
-        "Lunes"
-      ],
-      "dia_texto": "40%. dcto. todos los lunes",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Cocina Nikkei",
-        "Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass.",
-        "Válido para consumo en local.",
-        "El Rodeo 13332, Lo Barnechea.",
-        "Tope de descuento de $100.000.",
-        "No acumulable a otras promociones.",
-        "Se excluyen propinas, menús, happy hours.",
-        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
       ],
       "sucursales": []
     },
@@ -28200,26 +28643,6 @@
         "No acumulable con otras promociones.",
         "CAE 1,36% Calculado por un monto referencial de compra de $1.000.000 en 36 cuotas. Costo total del Crédito: $1.003.920. Operación afecta a impuesto al crédito a cargo del cliente.",
         "Promoción de doble acumulación de Millas LATAM Pass aplica solo para compras durante el 9 al 15 de diciembre de 2024 pagando con Tarjetas de Crédito Santander LATAM Pass. (I) Bonificación de doble (1 milla estructural + 1 milla adicional por dólar gastado) acumulación de Millas LATAM Pass solo aplica para las compras realizadas en campaña. La acreditación de doble acumulación de Millas LATAM Pass, en caso de corresponder, se realizará en el mes siguiente de la compra. (II) Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad de los comercios. (III) La administración del programa LATAM Pass es de exclusiva responsabilidad de LATAM Airlines Group S.A. sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Rock & Road",
-      "categoria": "Cuotas Sin Interés",
-      "descuento": null,
-      "dia": [
-        "Todos los días"
-      ],
-      "dia_texto": "3 a 24 cuotas sin interés todos los días",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Bicicletas",
-        "Exclusivo pagando con tus Tarjetas de Crédito Santander.",
-        "Válido en tiendas y compras online.",
-        "CAE 1,53% Calculado por un monto referencial de compra de $1.000.000 en 24 cuotas. Costo total del Crédito: $1.023.760. Operación afecta a impuesto al crédito a cargo del cliente.",
-        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
       ],
       "sucursales": []
     },
@@ -30038,64 +30461,6 @@
     },
     {
       "banco": "Banco Santander",
-      "comercio": "Reembolso de Membresía LinkedIn Business Premium",
-      "categoria": null,
-      "descuento": null,
-      "dia": [
-        "Todos los días"
-      ],
-      "dia_texto": "Reembolso de Membresía todos los días",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Recupera el costo de LinkedIn Business Premium (Reembolso de Membresía)",
-        "Exclusivo con tus Tarjetas de Crédito Santander Empresa",
-        "Incluido con las Tarjetas Mastercard Business",
-        "Válido en https://mastercardassistances.com/",
-        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​"
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Optimización de la presencia digital de Beedigital",
-      "categoria": null,
-      "descuento": null,
-      "dia": [
-        "Todos los días"
-      ],
-      "dia_texto": "Optimización de la presencia digital de Beedigital todos los días",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Haz crecer tu presencia digital",
-        "Exclusivo con tus Tarjetas de Crédito Santander Empresa",
-        "Incluido con las Tarjetas Mastercard Business",
-        "Válido en https://dpo.beesible.ai/",
-        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​"
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Recuperación de PyME en el hogar (Home Care)",
-      "categoria": null,
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "Cobertura para gastos de hasta $250 USD al día, hasta por 10 días",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Respaldo para tu negocio cuando más lo necesitas",
-        "Exclusivo con tus Tarjetas de Crédito Santander Empresa",
-        "Incluido con las Tarjetas Mastercard",
-        "Válido en https://mastercardassistances.com/",
-        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​"
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
       "comercio": "My Cyber Risk",
       "categoria": null,
       "descuento": null,
@@ -30108,46 +30473,6 @@
         "Exclusivo con tus Tarjetas de Crédito Santander Empresa.",
         "Suscripción válida de 1 año",
         "Válido en https://mcr.riskrecon.com/card-benefit",
-        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​"
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Orientación Legal y Fiscal",
-      "categoria": null,
-      "descuento": null,
-      "dia": [
-        "Todos los días"
-      ],
-      "dia_texto": "Acceso a plataforma para asesorías jurídicas y fiscales todos los días",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Asesoría legal y tributaria a un solo clic.",
-        "Exclusivo con tus Tarjetas de Crédito Santander Empresa",
-        "Incluido con las Tarjetas Mastercard",
-        "Válido en https://mastercardassistances.com/",
-        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​"
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Identity Theft Protection",
-      "categoria": null,
-      "descuento": null,
-      "dia": [
-        "Todos los días"
-      ],
-      "dia_texto": "Incluido todos los días",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Anticípate al robo de identidad",
-        "Exclusivo con tus Tarjetas de Crédito Santander Empresa",
-        "Incluido con las Tarjetas Mastercard",
-        "Válido en https://mastercardamericas-smb.idprotectiononline.com/login",
         "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​"
       ],
       "sucursales": []
@@ -30434,31 +30759,6 @@
         "Descuento válido reservando desde el sitio web en https://tucasaok.cl/conveniobsan/",
         "No acumulable con otras promociones.",
         "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​"
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Visa - Centro del Vino Concha y Toro",
-      "categoria": "Entretención y Deportes",
-      "descuento": "30% dcto.",
-      "dia": [],
-      "dia_texto": "Hasta  en Centro del Vino Concha y Toro con Visa",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Tours, degustaciones y beneficios.",
-        "Experiencias Centro del Vino Concha y Toro",
-        "20% de descuento en Ticket Acceso Temporada Alta (junio a septiembre).",
-        "30% de descuento en Ticket Acceso Temporada Baja (octubre a mayo).",
-        "Máximo 2 tickets por credencial Visa.",
-        "WineShop Centro del Vino",
-        "20% de descuento en compras presenciales durante Temporada Baja (octubre a mayo).",
-        "Exclusivo pagando con Tarjetas Visa Signature e Infinite.",
-        "Para experiencias, el descuento aplica online ingresando los primeros 6 dígitos de la tarjeta Visa en el campo promocional correspondiente.",
-        "Para WineShop, el beneficio aplica pagando presencialmente con una tarjeta Visa.",
-        "Beneficio vigente desde el 1 de junio de 2026 hasta 31 diciembre de 2027",
-        "Promoción válida hasta agotar stock o 31 de mayo de 2027. Los descuentos y beneficios son entregados exclusivamente por el comercio. **Los beneficios aplican para: Visita Guiada Premium + Tasting Marqués de Casa Concha Visita Guiada Premium + Tasting The New Wines Visita Guiada Premium + Tasting Cellar Collection Visita Guiada Casa Don Melchor y Parque Histórico + Tasting Amelia Visita Guiada Premium + Tasting y Maridaje Terrunyo Visita Guiada Premium + Maridaje La Gran Barra Experiencia Nocturna Casillero del Diablo + Maridaje la Gran Barra Experiencia Nocturna Casillero del Diablo + Cena Visita Guiada Premium + Almuerzo Bodega 1883 Visita Guiada Premium + Maridaje Icono la Gran Barra 1883 Productos superiores a desarrollar (experiencias premium)."
       ],
       "sucursales": []
     }
