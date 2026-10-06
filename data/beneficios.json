@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-05T19:26",
+  "actualizado": "2026-10-06T16:59",
   "beneficios": [
     {
       "banco": "Banco de Chile",
@@ -20444,29 +20444,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Vermutería - Terrazas San Cristóbal",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Jueves"
-      ],
-      "dia_texto": "jueves de octubre",
-      "canal": null,
-      "vigencia": "Promoción válida del 01 al 31 de octubre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial. 40% dto. jueves de octubre.",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dcto. $50.000 por mesa"
-      ],
-      "sucursales": [
-        "Terrazas San Cristobal, Constitución #241, Región Metropolitana, Providencia"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "Barbazul - Terrazas San Cristóbal",
       "categoria": "Sabores",
       "descuento": "40% dto.",
@@ -22060,6 +22037,30 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "Re Decora",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "20% dto.",
+      "dia": [
+        "Jueves",
+        "Domingo"
+      ],
+      "dia_texto": "jueves y domingo",
+      "canal": "Ambos",
+      "vigencia": "Promoción válida hasta el 31 de agosto de 2027.",
+      "condiciones": [
+        "En RE DECORA encuentras todo lo que necesitas para amoblar y decorar tu hogar: sofás, poltronas, sitiales, mesas de centro y laterales, mesas de comedor, sillas, pisos bar, muebles de terraza, decoración, menaje y mucho más.",
+        "20% dto. jueves y domingo en compras presenciales y en redecora.cl",
+        "Para compra presencial, solicita tu descuento al momento de pagar.",
+        "Para compra online, ingresa los 6 primeros dígitos de tu Tarjeta como código de descuento.",
+        "No acumulable con otras promociones.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Av. Las Condes #9765, Región Metropolitana, Las Condes"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "Mountain House",
       "categoria": "Retail y Otras Marcas",
       "descuento": "15% dto.",
@@ -22334,30 +22335,6 @@
       "vigencia": null,
       "condiciones": [],
       "sucursales": []
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Don Teo – Machalí",
-      "categoria": "Sabores",
-      "descuento": "20% dto.",
-      "dia": [
-        "Lunes",
-        "Martes"
-      ],
-      "dia_texto": "lunes y martes",
-      "canal": "Tienda física",
-      "vigencia": "Promoción válida hasta el 30 de marzo del 2027.",
-      "condiciones": [
-        "Su carta, preparada con amor y cariño para todo Chile, busca crear experiencias que dejen huella. Su misión es servir con el corazón y alcanzar la excelencia en cada detalle, haciendo sentir importante a cada persona. Una propuesta donde la dedicación y el buen servicio se convierten en una forma de transformar la vida de los demás.",
-        "20% dto. lunes y martes en compra presencial.",
-        "No válido para menú, Happy Hour ni otras promociones vigentes.",
-        "Solicita tu descuento al momento de pagar.",
-        "No acumulable con otras promociones.",
-        "Descuento exclusivo pagando con tus Tarjetas del Chile."
-      ],
-      "sucursales": [
-        "Pueblito Gastronómico, Camino la hacienda #46 lote 3c, Región de OHiggins, Machali"
-      ]
     },
     {
       "banco": "Banco de Chile",
@@ -23008,6 +22985,30 @@
       ],
       "sucursales": [
         "Av. Vicente Perez Rosales 1A Km 71.5, Las Cascadas Puerto Octay, Region de los Lagos, Osorno"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Don Teo – Machalí",
+      "categoria": "Sabores",
+      "descuento": "20% dto.",
+      "dia": [
+        "Miércoles",
+        "Jueves"
+      ],
+      "dia_texto": "miércoles y jueves",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 30 de marzo del 2027.",
+      "condiciones": [
+        "Su carta, preparada con amor y cariño para todo Chile, busca crear experiencias que dejen huella. Su misión es servir con el corazón y alcanzar la excelencia en cada detalle, haciendo sentir importante a cada persona. Una propuesta donde la dedicación y el buen servicio se convierten en una forma de transformar la vida de los demás.",
+        "20% dto. miércoles y jueves en compra presencial.",
+        "No válido para menú, Happy Hour ni otras promociones vigentes.",
+        "Solicita tu descuento al momento de pagar.",
+        "No acumulable con otras promociones.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Pueblito Gastronómico, Camino la hacienda #46 lote 3c, Región de OHiggins, Machali"
       ]
     },
     {
@@ -23828,6 +23829,133 @@
     },
     {
       "banco": "Banco Santander",
+      "comercio": "Chile Lentes - Cyber",
+      "categoria": "Cuotas Sin Interés",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "3 a 12 cuotas sin interés y acumula 1 Milla LATAM Pass adicional",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Chile Lentes",
+        "Válido con Tarjetas de Crédito Santander LATAM Pass.",
+        "Válido en www.chilelentes.cl para compras a través de Webpay",
+        "No acumulable a descuentos y promociones vigentes. Incluye personalizados.",
+        "CAE 0,80% Calculado por un monto referencial de compra de $1.000.000 en 12 cuotas. Costo total del Crédito: $1.008.000. Operación afecta a impuesto al crédito a cargo del cliente.",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Tefal - Cyber",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "10% dcto.",
+      "dia": [],
+      "dia_texto": "3 a 12 cuotas sin interés,  y acumula 2 Millas LATAM Pass adicionales",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "¡Encuentra lo mejor para tu cocina aquí!",
+        "Exclusivo pagando con tus Tarjetas de Crédito Santander.",
+        "10% dcto. válido en www.tefalstore.cl",
+        "Descuento válido usando cupón SANTANDER10",
+        "No es acumulable con otras promociones",
+        "CAE 0,80% Calculado por un monto referencial de compra de $1.000.000 en 12 cuotas. Costo total del Crédito: $1.008.000. Operación afecta a impuesto al crédito a cargo del cliente.",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Barra Olivo",
+      "categoria": "Sabores",
+      "descuento": "40% dcto.",
+      "dia": [
+        "Jueves"
+      ],
+      "dia_texto": "todos los jueves",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Experiencia gastronómica única con platos para disfrutar de sabores auténticos",
+        "Exclusivo con tus Tarjetas de Crédito Santander.",
+        "Válido en local y online con retiro en tienda.",
+        "Boulevard Los Ingleses de Chicureo, Local 16, Colina.",
+        "No acumulable con otras promociones.",
+        "Descuento máximo por pedido de $40.000",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Akikb",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "35% de descuento por 3 meses en sucursales seleccionadas",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Arriendo de mini bodegas",
+        "Beneficio Santander Empresas :",
+        "Exclusivo con tus Tarjetas de Crédito, Debito Santander y Tarjetas de Crédito Santander Empresas.",
+        "Válido en locales.",
+        "No válido para compras online. Excluye clientes existentes.",
+        "Descuento válido en Downtown : Eleuterio 737, Santiago - Santiago Sur: Santiago 1130, Santiago - Enea : Los Cactus 10010 Pudahuel - Valle Norte : Av. Chamisero 12400, Valle Norte, Chamisero - Alonso de Ovalle : Alonso Ovalle 1320 Santiago - San Francisco : Chiloé N°1734, Santiago - Ciudad Empresarial 3 : Rinconada 497, Huechuraba, Rosas: Manuel Rodriguez Norte 730, Stgo. Centro - Marathon: Avda. Marathon 2499, Macul - Tarapacá: Tarapacá 1028, Stgo. Centro - Vicuña Mackenna: Av. Matta 067, Ñuñoa, Cantagallo: Nueva Las Condes 12375, Las Condes.",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "The Candle Shop, Air Beauty",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "15% dcto",
+      "dia": [
+        "Martes",
+        "Jueves"
+      ],
+      "dia_texto": "los días martes y jueves",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Velas y fragancia",
+        "Recuerdas que:",
+        "Exclusivo pagando con tus Tarjetas de Crédito y Débito Santander.",
+        "Válido en tiendas y thecandleshop.cl",
+        "Excluye días cyber del 05/10 al 09/10",
+        "Tope de descuento: Sin tope",
+        "Código de descuento: SANTANDERTCS15",
+        "No acumula con otras promociones.",
+        "Tipo de Tarjeta que aplica: crédito y débito",
+        "Tiendas: Portal la Dehesa / Parque Arauco / Costanera Center",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad de Huerto Sur Cafeterías SPA y Sociedad Bustorf Larsen Cía., sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Perfect Pool",
+      "categoria": "Cuotas Sin Interés",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "7 a 12 cuotas sin interés",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "¡Tempera tu piscina con los mejores especialistas!",
+        "Exclusivo pagando con tus Tarjetas de Crédito Santander.",
+        "Es válido en tiendas físicas y en www.perfectpool.cl",
+        "No es acumulable con otras promociones.",
+        "CAE 1,46% Calculado por un monto referencial de compra de $1.000.000 en 12 cuotas. Costo total del Crédito: $1.007.920. Operación afecta a impuesto al crédito a cargo del cliente.",
+        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
       "comercio": "Barrica 94",
       "categoria": "Sabores",
       "descuento": "40% dcto.",
@@ -24087,45 +24215,6 @@
         "Despacho gratis válido en pedidos programados y en compras sobre $30.000, una vez aplicado el descuento.",
         "1 milla adicional por dólar gastado exclusivo para compras con Tarjeta de Crédito Santander LATAM Pass.",
         "Promoción válida solo para compras realizadas del 05 al 11 de octubre de 2026 en micoca-cola.cl pagando con Tarjetas de Crédito Santander LATAM Pass. Conoce las condiciones del descuento en micoca-cola.cl. La bonificación de millas estructural se realizará según nivel y tarjeta de Crédito Santander LATAM Pass del cliente, más 1 millas adicional por dólar gastado por compras realizadas en campaña. La acreditación de Millas LATAM Pass se realizará en el mes siguiente de la compra. Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio. La administración del programa LATAM Pass es de exclusiva responsabilidad de LATAM Airlines GroupS.A. sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Conoce más sobre Santander Rewards y su reglamento en: https:banco.santander.cl/rewards."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Tefal - Cyber",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": "10% dcto.",
-      "dia": [],
-      "dia_texto": "3 a 12 cuotas sin interés,  y acumula 2 Millas LATAM Pass adicionales",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "¡Encuentra lo mejor para tu cocina aquí!",
-        "Exclusivo pagando con tus Tarjetas de Crédito Santander.",
-        "10% dcto. válido en www.tefalstore.cl",
-        "Descuento válido usando cupón SANTANDER10",
-        "No es acumulable con otras promociones",
-        "CAE 0,80% Calculado por un monto referencial de compra de $1.000.000 en 12 cuotas. Costo total del Crédito: $1.008.000. Operación afecta a impuesto al crédito a cargo del cliente.",
-        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Chile Lentes - Cyber",
-      "categoria": "Cuotas Sin Interés",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "3 a 12 cuotas sin interés y acumula 1 Milla LATAM Pass adicional",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Chile Lentes",
-        "Válido con Tarjetas de Crédito Santander LATAM Pass.",
-        "Válido en www.chilelentes.cl para compras a través de Webpay",
-        "No acumulable a descuentos y promociones vigentes. Incluye personalizados.",
-        "CAE 0,80% Calculado por un monto referencial de compra de $1.000.000 en 12 cuotas. Costo total del Crédito: $1.008.000. Operación afecta a impuesto al crédito a cargo del cliente.",
-        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
       ],
       "sucursales": []
     },
@@ -27496,28 +27585,6 @@
     },
     {
       "banco": "Banco Santander",
-      "comercio": "Barra Olivo",
-      "categoria": "Sabores",
-      "descuento": "40% dcto.",
-      "dia": [
-        "Jueves"
-      ],
-      "dia_texto": "todos los jueves",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Experiencia gastronómica única con platos para disfrutar de sabores auténticos",
-        "Exclusivo con tus Tarjetas de Crédito Santander.",
-        "Válido en local y online con retiro en tienda.",
-        "Boulevard Los Ingleses de Chicureo, Local 16, Colina.",
-        "No acumulable con otras promociones.",
-        "Descuento máximo por pedido de $40.000",
-        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​"
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
       "comercio": "Ramblas",
       "categoria": "Sabores",
       "descuento": "40% dcto.",
@@ -29823,32 +29890,6 @@
     },
     {
       "banco": "Banco Santander",
-      "comercio": "The Candle Shop, Air Beauty",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": "15% dcto",
-      "dia": [
-        "Martes",
-        "Jueves"
-      ],
-      "dia_texto": "los días martes y jueves",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Velas y fragancia",
-        "Recuerdas que:",
-        "Exclusivo pagando con tus Tarjetas de Crédito y Débito Santander.",
-        "Válido en tiendas y thecandleshop.cl",
-        "Tope de descuento: Sin tope",
-        "Código de descuento: SANTANDERTCS15",
-        "No acumula con otras promociones.",
-        "Tipo de Tarjeta que aplica: crédito y débito",
-        "Tiendas: Portal la Dehesa / Parque Arauco / Costanera Center",
-        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad de Huerto Sur Cafeterías SPA y Sociedad Bustorf Larsen Cía., sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
       "comercio": "GG Electrics",
       "categoria": "Cuotas Sin Interés",
       "descuento": null,
@@ -30302,26 +30343,6 @@
         "Válido en local.",
         "Manquehue Norte 958, Las Condes.",
         "Aplica solo para nuevos clientes. Sujeto a disponibilidad de stock.",
-        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Akikb",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": "35% dcto.",
-      "dia": [],
-      "dia_texto": "en arriendo por 3 meses de minibodegas en todas las sucursales",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Arriendo de mini bodegas",
-        "Beneficio Santander Empresas :",
-        "Exclusivo con tus Tarjetas de Crédito, Debito Santander y Tarjetas de Crédito Santander Empresas.",
-        "Válido en locales.",
-        "No válido para compras online. Excluye clientes existentes.",
-        "Descuento válido en Downtown: Eleuterio 737, Santiago - Santiago Sur: Santiago 1130, Santiago - Viña del Mar: Camino Internacional 4750 - Viña del Mar - Enea: Los Cactus 10010 Pudahuel - Valle Norte: Av. Chamisero 12400, Valle Norte, Chamisero - Alonso de Ovalle: Alonso Ovalle 1320 Santiago - La Reina: Fernando Castillo Velasco 8595, La Reina - San Francisco: Chiloé N°1734, Santiago - Ciudad Empresarial 3: Rinconada 497, Huechuraba Rosas: Manuel Rodriguez Norte 730, Stgo. Centro - Marathon: Avda. Marathon 2499, Macul - Tarapacá: Tarapacá 1028, Stgo. Centro - Vicuña Mackenna: Av Matta 067, Ñuñoa - Cantagallo: Nva Las Condes 12375, Las Condes.",
         "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
       ],
       "sucursales": []
