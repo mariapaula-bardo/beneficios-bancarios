@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-06T16:59",
+  "actualizado": "2026-10-07T17:36",
   "beneficios": [
     {
       "banco": "Banco de Chile",
@@ -8985,28 +8985,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "ÁGAPÉ",
-      "categoria": "Sabores",
-      "descuento": "20% dto.",
-      "dia": [
-        "Todos los días"
-      ],
-      "dia_texto": "todos los días",
-      "canal": null,
-      "vigencia": "Promoción válida hasta el 31 de marzo de 2027.",
-      "condiciones": [
-        "La nueva joya oculta de Barrio Poniente en Viña del Mar. Agape, se define como \"Mesa Peruana de Autor\" y mezcla la gastronomía y la coctelería andina con toques sofisticados, dando como resultado una propuesta que tienes que probar si andas por la zona. Este Resto Bar aperturado hace pocos meses, promete llegar a ser un top de línea dentro de la cocina peruana en Viña del Mar, sin dejar de lado el ambiente de Bar y su sello especial inigualable: el Pisco Sour. ¿Te reservamos una mesa?",
-        "20% dto todos los días pagando con tus tarjetas del Chile.",
-        "No acumulable con otras ofertas, happy hour, menú y/o promociones.",
-        "Si eres Plan Océano obtén 20% dto. adicional Solicita tu dto. al momento de pagar en el restaurant y te devolveremos 20% de dto. adicional (Tope $20.000 por compra) como abono en tu siguiente o subsiguiente estado de cuenta de la Tarjeta con que pagaste.",
-        "Si eres Plan Cordillera obtén 10% dto. adicional Solicita tu dto. al momento de pagar en el restaurant y te devolveremos 10% de dto. adicional (Tope $10.000 por compra) como abono en tu siguiente o subsiguiente estado de cuenta de la Tarjeta con que pagaste."
-      ],
-      "sucursales": [
-        "Local 19, 8 Norte 310, Valparaíso, Viña del Mar"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "LA QUINTA PATA AL GATO",
       "categoria": "Sabores",
       "descuento": "20% dto.",
@@ -13939,29 +13917,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Laboratorio Bioclinic",
-      "categoria": "Salud y Belleza",
-      "descuento": "Hasta 20% dto",
-      "dia": [],
-      "dia_texto": null,
-      "canal": "Tienda física",
-      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
-      "condiciones": [
-        "Laboratorio Clínico, acreditado desde el 2020, con más de 5 años de experiencia en la región de Tarapacá. Especialistas en Biología Molecular, Microbiología, Hematología, Inmunoquímica, entre otras. Con más de 500 exámenes de análisis.",
-        "20% dto en el copago de los exámenes de laboratorio clínico, pacientes afiliados a Fonasa B, C y D, Banmédica, VidaTres, Consalud, Colmena y Nueva Masvida.",
-        "10% dto en el valor final de los exámenes a los pacientes que no tengan previsión de salud o Fonasa A",
-        "10% dto en el valor final de los exámenes a pacientes afiliados a Capredena, Dipreca, Fonasa A o que no tengan previsión de salud.",
-        "Una vez aplicadas todas las bonificaciones otorgadas al Afiliado de acuerdo con su plan de salud y/o seguros complementarios en la liquidación de un Bono de Atención de Salud, Bioclinic incluirá el porcentaje de descuento sobre el valor del Copago."
-      ],
-      "sucursales": [
-        "SALVADOR ALLENDE 3432, TARAPACA, IQUIQUE",
-        "JUAN ANTONIO RIOS 2889, TARAPACA, IQUIQUE",
-        "ARTURO PRAT 3068, TARAPACA, IQUIQUE",
-        "LOS ALAMOS 3042, TARAPACA, ALTO HOSPICIO"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "AC Odontología",
       "categoria": "Salud y Belleza",
       "descuento": "50% dto.",
@@ -15651,6 +15606,29 @@
         "Aeropuerto La Araucanía, Región de La Araucanía, Temuco",
         "Arturo Prat 1160, Región de La Araucanía, Temuco",
         "Aeropuerto El Tepual, Región de Los Lagos, Puerto Montt"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Laboratorio Bioclinic",
+      "categoria": "Salud y Belleza",
+      "descuento": "Hasta 20% dto",
+      "dia": [],
+      "dia_texto": null,
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 31 de octubre de 2026.",
+      "condiciones": [
+        "Laboratorio Clínico, acreditado desde el 2020, con más de 5 años de experiencia en la región de Tarapacá. Especialistas en Biología Molecular, Microbiología, Hematología, Inmunoquímica, entre otras. Con más de 500 exámenes de análisis.",
+        "20% dto en el copago de los exámenes de laboratorio clínico, pacientes afiliados a Fonasa B, C y D, Banmédica, VidaTres, Consalud, Colmena y Nueva Masvida.",
+        "10% dto en el valor final de los exámenes a los pacientes que no tengan previsión de salud o Fonasa A",
+        "10% dto en el valor final de los exámenes a pacientes afiliados a Capredena, Dipreca, Fonasa A o que no tengan previsión de salud.",
+        "Una vez aplicadas todas las bonificaciones otorgadas al Afiliado de acuerdo con su plan de salud y/o seguros complementarios en la liquidación de un Bono de Atención de Salud, Bioclinic incluirá el porcentaje de descuento sobre el valor del Copago."
+      ],
+      "sucursales": [
+        "SALVADOR ALLENDE 3432, TARAPACA, IQUIQUE",
+        "JUAN ANTONIO RIOS 2889, TARAPACA, IQUIQUE",
+        "ARTURO PRAT 3068, TARAPACA, IQUIQUE",
+        "LOS ALAMOS 3042, TARAPACA, ALTO HOSPICIO"
       ]
     },
     {
@@ -20770,29 +20748,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Club de Golf los lirios",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Viernes"
-      ],
-      "dia_texto": "viernes de octubre",
-      "canal": null,
-      "vigencia": "Promoción válida del 01 al 31 de octubre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial. 40% dto. todos los viernes de octubre.",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dto. $50.000 por mesa"
-      ],
-      "sucursales": [
-        "Carretera 5 Sur Km 93 Los Lirios, Región de OHiggins, Requínoa"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "La Joya Cantina",
       "categoria": "Sabores",
       "descuento": "40% dto.",
@@ -23130,6 +23085,28 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "ÁGAPÉ",
+      "categoria": "Sabores",
+      "descuento": "20% dto.",
+      "dia": [
+        "Jueves"
+      ],
+      "dia_texto": "jueves",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 31 de marzo de 2027.",
+      "condiciones": [
+        "La nueva joya oculta de Barrio Poniente en Viña del Mar. Agape, se define como \"Mesa Peruana de Autor\" y mezcla la gastronomía y la coctelería andina con toques sofisticados, dando como resultado una propuesta que tienes que probar si andas por la zona. Este Resto Bar aperturado hace pocos meses, promete llegar a ser un top de línea dentro de la cocina peruana en Viña del Mar, sin dejar de lado el ambiente de Bar y su sello especial inigualable: el Pisco Sour. ¿Te reservamos una mesa?",
+        "20% dto. jueves presencial pagando con tus tarjetas del Chile.",
+        "No acumulable con otras ofertas, happy hour, menú y/o promociones.",
+        "Si eres Plan Océano obtén 20% dto. adicional Solicita tu dto. al momento de pagar en el restaurant y te devolveremos 20% de dto. adicional (Tope $20.000 por compra) como abono en tu siguiente o subsiguiente estado de cuenta de la Tarjeta con que pagaste.",
+        "Si eres Plan Cordillera obtén 10% dto. adicional Solicita tu dto. al momento de pagar en el restaurant y te devolveremos 10% de dto. adicional (Tope $10.000 por compra) como abono en tu siguiente o subsiguiente estado de cuenta de la Tarjeta con que pagaste."
+      ],
+      "sucursales": [
+        "Local 19, 8 Norte 310, Valparaíso, Viña del Mar"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "Local Burger",
       "categoria": "Sabores",
       "descuento": "40% dto.",
@@ -23667,6 +23644,114 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "Tataki – Justo",
+      "categoria": "Sabores",
+      "descuento": "30% dto.",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días",
+      "canal": "Online",
+      "vigencia": "Promoción válida hasta el 30 de junio de 2027.",
+      "condiciones": [
+        "30% dto. todos los días en la App Justo o en www.tataki.cl",
+        "Ingresa a la App Justo o en www.tataki.cl",
+        "Elige Tataki.",
+        "Ingresa el código BCHJUSTO26 como cupón de descuento al momento de pagar con tus Tarjetas del Chile.",
+        "Tope de dto. $8.000.",
+        "2 usos mensuales por cliente.",
+        "Descuento no aplica para valor del despacho.",
+        "No acumulable con otras promociones.",
+        "Beneficio exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Luis Pasteur #6052, Región Metropolitana, Vitacura"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Don Sushito – Justo",
+      "categoria": "Sabores",
+      "descuento": "30% dto.",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días",
+      "canal": "Online",
+      "vigencia": "Promoción válida hasta el 30 de junio de 2027.",
+      "condiciones": [
+        "30% dto. todos los días en la App Justo o en www.donsushito.cl/pedi",
+        "Ingresa a la App Justo o en www.donsushito.cl/pedir",
+        "Elige Don Sushito.",
+        "Ingresa el código BCHJUSTO26 como cupón de descuento al momento de pagar con tus Tarjetas del Chile.",
+        "Tope de dto. $8.000.",
+        "2 usos mensuales por cliente.",
+        "Descuento no aplica para valor del despacho.",
+        "No acumulable con otras promociones.",
+        "Beneficio exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Estado #593, Región de O´Higgins, Rancagua",
+        "Delfín Carvallo #440, Región de O´Higgins, Doñihue",
+        "Vicario Araneda# 27, Región de O´Higgins, Coinco",
+        "Tomás Argomedo #1895, Región de O´Higgins, Quinta de Tilcoco"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Inagi – Justo",
+      "categoria": "Sabores",
+      "descuento": "30% dto.",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días",
+      "canal": "Online",
+      "vigencia": "Promoción válida hasta el 30 de junio de 2027.",
+      "condiciones": [
+        "30% dto. todos los días en la App Justo o en www.inagi.cl",
+        "Ingresa a la App Justo o en www.inagi.cl",
+        "Elige Inagi.",
+        "Ingresa el código BCHJUSTO26 como cupón de descuento al momento de pagar con tus Tarjetas del Chile.",
+        "Tope de dto. $8.000.",
+        "2 usos mensuales por cliente.",
+        "Descuento no aplica para valor del despacho.",
+        "No acumulable con otras promociones.",
+        "Beneficio exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Amunátegui #1022, Región Metropolitana, Santiago",
+        "Tobalaba #1099, Región Metropolitana, Providencia"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Mattarello – Justo",
+      "categoria": "Sabores",
+      "descuento": "30% dto.",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días",
+      "canal": "Online",
+      "vigencia": "Promoción válida hasta el 30 de junio de 2027.",
+      "condiciones": [
+        "30% dto. todos los días en la App Justo o en delivery.mattarello.cl/pedir",
+        "Ingresa a la App Justo o en delivery.mattarello.cl/pedir",
+        "Elige Mattarello.",
+        "Ingresa el código BCHJUSTO26 como cupón de descuento al momento de pagar con tus Tarjetas del Chile.",
+        "Tope de dto. $8.000.",
+        "2 usos mensuales por cliente.",
+        "Descuento no aplica para valor del despacho.",
+        "No acumulable con otras promociones.",
+        "Beneficio exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Príncipe de Gales #6560, Región Metropolitana, La Reina"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "Marathon Cyber",
       "categoria": "Retail y Otras Marcas",
       "descuento": "10% dto.",
@@ -23791,28 +23876,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Parigó",
-      "categoria": "Sabores",
-      "descuento": "50% dto.",
-      "dia": [
-        "Lunes"
-      ],
-      "dia_texto": "lunes de octubre",
-      "canal": null,
-      "vigencia": "Promoción válida desde el 01 al 31 de octubre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial 50% dto. pagando con Tarjetas Visa Infinite, todos los lunes de octubre.",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA INFINITE del Chile.",
-        "No acumulable con otras promociones.",
-        "Tope dto. $65.000 por mesa"
-      ],
-      "sucursales": [
-        "Reyes Lavalle #3300, Región Metropolitana, Las Condes"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "UC CHRISTUS",
       "categoria": "Salud y Belleza",
       "descuento": null,
@@ -23824,6 +23887,73 @@
         "UC CHRISTUS es la red de atención médica privada más importante del país, con un amplio campo clínico en el que se forman los médicos del mañana. Cuenta con catorce Centros Médicos, más de 70 Unidades de Toma de Muestras para exámenes de laboratorio, un hospital y una clínica. Cerca de mil médicos y más de cuatro mil personas dedican su trabajo al cuidado de la salud de las personas.",
         "En operaciones individuales superiores a $100.000 , para todos los servicios de UC CHRISTUS.",
         "Para el pago de cuentas hospitalarias asociado a este convenio, aplica solo a través del portal web de UC CHRISTUS, sujeto a disponibilidad, condiciones y vigencia de cada convenio."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Casa Abierta",
+      "categoria": "Sabores",
+      "descuento": "20% dto.",
+      "dia": [
+        "Lunes"
+      ],
+      "dia_texto": "lunes",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 30 de abril del 2027.",
+      "condiciones": [
+        "Casa Abierta es un restaurante familiar ubicado en Concón, donde la buena comida se disfruta en un ambiente cálido y acogedor. Un espacio ideal para compartir en familia o con amigos y sentirse como en casa.",
+        "20% dto. lunes en compra presencial.",
+        "Excluye feriados.",
+        "No válido para menú, Happy Hour ni otras promociones vigentes.",
+        "Solicita tu descuento al momento de pagar.",
+        "No acumulable con otras promociones.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "José María Escrivá de Balaguer #861, local 10 (Centro Comercial Pinares), Región de Valparaíso, Concón"
+      ]
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "UC CHRISTUS",
+      "categoria": "Cuotas Sin Interés",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "3 a 18 cuotas sin interés",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Revisa todos los servicios y especialidades de UC CHRISTUS.",
+        "Exclusivo pagando con tus Tarjetas de Crédito Santander.",
+        "Válido para todos los servicios de UC CHRISTUS. Para el pago de cuentas hospitarias asociado a este convenio, el pago debe realizarse exclusivamente a través del portal web de UC CHRISTUS.",
+        "Cuotas válidas para montos desde $100.000",
+        "No es acumulable con otras promociones.",
+        "CAE 1,51% Calculado por un monto referencial de compra de $1.000.000 en 24 cuotas. Costo total del Crédito: $1.015.840. Operación afecta a impuesto al crédito a cargo del cliente.",
+        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "La Bifería",
+      "categoria": "Sabores",
+      "descuento": "40% dcto.",
+      "dia": [
+        "Sábado"
+      ],
+      "dia_texto": "todos los sábados",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Cortes únicos de carne a la parrilla",
+        "Exclusivo con tus Tarjetas de Crédito Santander.",
+        "Válido para consumo en local.",
+        "Av. Pedro de Valdivia 065, Providencia.",
+        "No acumulable a otras promociones.",
+        "Pide tu descuento al momento de pagar.",
+        "Descuento máximo por pedido de $40.000.",
+        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
       ],
       "sucursales": []
     },
@@ -29201,25 +29331,6 @@
     },
     {
       "banco": "Banco Santander",
-      "comercio": "UC CHRISTUS",
-      "categoria": "Cuotas Sin Interés",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "3 a 18 cuotas sin interés",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Revisa todos los servicios y especialidades de UC CHRISTUS.",
-        "Exclusivo pagando con tus Tarjetas de Crédito Santander.",
-        "Válido para todos los servicios de UC CHRISTUS. Para el pago de cuentas hospitarias asociado a este convenio, el pago debe realizarse exclusivamente a través del portal web de UC CHRISTUS.",
-        "Cuotas válidas para montos desde $100.000",
-        "No es acumulable con otras promociones.CAE 1,51% Calculado por un monto referencial de compra de $1.000.000 en 24 cuotas. Costo total del Crédito: $1.015.840. Operación afecta a impuesto al crédito a cargo del cliente.",
-        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
       "comercio": "Thermomix",
       "categoria": "Cuotas Sin Interés",
       "descuento": null,
@@ -30389,28 +30500,6 @@
         "Cupón para compras online VZCL2X30BS",
         "CAE 1,36% Calculado por un monto referencial de compra de $1.000.000 en 6 cuotas. Costo total del Crédito: $1.003.960. Operación afecta a impuesto al crédito a cargo del cliente.",
         "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Hilary Duff",
-      "categoria": "Musica",
-      "descuento": "20% dcto.",
-      "dia": [],
-      "dia_texto": "en entradas",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Hilary Duff por primera vez en Chile. No te pierdas The Lucky tour el 20 de agosto de 2027, en el Santander Arena.",
-        "Preventa Santander: 30 de septiembre de 2026 hasta agotar stock",
-        "Venta general: 2 de octubre de 2026",
-        "Exclusivo pagando con tus Tarjetas de Crédito y Débito Santander.",
-        "Válido en www.puntoticket.cl",
-        "Tope de 4 entradas por RUT de cliente.",
-        "Ingresa los 6 primeros dígitos de tu Tarjeta como código de descuento.",
-        "No acumulable con otras promociones.",
-        "Promoción válida para compras realizadas solo en puntoticket.com/hilary-duff-en-vivo-scl-2027 pagando con Tarjetas Santander e ingresando como código de descuento los primeros 6 dígitos de la Tarjeta. Tope de 4 entradas por RUT de cliente. (*) Stock disponible para el 20% de descuento: 2000 entradas. Descuento no aplica al cargo por servicio. El único canal de venta autorizado es www.puntoticket.com, cualquier otro canal puede perjudicar al consumidor. DG Medios no se responsabiliza por transacciones realizadas fuera del canal de venta oficial. La garantía, servicio y calidad del producto es de exclusiva responsabilidad de DG Medios y de la venta de entradas es Punto Ticket SpA sin responsabilidad para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
       ],
       "sucursales": []
     },
