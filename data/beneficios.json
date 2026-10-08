@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-07T17:36",
+  "actualizado": "2026-10-08T17:39",
   "beneficios": [
     {
       "banco": "Banco de Chile",
@@ -16982,249 +16982,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Brisas del Mar Ñuñoa",
-      "categoria": "Sabores",
-      "descuento": "25% dto.",
-      "dia": [
-        "Lunes",
-        "Martes",
-        "Miércoles",
-        "Jueves",
-        "Sábado"
-      ],
-      "dia_texto": "lunes a jueves y sábados",
-      "canal": "Tienda física",
-      "vigencia": "Promoción válida hasta el 31 de enero de 2027.",
-      "condiciones": [
-        "Un clásico que destaca por su sabor y calidez, ideal para compartir o celebrar. Su renovado espacio acompaña una propuesta donde sobresalen los productos marinos: ceviches, tiraditos, pulpo y causas frescas. Las sugerencias del chef reflejan una cocina que evoluciona sin perder su esencia en cada visita.",
-        "25% dto.lunes a jueves y sábados compra presencial.",
-        "Solicita tu descuento al momento de pagar.",
-        "No acumulable con otras promociones.",
-        "No válido para feriados ni días festivos.",
-        "Descuento exclusivo pagando con tus Tarjetas del Chile."
-      ],
-      "sucursales": [
-        "Irarrázaval #4600, Región Metropolitana, Ñuñoa"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Brisas Del Mar Tenedor Libre La Serena",
-      "categoria": "Sabores",
-      "descuento": "25% dto.",
-      "dia": [
-        "Lunes",
-        "Martes",
-        "Miércoles",
-        "Jueves",
-        "Sábado"
-      ],
-      "dia_texto": "lunes a jueves y sábado",
-      "canal": "Tienda física",
-      "vigencia": "Promoción válida hasta el 31 de enero de 2027.",
-      "condiciones": [
-        "Amplio buffet que reúne lo mejor de la gastronomía peruana junto a carnes a la parrilla. En su variado tenedor libre destacan ceviches servidos en piñas, pescados frescos, sushi y clásicos criollos en una propuesta diversa y sabrosa. La experiencia se completa con variedad de postres y coctelería de autor, pensada para disfrutar sin límites.",
-        "25% dto.lunes a jueves y sábado compra presencial.",
-        "Solicita tu descuento al momento de pagar.",
-        "No acumulable con otras promociones.",
-        "No válido para feriados ni días festivos.",
-        "Descuento exclusivo pagando con tus Tarjetas del Chile."
-      ],
-      "sucursales": [
-        "Av. Balmaceda #5310, Región de Coquimbo, La Serena"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Casa Valerio Tenedor Libre",
-      "categoria": "Sabores",
-      "descuento": "25% dto.",
-      "dia": [
-        "Lunes",
-        "Martes",
-        "Miércoles",
-        "Jueves",
-        "Sábado"
-      ],
-      "dia_texto": "lunes a jueves y sábado",
-      "canal": "Tienda física",
-      "vigencia": "Promoción válida hasta el 31 de enero de 2027.",
-      "condiciones": [
-        "Una experiencia buffet que invita a recorrer Perú sin límites. Destaca su parrilla a la vista, donde los comensales eligen corte y cocción, junto a más de 65 opciones entre mariscos, platos criollos, guisos, entradas y postres. Se suma una atractiva coctelería de autor y jugos exóticos que completan la experiencia.",
-        "25% dto.lunes a jueves y sábado compra presencial.",
-        "Solicita tu descuento al momento de pagar.",
-        "No acumulable con otras promociones.",
-        "No válido para feriados ni días festivos.",
-        "Descuento exclusivo pagando con tus Tarjetas del Chile."
-      ],
-      "sucursales": [
-        "Av. Larrain #6580, Región Metropolitana, La Reina"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Lima Limón",
-      "categoria": "Sabores",
-      "descuento": "25% dto.",
-      "dia": [
-        "Lunes",
-        "Martes",
-        "Miércoles",
-        "Jueves",
-        "Sábado"
-      ],
-      "dia_texto": "lunes a jueves y sábados",
-      "canal": "Tienda física",
-      "vigencia": "Promoción válida hasta el 31 de enero de 2027.",
-      "condiciones": [
-        "Lima Limón es un punto de encuentro para disfrutar la alta gastronomía peruana en toda su rica diversidad. Su propuesta recorre costa, sierra y selva amazónica, fusionando sabores tradicionales andinos con técnicas modernas y sofisticadas. Se suma una destacada coctelería, desde el clásico pisco sour hasta creaciones de autor que enriquece la experiencia de vivir el sabor y la cultura.",
-        "25% dto. lunes a jueves y sábados compra presencial.",
-        "Solicita tu descuento al momento de pagar.",
-        "No acumulable con otras promociones.",
-        "No válido para feriados ni días festivos.",
-        "Descuento exclusivo pagando con tus Tarjetas del Chile."
-      ],
-      "sucursales": [
-        "Príncipe de Gales #7218, Región Metropolitana, La Reina"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Machu Picchu Providencia",
-      "categoria": "Sabores",
-      "descuento": "25% dto.",
-      "dia": [
-        "Lunes",
-        "Martes",
-        "Miércoles",
-        "Jueves",
-        "Sábado"
-      ],
-      "dia_texto": "lunes a jueves y sábados",
-      "canal": "Tienda física",
-      "vigencia": "Promoción válida hasta el 31 de enero de 2027.",
-      "condiciones": [
-        "Restaurante de gastronomía peruana que combina recetas tradicionales con una propuesta contemporánea. Su carta ofrece ceviches, causas, mariscos, pastas y coctelería de autor, elaborados con productos de temporada. Un espacio acogedor, ideal para disfrutar y celebrar ocasiones especiales.",
-        "25% dto. lunes a jueves y sábados compra presencial.",
-        "Solicita tu descuento al momento de pagar.",
-        "No acumulable con otras promociones.",
-        "No válido para feriados ni días festivos.",
-        "Descuento exclusivo pagando con tus Tarjetas del Chile."
-      ],
-      "sucursales": [
-        "Av. Francisco Bilbao #1256, Región Metropolitana, Providencia"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Pachamama Tenedor Libre",
-      "categoria": "Sabores",
-      "descuento": "25% dto.",
-      "dia": [
-        "Lunes",
-        "Martes",
-        "Miércoles",
-        "Jueves",
-        "Sábado"
-      ],
-      "dia_texto": "lunes a jueves y sábados",
-      "canal": "Tienda física",
-      "vigencia": "Promoción válida hasta el 31 de enero de 2027.",
-      "condiciones": [
-        "Pachamama Tenedor Libre destaca por su amplia propuesta buffet que integra cocina peruana, chilena e internacional. Ofrece cerca de 60 preparaciones entre entradas, fondos, parrilla y postres, elaboradas con altos estándares de calidad. Se suma una coctelería de autor que completa una experiencia pensada para disfrutar sin límites.",
-        "25% dto. lunes a jueves y sábados compra presencial.",
-        "Solicita tu descuento al momento de pagar.",
-        "No acumulable con otras promociones.",
-        "No válido para feriados ni días festivos.",
-        "Descuento exclusivo pagando con tus Tarjetas del Chile."
-      ],
-      "sucursales": [
-        "Antonio Varas #2207, Región Metropolitana, Ñuñoa"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Restaurant Son Perú",
-      "categoria": "Sabores",
-      "descuento": "25% dto.",
-      "dia": [
-        "Lunes",
-        "Martes",
-        "Miércoles",
-        "Jueves",
-        "Sábado"
-      ],
-      "dia_texto": "lunes a jueves y sábados",
-      "canal": "Tienda física",
-      "vigencia": "Promoción válida hasta el 31 de enero de 2027.",
-      "condiciones": [
-        "Restaurante de alta gastronomía peruana y cocina internacional, con una propuesta que combina tradición y técnica contemporánea. Su carta destaca por el uso de ingredientes frescos y de temporada, con ceviches, causas, carnes, pescados, postres y coctelería de autor. Un espacio ideal para disfrutar de una experiencia culinaria de excelencia.",
-        "25% dto. lunes a jueves y sábados compra presencial.",
-        "Solicita tu descuento al momento de pagar.",
-        "No acumulable con otras promociones.",
-        "No válido para feriados ni días festivos.",
-        "Descuento exclusivo pagando con tus Tarjetas del Chile."
-      ],
-      "sucursales": [
-        "Salvador Izquierdo #1800, Región Metropolitana, La Reina, Santiago"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Valerio Parrilladas Tenedor Libre Quilicura",
-      "categoria": "Sabores",
-      "descuento": "25% dto.",
-      "dia": [
-        "Lunes",
-        "Martes",
-        "Miércoles",
-        "Jueves",
-        "Sábado"
-      ],
-      "dia_texto": "lunes a jueves y sábado",
-      "canal": "Tienda física",
-      "vigencia": "Promoción válida hasta el 30 de enero de 2027.",
-      "condiciones": [
-        "Amplio restaurante en formato buffet que combina carnes a la parrilla con los sabores de la cocina peruana. Su propuesta incluye carnes marinadas con especias y hierbas, además de ceviches, ensaladas, sushi y clásicos como ají de gallina y lomo saltado. La experiencia se complementa con una variada coctelería de autor.",
-        "25% dto. lunes a jueves y sábado compra presencial.",
-        "Solicita tu descuento al momento de pagar.",
-        "No acumulable con otras promociones.",
-        "No válido para feriados ni días festivos.",
-        "Descuento exclusivo pagando con tus Tarjetas del Chile."
-      ],
-      "sucursales": [
-        "Av. Manuel Antonio Matta #712, Región Metropolitana, Quilicura"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Warique",
-      "categoria": "Sabores",
-      "descuento": "25% dto.",
-      "dia": [
-        "Lunes",
-        "Martes",
-        "Miércoles",
-        "Jueves",
-        "Sábado"
-      ],
-      "dia_texto": "lunes a jueves y sábados",
-      "canal": "Tienda física",
-      "vigencia": "Promoción válida hasta el 31 de enero de 2027.",
-      "condiciones": [
-        "Warique destaca por su cocina tradicional peruana y sabor auténtico. Su propuesta se basa en ingredientes originales y técnicas que respetan la esencia gastronómica del Perú. La carta incluye clásicos como lomo saltado, ají de gallina y ceviches, junto a sugerencias de temporada que aportan creatividad y renovación.",
-        "25% dto. lunes a jueves y sábados compra presencial.",
-        "Solicita tu descuento al momento de pagar.",
-        "No acumulable con otras promociones.",
-        "No válido para feriados ni días festivos.",
-        "Descuento exclusivo pagando con tus Tarjetas del Chile."
-      ],
-      "sucursales": [
-        "Jose Domingo Cañas #1879, Región Metropolitana, Ñuñoa"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "Curunina Kids",
       "categoria": "Entretención y Deportes",
       "descuento": "25% dto.",
@@ -18779,6 +18536,249 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "Brisas del Mar Ñuñoa",
+      "categoria": "Sabores",
+      "descuento": "25% dto.",
+      "dia": [
+        "Lunes",
+        "Martes",
+        "Miércoles",
+        "Jueves",
+        "Sábado"
+      ],
+      "dia_texto": "lunes a jueves y sábados",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 31 de octubre de 2026.",
+      "condiciones": [
+        "Un clásico que destaca por su sabor y calidez, ideal para compartir o celebrar. Su renovado espacio acompaña una propuesta donde sobresalen los productos marinos: ceviches, tiraditos, pulpo y causas frescas. Las sugerencias del chef reflejan una cocina que evoluciona sin perder su esencia en cada visita.",
+        "25% dto.lunes a jueves y sábados compra presencial.",
+        "Solicita tu descuento al momento de pagar.",
+        "No acumulable con otras promociones.",
+        "No válido para feriados ni días festivos.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Irarrázaval #4600, Región Metropolitana, Ñuñoa"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Lima Limón",
+      "categoria": "Sabores",
+      "descuento": "25% dto.",
+      "dia": [
+        "Lunes",
+        "Martes",
+        "Miércoles",
+        "Jueves",
+        "Sábado"
+      ],
+      "dia_texto": "lunes a jueves y sábados",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 31 de octubre de 2026.",
+      "condiciones": [
+        "Lima Limón es un punto de encuentro para disfrutar la alta gastronomía peruana en toda su rica diversidad. Su propuesta recorre costa, sierra y selva amazónica, fusionando sabores tradicionales andinos con técnicas modernas y sofisticadas. Se suma una destacada coctelería, desde el clásico pisco sour hasta creaciones de autor que enriquece la experiencia de vivir el sabor y la cultura.",
+        "25% dto. lunes a jueves y sábados compra presencial.",
+        "Solicita tu descuento al momento de pagar.",
+        "No acumulable con otras promociones.",
+        "No válido para feriados ni días festivos.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Príncipe de Gales #7218, Región Metropolitana, La Reina"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Machu Picchu Providencia",
+      "categoria": "Sabores",
+      "descuento": "25% dto.",
+      "dia": [
+        "Lunes",
+        "Martes",
+        "Miércoles",
+        "Jueves",
+        "Sábado"
+      ],
+      "dia_texto": "lunes a jueves y sábados",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 31 de octubre de 2026.",
+      "condiciones": [
+        "Restaurante de gastronomía peruana que combina recetas tradicionales con una propuesta contemporánea. Su carta ofrece ceviches, causas, mariscos, pastas y coctelería de autor, elaborados con productos de temporada. Un espacio acogedor, ideal para disfrutar y celebrar ocasiones especiales.",
+        "25% dto. lunes a jueves y sábados compra presencial.",
+        "Solicita tu descuento al momento de pagar.",
+        "No acumulable con otras promociones.",
+        "No válido para feriados ni días festivos.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Av. Francisco Bilbao #1256, Región Metropolitana, Providencia"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Casa Valerio Tenedor Libre",
+      "categoria": "Sabores",
+      "descuento": "25% dto.",
+      "dia": [
+        "Lunes",
+        "Martes",
+        "Miércoles",
+        "Jueves",
+        "Sábado"
+      ],
+      "dia_texto": "lunes a jueves y sábado",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 31 de octubre de 2026.",
+      "condiciones": [
+        "Una experiencia buffet que invita a recorrer Perú sin límites. Destaca su parrilla a la vista, donde los comensales eligen corte y cocción, junto a más de 65 opciones entre mariscos, platos criollos, guisos, entradas y postres. Se suma una atractiva coctelería de autor y jugos exóticos que completan la experiencia.",
+        "25% dto.lunes a jueves y sábado compra presencial.",
+        "Solicita tu descuento al momento de pagar.",
+        "No acumulable con otras promociones.",
+        "No válido para feriados ni días festivos.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Av. Larrain #6580, Región Metropolitana, La Reina"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Brisas Del Mar Tenedor Libre La Serena",
+      "categoria": "Sabores",
+      "descuento": "25% dto.",
+      "dia": [
+        "Lunes",
+        "Martes",
+        "Miércoles",
+        "Jueves",
+        "Sábado"
+      ],
+      "dia_texto": "lunes a jueves y sábado",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 31 de octubre de 2026.",
+      "condiciones": [
+        "Amplio buffet que reúne lo mejor de la gastronomía peruana junto a carnes a la parrilla. En su variado tenedor libre destacan ceviches servidos en piñas, pescados frescos, sushi y clásicos criollos en una propuesta diversa y sabrosa. La experiencia se completa con variedad de postres y coctelería de autor, pensada para disfrutar sin límites.",
+        "25% dto.lunes a jueves y sábado compra presencial.",
+        "Solicita tu descuento al momento de pagar.",
+        "No acumulable con otras promociones.",
+        "No válido para feriados ni días festivos.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Av. Balmaceda #5310, Región de Coquimbo, La Serena"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Restaurant Son Perú",
+      "categoria": "Sabores",
+      "descuento": "25% dto.",
+      "dia": [
+        "Lunes",
+        "Martes",
+        "Miércoles",
+        "Jueves",
+        "Sábado"
+      ],
+      "dia_texto": "lunes a jueves y sábados",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 31 de octubre de 2026.",
+      "condiciones": [
+        "Restaurante de alta gastronomía peruana y cocina internacional, con una propuesta que combina tradición y técnica contemporánea. Su carta destaca por el uso de ingredientes frescos y de temporada, con ceviches, causas, carnes, pescados, postres y coctelería de autor. Un espacio ideal para disfrutar de una experiencia culinaria de excelencia.",
+        "25% dto. lunes a jueves y sábados compra presencial.",
+        "Solicita tu descuento al momento de pagar.",
+        "No acumulable con otras promociones.",
+        "No válido para feriados ni días festivos.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Salvador Izquierdo #1800, Región Metropolitana, La Reina, Santiago"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Pachamama Tenedor Libre",
+      "categoria": "Sabores",
+      "descuento": "25% dto.",
+      "dia": [
+        "Lunes",
+        "Martes",
+        "Miércoles",
+        "Jueves",
+        "Sábado"
+      ],
+      "dia_texto": "lunes a jueves y sábados",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 31 de octubre de 2026.",
+      "condiciones": [
+        "Pachamama Tenedor Libre destaca por su amplia propuesta buffet que integra cocina peruana, chilena e internacional. Ofrece cerca de 60 preparaciones entre entradas, fondos, parrilla y postres, elaboradas con altos estándares de calidad. Se suma una coctelería de autor que completa una experiencia pensada para disfrutar sin límites.",
+        "25% dto. lunes a jueves y sábados compra presencial.",
+        "Solicita tu descuento al momento de pagar.",
+        "No acumulable con otras promociones.",
+        "No válido para feriados ni días festivos.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Antonio Varas #2207, Región Metropolitana, Ñuñoa"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Warique",
+      "categoria": "Sabores",
+      "descuento": "25% dto.",
+      "dia": [
+        "Lunes",
+        "Martes",
+        "Miércoles",
+        "Jueves",
+        "Sábado"
+      ],
+      "dia_texto": "lunes a jueves y sábados",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 31 de octubre de 2026.",
+      "condiciones": [
+        "Warique destaca por su cocina tradicional peruana y sabor auténtico. Su propuesta se basa en ingredientes originales y técnicas que respetan la esencia gastronómica del Perú. La carta incluye clásicos como lomo saltado, ají de gallina y ceviches, junto a sugerencias de temporada que aportan creatividad y renovación.",
+        "25% dto. lunes a jueves y sábados compra presencial.",
+        "Solicita tu descuento al momento de pagar.",
+        "No acumulable con otras promociones.",
+        "No válido para feriados ni días festivos.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Jose Domingo Cañas #1879, Región Metropolitana, Ñuñoa"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Valerio Parrilladas Tenedor Libre Quilicura",
+      "categoria": "Sabores",
+      "descuento": "25% dto.",
+      "dia": [
+        "Lunes",
+        "Martes",
+        "Miércoles",
+        "Jueves",
+        "Sábado"
+      ],
+      "dia_texto": "lunes a jueves y sábado",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 31 de octubre de 2026.",
+      "condiciones": [
+        "Amplio restaurante en formato buffet que combina carnes a la parrilla con los sabores de la cocina peruana. Su propuesta incluye carnes marinadas con especias y hierbas, además de ceviches, ensaladas, sushi y clásicos como ají de gallina y lomo saltado. La experiencia se complementa con una variada coctelería de autor.",
+        "25% dto. lunes a jueves y sábado compra presencial.",
+        "Solicita tu descuento al momento de pagar.",
+        "No acumulable con otras promociones.",
+        "No válido para feriados ni días festivos.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Av. Manuel Antonio Matta #712, Región Metropolitana, Quilicura"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "Basildon Listening Restobar",
       "categoria": "Sabores",
       "descuento": "30% dto.",
@@ -19786,30 +19786,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "DO SUSHI",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Miércoles",
-        "Sábado"
-      ],
-      "dia_texto": "miércoles y sábado de octubre",
-      "canal": null,
-      "vigencia": "Promoción válida del 01 al 31 de octubre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial 40% dto. todos los miércoles y sábado de octubre.",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dto. $50.000 por mesa"
-      ],
-      "sucursales": [
-        "Avenida Suecia #155, Local 0167, Región Metropolitana, Providencia"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "Sakura",
       "categoria": "Sabores",
       "descuento": "40% dto.",
@@ -19857,31 +19833,6 @@
       ],
       "sucursales": [
         "Av. Nueva Costanera #3723, Región Metropolitana, Vitacura"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Boga",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Lunes",
-        "Martes",
-        "Miércoles"
-      ],
-      "dia_texto": "lunes a miércoles de octubre",
-      "canal": null,
-      "vigencia": "Promoción válida del 01 al 31 de octubre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial 40% dto. todos los lunes a miércoles de octubre.",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dto. $50.000 por mesa"
-      ],
-      "sucursales": [
-        "Avenida Presidente Kennedy Lateral #9001, Alto las Condes local 3236, Región Metropolitana, Las Condes"
       ]
     },
     {
@@ -19991,56 +19942,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Miscelaneo Bar",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Martes",
-        "Miércoles",
-        "Jueves",
-        "Sábado"
-      ],
-      "dia_texto": "martes, miércoles, jueves y sábado de octubre",
-      "canal": null,
-      "vigencia": "Promoción válida del 01 al 31 de octubre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial 40% dto. todos los martes, miércoles, jueves y sábado de octubre.",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dto. $50.000 por mesa"
-      ],
-      "sucursales": [
-        "Santa María #5870, local 15, Región Metropolitana, Vitacura"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Majka Bistro",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Miércoles",
-        "Sábado"
-      ],
-      "dia_texto": "miércoles y sábado de octubre",
-      "canal": null,
-      "vigencia": "Promoción válida del 01 al 31 de octubre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial 40% dto. todos los miércoles y sábado de octubre.",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dto. $50.000 por mesa"
-      ],
-      "sucursales": [
-        "Av. Príncipe de Gales #7102, Región Metropolitana, La Reina"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "ICA RESTAURANTE",
       "categoria": "Sabores",
       "descuento": "40% dto.",
@@ -20060,55 +19961,6 @@
       ],
       "sucursales": [
         "Isidora Goyenechea #2939, Región Metropolitana, Las Condes"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "La Birrería",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Miércoles",
-        "Sábado"
-      ],
-      "dia_texto": "miércoles y sábado de octubre",
-      "canal": null,
-      "vigencia": "Promoción válida del 01 al 31 de octubre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial 40% dto. todos los miércoles y sábado de octubre.",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dcto. $50.000 por mesa"
-      ],
-      "sucursales": [
-        "Av. Pedro Fontova 7280, Local 106-107, Región Metropolitana, Huechuraba"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Ari Nikkei",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Lunes",
-        "Miércoles"
-      ],
-      "dia_texto": "lunes y miércoles de octubre",
-      "canal": null,
-      "vigencia": "Promoción válida del 01 al 31 de octubre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial 40% dto. todos los lunes y miércoles de octubre.",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dcto. $50.000 por mesa"
-      ],
-      "sucursales": [
-        "Cam. El Alba 11969, Región Metropolitana, Las Condes",
-        "Av. José Alcalde Délano 10492, Región Metropolitana, Lo Barnechea"
       ]
     },
     {
@@ -20135,30 +19987,6 @@
         "Avda. Vitacura #5461, Región Metropolitana, Vitacura",
         "Av. Principe De Gales #6500, Región Metropolitana, La Reina",
         "El Rodeo #12850, Local 74 y 75, Región Metropolitana, Lo Barnechea"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "SABOR Y AROMA",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Miércoles",
-        "Viernes"
-      ],
-      "dia_texto": "miércoles y viernes de octubre",
-      "canal": null,
-      "vigencia": "Promoción válida del 01 al 31 de octubre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial 40% dto. todos los miércoles y viernes de octubre.",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dto. $50.000 por mesa"
-      ],
-      "sucursales": [
-        "Raúl Labbe #12559, Región Metropolitana, Lo Barnechea"
       ]
     },
     {
@@ -20279,75 +20107,6 @@
       ],
       "sucursales": [
         "Av. Alcaldesa Balbina Vera 3561, Local 116, Región Metropolitana, Ñuñoa"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Kechua - Terrazas San Cristóbal",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Jueves"
-      ],
-      "dia_texto": "jueves de octubre",
-      "canal": null,
-      "vigencia": "Promoción válida del 01 al 31 de octubre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial. 40% dto. los jueves de octubre.",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dcto. $50.000 por mesa"
-      ],
-      "sucursales": [
-        "Terrazas San Cristobal, Constitución #241, Región Metropolitana, Providencia"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Tapas y Birra - Terrazas San Cristóbal",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Jueves"
-      ],
-      "dia_texto": "jueves de octubre",
-      "canal": null,
-      "vigencia": "Promoción válida del 01 al 31 de octubre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial. 40% dto. los jueves de octubre.",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dcto. $50.000 por mesa"
-      ],
-      "sucursales": [
-        "Terrazas San Cristobal, Constitución #241, Región Metropolitana, Providencia"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Siete Negronis - Terrazas San Cristóbal",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Jueves"
-      ],
-      "dia_texto": "jueves de octubre",
-      "canal": null,
-      "vigencia": "Promoción válida del 01 al 31 de octubre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial. 40% dto. los jueves de octubre.",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dcto. $50.000 por mesa"
-      ],
-      "sucursales": [
-        "Terrazas San Cristobal, Constitución #241, Región Metropolitana, Providencia"
       ]
     },
     {
@@ -20516,29 +20275,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Mosto",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Martes"
-      ],
-      "dia_texto": "martes de octubre",
-      "canal": null,
-      "vigencia": "Promoción válida del 01 al 31 de octubre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial 40% dto. todos los martes de octubre.",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dto. $50.000 por mesa"
-      ],
-      "sucursales": [
-        "Diego Portales #204, Región de los Lagos, Puerto Varas"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "MagBar",
       "categoria": "Sabores",
       "descuento": "40% dto.",
@@ -20558,29 +20294,6 @@
       ],
       "sucursales": [
         "Avenida Argentina #255, Región de Ñuble, Chillán"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Abrasas",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Martes"
-      ],
-      "dia_texto": "martes de octubre",
-      "canal": null,
-      "vigencia": "Promoción válida del 01 al 31 de octubre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial 40% dto. martes de octubre.",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dto. $50.000 por mesa"
-      ],
-      "sucursales": [
-        "Pdte. Federico Errázuriz #952, Región de Magallanes y de la Antártica Chilena, Punta Arenas"
       ]
     },
     {
@@ -20655,30 +20368,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Jardín Ulriksen",
-      "categoria": "Sabores",
-      "descuento": "40% dto",
-      "dia": [
-        "Lunes"
-      ],
-      "dia_texto": "lunes de octubre",
-      "canal": null,
-      "vigencia": "Promoción válida del 01 al 31 de octubre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial.",
-        "40% dto. lunes de octubre.",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dto. $50.000 por mesa"
-      ],
-      "sucursales": [
-        "Av Guillermo Ulriksen #2845, Región de Coquimbo, La Serena"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "The Clock",
       "categoria": "Sabores",
       "descuento": "40% dto.",
@@ -20725,29 +20414,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Otto Burger",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Viernes"
-      ],
-      "dia_texto": "viernes de octubre",
-      "canal": null,
-      "vigencia": "Promoción válida del 01 al 31 de octubre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial. 40% dto. todos los viernes de octubre.",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope de dto. $50.000"
-      ],
-      "sucursales": [
-        "Av Manuel Labra Lillo #350, Región Maule, Curicó"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "La Joya Cantina",
       "categoria": "Sabores",
       "descuento": "40% dto.",
@@ -20767,29 +20433,6 @@
       ],
       "sucursales": [
         "EUSEBIO LILLO #200, Región de Valparaíso, Valparaíso"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Sello de Raza",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Jueves"
-      ],
-      "dia_texto": "jueves de octubre",
-      "canal": null,
-      "vigencia": "Promoción válida del 01 al 31 de octubre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial 40% dto. todos los jueves de octubre.",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dto. $50.000 por mesa"
-      ],
-      "sucursales": [
-        "Las Encinas #191, Región de los Ríos, Valdivia"
       ]
     },
     {
@@ -22497,52 +22140,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Tololo Beach",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Martes"
-      ],
-      "dia_texto": "martes de octubre",
-      "canal": null,
-      "vigencia": "Promoción válida del 01 al 31 de octubre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial 40% dto. todos los martes de octubre",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope $50.000 de dto"
-      ],
-      "sucursales": [
-        "Av. del Mar #5200, La Serena, Coquimbo"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Tololo Beef",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Martes"
-      ],
-      "dia_texto": "martes de octubre",
-      "canal": null,
-      "vigencia": "Promoción válida del 01 al 31 de octubre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial 40% dto. todos los martes de octubre",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope $50.000 de dto"
-      ],
-      "sucursales": [
-        "Av. Costanera #5425, La Serena, Coquimbo"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "Oktoberfest 2026",
       "categoria": "Entretención y Deportes",
       "descuento": null,
@@ -22579,57 +22176,6 @@
         "Descuento exclusivo pagando con tus Tarjetas del Chile."
       ],
       "sucursales": []
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Le Rouge",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Lunes",
-        "Martes",
-        "Miércoles"
-      ],
-      "dia_texto": "lunes a miércoles de octubre",
-      "canal": null,
-      "vigencia": "Promoción válida del 01 al 31 de octubre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial 40% dto. de lunes a miércoles de octubre",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope $50.000 de dto"
-      ],
-      "sucursales": [
-        "Av. Blanca Estela 58, local 7, Valparaíso, Concón"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Basildon",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Lunes",
-        "Martes",
-        "Miércoles",
-        "Jueves"
-      ],
-      "dia_texto": "lunes a jueves de octubre",
-      "canal": null,
-      "vigencia": "Promoción válida del 01 al 31 de octubre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial 40% dto. de lunes a jueves de octubre",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope $50.000 de dto"
-      ],
-      "sucursales": [
-        "Orompello #68, Región del Bio Bio, Concepcion"
-      ]
     },
     {
       "banco": "Banco de Chile",
@@ -23133,6 +22679,144 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "Siete Negronis - Terrazas San Cristóbal",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Jueves"
+      ],
+      "dia_texto": "jueves de octubre",
+      "canal": null,
+      "vigencia": "Promoción válida del 01 al 31 de octubre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial. 40% dto. jueves de octubre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dcto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Terrazas San Cristobal, Constitución #241, Región Metropolitana, Providencia"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Tapas y Birra - Terrazas San Cristóbal",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Jueves"
+      ],
+      "dia_texto": "jueves de octubre",
+      "canal": null,
+      "vigencia": "Promoción válida del 01 al 31 de octubre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial. 40% dto. jueves de octubre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dcto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Terrazas San Cristobal, Constitución #241, Región Metropolitana, Providencia"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Kechua - Terrazas San Cristóbal",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Jueves"
+      ],
+      "dia_texto": "jueves de octubre",
+      "canal": null,
+      "vigencia": "Promoción válida del 01 al 31 de octubre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial. 40% dto. jueves de octubre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dcto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Terrazas San Cristobal, Constitución #241, Región Metropolitana, Providencia"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Abrasas",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Martes"
+      ],
+      "dia_texto": "martes de octubre",
+      "canal": null,
+      "vigencia": "Promoción válida del 01 al 31 de octubre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. martes de octubre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Pdte. Federico Errázuriz #952, Región de Magallanes y de la Antártica Chilena, Punta Arenas"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Mosto",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Martes"
+      ],
+      "dia_texto": "martes de octubre",
+      "canal": null,
+      "vigencia": "Promoción válida del 01 al 31 de octubre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. martes de octubre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Diego Portales #204, Región de los Lagos, Puerto Varas"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Otto Burger",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Viernes"
+      ],
+      "dia_texto": "viernes de octubre",
+      "canal": null,
+      "vigencia": "Promoción válida del 01 al 31 de octubre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial. 40% dto. viernes de octubre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope de dto. $50.000"
+      ],
+      "sucursales": [
+        "Av Manuel Labra Lillo #350, Región Maule, Curicó"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "Dagán",
       "categoria": "Sabores",
       "descuento": "50% dto.",
@@ -23151,6 +22835,103 @@
       ],
       "sucursales": [
         "Av. Nueva Costanera #3750, Región Metropolitana, Vitacura"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Tololo Beach",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Martes"
+      ],
+      "dia_texto": "martes de octubre",
+      "canal": null,
+      "vigencia": "Promoción válida del 01 al 31 de octubre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. martes de octubre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope $50.000 de dto"
+      ],
+      "sucursales": [
+        "Av. del Mar #5200, La Serena, Coquimbo"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Tololo Beef",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Martes"
+      ],
+      "dia_texto": "martes de octubre",
+      "canal": null,
+      "vigencia": "Promoción válida del 01 al 31 de octubre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. martes de octubre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope $50.000 de dto"
+      ],
+      "sucursales": [
+        "Av. Costanera #5425, La Serena, Coquimbo"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Le Rouge",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Lunes",
+        "Martes",
+        "Miércoles"
+      ],
+      "dia_texto": "lunes a miércoles de octubre",
+      "canal": null,
+      "vigencia": "Promoción válida del 01 al 31 de octubre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. lunes a miércoles de octubre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope $50.000 de dto"
+      ],
+      "sucursales": [
+        "Av. Blanca Estela 58, local 7, Valparaíso, Concón"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Basildon",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Lunes",
+        "Martes",
+        "Miércoles",
+        "Jueves"
+      ],
+      "dia_texto": "lunes a jueves de octubre",
+      "canal": null,
+      "vigencia": "Promoción válida del 01 al 31 de octubre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. lunes a jueves de octubre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope $50.000 de dto"
+      ],
+      "sucursales": [
+        "Orompello #68, Región del Bio Bio, Concepcion"
       ]
     },
     {
@@ -23597,6 +23378,154 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "DO SUSHI",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Miércoles",
+        "Sábado"
+      ],
+      "dia_texto": "miércoles y sábado de octubre",
+      "canal": null,
+      "vigencia": "Promoción válida del 01 al 31 de octubre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. miércoles y sábado de octubre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Avenida Suecia #155, Local 0167, Región Metropolitana, Providencia"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Boga",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Lunes",
+        "Martes",
+        "Miércoles"
+      ],
+      "dia_texto": "lunes a miércoles de octubre",
+      "canal": null,
+      "vigencia": "Promoción válida del 01 al 31 de octubre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. lunes a miércoles de octubre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Avenida Presidente Kennedy Lateral #9001, Alto las Condes local 3236, Región Metropolitana, Las Condes"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Ari Nikkei",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Lunes",
+        "Miércoles"
+      ],
+      "dia_texto": "lunes y miércoles de octubre",
+      "canal": null,
+      "vigencia": "Promoción válida del 01 al 31 de octubre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. lunes y miércoles de octubre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dcto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Cam. El Alba 11969, Región Metropolitana, Las Condes",
+        "Av. José Alcalde Délano 10492, Región Metropolitana, Lo Barnechea"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "La Birrería",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Miércoles",
+        "Sábado"
+      ],
+      "dia_texto": "miércoles y sábado de octubre",
+      "canal": null,
+      "vigencia": "Promoción válida del 01 al 31 de octubre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. miércoles y sábado de octubre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dcto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Av. Pedro Fontova 7280, Local 106-107, Región Metropolitana, Huechuraba"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Majka Bistro",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Miércoles",
+        "Sábado"
+      ],
+      "dia_texto": "miércoles y sábado de octubre",
+      "canal": null,
+      "vigencia": "Promoción válida del 01 al 31 de octubre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. miércoles y sábado de octubre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Av. Príncipe de Gales #7102, Región Metropolitana, La Reina"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Miscelaneo Bar",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Martes",
+        "Miércoles",
+        "Jueves",
+        "Sábado"
+      ],
+      "dia_texto": "martes, miércoles, jueves y sábado de octubre",
+      "canal": null,
+      "vigencia": "Promoción válida del 01 al 31 de octubre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. martes, miércoles, jueves y sábado de octubre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Santa María #5870, local 15, Región Metropolitana, Vitacura"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "La Cocina de Javier",
       "categoria": "Sabores",
       "descuento": "40% dto.",
@@ -23621,6 +23550,30 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "SABOR Y AROMA",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Miércoles",
+        "Viernes"
+      ],
+      "dia_texto": "miércoles y viernes de octubre",
+      "canal": null,
+      "vigencia": "Promoción válida del 01 al 31 de octubre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. miércoles y viernes de octubre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Raúl Labbe #12559, Región Metropolitana, Lo Barnechea"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "Novu",
       "categoria": "Sabores",
       "descuento": "40% dto.",
@@ -23631,7 +23584,7 @@
       "canal": null,
       "vigencia": "Promoción válida del 01 al 31 de octubre de 2026.",
       "condiciones": [
-        "Válido para consumo presencial 40% dto. todos los miércoles de octubre.",
+        "Válido para consumo presencial 40% dto. miércoles de octubre.",
         "Solicita el descuento al momento de pagar en el restaurant.",
         "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
         "No acumulable con otras promociones.",
@@ -23913,6 +23866,215 @@
       "sucursales": [
         "José María Escrivá de Balaguer #861, local 10 (Centro Comercial Pinares), Región de Valparaíso, Concón"
       ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Jardín Ulriksen",
+      "categoria": "Sabores",
+      "descuento": "40% dto",
+      "dia": [
+        "Lunes"
+      ],
+      "dia_texto": "lunes de octubre",
+      "canal": null,
+      "vigencia": "Promoción válida del 01 al 31 de octubre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial. 40% dto. lunes de octubre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Av Guillermo Ulriksen #2845, Región de Coquimbo, La Serena"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Sello de Raza",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Jueves"
+      ],
+      "dia_texto": "jueves de octubre",
+      "canal": null,
+      "vigencia": "Promoción válida del 01 al 31 de octubre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. jueves de octubre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Las Encinas #191, Región de los Ríos, Valdivia"
+      ]
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Shell",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "$100 de descuento por litro bencina",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Aprovecha tu descuento en bencina este fin de semana largo",
+        "Exclusivo pagando con tus Tarjetas de Crédito Santander.",
+        "Descuento válido desde la app shell seleccionando el cupón de descuento al momento de pagar.",
+        "Válido desde el 9 de octubre de 2026 al 12 de octubre de 2026",
+        "No acumulable a otras promociones.",
+        "Paga con tu Tarjeta de Crédito Santander para obtener el descuento.",
+        "Cupón de descuento disponible en la App Shell, desde el 9 al 12 de octubre de 2026. Tope de descuento 50 litros por carga de combustible. Solo un cupón por persona. Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Revisa todos los términos y condiciones de las promociones en Santander.cl/Beneficios. Banco Santander Chile: infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Nikola",
+      "categoria": "Cuotas Sin Interés",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "3 a 48 cuotas sin interés",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "¡Aprovecha al máximo los recursos naturales y la energía con paneles solares para tu hogar!",
+        "Exclusivo pagando con tus Tarjetas de Crédito Santander y Tarjetas de Crédito Santander Empresas.",
+        "Es válido en www.nikola.cl",
+        "No es acumulable con otras promociones.",
+        "CAE 1,54% Calculado por un monto referencial de compra de $1.000.000 en 48 cuotas. Costo total del Crédito: $1.031.680 . Operación afecta a impuesto al crédito a cargo del cliente.",
+        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Sumoku",
+      "categoria": "Sabores",
+      "descuento": null,
+      "dia": [
+        "Martes"
+      ],
+      "dia_texto": "50%. dcto. todos los martes",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Comida del mar que garantiza un viaje entre clásicos sabores japoneses con notas sofisticadas de alta cocina.",
+        "Exclusivo con tus Tarjetas de Crédito Santander American Express.",
+        "Válido para consumo en local.",
+        "Bellavista 703, Reñaca",
+        "Descuento aplica para los días martes",
+        "Tope de descuento de $50.000.",
+        "Pide tu descuento al momento de pagar.",
+        "No acumulable a otras promociones.",
+        "Se excluyen propinas, menús, happy hours.",
+        "Descuento válido todos los martes desde desde el 01 de junio de 2026 hasta el 31 de agosto de 2026, ambas fechas inclusive, para consumos realizados en el establecimiento en el horario de atención de público del restaurante. Exclusivo para clientes que paguen con las Tarjetas de Crédito Santander de American Express indicadas seguidamente y que soliciten el descuento al momento de pagar presencialmente. Beneficio consistente en un descuento de un 50% del total del consumo (excluida propina) con un tope de $50.000.- diarios por cuenta y por mes. Beneficio no aplicable: (a) Al consumo de cigarrillos y de cualquier otro producto de tabaco y, (b) A consumos hechos por un mismo grupo de personas que pagan el total dividido o por mesa. El consumo podrá pagarse utilizando más de una de las Tarjetas American Express® incluidas en el beneficio. Las Tarjetas Santander de American Express admitidas son: The Platinum Card®, WorldMember Limited ECO, WorldMember ECO y Platinum LATAM Pass ECO. No se aceptarán las tarjetas de formato horizontal. Ni American Express ni Servicios Empresariales Orsan S.A. se responsabilizan por los productos y/o servicios ofrecidos por los establecimientos y/o adquiridos en ellos. Descuento no acumulable e intransferible. No válido para consumos para llevar, delivery o pedidos a través de plataformas externas. El comercio se reserva el derecho de aplicar el beneficio en días festivos, feriados y con significancia comercial, sea general o particular del restorán. Listado de establecimientos adheridos en www.AmericanExpress.cl. American Express es una marca de American Express. Las Tarjetas son emitidas por Banco Santander bajo licencia de American Express."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "GOODYEAR",
+      "categoria": "Cuotas Sin Interés",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "3 a 6 cuotas sin interés",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "GOODYEAR",
+        "Exclusivo pagando con tus Tarjetas de Crédito Santander.",
+        "Válido en tienda.",
+        "CAE 1,36% Calculado por un monto referencial de compra de $1.000.000 en 6 cuotas. Costo total del Crédito: $1.003.960. Operación afecta a impuesto al crédito a cargo del cliente.",
+        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Google Cloud",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": null,
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "$350 dcto en créditos y acceso gratuito a más de 20 productos todos los días",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Aprovecha los innovadores productos, soluciones y servicios de IA.",
+        "Exclusivo con tus Tarjetas de Crédito Santander Empresas.",
+        "La oferta es exclusiva para el canal de afiliados.",
+        "Los créditos deben usarse dentro de los 90 días posteriores al inicio de la cuenta de prueba gratuita.",
+        "Válido solo aplica para nuevos clientes de Google Cloud."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "RUY BARBOSA",
+      "categoria": "Cuotas Sin Interés",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "3 a 48 cuotas sin interés",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "RUY BARBOSA",
+        "Exclusivo pagando con tus Tarjetas de Crédito Santander.",
+        "Válido en tiendas.",
+        "CAE 1,54% Calculado por un monto referencial de compra de $1.000.000 en 48 cuotas. Costo total del Crédito: $1.031.680. Operación afecta a impuesto al crédito a cargo del cliente.",
+        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "IMOTO",
+      "categoria": "Cuotas Sin Interés",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "13 a 24 cuotas sin interés",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "IMOTO",
+        "Exclusivo pagando con tus Tarjetas de Crédito Santander.",
+        "Válido en tiendas.",
+        "CAE 1,51% Calculado por un monto referencial de compra de $1.000.000 en 6 cuotas. Costo total del Crédito: $1.015.840. Operación afecta a impuesto al crédito a cargo del cliente.",
+        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Google Workspace",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "25% dcto",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los dias en planes Business Standard",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Gestiona y haz crecer tu empresa con Google Workspace",
+        "Válido para Tarjetas de Crédito Santander Empresa.",
+        "Aplique el código de promoción en el cuadro \"Código de promoción\" cuando se le solicite elegir una opción de plan de pago anual o flexible al crear su cuenta.",
+        "Código válido para opciones de pago flexible y anual durante los primeros 12 meses de tu Descuento exclusivo para nuevas cuentas Google Workspace.",
+        "Código de promoción válido para planes Business Standard",
+        "Ruta para llegar al plan:",
+        "Haga clic en \"Activar\" y valide su Business Mastercard para obtener el enlace de la oferta",
+        "Haga clic en \"Canjear\" para visitar la página de la oferta Haga clic en \"Iniciar prueba gratuita\" y complete todos los datos para crear su cuenta.",
+        "Elija una opción de plan de pago flexible para crear su cuenta Aplique el código de promoción en el cuadro \"Código de promoción\" cuando se le solicite https://www.easysavingsspecials.com/es/offers/details/17fc8d71-b9c9-4052-92cd-fc0d8453e9cc/all/google-workspace",
+        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
+      ],
+      "sucursales": []
     },
     {
       "banco": "Banco Santander",
@@ -25236,24 +25398,6 @@
         "Tope de descuento $40.000",
         "Para hacer efectivo el descuento debe ser solicitado mostrando y pagando con tus Tarjetas Santander.",
         "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​"
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Daas Motors",
-      "categoria": "Cuotas Sin Interés",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "3 a 36 cuotas sin interés",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Descubre toda la colección de motos eléctricas",
-        "Exclusivo pagando con tus Tarjetas de Crédito Santander y Tarjetas de Crédito Santander Empresas.",
-        "Es válido en tiendas y online.",
-        "CAE 1,53% Calculado por un monto referencial de compra de $1.000.000 en 36 cuotas. Costo total del Crédito: $1.023.760. Operación afecta a impuesto al crédito a cargo del cliente.",
-        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
       ],
       "sucursales": []
     },
@@ -29093,24 +29237,6 @@
     },
     {
       "banco": "Banco Santander",
-      "comercio": "SP Digital",
-      "categoria": "Cuotas Sin Interés",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "4 a 24 cuotas sin interés",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Compra tu pc gamer, componentes y más al mejor precio.",
-        "Exclusivo pagando con tus Tarjetas de Crédito Santander.",
-        "Válido en tiendas y www.spdigital.cl",
-        "CAE 1,51% Calculado por un monto referencial de compra de $1.000.000 en 24 cuotas. Costo total del Crédito: $1.015.840. Operación afecta a impuesto al crédito a cargo del cliente.",
-        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
       "comercio": "Claro",
       "categoria": "Cuotas Sin Interés",
       "descuento": null,
@@ -30165,25 +30291,6 @@
     },
     {
       "banco": "Banco Santander",
-      "comercio": "Nikola",
-      "categoria": "Cuotas Sin Interés",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "3 a 48 cuotas sin interés",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "¡Aprovecha al máximo los recursos naturales y la energía con paneles solares para tu hogar!",
-        "Exclusivo pagando con tus Tarjetas de Crédito Santander y Tarjetas de Crédito Santander Empresas.",
-        "Es válido en www.nikola.cl",
-        "No es acumulable con otras promociones.",
-        "CAE 1,54% Calculado por un monto referencial de compra de $1.000.000 en 48 cuotas. Costo total del Crédito: $1.031.680 . Operación afecta a impuesto al crédito a cargo del cliente.",
-        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
       "comercio": "Warmtec",
       "categoria": "Cuotas Sin Interés",
       "descuento": null,
@@ -30713,39 +30820,6 @@
         "Tope de descuento de $50.000.",
         "No acumulable a otras promociones.",
         "Descuento válido todos los martes desde desde el 01 de septiembre de 2026 hasta el 30 de noviembre de 2026, ambas fechas inclusive, para consumos realizados en el establecimiento en el horario de atención de público del restaurante. Exclusivo para clientes que paguen con las Tarjetas de Crédito Santander de American Express indicadas seguidamente y que soliciten el descuento al momento de pagar presencialmente. Beneficio consistente en un descuento de un 50% del total del consumo (excluida propina) con un tope de $50.000.- diarios por cuenta y por mes. Beneficio no aplicable: (a) Al consumo de cigarrillos y de cualquier otro producto de tabaco y, (b) A consumos hechos por un mismo grupo de personas que pagan el total dividido o por mesa. El consumo podrá pagarse utilizando más de una de las Tarjetas American Express® incluidas en el beneficio. Las Tarjetas Santander de American Express admitidas son: The Platinum Card®, WorldMember Limited ECO, WorldMember ECO y Platinum LATAM Pass ECO. No se aceptarán las tarjetas de formato horizontal. Ni American Express ni Servicios Empresariales Orsan S.A. se responsabilizan por los productos y/o servicios ofrecidos por los establecimientos y/o adquiridos en ellos. Descuento no acumulable e intransferible. No válido para consumos para llevar, delivery o pedidos a través de plataformas externas. El comercio se reserva el derecho de aplicar el beneficio en días festivos, feriados y con significancia comercial, sea general o particular del restorán. Listado de establecimientos adheridos en www.AmericanExpress.cl. American Express es una marca de American Express. Las Tarjetas son emitidas por Banco Santander bajo licencia de American Express."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Sumoku",
-      "categoria": "Sabores",
-      "descuento": null,
-      "dia": [
-        "Martes",
-        "Miércoles"
-      ],
-      "dia_texto": "Hasta 50%. dcto. todos los martes y miercoles",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Comida del mar que garantiza un viaje entre clásicos sabores japoneses con notas sofisticadas de alta cocina.",
-        "Exclusivo con tus Tarjetas de Crédito Santander American Express y Tarjeta de Crédito WorldMember Limited Santander LATAM Pass",
-        "Válido para consumo en local.",
-        "Bellavista 703, Reñaca.",
-        "Con Tarjetas de Crédito Santander American Express",
-        "Descuento aplica para los días martes",
-        "Tope de descuento de $50.000.",
-        "Pide tu descuento al momento de pagar.",
-        "No acumulable a otras promociones.",
-        "Se excluyen propinas, menús, happy hours.",
-        "Con Tarjeta de Crédito WorldMember Limited Santander LATAM Pass",
-        "Descuento aplica para los d ías miércoles",
-        "Tope de descuento de $100.000.",
-        "Pide tu descuento al momento de pagar.",
-        "No acumulable a otras promociones.",
-        "Se excluyen propinas, menús, happy hours.",
-        "Descuento válido todos los martes desde desde el 01 de junio de 2026 hasta el 31 de agosto de 2026, ambas fechas inclusive, para consumos realizados en el establecimiento en el horario de atención de público del restaurante. Exclusivo para clientes que paguen con las Tarjetas de Crédito Santander de American Express indicadas seguidamente y que soliciten el descuento al momento de pagar presencialmente. Beneficio consistente en un descuento de un 50% del total del consumo (excluida propina) con un tope de $50.000.- diarios por cuenta y por mes. Beneficio no aplicable: (a) Al consumo de cigarrillos y de cualquier otro producto de tabaco y, (b) A consumos hechos por un mismo grupo de personas que pagan el total dividido o por mesa. El consumo podrá pagarse utilizando más de una de las Tarjetas American Express® incluidas en el beneficio. Las Tarjetas Santander de American Express admitidas son: The Platinum Card®, WorldMember Limited ECO, WorldMember ECO y Platinum LATAM Pass ECO. No se aceptarán las tarjetas de formato horizontal. Ni American Express ni Servicios Empresariales Orsan S.A. se responsabilizan por los productos y/o servicios ofrecidos por los establecimientos y/o adquiridos en ellos. Descuento no acumulable e intransferible. No válido para consumos para llevar, delivery o pedidos a través de plataformas externas. El comercio se reserva el derecho de aplicar el beneficio en días festivos, feriados y con significancia comercial, sea general o particular del restorán. Listado de establecimientos adheridos en www.AmericanExpress.cl. American Express es una marca de American Express. Las Tarjetas son emitidas por Banco Santander bajo licencia de American Express."
       ],
       "sucursales": []
     },
