@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-08T17:39",
+  "actualizado": "2026-10-09T17:18",
   "beneficios": [
     {
       "banco": "Banco de Chile",
@@ -13446,6 +13446,27 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "Azaleia",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "20% dto.",
+      "dia": [
+        "Miércoles",
+        "Jueves",
+        "Viernes"
+      ],
+      "dia_texto": "miércoles, jueves y viernes en compra",
+      "canal": "Online",
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
+      "condiciones": [
+        "Descarga de códigos no se encuentra disponible por Cyber. Obtén 20% de descuento con un tope de $50.000 en azaleia.cl",
+        "Descarga tu código de descuento e ingrésalo como cupón de descuento al momento de pagar con tus tarjetas del Banco.",
+        "No acumulable con otras promociones.",
+        "Descuento no aplica para compras con factura y en cambios."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "KFC",
       "categoria": "Sabores",
       "descuento": "30% dto.",
@@ -13675,6 +13696,27 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "Columbia",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "20% dto.",
+      "dia": [
+        "Miércoles",
+        "Jueves",
+        "Viernes"
+      ],
+      "dia_texto": "miércoles, jueves y viernes en compra",
+      "canal": "Online",
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
+      "condiciones": [
+        "Obtén 20% dto con un tope de $50.000 en columbiachile.cl",
+        "Descarga tu código de descuento e ingrésalo como cupón de descuento al momento de pagar con tus Tarjetas del Banco.",
+        "No acumulable con otras promociones.",
+        "Descuento no aplica para compras con factura y en cambios."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "China Wok",
       "categoria": "Sabores",
       "descuento": "30% dto.",
@@ -13713,6 +13755,275 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "Jansport",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "20% dto.",
+      "dia": [
+        "Miércoles",
+        "Jueves",
+        "Viernes"
+      ],
+      "dia_texto": "miércoles, jueves y viernes en compra",
+      "canal": "Online",
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
+      "condiciones": [
+        "Obtén 20% de descuento con un tope de $50.000 en jansport.cl",
+        "Descarga tu código de descuento e ingrésalo como cupón de descuento al momento de pagar con tus tarjetas del Banco.",
+        "No acumulable con otras promociones.",
+        "Descuento no aplica para compras con factura y en cambios."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Crocs",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "20% dto",
+      "dia": [
+        "Miércoles",
+        "Jueves",
+        "Viernes"
+      ],
+      "dia_texto": "miércoles, jueves y viernes en compra",
+      "canal": "Online",
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
+      "condiciones": [
+        "Obtén 20% de descuento con un tope de $50.000 en Crocs.cl",
+        "Descarga tu código de descuento e ingrésalo como cupón de descuento al momento de pagar con tus tarjetas del Banco.",
+        "No acumulable con otras promociones.",
+        "Descuento no aplica para compras con factura y en cambios.",
+        "Descuento no válido en colecciones con colaboración."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Hush Puppies Kids",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "20% dto.",
+      "dia": [
+        "Miércoles",
+        "Jueves",
+        "Viernes"
+      ],
+      "dia_texto": "miércoles, jueves y viernes en compra",
+      "canal": "Online",
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
+      "condiciones": [
+        "Obtén 20% de descuento con un tope de $50.000 en hushpuppieskids.cl",
+        "Descarga tu código de descuento e ingresalo como cupón de descuento al momento de pagar con tus tarjetas del Banco.",
+        "No acumulable con otras promociones.",
+        "Descuento no aplica para compras con factura y en cambios."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "7Veinte",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "20% dto.",
+      "dia": [
+        "Miércoles",
+        "Jueves",
+        "Viernes"
+      ],
+      "dia_texto": "miércoles, jueves y viernes en compra",
+      "canal": "Online",
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
+      "condiciones": [
+        "Obtén 20% dto con un tope de $50.000 en 7veinte.cl",
+        "Descarga tu código de descuento e ingresalo como cupón de descuento al momento de pagar con tus Tarjetas del Banco",
+        "No acumulable con otras promociones.",
+        "Descuento no aplica para compras con factura y en cambios.",
+        "Excluye VANS."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "CAT",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "20% dto.",
+      "dia": [
+        "Miércoles",
+        "Jueves",
+        "Viernes"
+      ],
+      "dia_texto": "miércoles, jueves y viernes en compra",
+      "canal": "Online",
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
+      "condiciones": [
+        "Obtén 20% de descuento con un tope de $50.000 en shopcaterpillar.cl",
+        "Descarga tu código de descuento e ingrésalo como cupón de descuento al momento de pagar con tus tarjetas del Banco.",
+        "No acumulable con otras promociones.",
+        "Descuento no aplica para compras con factura y en cambios."
+      ],
+      "sucursales": [
+        "Local 1B, CALLE OHIGGINS 463, LOS LAGOS, VALDIVIA",
+        "Local 234- L 236, AV. BALMACEDA # 2355, ANTOFAGASTA, ANTOFAGASTA",
+        "Local C-129/C-133/C-137, AV. BALMACEDA # 3242 ., ANTOFAGASTA, CALAMA",
+        "Local BA-126-130, AV. HUANHUALI 105, COQUIMBO, LA SERENA",
+        "Local C-1020 / C-1024 / C1028, CALLE MAIPU N# 0110, ATACAMA, COPIAPO",
+        "Local 287-289, AV. HEROES DE LA CONCEPCION N2555, TARAPACA, IQUIQUE",
+        "Local 9, AVDA. 13 NORTE 853, Valparaiso, VIÑA DEL MAR",
+        "Local 387, AV. KENNEDY 5413, RM, SANTIAGO",
+        "Local 3132, AV. ANDRES BELLO 2425, RM, SANTIAGO",
+        "Local 3170, AV. KENNEDY 9001, RM, SANTIAGO",
+        "Local B3028-3032-B3036, AV. PADRE HURTADO SUR N#875, RM, SANTIAGO",
+        "Local 1077, AV. VICU?A MACKENA N?6100, RM, SANTIAGO",
+        "Local 2016, AV. JOSE PEDRO ALESSANDRI # 1166, RM, SANTIAGO",
+        "Local P-1312/P1308, AV. AMERICO VESPUCIO # 1737, RM, SANTIAGO",
+        "AV. CAMILO HENRIQUEZ 3296 D108-112-116, RM, SANTIAGO",
+        "AV. VICUnA MACKENNA ORIENTE N#7110, RM, SANTIAGO",
+        "Local 386, AV. AMERICO VESPUCIO #399, RM, SANTIAGO",
+        "Local B-3056 / B-3060, AV. LARRAIN N# 5862, RM, SANTIAGO",
+        "Local BA-124/BA-128, AV. AMERICO VESPUCIO N# 1501, RM, SANTIAGO",
+        "Local J1, CARLOS VALDOVINOS 200, RM, SANTIAGO",
+        "Local A2070, AV. JORGE ALESSANDRI 20040, RM, SANTIAGO",
+        "Local 124, AVENIDA INDEPENDENCIA 565, RM, SANTIAGO",
+        "Local 142, CALLE SAN IGNACIO N300, RM, SANTIAGO",
+        "Local 1081, AV EL LLANO SUBERCASEAUX N3519 A, RM, SANTIAGO",
+        "Local E 114 - E 116, AV. J. ALESSANDRI #3177, BIO-BIO, TALCAHUANO",
+        "Local 10, AV. BERNARDO O`HIGGINS N# 201, MAULE, CURICO",
+        "Local 107, UNO SUR 1533, MAULE, TALCA",
+        "Local 3046, AV. ALEMANIA # 0671, ARAUCANIA, TEMUCO",
+        "Local 08-02, BARROS ARANA #1068, BIO-BIO, CONCEPCION",
+        "Local 317 A, CALLE EL ROBLE N#770, BIO-BIO, CHILLAN",
+        "Local 1001, CARRETERA EL COBRE PRESIDENTE FREI N750, OHIGGINS, RANCAGUA",
+        "CALLE OHIGGINS N467, LOS RIOS, VALDIVIA",
+        "Local 314-315, VALDIVIA 440, BIO-BIO, LOS ANGELES",
+        "Local 244, CALLE ILLAPEL N#10, LOS LAGOS, PUERTO MONTT",
+        "Local 2032, PLAZA YUNGAY 609, LOS LAGOS, OSORNO"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Rockford",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "20% dto.",
+      "dia": [
+        "Miércoles",
+        "Jueves",
+        "Viernes"
+      ],
+      "dia_texto": "miércoles, jueves y viernes compra",
+      "canal": "Online",
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
+      "condiciones": [
+        "Obtén 20% de descuento con un tope de $50.000 en rkflife.com",
+        "Descarga tu código de descuento e ingrésalo como cupón de descuento al momento de pagar con tus tarjetas del Banco.",
+        "No acumulable con otras promociones.",
+        "Descuento no aplica para compras con factura y en cambios."
+      ],
+      "sucursales": [
+        "Local 220 A, ILLAPEL 10, LOS LAGOS, PUERTO MONTT",
+        "Local B137/ B141/B145 MALL CALAMA, BALMACEDA 3242, ANTOFAGASTA, CALAMA",
+        "Local C 114, AV. ALBERTO SOLARI 1400, COQUIMBO, LA SERENA",
+        "LOC 111-113-115, AV. HEROES DE LA CONCEPCION N?2555, TARAPACA, IQUIQUE",
+        "Local 154-156-158, AV. BALMACEDA N? 2355, ANTOFAGASTA, ANTOFAGASTA",
+        "CALLE CARACOLES # 320, ANTOFAGASTA, SAN PEDRO DE ATACAMA",
+        "Local A-1068 / A-1072, CALLE MAIPU N# 0110, ATACAMA, COPIAPO",
+        "Local 6, LIBERTAD #1348, Valparaiso, VIÑA DEL MAR",
+        "Local 13-14, GERMAN RIESCO # 49, Valparaiso, VIÑA DEL MAR",
+        "VALLE NEVADO 14 KM INT.F, RM, SANTIAGO",
+        "Local 1096, AV LA DEHESA 1445, RM, SANTIAGO",
+        "Local 2050, AV. KENNEDY 9001, RM, SANTIAGO",
+        "Local 220, AV.KENNEDY 5413, RM, SANTIAGO",
+        "Local 4128, AV. ANDRES BELLO 2447, RM, SANTIAGO",
+        "Local D 101- 105, AV. AMERICO VESPUCIO # 1501, RM, SANTIAGO",
+        "Local 1044-1048, AM. VESPUCIO NORTE 1737, RM, SANTIAGO",
+        "Local 320-321, VICUNA MACKENNA #7.110, RM, SANTIAGO",
+        "Local 2052, AV. VICU?A MACKENNA N? 6100, RM, SANTIAGO",
+        "Local 352, AV AMERICO VESPUCIO 399, RM, SANTIAGO",
+        "Local BA109-113, AVDA.VICU?A MACKENA ORIENTE 7110, RM, SANTIAGO",
+        "Local 2025, AV. JOSE PEDRO ALESSANDRI # 1166, RM, SANTIAGO",
+        "EL ROBLE 770 L 235, BIO-BIO, CHILLAN",
+        "Local 109 - E 111, J. ALESSANDRI # 3.177, BIO-BIO, TALCAHUANO",
+        "Local 204 MALL PZA. LOS ANGELES, VALDIVIA 440, BIO-BIO, LOS ANGELES",
+        "Local 49, AV BDO OHIGGINS #201, MAULE, CURICO",
+        "Local 09 - 01, BARROS ARANA 1038, BIO-BIO, CONCEPCION",
+        "Local 114, UNO SUR 1537, MAULE, TALCA",
+        "Local 1005, CARRETERA EL COBRE PRESIDENTE FREI N750, OHIGGINS, RANCAGUA",
+        "Local 1145-1146, AV. CIRCUNVALACION ORIENTE N1055, MAULE, TALCA",
+        "Local 15-A, AV. ARTURO PRAT 451, ARAUCANIA, TEMUCO",
+        "Local 1- 2, AV. LIBERT. BDO. OHIGGINS # 112, ARAUCANIA, PUCON",
+        "Local 2, MAIPU 225, LOS RIOS, VALDIVIA",
+        "Local 207 MALL PASEO COSTANERA, ILLAPEL 10, LOS LAGOS, PUERTO MONTT",
+        "Local 7, CALLE DEL SALVADOR ESQ.SN PEDRO S/N, LOS LAGOS, PUERTO VARAS",
+        "BORIES # 721, MAGALLANES, PUNTA ARENAS",
+        "PEDRO MONTT # 161, MAGALLANES, PUERTO NATALES",
+        "Local 1030, AV. ALEMANIA 671, ARAUCANIA, TEMUCO",
+        "Local 102, AV. EDO. FREI MONTALVA # 1110, MAGALLANES, PUNTA ARENAS",
+        "Local 168-170, AVDA. EDUARDO FREI MONTALVA N 01110, MAGALLANES, PUNTA ARENAS",
+        "Local 105, CALLE IGNACIO SERRANO N#574, LOS LAGOS, CASTRO"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Merrell",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "20% dto.",
+      "dia": [
+        "Miércoles",
+        "Jueves",
+        "Viernes"
+      ],
+      "dia_texto": "miércoles, jueves y viernes en compra",
+      "canal": "Online",
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
+      "condiciones": [
+        "Obtén 20% de descuento con un tope de $50.000 en merrell.cl",
+        "Descarga tu código de descuento e ingrésalo como cupón de descuento al momento de pagar con tus tarjetas del Banco.",
+        "No acumulable con otras promociones.",
+        "Descuento no aplica para compras con factura y en cambios."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Zapatos.cl",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "20% dto.",
+      "dia": [
+        "Miércoles",
+        "Jueves",
+        "Viernes"
+      ],
+      "dia_texto": "miércoles, jueves y viernes en compra",
+      "canal": "Online",
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
+      "condiciones": [
+        "Obtén 20% dto con un tope de $50.000 en zapatos.cl",
+        "Descarga tu código de descuento e ingrésalo como cupón de descuento al momento de pagar con tus Tarjetas del Banco.",
+        "No acumulable con otras promociones.",
+        "Descuento no aplica para compras con factura y en cambios.",
+        "Excluye VANS."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Hush Puppies",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "20% dto.",
+      "dia": [
+        "Miércoles",
+        "Jueves",
+        "Viernes"
+      ],
+      "dia_texto": "miércoles, jueves y viernes en compra",
+      "canal": "Online",
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
+      "condiciones": [
+        "Obtén 20% de descuento con un tope de $50.000 en hushpuppies.cl",
+        "Descarga tu código de descuento e ingresalo como cupón de descuento al momento de pagar con tus tarjetas del Banco.",
+        "No acumulable con otras promociones.",
+        "Descuento no aplica para compras con factura y en cambios."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "Travel Viajes",
       "categoria": "Viajes",
       "descuento": null,
@@ -13721,6 +14032,27 @@
       "canal": null,
       "vigencia": "Promoción válida hasta el 31 de dic de 2026",
       "condiciones": [],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Under Armour",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "20% dto.",
+      "dia": [
+        "Miércoles",
+        "Jueves",
+        "Viernes"
+      ],
+      "dia_texto": "miércoles, jueves y viernes en compra",
+      "canal": "Online",
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
+      "condiciones": [
+        "Obtén 20% dto con un tope de $50.000 en underarmour.cl",
+        "Descarga tu código de descuento e ingrésalo como cupón de descuento al momento de pagar con tus Tarjetas del Banco.",
+        "No acumulable con otras promociones.",
+        "Descuento no aplica para compras con factura y en cambios."
+      ],
       "sucursales": []
     },
     {
@@ -15556,6 +15888,27 @@
         "Jueves",
         "Viernes"
       ],
+      "dia_texto": "miércoles, jueves y viernes en compra",
+      "canal": "Online",
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
+      "condiciones": [
+        "Obtén 20% de descuento con un tope de $50.000 en mountainhardwear.cl",
+        "Descarga tu código de descuento e ingresalo como cupón de descuento al momento de pagar con tus tarjetas del Banco.",
+        "No acumulable con otras promociones.",
+        "Descuento no aplica para compras con factura y en cambios."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Mountain Hardwear",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "20% dto.",
+      "dia": [
+        "Miércoles",
+        "Jueves",
+        "Viernes"
+      ],
       "dia_texto": "miércoles a viernes",
       "canal": "Tienda física",
       "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
@@ -16069,6 +16422,27 @@
       "sucursales": [
         "Ubicados en Av. Balmaceda #2902, local 1010 Open Calama, Región de Antofagasta, Calama"
       ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Calpany",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "20% dto.",
+      "dia": [
+        "Miércoles",
+        "Jueves",
+        "Viernes"
+      ],
+      "dia_texto": "miércoles, jueves y viernes en compra",
+      "canal": "Online",
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
+      "condiciones": [
+        "Obtén 20% dto con un tope de $50.000 en calpany.cl",
+        "Descarga tu código de descuento e ingrésalo como cupón de descuento al momento de pagar con tus Tarjetas del Banco.",
+        "No acumulable con otras promociones.",
+        "Descuento no aplica para compras con factura y en cambios."
+      ],
+      "sucursales": []
     },
     {
       "banco": "Banco de Chile",
@@ -19667,6 +20041,20 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "CLARO",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "Paga en 13 a 24 cuotas sin interés",
+      "canal": null,
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
+      "condiciones": [
+        "Disfruta la tecnología comprando equipos y accesorios en Claro, pagando en 13 a 24 cuotas sin interés con tus Tarjetas de Crédito del Banco de Chile en cualquier Sucursal Claro o en www.clarochile.cl Para una compra referencial de 500.000 en 24 cuotas cada cuota de $20.833 CAE 0,77% Costo Total 504.000"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "Clínica Dental Inacaliri",
       "categoria": "Salud y Belleza",
       "descuento": "Hasta 30% dto.",
@@ -19786,57 +20174,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Sakura",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Martes"
-      ],
-      "dia_texto": "martes de octubre",
-      "canal": "Ambos",
-      "vigencia": "Promoción válida del 01 al 31 de octubre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial 40% dto. todos los martes de octubre presencial y online",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "Para compra online ingresa los 6 primeros dígitos de tu Tarjeta como código de descuento.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dto. $50.000 por mesa"
-      ],
-      "sucursales": [
-        "Av. Cristobal Colón #4401, Región Metropolitana, Las Condes",
-        "Camino Del Monje 10530 - B, Región Metropolitana, Lo Barnechea",
-        "Av. La Plaza #590 - Local 118, Región Metropolitana, Las Condes",
-        "San Damián #20 - Local 7, Región Metropolitana, Las Condes",
-        "Av. Luis Pasteur #5515 - Local 6, Región Metropolitana, Vitacura"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Pescados Capitales",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Martes"
-      ],
-      "dia_texto": "martes de octubre",
-      "canal": null,
-      "vigencia": "Promoción válida del 01 al 31 de octubre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial 40% dto. todos los martes de octubre.",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dto. $50.000 por mesa"
-      ],
-      "sucursales": [
-        "Av. Nueva Costanera #3723, Región Metropolitana, Vitacura"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "ANIMA",
       "categoria": "Sabores",
       "descuento": "40% dto.",
@@ -19938,29 +20275,6 @@
       ],
       "sucursales": [
         "Compañía de Jesús #2789, RM, Santiago, Teléfono: +56977989743"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "ICA RESTAURANTE",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Sábado"
-      ],
-      "dia_texto": "sábado de octubre",
-      "canal": null,
-      "vigencia": "Promoción válida del 01 al 31 de octubre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial 40% dto. todos los sábado de octubre.",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dcto. $50.000 por mesa"
-      ],
-      "sucursales": [
-        "Isidora Goyenechea #2939, Región Metropolitana, Las Condes"
       ]
     },
     {
@@ -20250,31 +20564,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Santa Brasa",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Lunes"
-      ],
-      "dia_texto": "lunes de octubre sucursales de Alonso de Córdova y Concón",
-      "canal": null,
-      "vigencia": "Promoción válida del 01 al 31 de octubre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial 40% dto. todos los lunes de octubre.",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dto. $50.000 por mesa"
-      ],
-      "sucursales": [
-        "Alonso de Córdova #4260, Región Metropolitana, Vitacura",
-        "Av. José Alcalde Délano #10494, Región Metropolitana, Lo Barnechea",
-        "Sta. Elena #671, Región de Valparaíso, Concón"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "MagBar",
       "categoria": "Sabores",
       "descuento": "40% dto.",
@@ -20479,29 +20768,6 @@
       ],
       "sucursales": [
         "Ignacio Zenteno #2661, Región de Los Lagos, Osorno"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "El mesón de la Patagonia",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Jueves"
-      ],
-      "dia_texto": "jueves de octubre",
-      "canal": null,
-      "vigencia": "Promoción válida del 01 al 31 de octubre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial. 40% dto. los jueves de octubre.",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dcto. $50.000 por mesa"
-      ],
-      "sucursales": [
-        "Lo Barnechea #1223, Región Metropolitana, Lo Barnechea"
       ]
     },
     {
@@ -21709,6 +21975,28 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "BURTON",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "20% dto.",
+      "dia": [
+        "Miércoles",
+        "Jueves",
+        "Viernes"
+      ],
+      "dia_texto": "miércoles a viernes",
+      "canal": "Online",
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
+      "condiciones": [
+        "Obtén 20% dto. con un tope de $50.000 en burton.cl",
+        "Descarga tu código de descuento e ingrésalo como cupón de descuento al momento de pagar con tus Tarjetas del Chile.",
+        "No acumulable con otras promociones.",
+        "Revisa cobertura de despacho en burton.cl",
+        "Descuento no aplica para compras con factura y en cambios."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "Sushi Fans Restaurant",
       "categoria": "Sabores",
       "descuento": "20% dto.",
@@ -22675,6 +22963,103 @@
         "Los Militares #5934, Región Metropolitana, Las Condes",
         "Irarrazaval #5350, Región Metropolitana, Ñuñoa",
         "Providencia #1403, Región Metropolitana, Providencia"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Pescados Capitales",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Martes"
+      ],
+      "dia_texto": "martes de octubre",
+      "canal": null,
+      "vigencia": "Promoción válida del 01 al 31 de octubre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. martes de octubre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Av. Nueva Costanera #3723, Región Metropolitana, Vitacura"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Sakura",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Martes"
+      ],
+      "dia_texto": "martes de octubre",
+      "canal": "Ambos",
+      "vigencia": "Promoción válida del 01 al 31 de octubre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. martes de octubre presencial y online",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "Para compra online ingresa los 6 primeros dígitos de tu Tarjeta como código de descuento.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Av. Cristobal Colón #4401, Región Metropolitana, Las Condes",
+        "Camino Del Monje 10530 - B, Región Metropolitana, Lo Barnechea",
+        "Av. La Plaza #590 - Local 118, Región Metropolitana, Las Condes",
+        "San Damián #20 - Local 7, Región Metropolitana, Las Condes",
+        "Av. Luis Pasteur #5515 - Local 6, Región Metropolitana, Vitacura"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "ICA RESTAURANTE",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Sábado"
+      ],
+      "dia_texto": "sábado de octubre",
+      "canal": null,
+      "vigencia": "Promoción válida del 01 al 31 de octubre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. sábado de octubre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dcto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Isidora Goyenechea #2939, Región Metropolitana, Las Condes"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "El mesón de la Patagonia",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Jueves"
+      ],
+      "dia_texto": "jueves de octubre",
+      "canal": null,
+      "vigencia": "Promoción válida del 01 al 31 de octubre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial. 40% dto. jueves de octubre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dcto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Lo Barnechea #1223, Región Metropolitana, Lo Barnechea"
       ]
     },
     {
@@ -23912,6 +24297,52 @@
       "sucursales": [
         "Las Encinas #191, Región de los Ríos, Valdivia"
       ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Santa Brasa",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Lunes"
+      ],
+      "dia_texto": "lunes de octubre sucursales de Alonso de Córdova y Concón",
+      "canal": null,
+      "vigencia": "Promoción válida del 01 al 31 de octubre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. lunes de octubre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Alonso de Córdova #4260, Región Metropolitana, Vitacura",
+        "Av. José Alcalde Délano #10494, Región Metropolitana, Lo Barnechea",
+        "Sta. Elena #671, Región de Valparaíso, Concón"
+      ]
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Ají Seco",
+      "categoria": "Sabores",
+      "descuento": "40% dcto",
+      "dia": [
+        "Martes"
+      ],
+      "dia_texto": "todos los martes",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Válido con tus Tarjetas de Crédito Santander.",
+        "Exlcusivo locales Av. El Rodeo 13.330, Lo Barnechea, Vicuña Mackenna 11.460, La Florida y Jorge Washington 70, Ñuñoa.",
+        "Santiago, Región Metropolitana",
+        "Descuento no aplica para productos en promociones o con descuentos.",
+        "Tope $40.000.",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​"
+      ],
+      "sucursales": []
     },
     {
       "banco": "Banco Santander",
@@ -25273,27 +25704,6 @@
         "Tope de descuento $40.000.",
         "Av. Americo Vespucio Norte 014, Las Condes",
         "Para hacer efectivo el descuento debe ser solicitado mostrando y pagando con tus Tarjetas Santander.",
-        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​"
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Ají Seco",
-      "categoria": "Sabores",
-      "descuento": "40% dcto",
-      "dia": [
-        "Martes"
-      ],
-      "dia_texto": "todos los martes",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Exclusivo con tus Tarjetas de Crédito Santander.",
-        "Válido en local",
-        "Santiago, Región Metropolitana",
-        "Descuento no aplica para productos en promociones o con descuentos.",
-        "Tope $40.000.",
         "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​"
       ],
       "sucursales": []
