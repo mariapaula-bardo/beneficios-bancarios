@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-09T17:18",
+  "actualizado": "2026-10-10T16:00",
   "beneficios": [
     {
       "banco": "Banco de Chile",
@@ -881,31 +881,6 @@
       ],
       "sucursales": [
         "AV Bosques de Montemar #30, Oficina 1412, Región de Valparaíso, Viña del Mar"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Clínica Kiprosport",
-      "categoria": "Salud y Belleza",
-      "descuento": "Hasta 70% dto.",
-      "dia": [],
-      "dia_texto": "en prestaciones",
-      "canal": "Tienda física",
-      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
-      "condiciones": [
-        "Clínica de medicina osteopática, fisiología deportiva y terapia física dedicados a la restauración de la funcionalidad desde su causa contando con Osteópata especialista en medicina manual osteopática, Kinesiólogos, Fisiólogo del ejercicio y deporte. Además de ser una clínica académica que forma a futuros doctores en osteopatía.",
-        "70% de descuento los martes y jueves en Beca de ejercicios para la ganancia de musculatura desde los 55 años supervisado por kinesiólogo.",
-        "50% de descuento todos los lunes en Evaluación física y funcional por kinesiólogo con agenda anticipada vía WhatsApp de la clínica.",
-        "30% de descuento en Terapia física 10 sesiones agendando vía WhatsApp de la clínica.",
-        "30% de descuento en todos los planes individuales metabólicos y fitness.",
-        "30% de descuento en evaluación de composición corporal + Nutrición deportiva + prescripción de entrenamiento con metodología del entrenamiento avanzado por Clínico Master en fisiología deportiva.",
-        "20% de descuento de miércoles a viernes en Medicina Manual Osteopática con agenda anticipada.",
-        "20% de descuento en Masoterapia realizada por kinesiólogo, agendando vía WhatsApp de la clínica.",
-        "15% de descuento en valor mensual en Kickboxing deportivo.",
-        "Excluye otras promociones."
-      ],
-      "sucursales": [
-        "Colo Colo #85, Región del Bío Bío, Concepción"
       ]
     },
     {
@@ -24321,6 +24296,32 @@
         "Alonso de Córdova #4260, Región Metropolitana, Vitacura",
         "Av. José Alcalde Délano #10494, Región Metropolitana, Lo Barnechea",
         "Sta. Elena #671, Región de Valparaíso, Concón"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Clínica Kiprosport",
+      "categoria": "Salud y Belleza",
+      "descuento": "Hasta 70% dto.",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
+      "condiciones": [
+        "Clínica de medicina osteopática, fisiología deportiva y terapia física dedicados a la restauración de la funcionalidad desde su causa contando con Osteópata especialista en medicina manual osteopática, Kinesiólogos, Fisiólogo del ejercicio y deporte. Además de ser una clínica académica que forma a futuros doctores en osteopatía.",
+        "70% dto. martes y jueves en beca de ejercicios para aumentar masa muscular, dirigida a personas desde los 55 años.",
+        "50% dto. lunes en evaluación física y funcional, previa reserva por WhatsApp.",
+        "30% dto. todos los días en 10 sesiones de terapia física y en todos los planes individuales metabólicos y fitness.",
+        "30% dto. todos los días en evaluación de composición corporal, nutrición deportiva y prescripción de entrenamiento.",
+        "20% dto. miércoles a viernes en medicina manual osteopática, previa reserva por WhatsApp.",
+        "20% dto. todos los días en masoterapia, previa reserva por WhatsApp.",
+        "15% dto. todos los días en la mensualidad de kickboxing deportivo. No acumulable con otras promociones.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Colo Colo #85, Región del Bío Bío, Concepción"
       ]
     },
     {
