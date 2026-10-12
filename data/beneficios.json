@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-11T16:27",
+  "actualizado": "2026-10-12T20:03",
   "beneficios": [
     {
       "banco": "Banco de Chile",
@@ -24065,24 +24065,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Marathon Cyber",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": "10% dto.",
-      "dia": [],
-      "dia_texto": "adicional en Cyber",
-      "canal": null,
-      "vigencia": "Promoción válida 4 al 11 de octubre de 2026.",
-      "condiciones": [
-        "Marathon es una marca especializada en la venta de productos deportivos de las principales marcas internacionales, ofreciendo una amplia gama de artículos para diversas disciplinas, como zapatillas, ropa deportiva y accesorios.",
-        "10% dto. adicional desde el 4 al 11 de octubre en marathon.cl",
-        "Obtén descuento ingresando los seis primeros dígitos de tu tarjeta al momento de finalizar compra en marathon.cl",
-        "Descuento no aplica sobre el valor del despacho.",
-        "Descuento exclusivo pagando con tus Tarjetas del Chile."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "Puma",
       "categoria": "Retail y Otras Marcas",
       "descuento": "Hasta 30% dto.",
@@ -24323,6 +24305,27 @@
       "sucursales": [
         "Colo Colo #85, Región del Bío Bío, Concepción"
       ]
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Gnomo edición especial",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "20% dcto",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Gnomo edición especial",
+        "Exclusivo pagando con tus Tarjetas de Crédito y Débito Santander.",
+        "Válido en la nueva temporada de verano.",
+        "Ingresa los 6 primeros dígitos de tu Tarjeta como código de descuento.",
+        "No acumulable a otros descuentos.",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
+      ],
+      "sucursales": []
     },
     {
       "banco": "Banco Santander",
@@ -24697,26 +24700,6 @@
         "Válido en tiendas físicas y www.roda.cl",
         "Ingresa los 6 primeros dígitos de tu Tarjeta como código de descuento.",
         "No acumulable a descuentos y promociones vigentes.",
-        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Econopticas - cyber",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "25% de descuentos en anteojos ópticos (Armazon + cristal)",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Comodidad y estilo",
-        "25% de descuentos en anteojos ópticos (Armazon + cristal)",
-        "Exclusivo pagando con tus Tarjetas de Crédito y Débito Santander.",
-        "Exclusivo presencial",
-        "No aplica sobre otras promociones, ni convenios.",
-        "en caja presenta el código ECOSANTANDER para obtener el descuento.",
         "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
       ],
       "sucursales": []
