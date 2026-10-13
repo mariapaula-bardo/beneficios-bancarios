@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-12T20:03",
+  "actualizado": "2026-10-13T17:51",
   "beneficios": [
     {
       "banco": "Banco de Chile",
@@ -305,29 +305,6 @@
       ],
       "sucursales": [
         "Francisco Bilbao #3717, local 2, Región de Tarapacá, Iquique"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Padel Mundo Sport",
-      "categoria": "Entretención y Deportes",
-      "descuento": "20% dto.",
-      "dia": [
-        "Todos los días"
-      ],
-      "dia_texto": "todos los días",
-      "canal": null,
-      "vigencia": "Promoción válida hasta el 31 de octubre de 2026.",
-      "condiciones": [
-        "Padel Mundo Sport, fue construido e inaugurado el año 2023 en la comuna de Macúl, aledaño al Complejo Deportivo Mundo Sport que también cuenta con canchas de fútbol, futbolito y piscina. Teniendo como propósito \"\"Mejorar las vidas a través del deporte y recreación\"\" por lo que contamos con 4 modernas canchas de padel, baños, camarines, tienda, terrazas, sector parrillas y food truck en nuestras instalaciones,para disfrutar de momentos inolvidables entre grupos de amigos, empresas y familias.",
-        "Obtén 20% dto todos los días y en cualquier horario.",
-        "Solicita tu descuento al momento de pagar con tus tarjetas del Banco.",
-        "También puedes obtener beneficio en los siguientes canales de atención mencionando el código de descuento MUNDOPADELBCH .",
-        "Realizando reserva en +569 83582106",
-        "Realizando reserva vía mensajería de Instagram @padelmundosportoficial"
-      ],
-      "sucursales": [
-        "El Líbano #5001, Región Metropolitana, Macul"
       ]
     },
     {
@@ -2464,40 +2441,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Gimnasios Sportlife",
-      "categoria": "Entretención y Deportes",
-      "descuento": "Hasta 50% dto",
-      "dia": [],
-      "dia_texto": "en compras o en sedes adheridas",
-      "canal": "Online",
-      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
-      "condiciones": [
-        "Gimnasios Sportlife Pioneros en el mercado, con más de 30 años trabajando en la calidad de vida de las personas, nuestra filosofía siempre será ofrecer más y mejores innovaciones en nuestros servicios. Lo que más nos mueve y motiva es transformar vidas.",
-        "Promoción 1 Plan Semestral 50% dto + 1 mes de regalo (total 7 meses)",
-        "Obtén este beneficio ingresando a sportlife.cl seleccionando Plan Semestral y al finalizar tu compra ingresa los 6 primeros dígitos de tu tarjeta como cupón de descuento o solicita este beneficio en las sedes adheridas.",
-        "Plan posee 15 días de congelación.",
-        "Acceso a sede única y de compra.",
-        "Matrícula 100% off",
-        "Alumno nuevo y recuperado paga activación.",
-        "Promoción valida para pago en 6 cuotas sin interés.",
-        "Promoción 2 15% dto en Plan Mensual Recurrente Indefinido PAT",
-        "Obtén este beneficio ingresando a sportlife.cl seleccionando Plan Mensual Recurrente Indefinido PAT y al finalizar tu compra antepón un 0 seguido de los 6 primeros dígitos de tu tarjeta como cupón de descuento o solicita este beneficio en las sedes adheridas",
-        "Olvídate de ocupar tu cupo de la tarjeta de crédito, paga MES A MES con pago automático",
-        "Recurrente PAT",
-        "Acceso Multisedes por categoría",
-        "Clases dirigidas",
-        "Evaluación mensual tecnología INBODY (Bioimpedancia)",
-        "Plan posee congelamiento 60 días",
-        "Acceso exclusivo a Sportlife ON (Clases ON DEMAND)",
-        "Acceso APP SPORTLIFE CHILE",
-        "Acceso a MI SPORTLIFE autogestión de clientes.",
-        "Invitaciones ilimitadas a amigos nuevos",
-        "Sedes Adheridas: Ñuñoa - San Carlos - Alto Peñalolén - Montemar - Chicureo - Chamisero - Puente Nuevo - Vitacura - Mall Pta Arenas - Bories - Maipú - Quilicura - Purísima *Trapenses - Pie Andino aplica un 40% de descuento en la contratación de plan semestral."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "ABA English",
       "categoria": "Retail y Otras Marcas",
       "descuento": "25% dto.",
@@ -2887,31 +2830,6 @@
       ],
       "sucursales": [
         "Av La Dehesa #181 esquina Escriva de Balaguer, Región Metropolitana, Lo Barnechea, Teléfono: +56 264692318"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Ultimate Clothing",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": "25% dto. adicional",
-      "dia": [
-        "Martes",
-        "Jueves"
-      ],
-      "dia_texto": "martes y jueves",
-      "canal": null,
-      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
-      "condiciones": [
-        "En Ultimate Clothing, te ayudamos a ser un 1% mejor cada día. Nuestra ropa deportiva combina estilo y funcionalidad para que puedas superarte con confianza y comodidad. Queremos acompañarte en cada momento, desde el entrenamiento hasta la recuperación, buscando ser 1% más cada día, todos los días.",
-        "25% dto. adicional los días martes y jueves",
-        "Para compra online ingresa ULTIMATE25BCH como cupón de descuento al momento de finalizar compra en ultimateclothing.cl",
-        "Solicita tu descuento de manera presencial al momento de pagar con tus tarjetas del Banco, indicando el cúpon ULTIMATE25BCH",
-        "Tope dto. $60.000",
-        "Descuento no aplica al valor del despacho.",
-        "Descuento exclusivo pagando con tus Tarjetas del Chile."
-      ],
-      "sucursales": [
-        "Avenida Nueva Costanera #3996, Región Metropolitana, Lo Barnechea"
       ]
     },
     {
@@ -3522,26 +3440,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "BYC Yoga Quinchamalí",
-      "categoria": "Entretención y Deportes",
-      "descuento": "Hasta 15% dto.",
-      "dia": [],
-      "dia_texto": "en planes",
-      "canal": null,
-      "vigencia": "Promoción válida hasta el 30 de junio de 2027.",
-      "condiciones": [
-        "El sistema de BYC Yoga de la India, es una revolucionaria práctica de salud tradicional que se enfoca en tratar enfermedades crónicas y promover la salud integral del cuerpo y la mente. Esta práctica se basa en una serie de 26 posturas y dos ejercicios de respiración, las cuales se realizan en una sala climatizada a 42ºc durante 90 minutos. Esta práctica es adecuada para personas de todas las edades y niveles de habilidad.",
-        "15% de descuento en los planes Ilimitados de 3, 6 y 12 meses.",
-        "10% de descuento en todos los planes limitados.",
-        "Solicita tu descuento al momento de pagar con tus tarjetas en sucursal.",
-        "No acumulable con otras promociones."
-      ],
-      "sucursales": [
-        "Av Las Condes #14.151, local 4, Región Metropolitana, Las Condes, Teléfono: +56 229571285"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "Café Baqué",
       "categoria": "Sabores",
       "descuento": "20% dto.",
@@ -3852,34 +3750,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Clínica CRL",
-      "categoria": "Salud y Belleza",
-      "descuento": "Hasta 50% dto.",
-      "dia": [
-        "Todos los días"
-      ],
-      "dia_texto": "todos los días",
-      "canal": "Tienda física",
-      "vigencia": "Promoción válida hasta el 28 de febrero de 2027.",
-      "condiciones": [
-        "Clínica de Recuperación de Lesiones CRL, brinda una experiencia única respaldada por una metodología innovadora que acelera la recuperación de lesiones hasta un 65% dcto.",
-        "50% dto. en tu primera sesión de electrólisis percutánea.",
-        "30% dto. en tu primera sesión de neuro modulación percutánea.",
-        "20% dto. en tu sesión de ozonoterapia.",
-        "15% dto. en tu consulta médica.",
-        "Obtén tu descuento al momento de pagar con tus tarjetas del Banco.",
-        "No acumulable con otras promociones."
-      ],
-      "sucursales": [
-        "Doctor Manuel Barros Borgoño #160, piso 7 Of. 703, Región Metropolitana, Providencia",
-        "Libertad #50, piso 3 esquina Av. Pajaritos, Región Metropolitana, Maipú",
-        "Padre Hurtado Norte #75, piso 2, Región Metropolitana, Las Condes",
-        "Amércio Vespucio #747, Local 2, Región Metropolitana, La Florida",
-        "1/2 Oriente #1040, entre 11 y 12 Norte, Región de Valparaíso, Viña del Mar"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "Clínica Dental Cumbre",
       "categoria": "Salud y Belleza",
       "descuento": "Hasta 65% dto.",
@@ -4052,34 +3922,6 @@
       ],
       "sucursales": [
         "San Martín #208, Región de Valparaíso, Viña del Mar"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "CLUB DE PADEL DE LA FLORIDA",
-      "categoria": "Entretención y Deportes",
-      "descuento": "Hasta 25% dto.",
-      "dia": [
-        "Todos los días"
-      ],
-      "dia_texto": "todos los días",
-      "canal": null,
-      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
-      "condiciones": [
-        "Es el club de pádel más grande de la comuna de la Florida, ubicado en San José de la Estrella, considerada una de las avenidas más transitadas de la comuna, a pasos del Metro del mismo nombre. Destacado y pionero en la comuna por su concepto de \"\"Club\"\", lo que permite que Americanos y Torneos siempre sean un éxito asistiendo grandes exponentes y figuras del pádel nacional, lo que atrae gran número de socios y espectadores.",
-        "6 Canchas de Pádel en total.",
-        "1 Cancha Court Central norma WPT.",
-        "Zona de quinchos y sector de terrazas para compartir.",
-        "Camarines de primer nivel sectorizados.",
-        "Estacionamientos interior con vigilancia privada",
-        "25% de descuento los días lunes desde las 8:30 am a 18:00 hrs",
-        "15% de descuento de lunes a viernes entre 7:00 y 16:00 hrs",
-        "15% de descuento sábado y domingo de 12:00 a 16:00 hr",
-        "Obtén tu beneficio pagando con tus Tarjetas del Chile",
-        "No acumulable con otras ofertas, menú y/o promociones"
-      ],
-      "sucursales": [
-        "IG: @clubdepadel.laflorida, San José de la Estrella #816, Región Metropolitana, La Florida, Contacto: +569 6133 1442"
       ]
     },
     {
@@ -4488,38 +4330,6 @@
       "sucursales": [
         "Alonso de Córdova #2350, local 2, Región Metropolitana, Vitacura",
         "Dirección: Puerta del sol #180, local 2, Región Metropolitana, Las Condes"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "EVERLAST",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": "30% dto.",
-      "dia": [
-        "Lunes"
-      ],
-      "dia_texto": "lunes en compra",
-      "canal": "Tienda física",
-      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
-      "condiciones": [
-        "Everlast cree en la versatilidad que brinda cada textura, ajuste y color. Nuestras prendas de alta calidad resaltan la personalidad y el atractivo de cada mujer. Están especialmente diseñadas para resaltar la figura femenina mientras se realiza el entrenamiento o en el uso cotidiano. Desde 1910 ha sido sinónimo de calidad, durabilidad y superación.",
-        "30% dto. lunes en compra presencial.",
-        "Tope de dto. $70.000.",
-        "Beneficio excluye Box, calzado y nueva colección.",
-        "Beneficio no aplica para compras con factura, en cambios, no es valido para compras mayoristas.",
-        "Solicita tu descuento al momento de pagar.",
-        "No acumulable con otras promociones.",
-        "Descuento exclusivo pagando con tus Tarjetas del Chile."
-      ],
-      "sucursales": [
-        "Mall Plaza Vespucio, Av. Vicuña Mackenna #7110, Región Metropolitana, La Florida",
-        "Mall Plaza Oeste, Av. Américo Vespucio #1501, Región Metropolitana, Cerrillos",
-        "Mall Plaza Norte, Av. Américo Vespucio #1737, Región Metropolitana, Huechuraba",
-        "Mall Arauco Maipú, Av. Américo Vespucio #399, Región Metropolitana, Maipú",
-        "Mall Florida Center, Av. Vicuña Mackenna #6100, Región Metropolitana, La Florida",
-        "Mall Costanera Center, Av. Andrés Bello #2425, Región Metropolitana, Providencia",
-        "Mall Vivo Imperio, Huerfanos #830 Local 1048, Región Metropolitana, Santiago",
-        "EVERLAST PLAZA EL TREBOL, AV. JORGE ALESANDRI N° 3177 LOCAL H164-168, Región del Biobío, TALCAHUANO"
       ]
     },
     {
@@ -7550,6 +7360,31 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "Ultimate Clothing",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "25% dto. adicional",
+      "dia": [
+        "Martes",
+        "Jueves"
+      ],
+      "dia_texto": "martes y jueves",
+      "canal": null,
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
+      "condiciones": [
+        "En Ultimate Clothing, te ayudamos a ser un 1% mejor cada día. Nuestra ropa deportiva combina estilo y funcionalidad para que puedas superarte con confianza y comodidad. Queremos acompañarte en cada momento, desde el entrenamiento hasta la recuperación, buscando ser 1% más cada día, todos los días.",
+        "25% dto. adicional los días martes y jueves",
+        "Para compra online ingresa ULTIMATE25BCH como cupón de descuento al momento de finalizar compra en ultimateclothing.cl",
+        "Solicita tu descuento de manera presencial al momento de pagar con tus tarjetas del Banco, indicando el cúpon ULTIMATE25BCH",
+        "Tope dto. $60.000",
+        "Descuento no aplica al valor del despacho.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Avenida Nueva Costanera #3996, Región Metropolitana, Lo Barnechea"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "Universidad de Los Andes",
       "categoria": "Retail y Otras Marcas",
       "descuento": null,
@@ -7826,29 +7661,6 @@
       "sucursales": [
         "Huérfanos #830, Región Metropolitana, Santiago Centro",
         "Av. Andrés Bello 2447, Local 113, Región Metropolitana, Providencia"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Yoga Studio Chile",
-      "categoria": "Entretención y Deportes",
-      "descuento": "Hasta 40% dto.",
-      "dia": [
-        "Todos los días"
-      ],
-      "dia_texto": "todos los días",
-      "canal": null,
-      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
-      "condiciones": [
-        "Yogastudio Chile es uno de los centros de yoga más grandes de Santiago. Contamos con 2 sucursales en donde recibimos a más de 100 practicantes por día. Ofrecemos más de 50 clases a la semana, distribuidas por niveles (Principiante, Intermedio, Avanzado) para que puedas comenzar tu práctica en cualquier momento, sin importar si tienes experiencia. Nuestro enfoque como estudio es mantener la tradición de la practica, integrando de la mejor manera a cada nuevo practicante que decida aprender de esta hermosa y sanadora disciplina.",
-        "Solicita tu descuento al momento de pagar con tus Tarjetas del Chile.",
-        "40% dto. en la primera clase.",
-        "30% dto. en planes M´LTISEDE sobre 8 clases (descuento exclusivo para alumnos nuevos.",
-        "15% dto. en todos los planes M´LTISEDE sobre 8 clases. (sin restricciones de uso)"
-      ],
-      "sucursales": [
-        "Valenzuela Castillo #1660, Región Metropolitana, Providencia",
-        "Evaristo Lillo #133, Región Metropolitana, Las Condes"
       ]
     },
     {
@@ -9768,6 +9580,38 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "EVERLAST",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "30% dto.",
+      "dia": [
+        "Lunes"
+      ],
+      "dia_texto": "lunes en compra",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
+      "condiciones": [
+        "Everlast cree en la versatilidad que brinda cada textura, ajuste y color. Nuestras prendas de alta calidad resaltan la personalidad y el atractivo de cada mujer. Están especialmente diseñadas para resaltar la figura femenina mientras se realiza el entrenamiento o en el uso cotidiano. Desde 1910 ha sido sinónimo de calidad, durabilidad y superación.",
+        "30% dto. lunes en compra presencial.",
+        "Tope de dto. $70.000.",
+        "Beneficio excluye Box, calzado y nueva colección.",
+        "Beneficio no aplica para compras con factura, en cambios, no es valido para compras mayoristas.",
+        "Solicita tu descuento al momento de pagar.",
+        "No acumulable con otras promociones.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Mall Plaza Vespucio, Av. Vicuña Mackenna #7110, Región Metropolitana, La Florida",
+        "Mall Plaza Oeste, Av. Américo Vespucio #1501, Región Metropolitana, Cerrillos",
+        "Mall Plaza Norte, Av. Américo Vespucio #1737, Región Metropolitana, Huechuraba",
+        "Mall Arauco Maipú, Av. Américo Vespucio #399, Región Metropolitana, Maipú",
+        "Mall Florida Center, Av. Vicuña Mackenna #6100, Región Metropolitana, La Florida",
+        "Mall Costanera Center, Av. Andrés Bello #2425, Región Metropolitana, Providencia",
+        "Mall Vivo Imperio, Huerfanos #830 Local 1048, Región Metropolitana, Santiago",
+        "EVERLAST PLAZA EL TREBOL, AV. JORGE ALESANDRI N° 3177 LOCAL H164-168, Región del Biobío, TALCAHUANO"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "TUA",
       "categoria": "Salud y Belleza",
       "descuento": "23% dto.",
@@ -10338,25 +10182,6 @@
       "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
       "condiciones": [
         "Con tus Tarjetas Banco de Chile podrás acceder a increíbles beneficios y canjear Dólares - Premios en pasajes a través de los Puntos SKY Plus Adquiere con beneficios el nivel Platino del nuevo Programa de Fidelidad de SKY. Además, te recordamos que con tus Tarjetas de Crédito y Débito del Chile puedes pagar tus pasajes a través del Botón de Pago Banco de Chile en SKY. Con tus Tarjetas de Crédito puedes acceder a: 3, 6, ó 12 cuotas sin interés Para compras de $100.000 en 12 cuotas de $8.333; CAE: 1,47%. Costo Total del Crédito:$ 100.792. vigencia al 31/12/2025"
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "IRONSIDE",
-      "categoria": "Entretención y Deportes",
-      "descuento": "10% dto. adicional",
-      "dia": [
-        "Todos los días"
-      ],
-      "dia_texto": "todos los días",
-      "canal": null,
-      "vigencia": "Promoción válida hasta el 31 de octubre de 2026.",
-      "condiciones": [
-        "En IRONSIDE, estamos en una misión apasionada para elevar el estándar del equipamiento deportivo y redefinir la experiencia del fitness para una comunidad de miembros comprometidos.",
-        "10% dto adicional todos los días.",
-        "Exclusivo en ironside.cl ingresando los 6 primeros dígitos de tu Tarjeta como código de descuento.",
-        "Beneficio exclusivo pagando con tus Tarjetas del Chile."
       ],
       "sucursales": []
     },
@@ -11655,26 +11480,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "ULTIMATE FITNESS",
-      "categoria": "Entretención y Deportes",
-      "descuento": "20% dto. adicional",
-      "dia": [
-        "Jueves"
-      ],
-      "dia_texto": "jueves",
-      "canal": null,
-      "vigencia": "Promoción válida hasta el 30 de septiembre de 2027.",
-      "condiciones": [
-        "ULTIMATE. Somos una marca que busca dar lo mejor para acompañar tus entrenamientos y la vida deportiva. Nos preocupamos por entregar la mejor calidad, con una tecnología y durabilidad del más alto nivel. Pensado para deportistas que busquen superar su límites.",
-        "20% dto. adicional con un tope de $50.000 todos los jueves.",
-        "Obtén dcto todos los jueves ingresando ULTIMATEBCH como cupón de dcto. al momento de finalizar compra en ultimatefitness.cl",
-        "No acumulable con otros cupones y con campañas de Cyber.",
-        "Descuento no aplica al valor del despacho."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "Wanted Burger",
       "categoria": "Sabores",
       "descuento": "20% dto.",
@@ -11736,137 +11541,6 @@
       ],
       "sucursales": [
         "Pedro de Valdivia #1317, Región de Biobío, Concepción"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "7Veinte",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": "20% dto.",
-      "dia": [
-        "Miércoles",
-        "Jueves",
-        "Viernes"
-      ],
-      "dia_texto": "miércoles a viernes",
-      "canal": "Tienda física",
-      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
-      "condiciones": [
-        "20% dto. miércoles a viernes presencial",
-        "Tope de dto. $50.000",
-        "Genera tu código de descuento y preséntalo al momento de pagar.",
-        "No acumulable con otras promociones.",
-        "Descuento no aplica para compras con facturas y en cambios.",
-        "Excluye Vans.",
-        "Descuento exclusivo pagando con tus Tarjetas del Chile."
-      ],
-      "sucursales": [
-        "Local 209, CALLE IGNACIO SERRANO 574, LOS LAGOS, CASTRO",
-        "Local 3010, AV. KENNEDY 9001, RM, SANTIAGO",
-        "Local 102, AVDA.LAS CONDES 13451, RM, SANTIAGO",
-        "Local N L3-12, AV. KENNEDY N5601, RM, SANTIAGO",
-        "Local 4128, AV. ANDRES BELLO N2447, RM, SANTIAGO",
-        "AV.LARRAIN 5862 A3076/A-3080, RM, SANTIAGO",
-        "Local 501 A, AV.AMERICO VESPUCIO N#399, RM, SANTIAGO",
-        "Local 301 A, CALLE EL ROBLE N 770, BIO-BIO, CHILLAN",
-        "Local 1, CAMILO HENRIQUEZ 466, LOS LAGOS, VALDIVIA",
-        "Local 139-140, AVENIDA CIRCUNVALACION ORIENTE N1055, MAULE, TALCA",
-        "CALLE SALVADOR 129, LOS LAGOS, PUERTO VARAS"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Columbia",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": "20% dto.",
-      "dia": [
-        "Miércoles",
-        "Jueves",
-        "Viernes"
-      ],
-      "dia_texto": "miércoles a viernes",
-      "canal": "Tienda física",
-      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
-      "condiciones": [
-        "20% dto. miércoles a viernes presencial",
-        "Tope de dto. $50.000",
-        "Genera tu código de descuento y preséntalo al momento de pagar.",
-        "No acumulable con otras promociones.",
-        "Descuento no aplica para compras con facturas y en cambios.",
-        "Descuento exclusivo pagando con tus Tarjetas del Chile."
-      ],
-      "sucursales": [
-        "Local 314 C NIVEL 3, CALLE IGNACIO SERRANO #574, LOS LAGOS, CHILOE",
-        "L 230/L 232, AV. BALMACEDA # 2355, ANTOFAGASTA, ANTOFAGASTA",
-        "Local A1076,A1080, CALLE MAIPU N 0110, ATACAMA, COPIAPO",
-        "Local C-104 C-108, BALMACEDA N#3242, ANTOFAGASTA, CALAMA",
-        "Local 103, AV. LIBERTAD #1348, Valparaiso, VIÑA DEL MAR",
-        "Local 391, AV KENNEDY 5413, RM, SANTIAGO",
-        "Local 2068, AV. LA DEHESA # 1445, RM, SANTIAGO",
-        "Local 3045, AV. KENNEDY # 9001, RM, SANTIAGO",
-        "Local 4196, AV.ANDRES BELLO 2447, RM, SANTIAGO",
-        "Local 102, AVDA.LAS CONDES 13451, RM, SANTIAGO",
-        "Local A-155, AV. VESPUCIO #1.501, RM, SANTIAGO",
-        "Local 1085, AV. VICU?A MACKENNA # 6100, RM, SANTIAGO",
-        "Local BA217A BA221A, AVDA.VICUNA MACKENNA ORIENTE 7110, RM, SANTIAGO",
-        "Local 381, AV. AMERICO VESPUCIO #399, RM, SANTIAGO",
-        "Local B-3032 / B-3036, AV.LARRAIN N# 5862, RM, SANTIAGO",
-        "Local J2, AV. CARLOS VALDOVINOS 200, RM, SANTIAGO",
-        "Local C166-C170, CAMILO HENRIQUEZ N3692, RM, SANTIAGO",
-        "Local A2072-A2074, AV. JORGE ALESSANDRI 20040, RM, SANTIAGO",
-        "Local C-110-112, AV. J. ALESSANDRI 3177 -, BIO-BIO, TALCAHUANO",
-        "Local A-300/ A-302 / A-304, VALDIVIA # 440, BIO-BIO, LOS ANGELES",
-        "Local 2059, AV. ALEMANIA # 671, ARAUCANIA, TEMUCO",
-        "Local 319 A, CALLE EL ROBLE N 770, BIO-BIO, CHILLAN",
-        "Local 231, ILLAPEL #10, LOS LAGOS, PUERTO MONTT",
-        "Local 188, ARAUCO 561, LOS RIOS, VALDIVIA",
-        "Local 114, CALLE SAN FRANCISCO N#666, LOS LAGOS, PUERTO VARAS",
-        "PLAZA YUNGAY 609 L3029, LOS LAGOS, OSORNO",
-        "Local 168-170, AV. EDUARDO FREI MONTALVA N 01110, MAGALLANES, PUNTA ARENAS",
-        "21 DE MAYO N447, AYSEN, COYHAIQUE"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Under Armour",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": "20% dto.",
-      "dia": [
-        "Miércoles",
-        "Jueves",
-        "Viernes"
-      ],
-      "dia_texto": "miércoles a viernes",
-      "canal": "Tienda física",
-      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
-      "condiciones": [
-        "20% dto. miércoles a viernes presencial",
-        "Tope de dto. $50.000",
-        "Genera tu código de descuento y preséntalo al momento de pagar.",
-        "No acumulable con otras promociones.",
-        "Descuento no aplica para compras con facturas y en cambios.",
-        "Descuento exclusivo pagando con tus Tarjetas del Chile."
-      ],
-      "sucursales": [
-        "Local 308 NIVEL 4, JUAN SOLER MANFREDINI #131, REGIÓN DE LOS LAGOS, PUERTO MONTT",
-        "AV. BALMACEDA 2355, REGIÓN DE ANTOFAGASTA, ANTOFAGASTA",
-        "Local 24-25, CAMINO LA CANTERA 2325, REGIÓN DE COQUIMBO, COQUIMBO",
-        "Local E11, AV. LIBERTAD 1348, REGIÓN DE VALPARAISO, VIÑA DEL MAR",
-        "Local 13, AV. LOMAS DE LA LUZ 4650, REGIÓN DE VALPARAISO, VALPARAISO",
-        "Local 117, AV PRESIDENTE KENNEDY 5413 PISO 1, REGIÓN METROPOLITANA, LAS CONDES",
-        "Local 4189, ANDRES BELLO 2447, REGIÓN METROPOLITANA, LAS CONDES",
-        "Local B2084, AV. PADRE HURTADO 875 NIVEL 2, REGIÓN METROPOLITANA, LAS CONDES",
-        "AV. LAS CONDES 11281, REGIÓN METROPOLITANA, LAS CONDES",
-        "Local 135-2, AV LAS CONDES 13451, REGIÓN METROPOLITANA, LAS CONDES",
-        "Local 3060, AVDA.VICUNA MACKENNA 6100, REGIÓN METROPOLITANA, LA FLORIDA",
-        "AV VICUNA MACKENNA 7110, REGIÓN METROPOLITANA, LA FLORIDA",
-        "AV. PDTE. FREI MONTALVA 9709 L132 L134 Y B103, REGIÓN METROPOLITANA, QUILICURA",
-        "Local 84, AV SAN IGNACIO 500, REGIÓN METROPOLITANA, QUILICURA",
-        "Local H260 264, AV. JORGE ALESSANDRI 3177, REGIÓN DEL BIO-BIO, TALCAHUANO",
-        "Local 3536, CALLE PORTAL SAN PEDRO 4850, REGIÓN DEL BIO-BIO, CONCEPCION",
-        "AV. ALEMANIA 0671 L3074, REGIÓN DE LA ARAUCANIA, TEMUCO",
-        "Local 305 NIVEL 3, AV. RAMON PICARTE #422, REGIÓN DE LOS RIOS, VALDIVIA",
-        "AV. LAS CONDES 11281, TORRE C, REGIÓN METROPOLITANA, LAS CONDES"
       ]
     },
     {
@@ -11969,59 +11643,6 @@
         "Local 144 - 146, AV EDO FREI MONTALVA 1110, MAGALLANES, PUNTA ARENAS",
         "CALLE 21 DE MAYO # 419, AYSEN, COYHAIQUE",
         "Local 115, CALLE SAN FRANCISCO N#666, LOS LAGOS, PUERTO VARAS"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Merrell",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": "20% dto.",
-      "dia": [
-        "Miércoles",
-        "Jueves",
-        "Viernes"
-      ],
-      "dia_texto": "miércoles a viernes",
-      "canal": "Tienda física",
-      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
-      "condiciones": [
-        "20% dto. miércoles a viernes presencial",
-        "Tope de dto. $50.000",
-        "Genera tu código de descuento y preséntalo al momento de pagar.",
-        "No acumulable con otras promociones.",
-        "Descuento no aplica para compras con facturas y en cambios.",
-        "Descuento exclusivo pagando con tus Tarjetas del Chile."
-      ],
-      "sucursales": [
-        "Local 1, CAMILO HENRÍQUEZ 466, LOS RIOS, VALDIVIA",
-        "Local A045 A1049, CALLE MAIPU N 0110, ATACAMA, COPIAPO",
-        "Local BA-134 BA-138, AVENIDA HUANHUALI N105, COQUIMBO, LA SERENA",
-        "Local 58, AV.LIBERTAD 1348, Valparaiso, VIÑA DEL MAR",
-        "Local 303, AVDA.KENNEDY 5413, RM, SANTIAGO",
-        "Local 2044, AV. LA DEHESA # 1445, RM, SANTIAGO",
-        "Local 2118, AV. KENNEDY N 9001, RM, SANTIAGO",
-        "Local 3196, AV.ANDRES BELLO 2447, RM, SANTIAGO",
-        "Local BA- 233A/ BA-237A, AV. VICU?A MACKENNA #7110, RM, SANTIAGO",
-        "Local BA-132, AV. AMERICO VESPUCIO N# 1501, RM, SANTIAGO",
-        "Local B-3040 / B-3044, AV.LARRAIN # 5862, RM, SANTIAGO",
-        "AVENIDA LAS CONDES 11281, RM, SANTIAGO",
-        "Local 3081, AV. VICUNA MACKENNA N# 6100, RM, SANTIAGO",
-        "Local 141, CALLE SAN IGNACIO N500, RM, SANTIAGO",
-        "Local H-140 H-144, AV. JORGE ALESSANDRI # 3177, BIO-BIO, CONCEPCION",
-        "Local 316 - L318, CALLE VALDIVIA LOCAL 316A -, BIO-BIO, LOS ANGELES",
-        "Local 014, AV. BERNARDO OHIGGINS #201, MAULE, CURICO",
-        "Local 320 A, CALLE EL ROBLE N 770, ÑUBLE, CHILLAN",
-        "Local N122 - A, AV CIRCUNVALACION ORIENTE N1055, MAULE, TALCA",
-        "Local 3054, AV.ALEMANIA 0671, ARAUCANIA, TEMUCO",
-        "Local 1, CALLE O HIGGINS 463, LOS RIOS, VALDIVIA",
-        "Local 245, CALLE ILLAPEL N#10, LOS LAGOS, PUERTO MONTT",
-        "CALLE BERNARDO OHIGGINS N112, ARAUCANIA, PUCON",
-        "21 DE MAYO N447, AYSEN, COYHAIQUE",
-        "CALLE SALVADOR N 129, LOS LAGOS, PUERTO VARAS",
-        "Local 148 150, AV. BALMACEDA N2355, ANTOFAGASTA, ANTOFAGASTA",
-        "Local F-162 164 166, AV. JORGE ALESSANDRI N3177, BIO-BIO, TALCAHUANO",
-        "Local A 189 - A 191, AV. BALMACEDA 3242, ANTOFAGASTA, CALAMA",
-        "AV. BALMACEDA N 2355 L 256-258, ANTOFAGASTA, ANTOFAGASTA"
       ]
     },
     {
@@ -12158,40 +11779,6 @@
         "Local 314-315, VALDIVIA 440, BIO-BIO, LOS ANGELES",
         "Local 244, CALLE ILLAPEL N#10, LOS LAGOS, PUERTO MONTT",
         "Local 2032, PLAZA YUNGAY 609, LOS LAGOS, OSORNO"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Funsport",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": "20% dto.",
-      "dia": [
-        "Miércoles",
-        "Jueves",
-        "Viernes"
-      ],
-      "dia_texto": "miércoles a viernes",
-      "canal": "Tienda física",
-      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
-      "condiciones": [
-        "20% dto. miércoles a viernes presencial",
-        "Tope de dto. $50.000",
-        "Genera tu código de descuento y preséntalo al momento de pagar.",
-        "No acumulable con otras promociones.",
-        "Descuento no aplica para compras con facturas y en cambios.",
-        "Descuento exclusivo pagando con tus Tarjetas del Chile."
-      ],
-      "sucursales": [
-        "Local 111-112, AV. PARQUE INDUSTRIAL 450, LOS LAGOS, PUERTO MONTT",
-        "Local 134-136-138, AV. HEROES DE LA CONCEPCION 2555, TARAPACA, IQUIQUE",
-        "Local A 189 - A 191, AV BALMACEDA 3242, ANTOFAGASTA, CALAMA",
-        "Local 256-258, AV. BALMACEDA N 2355, ANTOFAGASTA, ANTOFAGASTA",
-        "Local A110-112, ALAMEDA BDO OHIGGINS #3470, RM, SANTIAGO",
-        "Local 105, CALLE SERRANO # 395, RM, MELIPILLA",
-        "Local A.2055-2057, AV.JORGE ALESSANDRI 20040, RM, SANTIAGO",
-        "Local 36, AV BDO OHIGGINS # 201, MAULE, CURICO",
-        "Local 1232, AV. BERNARDO OHIGGINS 701, OHIGGINS, SAN FERNANDO",
-        "Local 1003, AV ALEMANIA 671, ARAUCANIA, TEMUCO"
       ]
     },
     {
@@ -12521,29 +12108,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Ananda Pilates Reformer",
-      "categoria": "Entretención y Deportes",
-      "descuento": "15% dto.",
-      "dia": [
-        "Todos los días"
-      ],
-      "dia_texto": "todos los días",
-      "canal": "Tienda física",
-      "vigencia": "Promoción válida hasta el 31 de mayo de 2027.",
-      "condiciones": [
-        "Tu destino para un entrenamiento de pilates reformer personalizado y efectivo. El estudio ofrece un ambiente acogedor y profesional, con instructores certificados que te guiarán en cada paso para mejorar tu fuerza, flexibilidad y bienestar general. Ya seas principiante o avanzado las clases están diseñadas para adaptarse a tus necesidades y objetivos.",
-        "15% dto. en planes mensuales, trimestrales, semestrales y anuales todos los días en compra presencial.",
-        "Solicita tu descuento al momento de pagar.",
-        "No acumulable con otras promociones.",
-        "Descuento exclusivo pagando con tus Tarjetas del Chile."
-      ],
-      "sucursales": [
-        "Asturias #110, Región Metropolitana, Las Condes",
-        "Los Ébanos #4845, Región de Los Lagos, Puerto Montt"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "Centro de SKI Antillanca",
       "categoria": "Entretención y Deportes",
       "descuento": "20% dto.",
@@ -12839,6 +12403,29 @@
         "Compra lo que quieras en tiendas Entel con tus Tarjetas de Crédito de Banco de Chile y paga en 13 a 24 cuotas sin interés. Renueva tu celular, cambia tus accesorios y mantente conectado con lo mejor de la tecnología. Para una compra referencial de $400.000 en 24 cuotas. CAE: 0,77% - Costo Total: $403.200 - Valor Cuota: $16.667"
       ],
       "sucursales": []
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Ananda Pilates Reformer",
+      "categoria": "Entretención y Deportes",
+      "descuento": "15% dto.",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 31 de mayo de 2027.",
+      "condiciones": [
+        "Tu destino para un entrenamiento de pilates reformer personalizado y efectivo. El estudio ofrece un ambiente acogedor y profesional, con instructores certificados que te guiarán en cada paso para mejorar tu fuerza, flexibilidad y bienestar general. Ya seas principiante o avanzado las clases están diseñadas para adaptarse a tus necesidades y objetivos.",
+        "15% dto. en planes mensuales, trimestrales, semestrales y anuales todos los días en compra presencial.",
+        "Solicita tu descuento al momento de pagar.",
+        "No acumulable con otras promociones.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Asturias #110, Región Metropolitana, Las Condes",
+        "Los Ébanos #4845, Región de Los Lagos, Puerto Montt"
+      ]
     },
     {
       "banco": "Banco de Chile",
@@ -13671,27 +13258,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Columbia",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": "20% dto.",
-      "dia": [
-        "Miércoles",
-        "Jueves",
-        "Viernes"
-      ],
-      "dia_texto": "miércoles, jueves y viernes en compra",
-      "canal": "Online",
-      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
-      "condiciones": [
-        "Obtén 20% dto con un tope de $50.000 en columbiachile.cl",
-        "Descarga tu código de descuento e ingrésalo como cupón de descuento al momento de pagar con tus Tarjetas del Banco.",
-        "No acumulable con otras promociones.",
-        "Descuento no aplica para compras con factura y en cambios."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "China Wok",
       "categoria": "Sabores",
       "descuento": "30% dto.",
@@ -13789,28 +13355,6 @@
         "Descarga tu código de descuento e ingresalo como cupón de descuento al momento de pagar con tus tarjetas del Banco.",
         "No acumulable con otras promociones.",
         "Descuento no aplica para compras con factura y en cambios."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "7Veinte",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": "20% dto.",
-      "dia": [
-        "Miércoles",
-        "Jueves",
-        "Viernes"
-      ],
-      "dia_texto": "miércoles, jueves y viernes en compra",
-      "canal": "Online",
-      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
-      "condiciones": [
-        "Obtén 20% dto con un tope de $50.000 en 7veinte.cl",
-        "Descarga tu código de descuento e ingresalo como cupón de descuento al momento de pagar con tus Tarjetas del Banco",
-        "No acumulable con otras promociones.",
-        "Descuento no aplica para compras con factura y en cambios.",
-        "Excluye VANS."
       ],
       "sucursales": []
     },
@@ -13935,27 +13479,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Merrell",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": "20% dto.",
-      "dia": [
-        "Miércoles",
-        "Jueves",
-        "Viernes"
-      ],
-      "dia_texto": "miércoles, jueves y viernes en compra",
-      "canal": "Online",
-      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
-      "condiciones": [
-        "Obtén 20% de descuento con un tope de $50.000 en merrell.cl",
-        "Descarga tu código de descuento e ingrésalo como cupón de descuento al momento de pagar con tus tarjetas del Banco.",
-        "No acumulable con otras promociones.",
-        "Descuento no aplica para compras con factura y en cambios."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "Zapatos.cl",
       "categoria": "Retail y Otras Marcas",
       "descuento": "20% dto.",
@@ -14007,27 +13530,6 @@
       "canal": null,
       "vigencia": "Promoción válida hasta el 31 de dic de 2026",
       "condiciones": [],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Under Armour",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": "20% dto.",
-      "dia": [
-        "Miércoles",
-        "Jueves",
-        "Viernes"
-      ],
-      "dia_texto": "miércoles, jueves y viernes en compra",
-      "canal": "Online",
-      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
-      "condiciones": [
-        "Obtén 20% dto con un tope de $50.000 en underarmour.cl",
-        "Descarga tu código de descuento e ingrésalo como cupón de descuento al momento de pagar con tus Tarjetas del Banco.",
-        "No acumulable con otras promociones.",
-        "Descuento no aplica para compras con factura y en cambios."
-      ],
       "sucursales": []
     },
     {
@@ -14135,6 +13637,26 @@
         "Av. Chamisero 10, Región Metropolitana, Colina",
         "Av. Blanca Estela 1560, Región de Valparaíso, Concón",
         "Gabriela Mistral 2868, Región de Coquimbo, La Serena"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "BYC Yoga Quinchamalí",
+      "categoria": "Entretención y Deportes",
+      "descuento": "Hasta 15% dto.",
+      "dia": [],
+      "dia_texto": "en planes",
+      "canal": null,
+      "vigencia": "Promoción válida hasta el 30 de junio de 2027.",
+      "condiciones": [
+        "El sistema de BYC Yoga de la India, es una revolucionaria práctica de salud tradicional que se enfoca en tratar enfermedades crónicas y promover la salud integral del cuerpo y la mente. Esta práctica se basa en una serie de 26 posturas y dos ejercicios de respiración, las cuales se realizan en una sala climatizada a 42ºc durante 90 minutos. Esta práctica es adecuada para personas de todas las edades y niveles de habilidad.",
+        "15% de descuento en los planes Ilimitados de 3, 6 y 12 meses.",
+        "10% de descuento en todos los planes limitados.",
+        "Solicita tu descuento al momento de pagar con tus tarjetas en sucursal.",
+        "No acumulable con otras promociones."
+      ],
+      "sucursales": [
+        "Av Las Condes #14.151, local 4, Región Metropolitana, Las Condes, Teléfono: +56 229571285"
       ]
     },
     {
@@ -14875,35 +14397,6 @@
       ],
       "sucursales": [
         "Luis Pasteur 6368, Vitacura, Región Metropolitana, +56 9 4248 1990"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Gnomo",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": "20% dto.",
-      "dia": [
-        "Lunes"
-      ],
-      "dia_texto": "lunes",
-      "canal": "Ambos",
-      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
-      "condiciones": [
-        "Gnomo es una marca outdoor chilena inspirada en la naturaleza, pensada para acompañarte en cada aventura con diseño, calidad y durabilidad. Destinamos parte de nuestras ventas a la reforestación de árboles nativos en la Patagonia chilena.",
-        "20% dto. lunes en compra presencial y en gnomowear.cl/pages/banco-de-chile",
-        "Para compra presencial solicita tu descuento al momento de pagar.",
-        "Para compra online ingresa los 6 primeros dígitos de tu Tarjeta como cupón de descuento.",
-        "Descuento válido para compras sobre $25.000",
-        "Descuento no aplica para valor del despacho.",
-        "Revisa cobertura de despacho en gnomowear.cl",
-        "Descuento exclusivo pagando con tus Tarjetas del Chile."
-      ],
-      "sucursales": [
-        "Enrique Foster Norte #80, Región Metropolitana, Las Condes",
-        "Av. Nueva Costanera #3900, Local 2073 Nivel 3, Región Metropolitana, Vitacura",
-        "Av. Pdte. Jorge Alessandri Rodriguez 3177, Local E-124 Sector Lomas, Región del Biobío, Talcahuano",
-        "Plaza Yungay 609, Piso 3 Local 3061, Región de Los Lagos, Osorno",
-        "Av. Vicente Méndez #1545, Local 1053, Región de Chillán, Ñuble"
       ]
     },
     {
@@ -15855,54 +15348,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Mountain Hardwear",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": "20% dto.",
-      "dia": [
-        "Miércoles",
-        "Jueves",
-        "Viernes"
-      ],
-      "dia_texto": "miércoles, jueves y viernes en compra",
-      "canal": "Online",
-      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
-      "condiciones": [
-        "Obtén 20% de descuento con un tope de $50.000 en mountainhardwear.cl",
-        "Descarga tu código de descuento e ingresalo como cupón de descuento al momento de pagar con tus tarjetas del Banco.",
-        "No acumulable con otras promociones.",
-        "Descuento no aplica para compras con factura y en cambios."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Mountain Hardwear",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": "20% dto.",
-      "dia": [
-        "Miércoles",
-        "Jueves",
-        "Viernes"
-      ],
-      "dia_texto": "miércoles a viernes",
-      "canal": "Tienda física",
-      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
-      "condiciones": [
-        "20% dto. miércoles a viernes presencial",
-        "Tope de dto. $50.000",
-        "Genera tu código de descuento y preséntalo al momento de pagar.",
-        "No acumulable con otras promociones.",
-        "Descuento no aplica para compras con facturas y en cambios.",
-        "Descuento exclusivo pagando con tus Tarjetas del Chile."
-      ],
-      "sucursales": [
-        "Local 3133, AV.ANDRES BELLO 2447, RM, SANTIAGO",
-        "CALLE 21 DE MAYO Nro 419, AYSEN, COYHAIQUE",
-        "Local 104-105C, AVENIDA LAS CONDES N 13451, RM, SANTIAGO"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "Rosselot Rent a Car",
       "categoria": "Viajes",
       "descuento": "Hasta 30% dto",
@@ -15934,6 +15379,29 @@
         "Aeropuerto La Araucanía, Región de La Araucanía, Temuco",
         "Arturo Prat 1160, Región de La Araucanía, Temuco",
         "Aeropuerto El Tepual, Región de Los Lagos, Puerto Montt"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Yoga Studio Chile",
+      "categoria": "Entretención y Deportes",
+      "descuento": "Hasta 40% dto.",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días",
+      "canal": null,
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
+      "condiciones": [
+        "Yogastudio Chile es uno de los centros de yoga más grandes de Santiago. Contamos con 2 sucursales en donde recibimos a más de 100 practicantes por día. Ofrecemos más de 50 clases a la semana, distribuidas por niveles (Principiante, Intermedio, Avanzado) para que puedas comenzar tu práctica en cualquier momento, sin importar si tienes experiencia. Nuestro enfoque como estudio es mantener la tradición de la practica, integrando de la mejor manera a cada nuevo practicante que decida aprender de esta hermosa y sanadora disciplina.",
+        "Solicita tu descuento al momento de pagar con tus Tarjetas del Chile.",
+        "40% dto. en la primera clase.",
+        "30% dto. en planes M´LTISEDE sobre 8 clases (descuento exclusivo para alumnos nuevos.",
+        "15% dto. en todos los planes M´LTISEDE sobre 8 clases. (sin restricciones de uso)"
+      ],
+      "sucursales": [
+        "Valenzuela Castillo #1660, Región Metropolitana, Providencia",
+        "Evaristo Lillo #133, Región Metropolitana, Las Condes"
       ]
     },
     {
@@ -17303,6 +16771,25 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "IRONSIDE",
+      "categoria": "Entretención y Deportes",
+      "descuento": "10% dto. adicional",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días",
+      "canal": null,
+      "vigencia": "Promoción válida hasta el 31 de octubre de 2026.",
+      "condiciones": [
+        "En IRONSIDE, estamos en una misión apasionada para elevar el estándar del equipamiento deportivo y redefinir la experiencia del fitness para una comunidad de miembros comprometidos.",
+        "10% dto adicional todos los días.",
+        "Exclusivo en ironside.cl ingresando los 6 primeros dígitos de tu Tarjeta como código de descuento.",
+        "Beneficio exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "Vestuario y calzado Clientes Plan Océano",
       "categoria": "Retail y Otras Marcas",
       "descuento": "40% dto.",
@@ -18411,31 +17898,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Infinity",
-      "categoria": "Entretención y Deportes",
-      "descuento": "25% dto.",
-      "dia": [
-        "Todos los días"
-      ],
-      "dia_texto": "todos los días",
-      "canal": "Tienda física",
-      "vigencia": "Promoción válida hasta el 31 de julio de 2027.",
-      "condiciones": [
-        "Infinity es una red de complejos deportivos diseñada para que personas de todas las edades disfruten de la actividad física en espacios modernos, seguros y de primer nivel. Con sedes en Antofagasta y Talca enfocadas en pádel, y La Florida especializada en fútbol y futbolito, Infinity promueve el deporte, la vida saludable y la comunidad, ofreciendo una experiencia donde el juego siempre está en el centro.",
-        "25% dto. todos los días en la reserva de canchas.",
-        "Obtén el descuento pagando de forma presencial en cada sucursal.",
-        "Puedes realizar la reserva de la cancha a través del WhatsApp de cada sucursal.",
-        "No acumulable con otras promociones.",
-        "Descuento exclusivo pagando con tus Tarjetas del Chile."
-      ],
-      "sucursales": [
-        "Avenida Pedro Aguirre Cerda #10578, Piso 4 Mall Paseo La Portada, Región de Antofagasta, Antofagasta, Teléfono: +569 53323699",
-        "Avenida Colín #0665, Interior Mall Go! Florida - Segundo Nivel, Región del Maule, Talca, Teléfono: +569 89348954",
-        "Av. San José de la Estrella #816, Infinity La Florida, Región Metropolitana, La Florida, Teléfono: +569 89348954"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "Sense",
       "categoria": "Mascotas",
       "descuento": "30% dto.",
@@ -19179,6 +18641,31 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "NIKE",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "30% dto. adicional",
+      "dia": [
+        "Martes",
+        "Jueves",
+        "Domingo"
+      ],
+      "dia_texto": "martes, jueves y domingo",
+      "canal": "Online",
+      "vigencia": "Promoción válida hasta el 08 de noviembre de 2026.",
+      "condiciones": [
+        "30% dto. adicional martes, jueves y domingo online.",
+        "Revisa los productos con descuentos en nike.cl/bancodechile",
+        "Tu descuento se verá reflejado al momento de ingresar tu Tarjeta del Chile al realizar el pago.",
+        "Antes de pagar confirma que estas en el sitio nike.cl/bancodechile y que el descuento esté aplicado.",
+        "Revisa cobertura de despacho en Nike.cl",
+        "Descuento no aplica al valor del despacho.",
+        "Tope de dto. $60.000",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "Tamago Sushi",
       "categoria": "Sabores",
       "descuento": "20% dto.",
@@ -19295,6 +18782,31 @@
         "Avenida Egaña #252, local 1, Región Metropolitana, La Reina",
         "Avenida Las Condes #12751, local 1 y 7, Región Metropolitana, Las Condes",
         "Gerónimo de Alderete #1567, Región Metropolitana, Vitacura"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Infinity",
+      "categoria": "Entretención y Deportes",
+      "descuento": "25% dto.",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 31 de julio de 2027.",
+      "condiciones": [
+        "Infinity es una red de complejos deportivos diseñada para que personas de todas las edades disfruten de la actividad física en espacios modernos, seguros y de primer nivel. Con sedes en Antofagasta y Talca enfocadas en pádel, y La Florida especializada en fútbol y futbolito, Infinity promueve el deporte, la vida saludable y la comunidad, ofreciendo una experiencia donde el juego siempre está en el centro.",
+        "25% dto. todos los días en la reserva de canchas.",
+        "Obtén el descuento pagando de forma presencial en cada sucursal.",
+        "Puedes realizar la reserva de la cancha a través del WhatsApp de cada sucursal.",
+        "No acumulable con otras promociones.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Avenida Pedro Aguirre Cerda #10578, Piso 4 Mall Paseo La Portada, Región de Antofagasta, Antofagasta, Teléfono: +569 53323699",
+        "Avenida Colín #0665, Interior Mall Go! Florida - Segundo Nivel, Región del Maule, Talca, Teléfono: +569 89348954",
+        "Av. San José de la Estrella #816, Infinity La Florida, Región Metropolitana, La Florida, Teléfono: +569 89348954"
       ]
     },
     {
@@ -22041,6 +21553,72 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "Skechers",
+      "categoria": "Entretención y Deportes",
+      "descuento": "40% dto.",
+      "dia": [
+        "Martes"
+      ],
+      "dia_texto": "martes",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 31 de enero de 2027.",
+      "condiciones": [
+        "Skechers transforma la comodidad en una forma de expresión, combinando estilo e innovación para acompañarte en cada momento del día. Con tecnologías pensadas para hacer tu vida más cómoda y diseños que siguen las últimas tendencias, cada colección invita a moverse, disfrutar y vivir a tu manera. Descubre nuestras nuevas colecciones de calzado, ropa y accesorios para ti y toda tu familia.",
+        "40% dto. martes en compra presencial.",
+        "Tope de dto. $100.000.",
+        "Solicita tu descuento al momento de pagar.",
+        "No acumulable con otras promociones.",
+        "Beneficio excluye tiendas outlet.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Florida Mall local 2041, Av. Vicuña Mackenna #6100, Región Metropolitana, La Florida",
+        "Alto Las Condes local 2030, Av. Kennedy #9001, Región Metropolitana, Las Condes",
+        "Portal Temuco local 2025, Av. Alemania #0671, Región de la Araucania, Temuco",
+        "Plaza Antofagasta locales 220 y 216A, Balmaceda #2355, Región de Antofagasta, Antofagasta",
+        "Plaza Oeste local D302, Av. Américo Vespucio #1501, Región Metropolitana, Cerrillos",
+        "Marina Arauco local 212, Av. Libertad #1348, Región de Valparaiso, Viña del Mar",
+        "Parque Arauco local 180, Av. Kennedy #5413, Región Metropolitana, Las Condes",
+        "Plaza Norte local 2098, Av. Américo Vespucio #1737, Región Metropolitana, Huechuraba",
+        "Plaza Trébol local E126, Av. Jorge Alessandri #3177, Región del BioBio, Talcahuano",
+        "Paseo Arauco Estación local 337, San Francisco de Borja #66, Región Metropolitana, Estación Central",
+        "Portal Ñuñoa local 2024, Av. José Pedro Alessandri #1166, Región Metropolitana, Ñuñoa",
+        "Paseo Costanera local 237E, Illapel #10, Región de Los Lagos, Puerto Montt",
+        "Costanera Center local 4181, Av. Andrés Bello #2447, Región Metropolitana, Providencia",
+        "Mall Plaza Calama local A 185-7, Av. Balmaceda #3242, Región de Antofagasta, Calama",
+        "Mall Arauco Maipú local 547, Av. Américo Vespucio #399, Región Metropolitana, Maipú",
+        "Ahumada, Ahumada #272, Región Metropolitana, Santiago Centro",
+        "Plaza del Centro local 36, Barros Arana #1068, Región del BioBio, Concepción",
+        "Plaza Maipú Santiago local 1056, Av. Pajaritos #1790, Región Metropolitana, Maipú",
+        "Portal Centro Talca local 115, Calle Uno Sur 1537, Región del Maule, Talca",
+        "Open Plaza Rancagua local 2100, Estado 275, Región de O’Higgins, Rancagua",
+        "Mall Plaza Egaña local 3049, Av. Larraín 5862, Región Metropolitana, La Reina",
+        "Mall Plaza Copiapó local C1012, Maipú 0110, Región de Atacama, Copiapó",
+        "Mall Plaza La Serena local C118, Av. Alberto Solari 1400, Región de Coquimbo, La Serena",
+        "Las Américas Iquique locales 183/185, Av. Héroes de la Concepción 2355, Región de Tarapacá, Iquique",
+        "Estado, Estado 252, Región Metropolitana, Santiago Centro",
+        "Puente Street, Puente 710, Región Metropolitana, Santiago",
+        "Mall Valparaíso local 104, Victoria 2937, Región de Valparaiso, Valparaíso",
+        "Barrio Independencia local 318, Independencia 565, Región Metropolitana, Santiago",
+        "Mall Costa Pacífico local 1270, Av. Carlos Prat 0901, Región del BioBio, Coronel",
+        "Mall Arauco Chillán locales 102 y 101, El Roble 770, Región de Ñuble, Chillán",
+        "Mall Plaza Arica local 1090, Av. Diego Portales 640, Región de Arica y Parinacota, Arica",
+        "Mall Curicó local 057, Av. Bernardo O´Higgins 201, Región del Maule, Curicó",
+        "Mall Quilpué, Av. Los Carrera 754, Región de Valparaiso, Quilpué",
+        "Mall Plaza Vespucio local 201, Av. Vicuña Mackenna 7110, Región Metropolitana, La Florida",
+        "Mall Vivo Coquimbo local 1120, Varela 1524, Región de Coquimbo, Coquimbo",
+        "E. Urbano Los Andes locales 90-5, Santa Teresa 683, Región de Valparaiso, Los Andes",
+        "Portal Osorno, Plaza Yungay 609, Región de Los Lagos, Osorno",
+        "Mercado Urbano Tobalaba local 106, Av. Apoquindo 2730, Región Metropolitana, Las Condes",
+        "Espacio Urbano Pioneros local 18, Av. Frei Montalva 01110, Región de Magallanes y de la Antártica, Punta Arenas",
+        "Mall Paseo Valdivia local 205, Av. Picarte 422, Región de Los Ríos, Valdivia",
+        "Mall Plaza Sur locales C 1019 y 1017, Av. Pdte. Alessandri 20040, Región Metropolitana, San Bernardo",
+        "Mall Plaza Maule locales A 1101, 1104 y 1103, Av. Circunvalación Oriente 1055, Región del Maule, Talca",
+        "Mall Los Dominicos locales 1040 y 1036, Av. Padre Hurtado Sur 875, Región Metropolitana, Las Condes"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "Tesla",
       "categoria": "Retail y Otras Marcas",
       "descuento": null,
@@ -22212,6 +21790,34 @@
         "Plan Travel Black: 1 despacho gratis al mes."
       ],
       "sucursales": []
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Clínica CRL",
+      "categoria": "Salud y Belleza",
+      "descuento": "Hasta 50% dto.",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 28 de febrero de 2027.",
+      "condiciones": [
+        "Clínica de Recuperación de Lesiones CRL, brinda una experiencia única respaldada por una metodología innovadora que acelera la recuperación de lesiones hasta un 65% dcto.",
+        "50% dto. en tu primera sesión de electrólisis percutánea.",
+        "30% dto. en tu primera sesión de neuro modulación percutánea.",
+        "20% dto. en tu sesión de ozonoterapia.",
+        "15% dto. en tu consulta médica.",
+        "Obtén tu descuento al momento de pagar con tus tarjetas del Banco.",
+        "No acumulable con otras promociones."
+      ],
+      "sucursales": [
+        "Doctor Manuel Barros Borgoño #160, piso 7 Of. 703, Región Metropolitana, Providencia",
+        "Libertad #50, piso 3 esquina Av. Pajaritos, Región Metropolitana, Maipú",
+        "Padre Hurtado Norte #75, piso 2, Región Metropolitana, Las Condes",
+        "Amércio Vespucio #747, Local 2, Región Metropolitana, La Florida",
+        "1/2 Oriente #1040, entre 11 y 12 Norte, Región de Valparaíso, Viña del Mar"
+      ]
     },
     {
       "banco": "Banco de Chile",
@@ -22417,31 +22023,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Adidas",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": "30% dto. adicional",
-      "dia": [
-        "Miércoles",
-        "Jueves",
-        "Viernes"
-      ],
-      "dia_texto": "miércoles a viernes en adidas.cl/alianza",
-      "canal": null,
-      "vigencia": "Promoción válida hasta el 31 de octubre de 2026.",
-      "condiciones": [
-        "Corre por este beneficio único, miércoles a viernes con tus Tarjetas del Chile. 30% dto. adicional miércoles a viernes en adidas.cl/alianza.",
-        "Descarga tu código de descuento en bancochile.cl o App Mi Banco.",
-        "Ingresa el código al momento de finalizar la compra en adidas.cl/alianza",
-        "Máximo 2 descargas de cupón diarias por cliente.",
-        "Descuento no aplica para valor del despacho.",
-        "Revisa cobertura de despacho en adidas.cl",
-        "Beneficio excluye eventos masivos como Cyber y Black Friday.",
-        "Descuento exclusivo pagando con tus Tarjetas del Chile."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "Matureo",
       "categoria": "Sabores",
       "descuento": "40% dto.",
@@ -22619,6 +22200,217 @@
       ],
       "sucursales": [
         "El Manantial #1781, REGIÓN METROPOLITANA, Vitacura, +569 35341318"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Columbia",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "20% dto.",
+      "dia": [
+        "Miércoles",
+        "Jueves",
+        "Viernes"
+      ],
+      "dia_texto": "miércoles a viernes",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
+      "condiciones": [
+        "20% dto. miércoles a viernes presencial",
+        "Tope de dto. $50.000",
+        "Genera tu código de descuento y preséntalo al momento de pagar.",
+        "No acumulable con otras promociones.",
+        "Descuento no aplica para compras con facturas y en cambios.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Local 314 C NIVEL 3, CALLE IGNACIO SERRANO #574, LOS LAGOS, CHILOE",
+        "L 230/L 232, AV. BALMACEDA # 2355, ANTOFAGASTA, ANTOFAGASTA",
+        "Local A1076,A1080, CALLE MAIPU N 0110, ATACAMA, COPIAPO",
+        "Local C-104 C-108, BALMACEDA N#3242, ANTOFAGASTA, CALAMA",
+        "Local 103, AV. LIBERTAD #1348, Valparaiso, VIÑA DEL MAR",
+        "Local 391, AV KENNEDY 5413, RM, SANTIAGO",
+        "Local 2068, AV. LA DEHESA # 1445, RM, SANTIAGO",
+        "Local 3045, AV. KENNEDY # 9001, RM, SANTIAGO",
+        "Local 4196, AV.ANDRES BELLO 2447, RM, SANTIAGO",
+        "Local 102, AVDA.LAS CONDES 13451, RM, SANTIAGO",
+        "Local A-155, AV. VESPUCIO #1.501, RM, SANTIAGO",
+        "Local 1085, AV. VICU?A MACKENNA # 6100, RM, SANTIAGO",
+        "Local BA217A BA221A, AVDA.VICUNA MACKENNA ORIENTE 7110, RM, SANTIAGO",
+        "Local 381, AV. AMERICO VESPUCIO #399, RM, SANTIAGO",
+        "Local B-3032 / B-3036, AV.LARRAIN N# 5862, RM, SANTIAGO",
+        "Local J2, AV. CARLOS VALDOVINOS 200, RM, SANTIAGO",
+        "Local C166-C170, CAMILO HENRIQUEZ N3692, RM, SANTIAGO",
+        "Local A2072-A2074, AV. JORGE ALESSANDRI 20040, RM, SANTIAGO",
+        "Local C-110-112, AV. J. ALESSANDRI 3177 -, BIO-BIO, TALCAHUANO",
+        "Local A-300/ A-302 / A-304, VALDIVIA # 440, BIO-BIO, LOS ANGELES",
+        "Local 2059, AV. ALEMANIA # 671, ARAUCANIA, TEMUCO",
+        "Local 319 A, CALLE EL ROBLE N 770, BIO-BIO, CHILLAN",
+        "Local 231, ILLAPEL #10, LOS LAGOS, PUERTO MONTT",
+        "Local 188, ARAUCO 561, LOS RIOS, VALDIVIA",
+        "Local 114, CALLE SAN FRANCISCO N#666, LOS LAGOS, PUERTO VARAS",
+        "PLAZA YUNGAY 609 L3029, LOS LAGOS, OSORNO",
+        "Local 168-170, AV. EDUARDO FREI MONTALVA N 01110, MAGALLANES, PUNTA ARENAS",
+        "21 DE MAYO N447, AYSEN, COYHAIQUE"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Under Armour",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "20% dto.",
+      "dia": [
+        "Miércoles",
+        "Jueves",
+        "Viernes"
+      ],
+      "dia_texto": "miércoles a viernes",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
+      "condiciones": [
+        "20% dto. miércoles a viernes presencial",
+        "Tope de dto. $50.000",
+        "Genera tu código de descuento y preséntalo al momento de pagar.",
+        "No acumulable con otras promociones.",
+        "Descuento no aplica para compras con facturas y en cambios.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Local 308 NIVEL 4, JUAN SOLER MANFREDINI #131, REGIÓN DE LOS LAGOS, PUERTO MONTT",
+        "AV. BALMACEDA 2355, REGIÓN DE ANTOFAGASTA, ANTOFAGASTA",
+        "Local 24-25, CAMINO LA CANTERA 2325, REGIÓN DE COQUIMBO, COQUIMBO",
+        "Local E11, AV. LIBERTAD 1348, REGIÓN DE VALPARAISO, VIÑA DEL MAR",
+        "Local 13, AV. LOMAS DE LA LUZ 4650, REGIÓN DE VALPARAISO, VALPARAISO",
+        "Local 117, AV PRESIDENTE KENNEDY 5413 PISO 1, REGIÓN METROPOLITANA, LAS CONDES",
+        "Local 4189, ANDRES BELLO 2447, REGIÓN METROPOLITANA, LAS CONDES",
+        "Local B2084, AV. PADRE HURTADO 875 NIVEL 2, REGIÓN METROPOLITANA, LAS CONDES",
+        "AV. LAS CONDES 11281, REGIÓN METROPOLITANA, LAS CONDES",
+        "Local 135-2, AV LAS CONDES 13451, REGIÓN METROPOLITANA, LAS CONDES",
+        "Local 3060, AVDA.VICUNA MACKENNA 6100, REGIÓN METROPOLITANA, LA FLORIDA",
+        "AV VICUNA MACKENNA 7110, REGIÓN METROPOLITANA, LA FLORIDA",
+        "AV. PDTE. FREI MONTALVA 9709 L132 L134 Y B103, REGIÓN METROPOLITANA, QUILICURA",
+        "Local 84, AV SAN IGNACIO 500, REGIÓN METROPOLITANA, QUILICURA",
+        "Local H260 264, AV. JORGE ALESSANDRI 3177, REGIÓN DEL BIO-BIO, TALCAHUANO",
+        "Local 3536, CALLE PORTAL SAN PEDRO 4850, REGIÓN DEL BIO-BIO, CONCEPCION",
+        "AV. ALEMANIA 0671 L3074, REGIÓN DE LA ARAUCANIA, TEMUCO",
+        "Local 305 NIVEL 3, AV. RAMON PICARTE #422, REGIÓN DE LOS RIOS, VALDIVIA",
+        "AV. LAS CONDES 11281, TORRE C, REGIÓN METROPOLITANA, LAS CONDES"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Mountain Hardwear",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "20% dto.",
+      "dia": [
+        "Miércoles",
+        "Jueves",
+        "Viernes"
+      ],
+      "dia_texto": "miércoles a viernes",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
+      "condiciones": [
+        "20% dto. miércoles a viernes presencial",
+        "Tope de dto. $50.000",
+        "Genera tu código de descuento y preséntalo al momento de pagar.",
+        "No acumulable con otras promociones.",
+        "Descuento no aplica para compras con facturas y en cambios.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Local 3133, AV.ANDRES BELLO 2447, RM, SANTIAGO",
+        "CALLE 21 DE MAYO Nro 419, AYSEN, COYHAIQUE",
+        "Local 104-105C, AVENIDA LAS CONDES N 13451, RM, SANTIAGO"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "7Veinte",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "20% dto.",
+      "dia": [
+        "Miércoles",
+        "Jueves",
+        "Viernes"
+      ],
+      "dia_texto": "miércoles a viernes",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
+      "condiciones": [
+        "20% dto. miércoles a viernes presencial",
+        "Tope de dto. $50.000",
+        "Genera tu código de descuento y preséntalo al momento de pagar.",
+        "No acumulable con otras promociones.",
+        "Descuento no aplica para compras con facturas y en cambios.",
+        "Excluye Vans.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Local 209, CALLE IGNACIO SERRANO 574, LOS LAGOS, CASTRO",
+        "Local 3010, AV. KENNEDY 9001, RM, SANTIAGO",
+        "Local 102, AVDA.LAS CONDES 13451, RM, SANTIAGO",
+        "Local N L3-12, AV. KENNEDY N5601, RM, SANTIAGO",
+        "Local 4128, AV. ANDRES BELLO N2447, RM, SANTIAGO",
+        "AV.LARRAIN 5862 A3076/A-3080, RM, SANTIAGO",
+        "Local 501 A, AV.AMERICO VESPUCIO N#399, RM, SANTIAGO",
+        "Local 301 A, CALLE EL ROBLE N 770, BIO-BIO, CHILLAN",
+        "Local 1, CAMILO HENRIQUEZ 466, LOS LAGOS, VALDIVIA",
+        "Local 139-140, AVENIDA CIRCUNVALACION ORIENTE N1055, MAULE, TALCA",
+        "CALLE SALVADOR 129, LOS LAGOS, PUERTO VARAS"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Merrell",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "20% dto.",
+      "dia": [
+        "Miércoles",
+        "Jueves",
+        "Viernes"
+      ],
+      "dia_texto": "miércoles a viernes",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
+      "condiciones": [
+        "20% dto. miércoles a viernes presencial",
+        "Tope de dto. $50.000",
+        "Genera tu código de descuento y preséntalo al momento de pagar.",
+        "No acumulable con otras promociones.",
+        "Descuento no aplica para compras con facturas y en cambios.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Local 1, CAMILO HENRÍQUEZ 466, LOS RIOS, VALDIVIA",
+        "Local A045 A1049, CALLE MAIPU N 0110, ATACAMA, COPIAPO",
+        "Local BA-134 BA-138, AVENIDA HUANHUALI N105, COQUIMBO, LA SERENA",
+        "Local 58, AV.LIBERTAD 1348, Valparaiso, VIÑA DEL MAR",
+        "Local 303, AVDA.KENNEDY 5413, RM, SANTIAGO",
+        "Local 2044, AV. LA DEHESA # 1445, RM, SANTIAGO",
+        "Local 2118, AV. KENNEDY N 9001, RM, SANTIAGO",
+        "Local 3196, AV.ANDRES BELLO 2447, RM, SANTIAGO",
+        "Local BA- 233A/ BA-237A, AV. VICU?A MACKENNA #7110, RM, SANTIAGO",
+        "Local BA-132, AV. AMERICO VESPUCIO N# 1501, RM, SANTIAGO",
+        "Local B-3040 / B-3044, AV.LARRAIN # 5862, RM, SANTIAGO",
+        "AVENIDA LAS CONDES 11281, RM, SANTIAGO",
+        "Local 3081, AV. VICUNA MACKENNA N# 6100, RM, SANTIAGO",
+        "Local 141, CALLE SAN IGNACIO N500, RM, SANTIAGO",
+        "Local H-140 H-144, AV. JORGE ALESSANDRI # 3177, BIO-BIO, CONCEPCION",
+        "Local 316 - L318, CALLE VALDIVIA LOCAL 316A -, BIO-BIO, LOS ANGELES",
+        "Local 014, AV. BERNARDO OHIGGINS #201, MAULE, CURICO",
+        "Local 320 A, CALLE EL ROBLE N 770, ÑUBLE, CHILLAN",
+        "Local N122 - A, AV CIRCUNVALACION ORIENTE N1055, MAULE, TALCA",
+        "Local 3054, AV.ALEMANIA 0671, ARAUCANIA, TEMUCO",
+        "Local 1, CALLE O HIGGINS 463, LOS RIOS, VALDIVIA",
+        "Local 245, CALLE ILLAPEL N#10, LOS LAGOS, PUERTO MONTT",
+        "CALLE BERNARDO OHIGGINS N112, ARAUCANIA, PUCON",
+        "21 DE MAYO N447, AYSEN, COYHAIQUE",
+        "CALLE SALVADOR N 129, LOS LAGOS, PUERTO VARAS",
+        "Local 148 150, AV. BALMACEDA N2355, ANTOFAGASTA, ANTOFAGASTA",
+        "Local F-162 164 166, AV. JORGE ALESSANDRI N3177, BIO-BIO, TALCAHUANO",
+        "Local A 189 - A 191, AV. BALMACEDA 3242, ANTOFAGASTA, CALAMA",
+        "AV. BALMACEDA N 2355 L 256-258, ANTOFAGASTA, ANTOFAGASTA"
       ]
     },
     {
@@ -22891,6 +22683,26 @@
       "sucursales": [
         "Av. Ricardo Cumming #340, Región Metropolitana, Santiago"
       ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "ULTIMATE FITNESS",
+      "categoria": "Entretención y Deportes",
+      "descuento": "20% dto. adicional",
+      "dia": [
+        "Jueves"
+      ],
+      "dia_texto": "jueves",
+      "canal": null,
+      "vigencia": "Promoción válida hasta el 30 de septiembre de 2027.",
+      "condiciones": [
+        "ULTIMATE. Somos una marca que busca dar lo mejor para acompañar tus entrenamientos y la vida deportiva. Nos preocupamos por entregar la mejor calidad, con una tecnología y durabilidad del más alto nivel. Pensado para deportistas que busquen superar su límites.",
+        "20% dto. adicional con un tope de $50.000 todos los jueves.",
+        "Obtén dcto todos los jueves ingresando ULTIMATEBCH como cupón de dcto. al momento de finalizar compra en ultimatefitness.cl",
+        "No acumulable con otros cupones y con campañas de Cyber.",
+        "Descuento no aplica al valor del despacho."
+      ],
+      "sucursales": []
     },
     {
       "banco": "Banco de Chile",
@@ -23700,6 +23512,31 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "Adidas",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "30% dto. adicional",
+      "dia": [
+        "Miércoles",
+        "Jueves",
+        "Viernes"
+      ],
+      "dia_texto": "miércoles a viernes en adidas.cl/alianza",
+      "canal": null,
+      "vigencia": "Promoción válida hasta el 31 de octubre de 2026.",
+      "condiciones": [
+        "Corre por este beneficio único, miércoles a viernes con tus Tarjetas del Chile. 30% dto. adicional miércoles a viernes en adidas.cl/alianza.",
+        "Descarga tu código de descuento en bancochile.cl o App Mi Banco.",
+        "Ingresa el código al momento de finalizar la compra en adidas.cl/alianza",
+        "Máximo 2 descargas de cupón diarias por cliente.",
+        "Descuento no aplica para valor del despacho.",
+        "Revisa cobertura de despacho en adidas.cl",
+        "Beneficio excluye eventos masivos como Cyber y Black Friday.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "La Campiña Cocina Francesa Dólares-Premio",
       "categoria": "Dólares-Premio",
       "descuento": null,
@@ -24282,6 +24119,112 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "Columbia",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "20% dto.",
+      "dia": [
+        "Miércoles",
+        "Jueves",
+        "Viernes"
+      ],
+      "dia_texto": "miércoles, jueves y viernes en compra",
+      "canal": "Online",
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
+      "condiciones": [
+        "Obtén 20% dto con un tope de $50.000 en columbiachile.cl",
+        "Descarga tu código de descuento e ingrésalo como cupón de descuento al momento de pagar con tus Tarjetas del Banco.",
+        "No acumulable con otras promociones.",
+        "Descuento no aplica para compras con factura y en cambios."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Mountain Hardwear",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "20% dto.",
+      "dia": [
+        "Miércoles",
+        "Jueves",
+        "Viernes"
+      ],
+      "dia_texto": "miércoles, jueves y viernes en compra",
+      "canal": "Online",
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
+      "condiciones": [
+        "Obtén 20% de descuento con un tope de $50.000 en mountainhardwear.cl",
+        "Descarga tu código de descuento e ingresalo como cupón de descuento al momento de pagar con tus tarjetas del Banco.",
+        "No acumulable con otras promociones.",
+        "Descuento no aplica para compras con factura y en cambios."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "7Veinte",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "20% dto.",
+      "dia": [
+        "Miércoles",
+        "Jueves",
+        "Viernes"
+      ],
+      "dia_texto": "miércoles, jueves y viernes en compra",
+      "canal": "Online",
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
+      "condiciones": [
+        "Obtén 20% dto con un tope de $50.000 en 7veinte.cl",
+        "Descarga tu código de descuento e ingresalo como cupón de descuento al momento de pagar con tus Tarjetas del Banco",
+        "No acumulable con otras promociones.",
+        "Descuento no aplica para compras con factura y en cambios.",
+        "Excluye VANS."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Merrell",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "20% dto.",
+      "dia": [
+        "Miércoles",
+        "Jueves",
+        "Viernes"
+      ],
+      "dia_texto": "miércoles, jueves y viernes en compra",
+      "canal": "Online",
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
+      "condiciones": [
+        "Obtén 20% de descuento con un tope de $50.000 en merrell.cl",
+        "Descarga tu código de descuento e ingrésalo como cupón de descuento al momento de pagar con tus tarjetas del Banco.",
+        "No acumulable con otras promociones.",
+        "Descuento no aplica para compras con factura y en cambios."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Under Armour",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "20% dto.",
+      "dia": [
+        "Miércoles",
+        "Jueves",
+        "Viernes"
+      ],
+      "dia_texto": "miércoles, jueves y viernes en compra",
+      "canal": "Online",
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
+      "condiciones": [
+        "Obtén 20% dto con un tope de $50.000 en underarmour.cl",
+        "Descarga tu código de descuento e ingrésalo como cupón de descuento al momento de pagar con tus Tarjetas del Banco.",
+        "No acumulable con otras promociones.",
+        "Descuento no aplica para compras con factura y en cambios."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "Clínica Kiprosport",
       "categoria": "Salud y Belleza",
       "descuento": "Hasta 70% dto.",
@@ -24305,6 +24248,196 @@
       "sucursales": [
         "Colo Colo #85, Región del Bío Bío, Concepción"
       ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Gnomo",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "20% dto. adicional",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días",
+      "canal": "Ambos",
+      "vigencia": "Promoción válida hasta el 8 de noviembre de 2026.",
+      "condiciones": [
+        "Gnomo es una marca outdoor chilena inspirada en la naturaleza, pensada para acompañarte en cada aventura con diseño, calidad y durabilidad. Destinamos parte de nuestras ventas a la reforestación de árboles nativos en la Patagonia chilena.",
+        "20% dto. adicional todos los días en compra presencial y en gnomowear.cl/pages/banco-de-chile",
+        "Para compra presencial solicita tu descuento al momento de pagar.",
+        "Para compra online ingresa los 6 primeros dígitos de tu Tarjeta como cupón de descuento.",
+        "Descuento válido para compras sobre $25.000",
+        "Descuento no aplica para valor del despacho.",
+        "Revisa cobertura de despacho en gnomowear.cl",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Enrique Foster Norte #80, Región Metropolitana, Las Condes",
+        "Av. Nueva Costanera #3900, Local 2073 Nivel 3, Región Metropolitana, Vitacura",
+        "Av. Pdte. Jorge Alessandri Rodriguez 3177, Local E-124 Sector Lomas, Región del Biobío, Talcahuano",
+        "Plaza Yungay 609, Piso 3 Local 3061, Región de Los Lagos, Osorno",
+        "Av. Vicente Méndez #1545, Local 1053, Región de Chillán, Ñuble"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "CLUB DE PADEL DE LA FLORIDA",
+      "categoria": "Entretención y Deportes",
+      "descuento": "Hasta 25% dto.",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días",
+      "canal": null,
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
+      "condiciones": [
+        "Es el club de pádel más grande de la comuna de la Florida, ubicado en San José de la Estrella, considerada una de las avenidas más transitadas de la comuna, a pasos del Metro del mismo nombre. Destacado y pionero en la comuna por su concepto de \"\"Club\"\", lo que permite que Americanos y Torneos siempre sean un éxito asistiendo grandes exponentes y figuras del pádel nacional, lo que atrae gran número de socios y espectadores.",
+        "6 Canchas de Pádel en total.",
+        "1 Cancha Court Central norma WPT.",
+        "Zona de quinchos y sector de terrazas para compartir.",
+        "Camarines de primer nivel sectorizados.",
+        "Estacionamientos interior con vigilancia privada",
+        "25% de descuento los días lunes desde las 8:30 am a 18:00 hrs",
+        "15% de descuento de lunes a viernes entre 7:00 y 16:00 hrs",
+        "15% de descuento sábado y domingo de 12:00 a 16:00 hr",
+        "Obtén tu beneficio pagando con tus Tarjetas del Chile",
+        "No acumulable con otras ofertas, menú y/o promociones"
+      ],
+      "sucursales": [
+        "IG: @clubdepadel.laflorida, San José de la Estrella #816, Región Metropolitana, La Florida, Contacto: +569 6133 1442"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Padel Mundo Sport",
+      "categoria": "Entretención y Deportes",
+      "descuento": "20% dto.",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días",
+      "canal": null,
+      "vigencia": "Promoción válida hasta el 31 de octubre de 2026.",
+      "condiciones": [
+        "Padel Mundo Sport, fue construido e inaugurado el año 2023 en la comuna de Macúl, aledaño al Complejo Deportivo Mundo Sport que también cuenta con canchas de fútbol, futbolito y piscina. Teniendo como propósito \"\"Mejorar las vidas a través del deporte y recreación\"\" por lo que contamos con 4 modernas canchas de padel, baños, camarines, tienda, terrazas, sector parrillas y food truck en nuestras instalaciones,para disfrutar de momentos inolvidables entre grupos de amigos, empresas y familias.",
+        "Obtén 20% dto todos los días y en cualquier horario.",
+        "Solicita tu descuento al momento de pagar con tus tarjetas del Banco.",
+        "También puedes obtener beneficio en los siguientes canales de atención mencionando el código de descuento MUNDOPADELBCH .",
+        "Realizando reserva en +569 83582106",
+        "Realizando reserva vía mensajería de Instagram @padelmundosportoficial"
+      ],
+      "sucursales": [
+        "El Líbano #5001, Región Metropolitana, Macul"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Gimnasios Sportlife",
+      "categoria": "Entretención y Deportes",
+      "descuento": "Hasta 50% dto",
+      "dia": [],
+      "dia_texto": "en compras o en sedes adheridas",
+      "canal": "Online",
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
+      "condiciones": [
+        "Gimnasios Sportlife Pioneros en el mercado, con más de 30 años trabajando en la calidad de vida de las personas, nuestra filosofía siempre será ofrecer más y mejores innovaciones en nuestros servicios. Lo que más nos mueve y motiva es transformar vidas.",
+        "Promoción 1 Plan Semestral 50% dto + 1 mes de regalo (total 7 meses)",
+        "Obtén este beneficio ingresando a sportlife.cl seleccionando Plan Semestral y al finalizar tu compra ingresa los 6 primeros dígitos de tu tarjeta como cupón de descuento o solicita este beneficio en las sedes adheridas.",
+        "Plan posee 15 días de congelación.",
+        "Acceso a sede única y de compra.",
+        "Matrícula 100% off",
+        "Alumno nuevo y recuperado paga activación.",
+        "Promoción valida para pago en 6 cuotas sin interés.",
+        "Promoción 2 15% dto en Plan Mensual Recurrente Indefinido PAT",
+        "Obtén este beneficio ingresando a sportlife.cl seleccionando Plan Mensual Recurrente Indefinido PAT y al finalizar tu compra antepón un 0 seguido de los 6 primeros dígitos de tu tarjeta como cupón de descuento o solicita este beneficio en las sedes adheridas",
+        "Olvídate de ocupar tu cupo de la tarjeta de crédito, paga MES A MES con pago automático",
+        "Recurrente PAT",
+        "Acceso Multisedes por categoría",
+        "Clases dirigidas",
+        "Evaluación mensual tecnología INBODY (Bioimpedancia)",
+        "Plan posee congelamiento 60 días",
+        "Acceso exclusivo a Sportlife ON (Clases ON DEMAND)",
+        "Acceso APP SPORTLIFE CHILE",
+        "Acceso a MI SPORTLIFE autogestión de clientes.",
+        "Invitaciones ilimitadas a amigos nuevos",
+        "Sedes Adheridas: Ñuñoa - San Carlos - Alto Peñalolén - Montemar - Chicureo - Chamisero - Puente Nuevo - Vitacura - Mall Pta Arenas - Bories - Maipú - Quilicura - Purísima *Trapenses - Pie Andino aplica un 40% de descuento en la contratación de plan semestral."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Funsport",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "20% dto.",
+      "dia": [
+        "Miércoles",
+        "Jueves",
+        "Viernes"
+      ],
+      "dia_texto": "miércoles a viernes",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
+      "condiciones": [
+        "20% dto. miércoles a viernes presencial",
+        "Tope de dto. $50.000",
+        "Genera tu código de descuento y preséntalo al momento de pagar.",
+        "No acumulable con otras promociones.",
+        "Descuento no aplica para compras con facturas y en cambios.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Local 111-112, AV. PARQUE INDUSTRIAL 450, LOS LAGOS, PUERTO MONTT",
+        "Local 134-136-138, AV. HEROES DE LA CONCEPCION 2555, TARAPACA, IQUIQUE",
+        "Local A 189 - A 191, AV BALMACEDA 3242, ANTOFAGASTA, CALAMA",
+        "Local 256-258, AV. BALMACEDA N 2355, ANTOFAGASTA, ANTOFAGASTA",
+        "Local A110-112, ALAMEDA BDO OHIGGINS #3470, RM, SANTIAGO",
+        "Local 105, CALLE SERRANO # 395, RM, MELIPILLA",
+        "Local A.2055-2057, AV.JORGE ALESSANDRI 20040, RM, SANTIAGO",
+        "Local 36, AV BDO OHIGGINS # 201, MAULE, CURICO",
+        "Local 1232, AV. BERNARDO OHIGGINS 701, OHIGGINS, SAN FERNANDO",
+        "Local 1003, AV ALEMANIA 671, ARAUCANIA, TEMUCO"
+      ]
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "SEI",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": null,
+      "dia": [
+        "Jueves"
+      ],
+      "dia_texto": "40% todos los jueves",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Carteras y accesorios",
+        "Exclusivo pagando con tus Tarjetas de Crédito y Débito Santander.",
+        "Válido en tienda presencial",
+        "No acumulable a otros descuentos. Excluye tienda outlet.",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Bloody Mary",
+      "categoria": "Sabores",
+      "descuento": "40% dcto",
+      "dia": [
+        "Martes"
+      ],
+      "dia_texto": "todos los martes",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Coctelería de autor y cocina mediterránea para compartir",
+        "Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass.",
+        "Válido en local.",
+        "No acumulable a otras promociones.",
+        "Alonso de Cordova 3854, Vitacura",
+        "Descuento máximo por pedido de $100.000",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​"
+      ],
+      "sucursales": []
     },
     {
       "banco": "Banco Santander",
@@ -24345,26 +24478,6 @@
         "Descuento no aplica para productos en promociones o con descuentos.",
         "Tope $40.000.",
         "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​"
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Shell",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "$100 de descuento por litro bencina",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Aprovecha tu descuento en bencina este fin de semana largo",
-        "Exclusivo pagando con tus Tarjetas de Crédito Santander.",
-        "Descuento válido desde la app shell seleccionando el cupón de descuento al momento de pagar.",
-        "Válido desde el 9 de octubre de 2026 al 12 de octubre de 2026",
-        "No acumulable a otras promociones.",
-        "Paga con tu Tarjeta de Crédito Santander para obtener el descuento.",
-        "Cupón de descuento disponible en la App Shell, desde el 9 al 12 de octubre de 2026. Tope de descuento 50 litros por carga de combustible. Solo un cupón por persona. Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Revisa todos los términos y condiciones de las promociones en Santander.cl/Beneficios. Banco Santander Chile: infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
       ],
       "sucursales": []
     },
