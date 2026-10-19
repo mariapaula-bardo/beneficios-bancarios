@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-18T14:12",
+  "actualizado": "2026-10-19T17:15",
   "beneficios": [
     {
       "banco": "Banco de Chile",
@@ -20258,23 +20258,22 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Expo Jardines 2026",
-      "categoria": "Entretención y Deportes",
-      "descuento": "25% dto.",
+      "comercio": "La Barra",
+      "categoria": "Sabores",
+      "descuento": "20% dto. adicional",
       "dia": [],
-      "dia_texto": "en entradas",
+      "dia_texto": "del 19 al 21 de octubre",
       "canal": null,
-      "vigencia": "Beneficio hasta agotar stock de 10.000 códigos para el evento.",
+      "vigencia": "Promoción válida del 19 al 21 de octubre de 2026.",
       "condiciones": [
-        "Expo Jardines 2026 Lugar: Parque Bicentenario, Vitacura. Fechas: 15 al 18 de octubre Horario: 10:00 a 22:00 hrs Venta Entradas desde el 7 de septiembre de 2026 a las 12:00 hrs. hasta el 18 de octubre de 2026 o hasta agotar stock.",
-        "25% dto. en entradas pagando con tus Tarjetas del Chile.",
-        "Descarga tu código.",
-        "Ingrésalo como código de dto. en www.clubdejardinesdechile.cl",
-        "Paga con tus Tarjetas del Chile."
+        "20% dto. adicional a otros descuentos pagando con tus Tarjetas del Chile del 19 al 21 de octubre en labarra.cl y App La Barra.",
+        "Ingresa a labarra.cl o App La Barra",
+        "Paga a través del Botón de Pago Banco de Chile con tus Tarjetas de Crédito o Débito del Banco de Chile. ¡Recibe tu pedido y disfruta!",
+        "2 transacciones por cliente durante la vigencia de la promoción. Tope de dto. $60.000 por transacción.",
+        "Paga en 3 cuotas sin interés.",
+        "Tus compras en esta campaña tienen doble acumulación de Dólares-Premio."
       ],
-      "sucursales": [
-        "Avda Bicentenario #3800, Región Metropolitana, Vitacura"
-      ]
+      "sucursales": []
     },
     {
       "banco": "Banco de Chile",
@@ -21849,31 +21848,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "El nuevo iPhone 18 Pro",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "Puede ser tuyo con el programa iPhone for life",
-      "canal": null,
-      "vigencia": "Hasta el 31 de octubre de 2026",
-      "condiciones": [
-        "Renueva, ahorra, repite",
-        "Cambia tu iPhone cada 2 años y ahorra hasta un 30% del costo total de tu iPhone",
-        "Entrega tu iPhone en óptimas condiciones en parte de pago.",
-        "¡Desde los 24 meses podrás volver a renovarlo!",
-        "Desde $40.278 al mes sin interés.",
-        "CAE de 0,52%, Calculado por un monto referencial de compra de $1.449.990 en 36 cuotas. Costo Total del Crédito: $1.461.590. Operación afecta a impuesto al crédito.",
-        "Recuerda: Exclusivo en www.maconline.com pagando con tus Tarjetas de Crédito del Banco de Chile. Los modelos de iPhone que podrás suscribir al programa iPhone for Life son: iPhone 18 Pro y iPhone 18 Pro Max en todas las capacidades disponibles.",
-        "¿Cómo me inscribo a iPhone for Life?",
-        "1.Elige tu iPhone 18 Pro en la tienda MacOnline.",
-        "2.Inscríbete al Programa iPhone for Life, en el momento de completar la compra de tu iPhone 18 Pro.",
-        "3.Paga tu iPhone en 36 cuotas sin interés con Tarjetas de Crédito Banco de Chile (incluye Banco Edwards).",
-        "Una vez facturada la cuota mensual 24 en tu estado de cuenta de tu Tarjeta de Crédito Banco de Chile, accedes al período de recompra (renovación) de tu iPhone usado en buen estado en las tiendas MacOnline, el cual podrás entregar en pago de las cuotas mensuales pendientes."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "Saint Patrick´s Day",
       "categoria": "Sabores",
       "descuento": "15% dto.",
@@ -21891,6 +21865,31 @@
       "sucursales": [
         "Av. Ricardo Cumming #340, Región Metropolitana, Santiago"
       ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "El nuevo iPhone 18 Pro",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "Puede ser tuyo con el programa iPhone for life",
+      "canal": null,
+      "vigencia": "Hasta el 31 de octubre de 2026",
+      "condiciones": [
+        "Renueva, ahorra, repite",
+        "Cambia tu iPhone cada 2 años y ahorra hasta un 30% del costo total de tu iPhone",
+        "Entrega tu iPhone en óptimas condiciones en parte de pago.",
+        "¡Desde los 24 meses podrás volver a renovarlo!",
+        "Desde $40.278 al mes sin interés.",
+        "CAE de 0,52%, Calculado por un monto referencial de compra de $1.449.990 en 36 cuotas. Costo Total del Crédito: $1.461.590. Operación afecta a impuesto al crédito.",
+        "Recuerda: Exclusivo en www.maconline.com pagando con tus Tarjetas de Crédito de Banco de Chile. Los modelos de iPhone que podrás suscribir al programa iPhone for Life son: iPhone 18 Pro y iPhone 18 Pro Max en todas las capacidades disponibles.",
+        "¿Cómo me inscribo a iPhone for Life?",
+        "1.Elige tu iPhone 18 Pro en la tienda MacOnline.",
+        "2.Inscríbete al Programa iPhone for Life, en el momento de completar la compra de tu iPhone 18 Pro.",
+        "3.Paga tu iPhone en 36 cuotas sin interés con Tarjetas de Crédito Banco de Chile (incluye Banco Edwards).",
+        "Una vez facturada la cuota mensual 24 en tu estado de cuenta de tu Tarjeta de Crédito Banco de Chile, accedes al período de recompra (renovación) de tu iPhone usado en buen estado en las tiendas MacOnline, el cual podrás entregar en pago de las cuotas mensuales pendientes."
+      ],
+      "sucursales": []
     },
     {
       "banco": "Banco de Chile",
