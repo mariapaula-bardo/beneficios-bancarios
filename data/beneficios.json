@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-20T15:27",
+  "actualizado": "2026-10-21T15:44",
   "beneficios": [
     {
       "banco": "Banco de Chile",
@@ -16741,6 +16741,7 @@
         "Salón Pacific Club Temuco",
         "Salón Pacific Club Puerto Montt",
         "Salón Pacific Club Punta Arenas",
+        "Salón Pacific Club Coyhaique",
         "Si tienes un plan de Cuenta Corriente Cordillera u Océano contarás con una Tarjeta de Débito que te permitirá obtener 50% de descuento en la tarifa para ti y tus acompañantes.",
         "Beneficio exclusivo canjeando tu acceso acá:",
         "Debes comprar tu acceso a tarifa preferencial por $22.180",
@@ -24286,31 +24287,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Adidas",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": "30% dto. adicional",
-      "dia": [
-        "Miércoles",
-        "Jueves",
-        "Viernes"
-      ],
-      "dia_texto": "miércoles a viernes en adidas.cl/alianza",
-      "canal": null,
-      "vigencia": "Promoción válida hasta el 31 de octubre de 2026.",
-      "condiciones": [
-        "Corre por este beneficio único, miércoles a viernes con tus Tarjetas del Chile. 30% dto. adicional miércoles a viernes en adidas.cl/alianza.",
-        "Descarga tu código de descuento en bancochile.cl o App Mi Banco.",
-        "Ingresa el código al momento de finalizar la compra en adidas.cl/alianza",
-        "Máximo 2 descargas de cupón diarias por cliente.",
-        "Descuento no aplica para valor del despacho.",
-        "Revisa cobertura de despacho en adidas.cl",
-        "Beneficio excluye eventos masivos como Cyber y Black Friday.",
-        "Descuento exclusivo pagando con tus Tarjetas del Chile."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "Columbia",
       "categoria": "Retail y Otras Marcas",
       "descuento": "20% dto.",
@@ -24525,6 +24501,50 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "Blanik",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "20% dto.",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días",
+      "canal": "Online",
+      "vigencia": "Promoción válida hasta el 30 de septiembre de 2027.",
+      "condiciones": [
+        "Encuentra pequeños electrodomésticos para preparar tus recetas favoritas en casa, desde máquinas para pan, wafleras, donas y creperas hasta cafeteras, licuadoras y mucho más. Productos funcionales, innovadores y pensados para disfrutar cada momento en la cocina.",
+        "20% dto. todos los días en blanik.cl",
+        "Obtén tu descuento ingresando BLANIKBCH como código de dto.",
+        "Descuento no aplica para valor del despacho.",
+        "No acumulable con otras promociones.",
+        "Revisa cobertura de despacho en blanik.cl",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "BBQ Grill",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "20% dto.",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días",
+      "canal": "Online",
+      "vigencia": "Promoción válida hasta el 30 de septiembre de 2027.",
+      "condiciones": [
+        "Vive la pasión por el asado junto a BBQ Grill. Encuentra parrillas a gas, carbón y empotradas, además de accesorios y soluciones para convertir tu terraza, patio o quincho en el lugar perfecto para compartir. Calidad, diseño y funcionalidad para todos los amantes de la parrilla.",
+        "20% dto. todos los días en bbqgrill.cl",
+        "Obtén tu descuento ingresando BBQGRILLBCH como código de dto.",
+        "Descuento no aplica para valor del despacho.",
+        "No acumulable con otras promociones.",
+        "Revisa cobertura de despacho en bbqgrill.cl",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "Hands & Company",
       "categoria": "Salud y Belleza",
       "descuento": "20% dto.",
@@ -24566,6 +24586,31 @@
         "Descarga tu código de descuento e ingrésalo como cupón de descuento al momento de pagar con tus tarjetas del Banco.",
         "No acumulable con otras promociones.",
         "Descuento no aplica para compras con factura y en cambios."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Adidas",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "30% dto. adicional",
+      "dia": [
+        "Miércoles",
+        "Jueves",
+        "Viernes"
+      ],
+      "dia_texto": "miércoles a viernes en adidas.cl/alianza",
+      "canal": null,
+      "vigencia": "Promoción válida hasta el 31 de octubre de 2026.",
+      "condiciones": [
+        "Corre por este beneficio único, miércoles a viernes con tus Tarjetas del Chile. 30% dto. adicional miércoles a viernes en adidas.cl/alianza.",
+        "Descarga tu código de descuento en bancochile.cl o App Mi Banco.",
+        "Ingresa el código al momento de finalizar la compra en adidas.cl/alianza",
+        "Máximo 2 descargas de cupón diarias por cliente.",
+        "Descuento no aplica para valor del despacho.",
+        "Revisa cobertura de despacho en adidas.cl",
+        "Beneficio excluye eventos masivos como Cyber y Black Friday.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
       ],
       "sucursales": []
     },
