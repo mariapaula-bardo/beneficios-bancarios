@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-23T15:32",
+  "actualizado": "2026-10-24T14:10",
   "beneficios": [
     {
       "banco": "Banco de Chile",
@@ -23685,6 +23685,27 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "Bsoul",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "20% dto.",
+      "dia": [
+        "Miércoles",
+        "Jueves",
+        "Viernes"
+      ],
+      "dia_texto": "miércoles, jueves y viernes en compra",
+      "canal": "Online",
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
+      "condiciones": [
+        "Obtén 20% de descuento con un tope de $50.000 en bsoul.com",
+        "Descarga tu código de descuento e ingrésalo como cupón de descuento al momento de pagar con tus tarjetas del Banco.",
+        "No acumulable con otras promociones.",
+        "Descuento no aplica para compras con factura y en cambios."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "HAKA HONU",
       "categoria": "Retail y Otras Marcas",
       "descuento": "30% dto.",
@@ -24596,6 +24617,27 @@
         "Descarga tu código de descuento e ingrésalo como cupón de descuento al momento de pagar con tus tarjetas del Banco.",
         "No acumulable con otras promociones.",
         "Descuento no aplica para compras con factura y en cambios."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "RUBAIYAT INVITA — A LUIS MALDONADO DE TRIBUTO.",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "30% de descuento pagando con American Express",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Rubaiyat Invita es un espacio para celebrar la cocina regional y el encuentro en torno a la mesa, abriendo nuestra casa a referentes gastronómicos de Latinoamérica.",
+        "Exclusivo pagando con tus Tarjetas: Platinum Card, WorldMember y WorldMember Limited Santander American Express",
+        "Viernes 13 de noviembre",
+        "Rubaiyat Chile, Nueva Costanera 4031, Vitacura",
+        "Horarios de ingreso: Cada 30 minutos entre 19:00 y 21:00 hrs",
+        "Maridaje: Vinos orgánicos de Viña Emiliana",
+        "Aforo: Exclusivo para 120 asistentes",
+        "Reserva en: docs.google.com/forms/d/e/1FAIpQLSc7cPjWdIkDFYU7L5DyCmpE_8lSslpCGcFiTDY_UYkJ5o-rHw/viewform?usp=publish-editor"
       ],
       "sucursales": []
     },
