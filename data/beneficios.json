@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-24T14:10",
+  "actualizado": "2026-10-25T14:40",
   "beneficios": [
     {
       "banco": "Banco de Chile",
@@ -16928,18 +16928,6 @@
         "Av. Padre Hurtado #1376, Region Metropolitana, Vitacura",
         "Avenida La Dehesa #4590, Local 5, Región Metropolitana, Lo Barnechea"
       ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Daniil Trifonov - 24 de octubre",
-      "categoria": "Entretención y Deportes",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "Compra tus entradas con los mejores beneficios de tus Tarjetas",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [],
-      "sucursales": []
     },
     {
       "banco": "Banco de Chile",
