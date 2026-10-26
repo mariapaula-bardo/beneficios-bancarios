@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-25T14:40",
+  "actualizado": "2026-10-26T17:11",
   "beneficios": [
     {
       "banco": "Banco de Chile",
@@ -286,25 +286,6 @@
       "sucursales": [
         "Salvador Correa #337, Región del Libertador General Bernardo OHiggins, San Vicente",
         "Curalí #930, Región del Libertador General Bernardo OHiggins, San Fernando"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Óptica Tarapacá",
-      "categoria": "Salud y Belleza",
-      "descuento": "20% dto.",
-      "dia": [],
-      "dia_texto": "en compra",
-      "canal": "Tienda física",
-      "vigencia": "Promoción válida hasta el 31 de octubre de 2026.",
-      "condiciones": [
-        "Somos una empresa de la región especializada en la salud visual. Contamos con tecnología de punta y profesionales altamente capacitados en la detección y resolución de patologías oftalmológicas. Entregamos atención oftalmológica y soluciones ópticas en establecimientos autorizados y en terreno a empresas o servicios que lo requieran.",
-        "Obtén 20% de descuento en todos los productos.",
-        "Solicita tu descuento al momento de pagar con tus tarjetas del Banco.",
-        "No acumulable con otras promociones."
-      ],
-      "sucursales": [
-        "Francisco Bilbao #3717, local 2, Región de Tarapacá, Iquique"
       ]
     },
     {
@@ -6143,6 +6124,25 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "Óptica Tarapacá",
+      "categoria": "Salud y Belleza",
+      "descuento": "20% dto.",
+      "dia": [],
+      "dia_texto": "en compra",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 31 de octubre de 2027.",
+      "condiciones": [
+        "Somos una empresa de la región especializada en la salud visual. Contamos con tecnología de punta y profesionales altamente capacitados en la detección y resolución de patologías oftalmológicas. Entregamos atención oftalmológica y soluciones ópticas en establecimientos autorizados y en terreno a empresas o servicios que lo requieran.",
+        "Obtén 20% de descuento en todos los productos.",
+        "Solicita tu descuento al momento de pagar con tus tarjetas del Banco.",
+        "No acumulable con otras promociones."
+      ],
+      "sucursales": [
+        "Francisco Bilbao #3717, local 2, Región de Tarapacá, Iquique"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "Ópticas Alemanas",
       "categoria": "Salud y Belleza",
       "descuento": "Hasta 35% dto",
@@ -10519,18 +10519,6 @@
       "sucursales": [
         "Av. Arturo Prat 950, Tarapacá, Iquique"
       ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Festival Bamba - 24 y 25 de octubre",
-      "categoria": "Entretención y Deportes",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "Compra tus entradas con los mejores beneficios de tus Tarjetas",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [],
-      "sucursales": []
     },
     {
       "banco": "Banco de Chile",
@@ -18311,6 +18299,34 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "miCoca-Cola.cl",
+      "categoria": "Sabores",
+      "descuento": "25% dto.",
+      "dia": [],
+      "dia_texto": "en miCoca-Cola.cl más despacho gratis",
+      "canal": null,
+      "vigencia": "Promoción válida del 26 de octubre al 1 de noviembre de 2026.",
+      "condiciones": [
+        "25% dto. en miCoca-Cola.cl más despacho gratis pagando con tus Tarjetas del Chile, del 26 de octubre al 1 de noviembre. ¿Cómo obtener tu descuento?",
+        "Ingresa a miCoca-Cola.cl",
+        "Elige tu ciudad.",
+        "Agrega al carrito de compras los productos que quieras.",
+        "Luego, ingresa los 6 primeros dígitos de tu Tarjeta como código de descuento.",
+        "Recibe tu pedido y disfruta.",
+        "Despacho gratis por compras sobre $25.000 después de aplicado el dto.",
+        "Beneficio exclusivo pagando con tus Tarjetas del Chile.",
+        "Beneficio no acumulable con otras promociones.",
+        "Tope de descuento $25.000 por compra.",
+        "Válido para 2 compras por cliente.",
+        "Un código de descuento válido por pedido.",
+        "No aplica en compras con Gift Cards.",
+        "Revisa cobertura de despacho en miCoca-Cola.cl",
+        "Recuerda que con tus Tarjetas de Crédito puedes pagar en 3 cuotas sin interés (2) Para una compra de $100.000 en 3 cuotas de $33.333 CAE de 1.19%. Costo Total $100.198"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "Holy Moly",
       "categoria": "Sabores",
       "descuento": "20% dto.",
@@ -24646,38 +24662,6 @@
         "Válido en tienda presencial",
         "No acumulable a otros descuentos. Excluye tienda outlet.",
         "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​"
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "miCoca-Cola.cl",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": "25% dcto.",
-      "dia": [],
-      "dia_texto": "y acumula 1 milla adicional",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "¡Refréscate con miCoca-Cola.cl!",
-        "Con tus Tarjetas de Crédito : Beneficios válidos por compras sobre $25.000 (ya aplicado el descuento)",
-        "Máximo $25.000 de descuento.",
-        "2 usos por cliente.",
-        "1 cupón por pedido.",
-        "No acumulable con otras promociones/descuentos, ni pago con Giftcards.",
-        "Válido para Bines de Tarjetas de Crédito del Banco Santander.",
-        "Para acceder al descuento se deben ingresar los 6 primeros dígitos de tu tarjeta como código de descuento.",
-        "Despacho gratis válido en pedidos programados y en compras sobre $25.000, una vez aplicado el descuento.",
-        "Acumula 1 millas LATAM Pass adicional por dólar gastado, pagando con tus Tarjetas de crédito Santander LATAM Pass",
-        "Con tus Tarjetas de Débito : Beneficios válidos por compras sobre $25.000 (ya aplicado el descuento)",
-        "Máximo $25.000 de descuento.",
-        "2 usos por cliente.",
-        "1 cupón por pedido.",
-        "No acumulable con otras promociones/descuentos, ni pago con Giftcards.",
-        "Válido para Bines de Tarjetas de Débito del Banco Santander.",
-        "Para acceder al descuento se deben ingresar los 6 primeros dígitos de tu tarjeta como código de descuento.",
-        "Despacho gratis válido en pedidos programados y en compras sobre $25.000, una vez aplicado el descuento.",
-        "Promoción válida solo para compras realizadas del 19 al 25 de octubre de 2026 en micoca-cola.cl pagando con Tarjetas de Crédito Santander LATAM Pass. Conoce las condiciones del descuento en micoca-cola.cl. La bonificación de millas estructural se realizará según nivel y tarjeta de Crédito Santander LATAM Pass del cliente, más 1 millas adicional por dólar gastado por compras realizadas en campaña. La acreditación de Millas LATAM Pass se realizará en el mes siguiente de la compra. Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio. La administración del programa LATAM Pass es de exclusiva responsabilidad de LATAM Airlines GroupS.A. sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Conoce más sobre Santander Rewards y su reglamento en: https:banco.santander.cl/rewards."
       ],
       "sucursales": []
     },
