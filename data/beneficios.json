@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-27T16:06",
+  "actualizado": "2026-10-28T16:52",
   "beneficios": [
     {
       "banco": "Banco de Chile",
@@ -21591,83 +21591,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Local Burger",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Lunes",
-        "Domingo"
-      ],
-      "dia_texto": "lunes y domingo de octubre",
-      "canal": null,
-      "vigencia": "Promoción válida del 01 al 31 de octubre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial 40% dto. lunes y domingo de octubre.",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dto. $50.000 por mesa"
-      ],
-      "sucursales": [
-        "Los Militares #5934, Región Metropolitana, Las Condes",
-        "Irarrazaval #5350, Región Metropolitana, Ñuñoa",
-        "Providencia #1403, Región Metropolitana, Providencia"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Pescados Capitales",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Martes"
-      ],
-      "dia_texto": "martes de octubre",
-      "canal": null,
-      "vigencia": "Promoción válida del 01 al 31 de octubre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial 40% dto. martes de octubre.",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dto. $50.000 por mesa"
-      ],
-      "sucursales": [
-        "Av. Nueva Costanera #3723, Región Metropolitana, Vitacura"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Sakura",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Martes"
-      ],
-      "dia_texto": "martes de octubre",
-      "canal": "Ambos",
-      "vigencia": "Promoción válida del 01 al 31 de octubre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial 40% dto. martes de octubre presencial y online",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "Para compra online ingresa los 6 primeros dígitos de tu Tarjeta como código de descuento.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dto. $50.000 por mesa"
-      ],
-      "sucursales": [
-        "Av. Cristobal Colón #4401, Región Metropolitana, Las Condes",
-        "Camino Del Monje 10530 - B, Región Metropolitana, Lo Barnechea",
-        "Av. La Plaza #590 - Local 118, Región Metropolitana, Las Condes",
-        "San Damián #20 - Local 7, Región Metropolitana, Las Condes",
-        "Av. Luis Pasteur #5515 - Local 6, Región Metropolitana, Vitacura"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "Impasto",
       "categoria": "Sabores",
       "descuento": "40% dto.",
@@ -21692,29 +21615,6 @@
       ],
       "sucursales": [
         "Alférez Real #1485, Región Metropolitana, Providencia"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "ICA RESTAURANTE",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Sábado"
-      ],
-      "dia_texto": "sábado de octubre",
-      "canal": null,
-      "vigencia": "Promoción válida del 01 al 31 de octubre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial 40% dto. sábado de octubre.",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dcto. $50.000 por mesa"
-      ],
-      "sucursales": [
-        "Isidora Goyenechea #2939, Región Metropolitana, Las Condes"
       ]
     },
     {
@@ -21879,6 +21779,32 @@
       ],
       "sucursales": [
         "Terrazas San Cristobal, Constitución #241, Región Metropolitana, Providencia"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Local Burger",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Lunes",
+        "Domingo"
+      ],
+      "dia_texto": "lunes y domingo de noviembre",
+      "canal": null,
+      "vigencia": "Promoción válida del 01 al 30 de noviembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. lunes y domingo de noviembre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Los Militares #5934, Región Metropolitana, Las Condes",
+        "Irarrazaval #5350, Región Metropolitana, Ñuñoa",
+        "Providencia #1403, Región Metropolitana, Providencia"
       ]
     },
     {
@@ -23450,17 +23376,68 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "ICA RESTAURANTE",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Sábado"
+      ],
+      "dia_texto": "sábado de noviembre",
+      "canal": null,
+      "vigencia": "Promoción válida del 01 al 30 de noviembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. sábado de noviembre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dcto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Isidora Goyenechea #2939, Región Metropolitana, Las Condes"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Sakura",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Martes"
+      ],
+      "dia_texto": "martes de noviembre",
+      "canal": "Ambos",
+      "vigencia": "Promoción válida del 01 al 30 de noviembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. martes de noviembre presencial y online",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "Para compra online ingresa los 6 primeros dígitos de tu Tarjeta como código de descuento.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Av. Cristobal Colón #4401, Región Metropolitana, Las Condes",
+        "Camino Del Monje 10530 - B, Región Metropolitana, Lo Barnechea",
+        "Av. La Plaza #590 - Local 118, Región Metropolitana, Las Condes",
+        "San Damián #20 - Local 7, Región Metropolitana, Las Condes",
+        "Av. Luis Pasteur #5515 - Local 6, Región Metropolitana, Vitacura"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "Santa Brasa",
       "categoria": "Sabores",
       "descuento": "40% dto.",
       "dia": [
         "Lunes"
       ],
-      "dia_texto": "lunes de octubre sucursales de Alonso de Córdova y Concón",
+      "dia_texto": "lunes de noviembre sucursales de Alonso de Córdova y Concón",
       "canal": null,
-      "vigencia": "Promoción válida del 01 al 31 de octubre de 2026.",
+      "vigencia": "Promoción válida del 01 al 30 de noviembre de 2026.",
       "condiciones": [
-        "Válido para consumo presencial 40% dto. lunes de octubre.",
+        "Válido para consumo presencial 40% dto. lunes de noviembre.",
         "Solicita el descuento al momento de pagar en el restaurant.",
         "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
         "No acumulable con otras promociones.",
@@ -23471,6 +23448,29 @@
         "Alonso de Córdova #4260, Región Metropolitana, Vitacura",
         "Av. José Alcalde Délano #10494, Región Metropolitana, Lo Barnechea",
         "Sta. Elena #671, Región de Valparaíso, Concón"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Pescados Capitales",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Martes"
+      ],
+      "dia_texto": "martes de noviembre",
+      "canal": null,
+      "vigencia": "Promoción válida del 01 al 30 de noviembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. martes de noviembre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Av. Nueva Costanera #3723, Región Metropolitana, Vitacura"
       ]
     },
     {
@@ -24612,6 +24612,986 @@
       "sucursales": []
     },
     {
+      "banco": "Banco de Chile",
+      "comercio": "Justo – Primera compra",
+      "categoria": "Sabores",
+      "descuento": "Disfruta $8.000 dto.",
+      "dia": [],
+      "dia_texto": "en tu primera compra Justo App",
+      "canal": null,
+      "vigencia": "Promoción válida hasta el 31 de octubre de 2026.",
+      "condiciones": [
+        "Disfruta $8.000 de descuento en tu primera compra en Justo App.",
+        "Ingresando el código SOYBCH como cupón de descuento y pagando con tus Tarjetas del Chile.",
+        "Valido para 1 canje por usuario.",
+        "Válido en todos los locales disponibles en Justo App.",
+        "Compra mínima: $20.000",
+        "El descuento se verá reflejado al momento de la compra.",
+        "Válido únicamente para la primera compra en Justo App.",
+        "Beneficio exclusivo para delivery.",
+        "Descuento no acumulable en el costo de envío.",
+        "No acumulable con otros cupones de descuento.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Universidad del Desarrollo",
+      "categoria": "Cuotas Sin Interés",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "3 a 24 cuotas sin interés en programas adheridos de Postgrados",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Revisa las distintas carreras, postgrados y educación continua que hay en la Universidad del Desarrollo.",
+        "Exclusivo pagando con tus Tarjetas de Crédito Santander y Tarjeta de Crédito Santander Empresas.",
+        "Válido presencial en Universidad del Desarrollo.",
+        "Válido en programas adheridos de Postgrados.",
+        "CAE de 1,51%. Calculado por un monto referencial de compra de $1.000.000 en 24 cuotas. Costo total del Crédito: $1.015.840. Operación afecta a impuesto al crédito.",
+        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Zenclinic Dental",
+      "categoria": "Cuotas Sin Interés",
+      "descuento": "30% dcto",
+      "dia": [],
+      "dia_texto": "3 a 24 cuotas sin interés y  en aranceles clínicos",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Especialistas en diseño de sonrisas, carillas, Invisalign, implantes, odontopediatría y estética facial.",
+        "Exclusivo pagando con tus Tarjetas de Crédito Santander.",
+        "Válido en presencial.",
+        "30% de descuento en aranceles clínicos.",
+        "Garantía en todos los tratamientos dentales por 2 años.",
+        "Excelencia Comprobada Valoración 5.0 en Google",
+        "Clínica con Resolución Seremi al día.",
+        "Atención con Sedación consciente con óxido nitroso.",
+        "Descuento no aplica para laboratorios, insumos y pabellón.",
+        "No es acumulable con otras promociones.",
+        "CAE de 1,51%. Calculado por un monto referencial de compra de $1.000.000 en 24 cuotas. Costo total del Crédito: $1.015.840. Operación afecta a impuesto al crédito.",
+        "Horario: - Lunes a Viernes 9:00 - 19:00 hrs. Sábados: 9:30 - 14:00 hrs. - Dirección: Av. La Dehesa 440, oficina 303, Lo Barnechea. - Teléfono: +56933151853.",
+        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "UC CHRISTUS",
+      "categoria": "Cuotas Sin Interés",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "3 a 18 cuotas sin interés",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Revisa todos los servicios y especialidades de UC CHRISTUS.",
+        "Exclusivo pagando con tus Tarjetas de Crédito Santander.",
+        "Válido para todos los servicios de UC CHRISTUS. Para el pago de cuentas hospitarias asociado a este convenio, el pago debe realizarse exclusivamente a través del portal web de UC CHRISTUS.",
+        "Cuotas válidas para montos desde $100.000",
+        "No es acumulable con otras promociones.",
+        "CAE 1,51% Calculado por un monto referencial de compra de $1.000.000 en 24 cuotas. Costo total del Crédito: $1.015.840. Operación afecta a impuesto al crédito a cargo del cliente.",
+        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Thermomix",
+      "categoria": "Cuotas Sin Interés",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "24 cuotas sin interés",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "¡Prepara los mejores platos con la ayuda de Thermomix!",
+        "Exclusivo pagando con tus Tarjetas de Crédito Santander y Tarjeta de Crédito Santander Empresas.",
+        "Es válido en thermomix.cl, a través de presentadoras y presencial en tienda.",
+        "No es acumulable con otras promociones.",
+        "CAE 1,51% Calculado por un monto referencial de compra de $1.000.000 en 24 cuotas. Costo total del Crédito: $1.015.840. Operación afecta a impuesto al crédito.",
+        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Bonificación de doble acumulación de Millas LATAM Pass (1 milla estructural + 1 milla adicional por dólar gastado) solo aplica para las compras realizadas en campaña. Acreditación de doble acumulación de Millas LATAM Pass, en caso de corresponder, se realizará en el mes siguiente de la compra. Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio; la administración del programa LATAM Pass es de exclusiva responsabilidad de LATAM Airlines Group S.A. sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Specialized",
+      "categoria": "Cuotas Sin Interés",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "3 a 12 cuotas sin interés",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Encuentra productos indispensables para ciclistas.",
+        "Exclusivo pagando con tus Tarjetas de Crédito y Tarjeta de Crédito Santander Empresas.",
+        "Es válido en tiendas físicas.",
+        "Concesionarios / Tiendas: - ALTERED: Av. Cristobal Colón 5831, Las Condes, Santiago. - ALTERED: Gerónimo de Alderete 1651, Vitacura, Santiago. - BIKE AUTHORITY: Av. Blanca Estela 60, local 3, Concón. - BIKE AUTHORITY: Av Las Condes 12461, local 11, Las Condes, Santiago. - MULTIBIKE: Camino El Venado 1380, Local 12-13-14-15, San Pedro de la Paz, Concepción. - MULTIBIKE: Las Hualtatas 8980, Vitacura, Santiago. - SPECIALIZED BICICLETAS CHILE LIMITADA: www.specialized.com/cl/es - GALIBIER BIKES: Pedro de Valdivia Norte #0129 Providencia, Santiago. - MAQBIKE: San Diego #852 Santiago, Santiago",
+        "No es acumulable con otras promociones.",
+        "CAE 1,46% Calculado por un monto referencial de compra de $1.000.000 en 12 cuotas. Costo total del Crédito: $1.007.920. Operación afecta a impuesto al crédito a cargo del cliente",
+        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Samsung",
+      "categoria": "Cuotas Sin Interés",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "3 a 24 y 36 cuotas sin interés",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "¡Saca el máximo provecho a tu día a día con todos los productos de tecnología en Samsung!",
+        "Cuotas sin interés",
+        "3 a 24 cuotas válido presencial y 3 a 24 y 36 cuotas válido online.",
+        "Exclusivo pagando con tus Tarjetas de Crédito Santander y Tarjeta de Crédito Santander Empresas.",
+        "Válido en www.samsung.com/cl/santander/ y tiendas físicas.",
+        "Cuotas sin interés aplica online y en tiendas.",
+        "No es acumulable con otras promociones.",
+        "CAE 1,53% Calculado por un monto referencial de compra de $1.000.000 en 36 cuotas. Costo total del Crédito: $1.023.760. Operación afecta a impuesto al crédito a cargo del cliente.",
+        "PCF Retail, Tecnobuy y ROM: son operadores oficiales de las tiendas presenciales Samsung.",
+        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Rheem",
+      "categoria": "Cuotas Sin Interés",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "7 a 12 cuotas sin interés",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "¡Calefont, Termo, y todas las soluciones para tu agua caliente!",
+        "Exclusivo pagando con tus Tarjetas de Crédito Santander y Tarjeta de Crédito Santander Empresas.",
+        "Es válido en tiendas físicas y en www.rheemchile.cl",
+        "No es acumulable con otras promociones.",
+        "CAE 1,46% Calculado por un monto referencial de compra de $1.000.000 en 12 cuotas. Costo total del Crédito: $1.007.920. Operación afecta a impuesto al crédito a cargo del cliente.",
+        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Panorama Lumon",
+      "categoria": "Cuotas Sin Interés",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "3 a 36 cuotas sin interés",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "¡Sube de nivel tu hogar u oficina con cortinas de cristal!",
+        "Exclusivo pagando con tus Tarjetas de Crédito Santander y Tarjeta de Crédito Santander Empresas.",
+        "Es válido en tiendas físicas y en www.panoramachile.cl",
+        "No es acumulable con otras promociones.",
+        "CAE 1,53% Calculado por un monto referencial de compra de $1.000.000 en 36 cuotas. Costo total del Crédito: $1.023.760. Operación afecta a impuesto al crédito a cargo del cliente.",
+        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Music Hall",
+      "categoria": "Cuotas Sin Interés",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "3 a 24 cuotas sin interés",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Tienda con las mejores marcas de instrumentos musicales.",
+        "Exclusivo con tus Tarjetas de Crédito Santander y Tarjeta de Crédito Santander Empresas.",
+        "Válido en tiendas y en www.musichall.cl",
+        "No acumulable a otras promociones.",
+        "CAE 1,51% Calculado por un monto referencial de compra de $1.000.000 en 24 cuotas. Costo total del Crédito: $1.015.840. Operación afecta a impuesto al crédito a cargo del cliente.",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Mosso",
+      "categoria": "Cuotas Sin Interés",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "12 cuotas sin interés",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Encuentra productos exclusivos y elegantes. Recuerda que:",
+        "Exclusivo pagando con tus Tarjetas de Crédito Santander.",
+        "Es válido en tiendas físicas y en www.mosso.cl.",
+        "No es acumulable con otras promociones.",
+        "CAE 1,46% Calculado por un monto referencial de compra de $1.000.000 en 12 cuotas. Costo total del Crédito: $1.007.920. Operación afecta a impuesto al crédito a cargo del cliente.",
+        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl ​"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "MacOnline",
+      "categoria": "Cuotas Sin Interés",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "4 a 24 cuotas sin interés",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Compra tu iPhone, iPad, MacBook, Apple Watch o Mac favorito.",
+        "Exclusivo con tus Tarjetas de Crédito Santander y Tarjeta de Crédito Santander Empresas.",
+        "4 a 24 cuotas sin interés válido en tiendas y www.maconline.com",
+        "Productos de Tienda Santander válidos hasta agotar stock.",
+        "Envío gratis en Región Metropolitana comprando en www.tienda.santander.cl.",
+        "Válido en productos Apple.",
+        "No acumulable a otras promociones.",
+        "CAE 1,51% Calculado por un monto referencial de compra de $1.000.000 en 24 cuotas. Costo total del Crédito: $1.015.840. Operación afecta a impuesto al crédito a cargo del cliente.",
+        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "KTM",
+      "categoria": "Cuotas Sin Interés",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "12 a 24 cuotas sin interés",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Expertos en moto.",
+        "Exclusivo con tus Tarjetas de Crédito Santander y Tarjeta de Crédito Santander Empresas.",
+        "Válido en RS SHOP, red de distribuidores y online.",
+        "No acumulable a otras promociones.",
+        "CAE 1,51% Calculado por un monto referencial de compra de $1.000.000 en 24 cuotas. Costo total del Crédito: $1.015.840. Operación afecta a impuesto al crédito a cargo del cliente.",
+        "Direcciones:",
+        "- Av. Balmaceda 3825, La Serena. - Raúl Labbé 13664, Lo Barnechea. - Av. Vitacura 9482, Vitacura. - Av. Apoquindo 8263, Las Condes. - Ruta 5 Sur KM 407, Chillán Viejo. - Av. Caupolicán 1461, Temuco.",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Kinegun",
+      "categoria": "Cuotas Sin Interés",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "3 a 36 cuotas sin interés",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Productos para tu bienestar.",
+        "Exclusivo pagando con tus Tarjetas de Crédito Santander y Tarjeta de Crédito Santander Empresas.",
+        "Válido en tiendas y en www.kinegun.cl",
+        "No es acumulable con otras promociones.",
+        "CAE 1,53% Calculado por un monto referencial de compra de $1.000.000 en 36 cuotas. Costo total del Crédito: $1.023.760. Operación afecta a impuesto al crédito a cargo del cliente.",
+        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "iPhone for Life",
+      "categoria": "Cuotas Sin Interés",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "iPhone 17 Pro desde: $39.722 al mes por 36 meses",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Renueva. Ahorra. Repite.",
+        "Cambia tu iPhone cada 2 años y ahorra más del 30% del costo total de tu iPhone, entregando tu iPhone actual en óptimas condiciones en parte de pago en tiendas MacOnline. ¡Desde los 24 meses podrás volver a renovarlo!",
+        "Exclusivo pagando con tus Tarjetas de Crédito Santander LATAM Pass y Tarjeta de Crédito Santander Empresas.",
+        "Válido en www.maconline.com",
+        "CAE de 1,53%. Calculado por un monto referencial de compra de $1.000.000 en 36 cuotas. Costo total del Crédito: $1.023.760. Operación afecta a impuesto al crédito.",
+        "¿Cómo me inscribo al programa iPhone for Life?",
+        "Elige cualquier modelos de la familia iPhone 17 o el que quieras de la tienda MacOnline.",
+        "Inscríbete al Programa iPhone for Life.",
+        "Paga tu iPhone en 36 cuotas sin interés con Tarjetas de Crédito Santander.",
+        "Una vez facturada la cuota mensual 24 en tu estado de cuenta de tu Tarjeta Santander, accedes al período de recompra de tu iPhone usado en buen estado en las tiendas Maconline, el cual podrás entregar en pago de las cuotas mensuales pendientes.",
+        "Valores de modelos calculados a 36 cuotas mensuales.",
+        "iPhone 17: desde $27.778 al mes.",
+        "iPhone Air: desde $36.111 al mes.",
+        "iPhone 17 Pro: desde $39.722 al mes.",
+        "iPhone 17 Pro Max: desde $43.056 al mes.",
+        "Cuotas válidas hasta el 31 de diciembre de 2025. Para compras con Tarjetas de Crédito de Banco Santander durante el periodo de validez pagando con cualquier Tarjeta de Crédito Santander vigente. Promoción solo aplica para compras sujetas a programa iPhone for Life en compras realizadas en MacOnline, con Tarjeta de Crédito Santander, solo para la modalidad de 36 cuotas mensuales. Carga Anual Equivalente (CAE) DE 1,53% y monto total a pagar de $1.023.760, anunciados son ejemplares y corresponden a una compra de monto de $1.000.000 cursada en la modalidad de pago de 36 cuotas mensuales y considera impuestos. Términos y Condiciones del Programa iPhone for Life disponibles en www.maconline.com/landing/iphone-for-life. La oferta, venta, entrega de los servicios, calidad, la recompra del equipo usado y demás características del Programa iPhone for Life y los productos son de exclusiva responsabilidad de INNOVACION Y TECNOLOGIA EMPRESARIAL ITEM LIMITADA (“MacOnline”), sin ninguna injerencia o responsabilidad para Banco Santander Chile. Millas válidas desde el 25 de septiembre hasta el 05 de octubre de 2025. Bonificación de doble acumulación de Millas LATAM Pass (1 milla estructural + 1 milla adicional por dólar gastado) solo aplica para las compras realizadas en campaña. Acreditación de doble acumulación de Millas LATAM Pass, en caso de corresponder, se realizará en el mes siguiente de la compra. Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio; la administración del programa LATAM Pass es de exclusiva responsabilidad de LATAM Airlines Group S.A. sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Husqvarna",
+      "categoria": "Cuotas Sin Interés",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "12 a 24 cuotas sin interés",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Motos premium de alto rendimiento para pilotos de motocross, enduro y carretera.",
+        "Exclusivo con tus Tarjetas de Crédito Santander y Tarjeta de Crédito Santander Empresas.",
+        "Válido en tiendas y en www.husqvarna.com.",
+        "No acumulable a otras promociones.",
+        "CAE 1,51% Calculado por un monto referencial de compra de $1.000.000 en 24 cuotas. Costo total del Crédito: $1.015.840. Operación afecta a impuesto al crédito a cargo del cliente.",
+        "Direcciones:",
+        "- Av. Balmaceda 3825, La Serena. - Raúl Labbé 13664, Lo Barnechea. - Av. Vitacura 9482, Vitacura. - Av. Apoquindo 8263, Las Condes. - Ruta 5 Sur KM 407, Chillán Viejo. - Av. Caupolicán 1461. Temuco.",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Heliboss",
+      "categoria": "Cuotas Sin Interés",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "7 a 12 cuotas sin interés",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Encuentra los mejores accesorios para tu Dron.",
+        "Exclusivo pagando con tus Tarjetas de Crédito Santander y Tarjeta de Crédito Santander Empresas.",
+        "Es válido en tiendas físicas y www.heliboss.cl",
+        "No es acumulable con otras promociones.",
+        "CAE 1,46% Calculado por un monto referencial de compra de $1.000.000 en 12 cuotas. Costo total del Crédito: $1.007.920. Operación afecta a impuesto al crédito a cargo del cliente.",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto serán de exclusiva responsabilidad de los comercios adheridos a la promoción sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "GasGas",
+      "categoria": "Cuotas Sin Interés",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "12 a 24 cuotas sin interés",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Aventura y rendimiento a tu alcance.",
+        "Exclusivo con tus Tarjetas de Crédito Santander y Tarjeta de Crédito Santander Empresas.",
+        "Válido en tiendas y en www.gasgaschile.cl.",
+        "No acumulable a otras promociones.",
+        "CAE 1,51% Calculado por un monto referencial de compra de $1.000.000 en 24 cuotas. Costo total del Crédito: $1.015.840. Operación afecta a impuesto al crédito a cargo del cliente.",
+        "Direcciones:",
+        "- Av. Balmaceda 3825, La Serena. - Raúl Labbé 13664, Lo Barnechea. - Av. Vitacura 9482, Vitacura. - Av. Apoquindo 8263, Las Condes. - Ruta 5 Sur KM 407, Chillán Viejo. - Av. Caupolicán 1461, Temuco.",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Entel",
+      "categoria": "Cuotas Sin Interés",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "13 a 24 cuotas sin interés",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Descubre ofertas en equipos, accesorios, planes móviles e internet fibra hogar. Recuerda que:",
+        "Exclusivo con tus Tarjetas de Crédito Santander y Tarjeta de Crédito Santander Empresas.",
+        "Válido en tiendas físicas y en entel.cl",
+        "No acumulable a otras promociones.",
+        "CAE 1,51% Calculado por un monto referencial de compra de $1.000.000 en 24 cuotas. Costo total del Crédito: $1.015.840. Operación afecta a impuesto al crédito a cargo del cliente.",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Clínica Renacent",
+      "categoria": "Cuotas Sin Interés",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "6 a 12 y 24 cuotas sin interés",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Especialistas en Lipoescultura y Minilipo.",
+        "Exclusivo pagando con tus Tarjetas de Crédito Santander.",
+        "Es válido en tiendas físicas.",
+        "Alonso de Córdova 5870, oficina 803, Las Condes.",
+        "No es acumulable con otras promociones.",
+        "CAE 1,51% Calculado por un monto referencial de compra de $1.000.000 en 24 cuotas. Costo total del Crédito: $1.015.840. Operación afecta a impuesto al crédito a cargo del cliente.",
+        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Aufbau",
+      "categoria": "Cuotas Sin Interés",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "13 a 24 cuotas sin interés",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "¡Comenzó el CYBER! Descubre tus productos favoritos de Apple, accesorios, parlantes y más",
+        "Encuentra tu iPhone 15 Pro Max 256 GB a $1.299.990.",
+        "Haz click en el botón \"Ver Carro\".",
+        "Ingresa los 6 primeros dígitos de tu Tarjeta de Crédito Santander.",
+        "Haz click en \"Aplicar\" para validar el cupón.",
+        "Válido el 3, 4 y 5 de junio de 2024.",
+        "13 a 24 cuotas sin interés",
+        "Exclusivo pagando con tus Tarjetas de Crédito Santander.",
+        "Válido en tiendas físicas y en aufbau.cl",
+        "Válido desde el 01 de enero al 31 de diciembre de 2024.",
+        "No es acumulable con otras promociones.",
+        "CAE 1,51% Calculado por un monto referencial de compra de $1.000.000 en 24 cuotas. Costo total del Crédito: $1.015.840. Operación afecta a impuesto al crédito a cargo del cliente.",
+        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Audiomúsica",
+      "categoria": "Cuotas Sin Interés",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "Hasta 24 cuotas sin interés",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "¡Encuentra ese instrumento musical que estabas buscando!",
+        "Exclusivo pagando con tus Tarjetas de Crédito Santander y Tarjeta de Crédito Santander Empresas.",
+        "Es válido en tiendas físicas.",
+        "No es acumulable con otras promociones.",
+        "CAE 1,51% Calculado por un monto referencial de compra de $1.000.000 en 24 cuotas. Costo total del Crédito: $1.015.840. Operación afecta a impuesto al crédito a cargo del cliente.",
+        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Ashley",
+      "categoria": "Cuotas Sin Interés",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "3 a 24 cuotas sin interés",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Renueva tu hogar u oficina con Ashley.",
+        "Exclusivo con tus Tarjetas de Crédito Santander y Tarjeta de Crédito Santander Empresas.",
+        "Válido en tiendas y www.ashley.cl",
+        "CAE 1,51% Calculado por un monto referencial de compra de $1.000.000 en 24 cuotas. Costo total del Crédito: $1.015.840. Operación afecta a impuesto al crédito a cargo del cliente.",
+        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl ​"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Apple",
+      "categoria": "Cuotas Sin Interés",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "4 a 24 cuotas sin interés",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "¡Encuentra los mejores productos de Apple!",
+        "Exclusivo con tus Tarjetas de Crédito Santander y Tarjeta de Crédito Santander Empresas.",
+        "Válido en www.apple.com/cl/store.",
+        "No acumulable a otras promociones.",
+        "CAE 1,51% Calculado por un monto referencial de compra de $1.000.000 en 24 cuotas. Costo total del Crédito: $1.015.840. Operación afecta a impuesto al crédito a cargo del cliente.",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Piscinería",
+      "categoria": "Cuotas Sin Interés",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "13 a 24 y 36 cuotas sin interés",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Vive la experiencia de tener un Robot limpia piscina",
+        "Exclusivo pagando con tus Tarjetas de Crédito Santander.",
+        "Es válido en tiendas físicas y en www.piscineria.com",
+        "No es acumulable con otras promociones.",
+        "CAE 1,53% Calculado por un monto referencial de compra de $1.000.000 en 36 cuotas. Costo total del Crédito: $1.023.760. Operación afecta a impuesto al crédito a cargo del cliente.",
+        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "HYLA",
+      "categoria": "Cuotas Sin Interés",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "19 a 36 cuotas sin interés",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Tecnología para la salud y limpieza.",
+        "Exclusivo con tus Tarjetas de Crédito Santander y Tarjeta de Crédito Santander Empresas.",
+        "Válido en tiendas y www.hylachileshop.cl",
+        "No acumulable a otras promociones.",
+        "CAE 1,53% Calculado por un monto referencial de compra de $1.000.000 en 36 cuotas. Costo total del Crédito: $1.023.760 . Operación afecta a impuesto al crédito a cargo del cliente.",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Chile Lentes",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "3 a 12 cuotas sin interés y acumula 1 Milla LATAM Pass adicional",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Chile Lentes",
+        "Válido con Tarjetas de Crédito Santander LATAM Pass.",
+        "Válido en www.chilelentes.cl para compras a través de Webpay",
+        "No acumulable a descuentos y promociones vigentes. Incluye personalizados.",
+        "CAE 1,46% Calculado por un monto referencial de compra de $1.000.000 en 12 cuotas. Costo total del Crédito: $1.007.920. Operación afecta a impuesto al crédito a cargo del cliente.",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Dior",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "3 a 12 cuotas sin interés y acumula 1 Milla LATAM Pass adicional",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Dior",
+        "Exclusivo pagando con tus Tarjetas de Crédito Santander LATAM Pass.",
+        "Válido en shop.dior.cl",
+        "Acumulación de 1 milla adicional válido en todas las compras y exclusivo pagando con tus Tarjetas de Crédito Santander LATAM Pass.",
+        "CAE 1,46% Calculado por un monto referencial de compra de $1.000.000 en 12 cuotas. Costo total del Crédito: $1.007.920. Operación afecta a impuesto al crédito a cargo del cliente.",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Impulsa Solar",
+      "categoria": "Cuotas Sin Interés",
+      "descuento": null,
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "3 a 48 cuotas sin interés todos los días y acumula 1 milla LATAM Pass adicional por dólar gastado",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "¡Equipa tu hogar con los mejores robots de cocina, licuadoras y más!",
+        "Exclusivo pagando con tus Tarjetas de Crédito Santander LATAM Pass.",
+        "Válido online",
+        "Acumula 1 milla LATAM Pass adicional por dólar gastado pagando con tus Tarjetas de Crédito Santander LATAM Pass",
+        "CAE 1,54% Calculado por un monto referencial de compra de $1.000.000 en 48 cuotas. Costo total del Crédito: $1.031.680. Operación afecta a impuesto al crédito a cargo del cliente.",
+        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "SOLARBOSCH",
+      "categoria": "Cuotas Sin Interés",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "3 a 48 cuotas sin interés y 1 Milla más por dólar gastado",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "SOLARBOSCH",
+        "Exclusivo pagando con tus Tarjetas de Crédito Santander.",
+        "Válido online",
+        "Acumula 1 milla LATAM Pass adicional por dólar gastado pagando con tus tarjetas de crédito Santander LATAM Pass",
+        "CAE 1,54% Calculado por un monto referencial de compra de $1.000.000 en 48 cuotas. Costo total del Crédito: $1.031.680. Operación afecta a impuesto al crédito a cargo del cliente.",
+        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Siegen",
+      "categoria": "Cuotas Sin Interés",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "3 a 36 cuotas sin interés y acumula 1 Milla LATAM Pass adicional",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "3 a 36 cuotas sin interés y acumula 1 milla LATAM Pass adicional por dólar gastado",
+        "Exclusivo pagando con tus Tarjetas de Crédito Santander y Tarjeta de Crédito Santander Empresas.",
+        "Válido online en www.siegen.cl",
+        "Acumulación de 1 milla adicional válido en todas las compras y exclusivo pagando con tus Tarjetas de Crédito Santander LATAM Pass.",
+        "CAE 1,53% Calculado por un monto referencial de compra de $1.000.000 en 36 cuotas. Costo total del Crédito: $1.023.760. Operación afecta a impuesto al crédito a cargo del cliente.",
+        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. La bonificación de millas estructural se realizará según nivel y tarjeta de Crédito Santander LATAM Pass del cliente, más 1 milla adicional por dólar gastado por compras realizadas en campaña. Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio; la administración del programa LATAM Pass es de exclusiva responsabilidad de LATAM Airlines Group S.A. sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl. Conoce más sobre Santander Rewards y su reglamento en: https://banco.santander.cl/rewards."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Garmin",
+      "categoria": "Cuotas Sin Interés",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "3 a 12 cuotas sin interés y acumula 1 Milla LATAM Pass adicional",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Descubre lo mejor en relojes inteligentes especializados en Running, Trekking, Montañismo, Outdoor, etc.",
+        "Exclusivo pagando con tus Tarjetas de Crédito Santander y Tarjeta de Crédito Santander Empresas.",
+        "Válido en tiendas y https://garminstore.cl/collections/santander",
+        "10% dcto. válido en productos seleccionados.",
+        "Ingresa los 6 primeros dígitos de tu tarjeta como código de descuento.",
+        "Acumulación de 1 milla adicional válido en todas las compras y exclusivo pagando con tus Tarjetas de Crédito Santander LATAM Pass.",
+        "CAE 1,46% Calculado por un monto referencial de compra de $1.000.000 en 12 cuotas. Costo total del Crédito: $1.007.920. Operación afecta a impuesto al crédito a cargo del cliente.",
+        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. La bonificación de millas estructural se realizará según nivel y tarjeta de Crédito Santander LATAM Pass del cliente, más 1 milla adicional por dólar gastado por compras realizadas en campaña. Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio; la administración del programa LATAM Pass es de exclusiva responsabilidad de LATAM Airlines Group S.A. sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl. Conoce más sobre Santander Rewards y su reglamento en: https://banco.santander.cl/rewards."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Powermania",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "Paga de 3 a 48 cuotas sin interés y acumula 1 Milla LATAM Pass adicional",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "El poder es tuyo",
+        "Exclusivo pagando con tus Tarjetas de Crédito Santander LATAM Pass.",
+        "Válido en www.powermania.cl y www.airemania.cl",
+        "Exclusivo para compras a través de Webpay.",
+        "No acumulable con otras promociones.",
+        "CAE 1,54% y Monto Total a pagar de $1.031.680, anunciados son ejemplares y corresponden a compra de monto de $1.000.000 cursada en modalidad de pago de 48 cuotas mensuales, y consideran impuestos.",
+        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. La bonificación de millas estructural se realizará según nivel y tarjeta de Crédito Santander LATAM Pass del cliente, más 1 milla adicional por dólar gastado por compras realizadas en campaña. Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio; la administración del programa LATAM Pass es de exclusiva responsabilidad de LATAM Airlines Group S.A. sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl. Conoce más sobre Santander Rewards y su reglamento en: https://banco.santander.cl/rewards."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Thomas",
+      "categoria": "Cuotas Sin Interés",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "3 a 36 cuotas sin interés y acumula 1 Milla LATAM Pass adicional ",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Exclusivo con tus Tarjeta de Crédito y Tarjetas de Crédito Santander Empresas.",
+        "Válido online en www.thomas.cl",
+        "Acumulación de 1 milla adicional válido en todas las compras y exclusivo pagando con tus Tarjetas de Crédito Santander LATAM Pass.",
+        "CAE 1,53% Calculado por un monto referencial de compra de $1.000.000 en 36 cuotas. Costo total del Crédito: $1.023.760. Operación afecta a impuesto al crédito a cargo del cliente.",
+        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. La bonificación de millas estructural se realizará según nivel y tarjeta de Crédito Santander LATAM Pass del cliente, más 1 milla adicional por dólar gastado por compras realizadas en campaña. Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio; la administración del programa LATAM Pass es de exclusiva responsabilidad de LATAM Airlines Group S.A. sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl. Conoce más sobre Santander Rewards y su reglamento en: https://banco.santander.cl/rewards."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Nikon",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "Acumula 1 Milla LATAM Pass adicional",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "¡Captura increíbles momentos junto a Nikon!",
+        "Exclusivo pagando con tus Tarjetas de Crédito Santander LATAM Pass.",
+        "Es válido en www.nikoncenter.cl",
+        "No es acumulable con otras promociones.",
+        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. La bonificación de millas estructural se realizará según nivel y tarjeta de Crédito Santander LATAM Pass del cliente, más 1 milla adicional por dólar gastado por compras realizadas en campaña. Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio; la administración del programa LATAM Pass es de exclusiva responsabilidad de LATAM Airlines Group S.A. sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl. Conoce más sobre Santander Rewards y su reglamento en: https://banco.santander.cl/rewards."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Lhotse",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "Acumula 1 Milla LATAM Pass adicional",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "¡Equípate para tus aventuras veraniegas! Smartwatch, audífonos, cámaras y más.",
+        "Exclusivo pagando con tus Tarjetas de Crédito Santander LATAM Pass.",
+        "Válido en www.lhotsestore.cl",
+        "No acumulable con otras promociones.",
+        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. La bonificación de millas estructural se realizará según nivel y tarjeta de Crédito Santander LATAM Pass del cliente, más 1 milla adicional por dólar gastado por compras realizadas en campaña. Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio; la administración del programa LATAM Pass es de exclusiva responsabilidad de LATAM Airlines Group S.A. sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl. Conoce más sobre Santander Rewards y su reglamento en: https://banco.santander.cl/rewards."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "UnionX",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "Acumula 1 Milla LATAM Pass adicional",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "¡Lleva contigo el verano comprando tus productos favoritos en UnionX!",
+        "Exclusivo pagando con tus Tarjetas de Crédito Santander LATAM Pass.",
+        "Válido en www.unionx.cl",
+        "No acumulable con otras promociones.",
+        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. La bonificación de millas estructural se realizará según nivel y tarjeta de Crédito Santander LATAM Pass del cliente, más 1 milla adicional por dólar gastado por compras realizadas en campaña. Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio; la administración del programa LATAM Pass es de exclusiva responsabilidad de LATAM Airlines Group S.A. sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl. Conoce más sobre Santander Rewards y su reglamento en: https://banco.santander.cl/rewards."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Simplit",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "Acumula 1 Milla LATAM Pass adicional",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Todos los artículos, accesorios y utensilios que necesitas para equipar tu cocina. Despachos a todo Chile.",
+        "Exclusivo pagando con tus Tarjetas de Crédito Santander LATAM Pass.",
+        "Válido en www.simplithome.cl",
+        "No acumulable con otras promociones.",
+        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. La bonificación de millas estructural se realizará según nivel y tarjeta de Crédito Santander LATAM Pass del cliente, más 1 milla adicional por dólar gastado por compras realizadas en campaña. Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio; la administración del programa LATAM Pass es de exclusiva responsabilidad de LATAM Airlines Group S.A. sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl. Conoce más sobre Santander Rewards y su reglamento en: https://banco.santander.cl/rewards."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Secret",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "Acumula 1 Milla LATAM Pass adicional",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "¡Carteras que ofrecen una mezcla única de diseño artístico y práctico!",
+        "Exclusivo pagando con tus Tarjetas de Crédito Santander LATAM Pass.",
+        "Ingresa los 6 primeros dígitos como código de descuento.",
+        "Válido en carterasecret.cl",
+        "Acumulable con otros descuentos o promociones",
+        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Bonificación de triple acumulación de Millas LATAM Pass (1 milla estructural + 2 millas adicionales por dólar gastado) solo aplica para las compras realizadas en campaña. Acreditación de triple acumulación de Millas LATAM Pass, en caso de corresponder, se realizará en el mes siguiente de la compra. Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio; la administración del programa LATAM Pass es de exclusiva responsabilidad de LATAM Airlines Group S.A. sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Xtrem",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "Acumula 1 Milla LATAM Pass adicional",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "¡Tus mochilas y accesorios favoritos multiplican tus Millas LATAM Pass!",
+        "Exclusivo pagando con tus Tarjetas de Crédito Santander LATAM Pass.",
+        "Válido en www.xtrem.cl",
+        "No acumulable con otras promociones.",
+        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. La bonificación de millas estructural se realizará según nivel y tarjeta de Crédito Santander LATAM Pass del cliente, más 1 milla adicional por dólar gastado por compras realizadas en campaña. Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio; la administración del programa LATAM Pass es de exclusiva responsabilidad de LATAM Airlines Group S.A. sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl. Conoce más sobre Santander Rewards y su reglamento en: https://banco.santander.cl/rewards."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Saxoline",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "20% dcto.",
+      "dia": [
+        "Miércoles"
+      ],
+      "dia_texto": "todos los miércoles, acumula 1 milla LATAM Pass adicional",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "¡Compra tu equipaje y accesorios favoritos!",
+        "Exclusivo con tus Tarjetas de Crédito y Débito Santander.",
+        "Válido en www.saxoline.cl",
+        "Acumulación de millas exclusivo con tus Tarjetas de Crédito Santander LATAM Pass.",
+        "Ingresar los 6 primeros dígitos de tu tarjeta como código de descuento.",
+        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. La bonificación de millas estructural se realizará según nivel y tarjeta de Crédito Santander LATAM Pass del cliente, más 1 milla adicional por dólar gastado por compras realizadas en campaña. Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio; la administración del programa LATAM Pass es de exclusiva responsabilidad de LATAM Airlines Group S.A. sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl. Conoce más sobre Santander Rewards y su reglamento en: https://banco.santander.cl/rewards."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Samsonite",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "Acumula 1 Milla LATAM Pass adicional",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "¡Compra tu equipaje y accesorios favoritos para tu próximo viaje!",
+        "Exclusivo pagando con tus Tarjetas de Crédito Santander LATAM Pass.",
+        "Válido en www.samsonite.cl",
+        "No acumulable con otras promociones.",
+        "Ingresando los 6 primeros dígitos de tu Tarjeta como código de descuento.",
+        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. La bonificación de millas estructural se realizará según nivel y tarjeta de Crédito Santander LATAM Pass del cliente, más 1 milla adicional por dólar gastado por compras realizadas en campaña. Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio; la administración del programa LATAM Pass es de exclusiva responsabilidad de LATAM Airlines Group S.A. sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl. Conoce más sobre Santander Rewards y su reglamento en: https://banco.santander.cl/rewards."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Aquality",
+      "categoria": "Sabores",
+      "descuento": "40% dcto.",
+      "dia": [
+        "Martes"
+      ],
+      "dia_texto": "todos los martes y acumula 1 Milla LATAM Pass adicional",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "¡Compra pescados y mariscos congelados de calidad superior! Además, acumula 1 Milla LATAM Pass adicional del 01 al 07 de cada mes.",
+        "Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass.",
+        "Válido en www.aqualitysoluciones.cl",
+        "No acumulable a otras promociones.",
+        "Ingresando los 6 primeros dígitos de tu Tarjeta como código de descuento.",
+        "Despacho aplica en Región Metropolitana y Punto de retiro aplica en Chicureo y Concón.",
+        "Descuento máximo por pedido de $100.000.",
+        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. La bonificación de millas estructural se realizará según nivel y tarjeta de Crédito Santander LATAM Pass del cliente, más 1 milla adicional por dólar gastado por compras realizadas en campaña. Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio; la administración del programa LATAM Pass es de exclusiva responsabilidad de LATAM Airlines Group S.A. sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl. Conoce más sobre Santander Rewards y su reglamento en: https://banco.santander.cl/rewards."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Sound Advisors",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "Acumula 2 Millas LATAM Pass adicionales",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "¡Compra tu sistema de audio HiFi favoritos en Sound Advisors!",
+        "Exclusivo pagando con tus Tarjetas de Crédito Santander LATAM Pass.",
+        "Válido en www.soundadvisors.cl.",
+        "No acumulable con otras promociones.",
+        "Ingresa los 6 primeros dígitos de tu Tarjeta como código de descuento.",
+        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. La bonificación de millas estructural se realizará según nivel y tarjeta de Crédito Santander LATAM Pass del cliente, más 2 millas adicionales por dólar gastado por compras realizadas en campaña. Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio; la administración del programa LATAM Pass es de exclusiva responsabilidad de LATAM Airlines Group S.A. sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl. Conoce más sobre Santander Rewards y su reglamento en: https://banco.santander.cl/rewards."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Moulinex",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "Acumula 1 Milla LATAM Pass adicional",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "¡Equipa tu hogar con los mejores robots de cocina, licuadoras y más!",
+        "Exclusivo pagando con tus Tarjetas de Crédito Santander LATAM Pass.",
+        "Válido en www.tefalstore.cl y tiendas físicas.",
+        "No es acumulable con otras promociones.",
+        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. La bonificación de millas estructural se realizará según nivel y tarjeta de Crédito Santander LATAM Pass del cliente, más 1 milla adicional por dólar gastado por compras realizadas en campaña. Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio; la administración del programa LATAM Pass es de exclusiva responsabilidad de LATAM Airlines Group S.A. sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl. Conoce más sobre Santander Rewards y su reglamento en: https://banco.santander.cl/rewards."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Krups",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "Acumula 1 Milla LATAM Pass adicional",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "¡Descubre un increíble mundo de productos de café y desayuno!",
+        "Exclusivo pagando con tus Tarjetas de Crédito Santander LATAM Pass.",
+        "Válido en www.tefalstore.cl y tiendas físicas.",
+        "No es acumulable con otras promociones.",
+        "Ingresando los 6 primeros dígitos de tu Tarjeta como código de descuento.",
+        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. La bonificación de millas estructural se realizará según nivel y tarjeta de Crédito Santander LATAM Pass del cliente, más 1 milla adicional por dólar gastado por compras realizadas en campaña. Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio; la administración del programa LATAM Pass es de exclusiva responsabilidad de LATAM Airlines Group S.A. sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl. Conoce más sobre Santander Rewards y su reglamento en: https://banco.santander.cl/rewards."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Rowenta",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "Acumula 1 Milla LATAM Pass adicional",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "¡Disfruta tu hogar con los mejores electrodomésticos!",
+        "Exclusivo pagando con tus Tarjetas de Crédito Santander LATAM Pass.",
+        "Válido en www.tefalstore.cl y tiendas físicas",
+        "No es acumulable con otras promociones.",
+        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. La bonificación de millas estructural se realizará según nivel y tarjeta de Crédito Santander LATAM Pass del cliente, más 1 milla adicional por dólar gastado por compras realizadas en campaña. Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio; la administración del programa LATAM Pass es de exclusiva responsabilidad de LATAM Airlines Group S.A. sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl. Conoce más sobre Santander Rewards y su reglamento en: https://banco.santander.cl/rewards."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Tefal",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "Acumula 1 Milla LATAM Pass adicional",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "¡Encuentra lo mejor para tu cocina aquí!",
+        "Exclusivo pagando con tus Tarjetas de Crédito Santander LATAM Pass.",
+        "Válido en www.tefalstore.cl y tiendas físicas.",
+        "No es acumulable con otras promociones.",
+        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. La bonificación de millas estructural se realizará según nivel y tarjeta de Crédito Santander LATAM Pass del cliente, más 1 milla adicional por dólar gastado por compras realizadas en campaña. Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio; la administración del programa LATAM Pass es de exclusiva responsabilidad de LATAM Airlines Group S.A. sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl. Conoce más sobre Santander Rewards y su reglamento en: https://banco.santander.cl/rewards."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "La Barra CCU",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "20% dcto",
+      "dia": [],
+      "dia_texto": "adicional y acumula 1 Milla LATAM Pass adicional",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Venta de bebestible con amplio portafolio del mercado",
+        "Exclusivo con tus Tarjetas de Crédito y Débito Santander pagando con Webpay Oneclick",
+        "Válido en labarra.cl o en la app",
+        "Descuento automático en el carro pagando con Webpay Oneclick",
+        "No acumulable con cupones de descuento.",
+        "Acumulación incremental de millas exclusivo pagando con Tarjetas de Crédito Santander LATAM Pass a través de Webpay Oneclick",
+        "Una transacción por cliente al día.",
+        "Descuento máximo por pedido de $20.000.",
+        "Promoción de descuento válida solo para compras realizadas del 26 de octubre al 1 de noviembre 2026 en labarra.cl o en la app de La Barra de CCU a través de pago con Webpay Oneclick, pagando con Tarjetas de Débito y Crédito Santander. Acumulación incremental de millas exclusivo pagando con Tarjetas de Crédito Santander LATAM Pass a través de Webpay Oneclick en labarra.cl o en la app de La Barra de CCU. La bonificación de millas estructural se realizará según nivel y tarjeta de Crédito Santander LATAM Pass del cliente, más 1 milla adicional por dólar gastado por compras realizadas en campaña. La acreditación de Millas LATAM Pass se realizará en el mes siguiente de la compra. Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio. La administración del programa LATAM Pass es de exclusiva responsabilidad de LATAM Airlines GroupS.A. sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Conoce más sobre Santander Rewards y su reglamento en: https:banco.santander.cl/rewards."
+      ],
+      "sucursales": []
+    },
+    {
       "banco": "Banco Santander",
       "comercio": "PedidosYa Market",
       "categoria": "Retail y Otras Marcas",
@@ -24898,25 +25878,6 @@
         "No es acumulable con otras promociones.",
         "Sin tope de descuento.",
         "Exclusivo en Pasta dental Natural Menta S/Flúor con adición de Hidroxiapatita (HA).",
-        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Dior",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "3 a 12 cuotas sin interés y acumula 1 Milla LATAM Pass adicional",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Dior",
-        "Exclusivo pagando con tus Tarjetas de Crédito Santander LATAM Pass.",
-        "Válido en shop.dior.cl",
-        "Acumulación de 1 milla adicional válido en todas las compras y exclusivo pagando con tus Tarjetas de Crédito Santander LATAM Pass.",
-        "CAE 1,46% Calculado por un monto referencial de compra de $1.000.000 en 12 cuotas. Costo total del Crédito: $1.007.920. Operación afecta a impuesto al crédito a cargo del cliente.",
         "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
       ],
       "sucursales": []
@@ -25274,26 +26235,6 @@
         "Haga clic en \"Activar\" y valide su Business Mastercard para obtener el enlace de la oferta",
         "Haga clic en \"Canjear\" para visitar la página de la oferta Haga clic en \"Iniciar prueba gratuita\" y complete todos los datos para crear su cuenta.",
         "Elija una opción de plan de pago flexible para crear su cuenta Aplique el código de promoción en el cuadro \"Código de promoción\" cuando se le solicite https://www.easysavingsspecials.com/es/offers/details/17fc8d71-b9c9-4052-92cd-fc0d8453e9cc/all/google-workspace",
-        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "UC CHRISTUS",
-      "categoria": "Cuotas Sin Interés",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "3 a 18 cuotas sin interés",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Revisa todos los servicios y especialidades de UC CHRISTUS.",
-        "Exclusivo pagando con tus Tarjetas de Crédito Santander.",
-        "Válido para todos los servicios de UC CHRISTUS. Para el pago de cuentas hospitarias asociado a este convenio, el pago debe realizarse exclusivamente a través del portal web de UC CHRISTUS.",
-        "Cuotas válidas para montos desde $100.000",
-        "No es acumulable con otras promociones.",
-        "CAE 1,51% Calculado por un monto referencial de compra de $1.000.000 en 24 cuotas. Costo total del Crédito: $1.015.840. Operación afecta a impuesto al crédito a cargo del cliente.",
         "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
       ],
       "sucursales": []
@@ -26022,79 +26963,6 @@
     },
     {
       "banco": "Banco Santander",
-      "comercio": "Krups",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "Acumula 1 Milla LATAM Pass adicional",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "¡Descubre un increíble mundo de productos de café y desayuno!",
-        "Exclusivo pagando con tus Tarjetas de Crédito Santander LATAM Pass.",
-        "Válido en www.tefalstore.cl y tiendas físicas.",
-        "No es acumulable con otras promociones.",
-        "Ingresando los 6 primeros dígitos de tu Tarjeta como código de descuento.",
-        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. La bonificación de millas estructural se realizará según nivel y tarjeta de Crédito Santander LATAM Pass del cliente, más 1 milla adicional por dólar gastado por compras realizadas en campaña. Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio; la administración del programa LATAM Pass es de exclusiva responsabilidad de LATAM Airlines Group S.A. sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl. Conoce más sobre Santander Rewards y su reglamento en: https://banco.santander.cl/rewards."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Moulinex",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "Acumula 1 Milla LATAM Pass adicional",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "¡Equipa tu hogar con los mejores robots de cocina, licuadoras y más!",
-        "Exclusivo pagando con tus Tarjetas de Crédito Santander LATAM Pass.",
-        "Válido en www.tefalstore.cl y tiendas físicas.",
-        "No es acumulable con otras promociones.",
-        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. La bonificación de millas estructural se realizará según nivel y tarjeta de Crédito Santander LATAM Pass del cliente, más 1 milla adicional por dólar gastado por compras realizadas en campaña. Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio; la administración del programa LATAM Pass es de exclusiva responsabilidad de LATAM Airlines Group S.A. sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl. Conoce más sobre Santander Rewards y su reglamento en: https://banco.santander.cl/rewards."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Rowenta",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "Acumula 1 Milla LATAM Pass adicional",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "¡Disfruta tu hogar con los mejores electrodomésticos!",
-        "Exclusivo pagando con tus Tarjetas de Crédito Santander LATAM Pass.",
-        "Válido en www.tefalstore.cl y tiendas físicas",
-        "No es acumulable con otras promociones.",
-        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. La bonificación de millas estructural se realizará según nivel y tarjeta de Crédito Santander LATAM Pass del cliente, más 1 milla adicional por dólar gastado por compras realizadas en campaña. Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio; la administración del programa LATAM Pass es de exclusiva responsabilidad de LATAM Airlines Group S.A. sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl. Conoce más sobre Santander Rewards y su reglamento en: https://banco.santander.cl/rewards."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Tefal",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "Acumula 1 Milla LATAM Pass adicional",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "¡Encuentra lo mejor para tu cocina aquí!",
-        "Exclusivo pagando con tus Tarjetas de Crédito Santander LATAM Pass.",
-        "Válido en www.tefalstore.cl y tiendas físicas.",
-        "No es acumulable con otras promociones.",
-        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. La bonificación de millas estructural se realizará según nivel y tarjeta de Crédito Santander LATAM Pass del cliente, más 1 milla adicional por dólar gastado por compras realizadas en campaña. Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio; la administración del programa LATAM Pass es de exclusiva responsabilidad de LATAM Airlines Group S.A. sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl. Conoce más sobre Santander Rewards y su reglamento en: https://banco.santander.cl/rewards."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
       "comercio": "Sicily",
       "categoria": "Sabores",
       "descuento": "40% dcto",
@@ -26299,88 +27167,6 @@
         "Tope de descuento $40.000",
         "Para hacer efectivo el descuento debe ser solicitado mostrando y pagando con tus Tarjetas Santander.",
         "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​"
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Samsonite",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "Acumula 1 Milla LATAM Pass adicional",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "¡Compra tu equipaje y accesorios favoritos para tu próximo viaje!",
-        "Exclusivo pagando con tus Tarjetas de Crédito Santander LATAM Pass.",
-        "Válido en www.samsonite.cl",
-        "No acumulable con otras promociones.",
-        "Ingresando los 6 primeros dígitos de tu Tarjeta como código de descuento.",
-        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. La bonificación de millas estructural se realizará según nivel y tarjeta de Crédito Santander LATAM Pass del cliente, más 1 milla adicional por dólar gastado por compras realizadas en campaña. Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio; la administración del programa LATAM Pass es de exclusiva responsabilidad de LATAM Airlines Group S.A. sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl. Conoce más sobre Santander Rewards y su reglamento en: https://banco.santander.cl/rewards."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Xtrem",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "Acumula 1 Milla LATAM Pass adicional",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "¡Tus mochilas y accesorios favoritos multiplican tus Millas LATAM Pass!",
-        "Exclusivo pagando con tus Tarjetas de Crédito Santander LATAM Pass.",
-        "Válido en www.xtrem.cl",
-        "No acumulable con otras promociones.",
-        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. La bonificación de millas estructural se realizará según nivel y tarjeta de Crédito Santander LATAM Pass del cliente, más 1 milla adicional por dólar gastado por compras realizadas en campaña. Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio; la administración del programa LATAM Pass es de exclusiva responsabilidad de LATAM Airlines Group S.A. sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl. Conoce más sobre Santander Rewards y su reglamento en: https://banco.santander.cl/rewards."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Aufbau",
-      "categoria": "Cuotas Sin Interés",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "13 a 24 cuotas sin interés",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "¡Comenzó el CYBER! Descubre tus productos favoritos de Apple, accesorios, parlantes y más",
-        "Encuentra tu iPhone 15 Pro Max 256 GB a $1.299.990.",
-        "Haz click en el botón \"Ver Carro\".",
-        "Ingresa los 6 primeros dígitos de tu Tarjeta de Crédito Santander.",
-        "Haz click en \"Aplicar\" para validar el cupón.",
-        "Válido el 3, 4 y 5 de junio de 2024.",
-        "13 a 24 cuotas sin interés",
-        "Exclusivo pagando con tus Tarjetas de Crédito Santander.",
-        "Válido en tiendas físicas y en aufbau.cl",
-        "Válido desde el 01 de enero al 31 de diciembre de 2024.",
-        "No es acumulable con otras promociones.",
-        "CAE 1,51% Calculado por un monto referencial de compra de $1.000.000 en 24 cuotas. Costo total del Crédito: $1.015.840. Operación afecta a impuesto al crédito a cargo del cliente.",
-        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Secret",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "Acumula 1 Milla LATAM Pass adicional",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "¡Carteras que ofrecen una mezcla única de diseño artístico y práctico!",
-        "Exclusivo pagando con tus Tarjetas de Crédito Santander LATAM Pass.",
-        "Ingresa los 6 primeros dígitos como código de descuento.",
-        "Válido en carterasecret.cl",
-        "Acumulable con otros descuentos o promociones",
-        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Bonificación de triple acumulación de Millas LATAM Pass (1 milla estructural + 2 millas adicionales por dólar gastado) solo aplica para las compras realizadas en campaña. Acreditación de triple acumulación de Millas LATAM Pass, en caso de corresponder, se realizará en el mes siguiente de la compra. Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio; la administración del programa LATAM Pass es de exclusiva responsabilidad de LATAM Airlines Group S.A. sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
       ],
       "sucursales": []
     },
@@ -29173,29 +29959,6 @@
     },
     {
       "banco": "Banco Santander",
-      "comercio": "Aquality",
-      "categoria": "Sabores",
-      "descuento": "40% dcto.",
-      "dia": [
-        "Martes"
-      ],
-      "dia_texto": "todos los martes y acumula 1 Milla LATAM Pass adicional",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "¡Compra pescados y mariscos congelados de calidad superior! Además, acumula 1 Milla LATAM Pass adicional del 01 al 07 de cada mes.",
-        "Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass.",
-        "Válido en www.aqualitysoluciones.cl",
-        "No acumulable a otras promociones.",
-        "Ingresando los 6 primeros dígitos de tu Tarjeta como código de descuento.",
-        "Despacho aplica en Región Metropolitana y Punto de retiro aplica en Chicureo y Concón.",
-        "Descuento máximo por pedido de $100.000.",
-        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. La bonificación de millas estructural se realizará según nivel y tarjeta de Crédito Santander LATAM Pass del cliente, más 1 milla adicional por dólar gastado por compras realizadas en campaña. Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio; la administración del programa LATAM Pass es de exclusiva responsabilidad de LATAM Airlines Group S.A. sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl. Conoce más sobre Santander Rewards y su reglamento en: https://banco.santander.cl/rewards."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
       "comercio": "Naoki",
       "categoria": "Sabores",
       "descuento": null,
@@ -29592,28 +30355,6 @@
     },
     {
       "banco": "Banco Santander",
-      "comercio": "MacOnline",
-      "categoria": "Cuotas Sin Interés",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "4 a 24 cuotas sin interés",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Compra tu iPhone, iPad, MacBook, Apple Watch o Mac favorito.",
-        "Exclusivo con tus Tarjetas de Crédito Santander y Tarjeta de Crédito Santander Empresas.",
-        "4 a 24 cuotas sin interés válido en tiendas y www.maconline.com",
-        "Productos de Tienda Santander válidos hasta agotar stock.",
-        "Envío gratis en Región Metropolitana comprando en www.tienda.santander.cl.",
-        "Válido en productos Apple.",
-        "No acumulable a otras promociones.",
-        "CAE 1,51% Calculado por un monto referencial de compra de $1.000.000 en 24 cuotas. Costo total del Crédito: $1.015.840. Operación afecta a impuesto al crédito a cargo del cliente.",
-        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
       "comercio": "Motor Doo",
       "categoria": "Cuotas Sin Interés",
       "descuento": null,
@@ -29939,25 +30680,6 @@
     },
     {
       "banco": "Banco Santander",
-      "comercio": "Siegen",
-      "categoria": "Cuotas Sin Interés",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "3 a 36 cuotas sin interés y acumula 1 Milla LATAM Pass adicional",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "3 a 36 cuotas sin interés y acumula 1 milla LATAM Pass adicional por dólar gastado",
-        "Exclusivo pagando con tus Tarjetas de Crédito Santander y Tarjeta de Crédito Santander Empresas.",
-        "Válido online en www.siegen.cl",
-        "Acumulación de 1 milla adicional válido en todas las compras y exclusivo pagando con tus Tarjetas de Crédito Santander LATAM Pass.",
-        "CAE 1,53% Calculado por un monto referencial de compra de $1.000.000 en 36 cuotas. Costo total del Crédito: $1.023.760. Operación afecta a impuesto al crédito a cargo del cliente.",
-        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. La bonificación de millas estructural se realizará según nivel y tarjeta de Crédito Santander LATAM Pass del cliente, más 1 milla adicional por dólar gastado por compras realizadas en campaña. Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio; la administración del programa LATAM Pass es de exclusiva responsabilidad de LATAM Airlines Group S.A. sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl. Conoce más sobre Santander Rewards y su reglamento en: https://banco.santander.cl/rewards."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
       "comercio": "Ironside",
       "categoria": "Cuotas Sin Interés",
       "descuento": null,
@@ -30264,682 +30986,6 @@
         "Válido en www.hp.com",
         "CAE 1,51% Calculado por un monto referencial de compra de $1.000.000 en 24 cuotas. Costo total del Crédito: $1.015.840. Operación afecta a impuesto al crédito a cargo del cliente.",
         "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Universidad del Desarrollo",
-      "categoria": "Cuotas Sin Interés",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "3 a 24 cuotas sin interés en programas adheridos de Postgrados",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Revisa las distintas carreras, postgrados y educación continua que hay en la Universidad del Desarrollo.",
-        "Exclusivo pagando con tus Tarjetas de Crédito Santander y Tarjeta de Crédito Santander Empresas.",
-        "Válido presencial en Universidad del Desarrollo.",
-        "Válido en programas adheridos de Postgrados.",
-        "CAE de 1,51%. Calculado por un monto referencial de compra de $1.000.000 en 24 cuotas. Costo total del Crédito: $1.015.840. Operación afecta a impuesto al crédito.",
-        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Zenclinic Dental",
-      "categoria": "Cuotas Sin Interés",
-      "descuento": "30% dcto",
-      "dia": [],
-      "dia_texto": "3 a 24 cuotas sin interés y  en aranceles clínicos",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Especialistas en diseño de sonrisas, carillas, Invisalign, implantes, odontopediatría y estética facial.",
-        "Exclusivo pagando con tus Tarjetas de Crédito Santander.",
-        "Válido en presencial.",
-        "30% de descuento en aranceles clínicos.",
-        "Garantía en todos los tratamientos dentales por 2 años.",
-        "Excelencia Comprobada Valoración 5.0 en Google",
-        "Clínica con Resolución Seremi al día.",
-        "Atención con Sedación consciente con óxido nitroso.",
-        "Descuento no aplica para laboratorios, insumos y pabellón.",
-        "No es acumulable con otras promociones.",
-        "CAE de 1,51%. Calculado por un monto referencial de compra de $1.000.000 en 24 cuotas. Costo total del Crédito: $1.015.840. Operación afecta a impuesto al crédito.",
-        "Horario: - Lunes a Viernes 9:00 - 19:00 hrs. Sábados: 9:30 - 14:00 hrs. - Dirección: Av. La Dehesa 440, oficina 303, Lo Barnechea. - Teléfono: +56933151853.",
-        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Thermomix",
-      "categoria": "Cuotas Sin Interés",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "24 cuotas sin interés",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "¡Prepara los mejores platos con la ayuda de Thermomix!",
-        "Exclusivo pagando con tus Tarjetas de Crédito Santander y Tarjeta de Crédito Santander Empresas.",
-        "Es válido en thermomix.cl, a través de presentadoras y presencial en tienda.",
-        "No es acumulable con otras promociones.",
-        "CAE 1,51% Calculado por un monto referencial de compra de $1.000.000 en 24 cuotas. Costo total del Crédito: $1.015.840. Operación afecta a impuesto al crédito.",
-        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Bonificación de doble acumulación de Millas LATAM Pass (1 milla estructural + 1 milla adicional por dólar gastado) solo aplica para las compras realizadas en campaña. Acreditación de doble acumulación de Millas LATAM Pass, en caso de corresponder, se realizará en el mes siguiente de la compra. Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio; la administración del programa LATAM Pass es de exclusiva responsabilidad de LATAM Airlines Group S.A. sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Specialized",
-      "categoria": "Cuotas Sin Interés",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "3 a 12 cuotas sin interés",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Encuentra productos indispensables para ciclistas.",
-        "Exclusivo pagando con tus Tarjetas de Crédito y Tarjeta de Crédito Santander Empresas.",
-        "Es válido en tiendas físicas.",
-        "Concesionarios / Tiendas: - ALTERED: Av. Cristobal Colón 5831, Las Condes, Santiago. - ALTERED: Gerónimo de Alderete 1651, Vitacura, Santiago. - BIKE AUTHORITY: Av. Blanca Estela 60, local 3, Concón. - BIKE AUTHORITY: Av Las Condes 12461, local 11, Las Condes, Santiago. - MULTIBIKE: Camino El Venado 1380, Local 12-13-14-15, San Pedro de la Paz, Concepción. - MULTIBIKE: Las Hualtatas 8980, Vitacura, Santiago. - SPECIALIZED BICICLETAS CHILE LIMITADA: www.specialized.com/cl/es - GALIBIER BIKES: Pedro de Valdivia Norte #0129 Providencia, Santiago. - MAQBIKE: San Diego #852 Santiago, Santiago",
-        "No es acumulable con otras promociones.",
-        "CAE 1,46% Calculado por un monto referencial de compra de $1.000.000 en 12 cuotas. Costo total del Crédito: $1.007.920. Operación afecta a impuesto al crédito a cargo del cliente",
-        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Samsung",
-      "categoria": "Cuotas Sin Interés",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "3 a 24 y 36 cuotas sin interés",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "¡Saca el máximo provecho a tu día a día con todos los productos de tecnología en Samsung!",
-        "Cuotas sin interés",
-        "3 a 24 cuotas válido presencial y 3 a 24 y 36 cuotas válido online.",
-        "Exclusivo pagando con tus Tarjetas de Crédito Santander y Tarjeta de Crédito Santander Empresas.",
-        "Válido en www.samsung.com/cl/santander/ y tiendas físicas.",
-        "Cuotas sin interés aplica online y en tiendas.",
-        "No es acumulable con otras promociones.",
-        "CAE 1,53% Calculado por un monto referencial de compra de $1.000.000 en 36 cuotas. Costo total del Crédito: $1.023.760. Operación afecta a impuesto al crédito a cargo del cliente.",
-        "PCF Retail, Tecnobuy y ROM: son operadores oficiales de las tiendas presenciales Samsung.",
-        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Rheem",
-      "categoria": "Cuotas Sin Interés",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "7 a 12 cuotas sin interés",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "¡Calefont, Termo, y todas las soluciones para tu agua caliente!",
-        "Exclusivo pagando con tus Tarjetas de Crédito Santander y Tarjeta de Crédito Santander Empresas.",
-        "Es válido en tiendas físicas y en www.rheemchile.cl",
-        "No es acumulable con otras promociones.",
-        "CAE 1,46% Calculado por un monto referencial de compra de $1.000.000 en 12 cuotas. Costo total del Crédito: $1.007.920. Operación afecta a impuesto al crédito a cargo del cliente.",
-        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Panorama Lumon",
-      "categoria": "Cuotas Sin Interés",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "3 a 36 cuotas sin interés",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "¡Sube de nivel tu hogar u oficina con cortinas de cristal!",
-        "Exclusivo pagando con tus Tarjetas de Crédito Santander y Tarjeta de Crédito Santander Empresas.",
-        "Es válido en tiendas físicas y en www.panoramachile.cl",
-        "No es acumulable con otras promociones.",
-        "CAE 1,53% Calculado por un monto referencial de compra de $1.000.000 en 36 cuotas. Costo total del Crédito: $1.023.760. Operación afecta a impuesto al crédito a cargo del cliente.",
-        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Music Hall",
-      "categoria": "Cuotas Sin Interés",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "3 a 24 cuotas sin interés",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Tienda con las mejores marcas de instrumentos musicales.",
-        "Exclusivo con tus Tarjetas de Crédito Santander y Tarjeta de Crédito Santander Empresas.",
-        "Válido en tiendas y en www.musichall.cl",
-        "No acumulable a otras promociones.",
-        "CAE 1,51% Calculado por un monto referencial de compra de $1.000.000 en 24 cuotas. Costo total del Crédito: $1.015.840. Operación afecta a impuesto al crédito a cargo del cliente.",
-        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Mosso",
-      "categoria": "Cuotas Sin Interés",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "12 cuotas sin interés",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Encuentra productos exclusivos y elegantes. Recuerda que:",
-        "Exclusivo pagando con tus Tarjetas de Crédito Santander.",
-        "Es válido en tiendas físicas y en www.mosso.cl.",
-        "No es acumulable con otras promociones.",
-        "CAE 1,46% Calculado por un monto referencial de compra de $1.000.000 en 12 cuotas. Costo total del Crédito: $1.007.920. Operación afecta a impuesto al crédito a cargo del cliente.",
-        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl ​"
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "KTM",
-      "categoria": "Cuotas Sin Interés",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "12 a 24 cuotas sin interés",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Expertos en moto.",
-        "Exclusivo con tus Tarjetas de Crédito Santander y Tarjeta de Crédito Santander Empresas.",
-        "Válido en RS SHOP, red de distribuidores y online.",
-        "No acumulable a otras promociones.",
-        "CAE 1,51% Calculado por un monto referencial de compra de $1.000.000 en 24 cuotas. Costo total del Crédito: $1.015.840. Operación afecta a impuesto al crédito a cargo del cliente.",
-        "Direcciones:",
-        "- Av. Balmaceda 3825, La Serena. - Raúl Labbé 13664, Lo Barnechea. - Av. Vitacura 9482, Vitacura. - Av. Apoquindo 8263, Las Condes. - Ruta 5 Sur KM 407, Chillán Viejo. - Av. Caupolicán 1461, Temuco.",
-        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Kinegun",
-      "categoria": "Cuotas Sin Interés",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "3 a 36 cuotas sin interés",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Productos para tu bienestar.",
-        "Exclusivo pagando con tus Tarjetas de Crédito Santander y Tarjeta de Crédito Santander Empresas.",
-        "Válido en tiendas y en www.kinegun.cl",
-        "No es acumulable con otras promociones.",
-        "CAE 1,53% Calculado por un monto referencial de compra de $1.000.000 en 36 cuotas. Costo total del Crédito: $1.023.760. Operación afecta a impuesto al crédito a cargo del cliente.",
-        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "iPhone for Life",
-      "categoria": "Cuotas Sin Interés",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "iPhone 17 Pro desde: $39.722 al mes por 36 meses",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Renueva. Ahorra. Repite.",
-        "Cambia tu iPhone cada 2 años y ahorra más del 30% del costo total de tu iPhone, entregando tu iPhone actual en óptimas condiciones en parte de pago en tiendas MacOnline. ¡Desde los 24 meses podrás volver a renovarlo!",
-        "Exclusivo pagando con tus Tarjetas de Crédito Santander LATAM Pass y Tarjeta de Crédito Santander Empresas.",
-        "Válido en www.maconline.com",
-        "CAE de 1,53%. Calculado por un monto referencial de compra de $1.000.000 en 36 cuotas. Costo total del Crédito: $1.023.760. Operación afecta a impuesto al crédito.",
-        "¿Cómo me inscribo al programa iPhone for Life?",
-        "Elige cualquier modelos de la familia iPhone 17 o el que quieras de la tienda MacOnline.",
-        "Inscríbete al Programa iPhone for Life.",
-        "Paga tu iPhone en 36 cuotas sin interés con Tarjetas de Crédito Santander.",
-        "Una vez facturada la cuota mensual 24 en tu estado de cuenta de tu Tarjeta Santander, accedes al período de recompra de tu iPhone usado en buen estado en las tiendas Maconline, el cual podrás entregar en pago de las cuotas mensuales pendientes.",
-        "Valores de modelos calculados a 36 cuotas mensuales.",
-        "iPhone 17: desde $27.778 al mes.",
-        "iPhone Air: desde $36.111 al mes.",
-        "iPhone 17 Pro: desde $39.722 al mes.",
-        "iPhone 17 Pro Max: desde $43.056 al mes.",
-        "Cuotas válidas hasta el 31 de diciembre de 2025. Para compras con Tarjetas de Crédito de Banco Santander durante el periodo de validez pagando con cualquier Tarjeta de Crédito Santander vigente. Promoción solo aplica para compras sujetas a programa iPhone for Life en compras realizadas en MacOnline, con Tarjeta de Crédito Santander, solo para la modalidad de 36 cuotas mensuales. Carga Anual Equivalente (CAE) DE 1,53% y monto total a pagar de $1.023.760, anunciados son ejemplares y corresponden a una compra de monto de $1.000.000 cursada en la modalidad de pago de 36 cuotas mensuales y considera impuestos. Términos y Condiciones del Programa iPhone for Life disponibles en www.maconline.com/landing/iphone-for-life. La oferta, venta, entrega de los servicios, calidad, la recompra del equipo usado y demás características del Programa iPhone for Life y los productos son de exclusiva responsabilidad de INNOVACION Y TECNOLOGIA EMPRESARIAL ITEM LIMITADA (“MacOnline”), sin ninguna injerencia o responsabilidad para Banco Santander Chile. Millas válidas desde el 25 de septiembre hasta el 05 de octubre de 2025. Bonificación de doble acumulación de Millas LATAM Pass (1 milla estructural + 1 milla adicional por dólar gastado) solo aplica para las compras realizadas en campaña. Acreditación de doble acumulación de Millas LATAM Pass, en caso de corresponder, se realizará en el mes siguiente de la compra. Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio; la administración del programa LATAM Pass es de exclusiva responsabilidad de LATAM Airlines Group S.A. sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Husqvarna",
-      "categoria": "Cuotas Sin Interés",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "12 a 24 cuotas sin interés",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Motos premium de alto rendimiento para pilotos de motocross, enduro y carretera.",
-        "Exclusivo con tus Tarjetas de Crédito Santander y Tarjeta de Crédito Santander Empresas.",
-        "Válido en tiendas y en www.husqvarna.com.",
-        "No acumulable a otras promociones.",
-        "CAE 1,51% Calculado por un monto referencial de compra de $1.000.000 en 24 cuotas. Costo total del Crédito: $1.015.840. Operación afecta a impuesto al crédito a cargo del cliente.",
-        "Direcciones:",
-        "- Av. Balmaceda 3825, La Serena. - Raúl Labbé 13664, Lo Barnechea. - Av. Vitacura 9482, Vitacura. - Av. Apoquindo 8263, Las Condes. - Ruta 5 Sur KM 407, Chillán Viejo. - Av. Caupolicán 1461. Temuco.",
-        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Heliboss",
-      "categoria": "Cuotas Sin Interés",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "7 a 12 cuotas sin interés",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Encuentra los mejores accesorios para tu Dron.",
-        "Exclusivo pagando con tus Tarjetas de Crédito Santander y Tarjeta de Crédito Santander Empresas.",
-        "Es válido en tiendas físicas y www.heliboss.cl",
-        "No es acumulable con otras promociones.",
-        "CAE 1,46% Calculado por un monto referencial de compra de $1.000.000 en 12 cuotas. Costo total del Crédito: $1.007.920. Operación afecta a impuesto al crédito a cargo del cliente.",
-        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto serán de exclusiva responsabilidad de los comercios adheridos a la promoción sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "GasGas",
-      "categoria": "Cuotas Sin Interés",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "12 a 24 cuotas sin interés",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Aventura y rendimiento a tu alcance.",
-        "Exclusivo con tus Tarjetas de Crédito Santander y Tarjeta de Crédito Santander Empresas.",
-        "Válido en tiendas y en www.gasgaschile.cl.",
-        "No acumulable a otras promociones.",
-        "CAE 1,51% Calculado por un monto referencial de compra de $1.000.000 en 24 cuotas. Costo total del Crédito: $1.015.840. Operación afecta a impuesto al crédito a cargo del cliente.",
-        "Direcciones:",
-        "- Av. Balmaceda 3825, La Serena. - Raúl Labbé 13664, Lo Barnechea. - Av. Vitacura 9482, Vitacura. - Av. Apoquindo 8263, Las Condes. - Ruta 5 Sur KM 407, Chillán Viejo. - Av. Caupolicán 1461, Temuco.",
-        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Entel",
-      "categoria": "Cuotas Sin Interés",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "13 a 24 cuotas sin interés",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Descubre ofertas en equipos, accesorios, planes móviles e internet fibra hogar. Recuerda que:",
-        "Exclusivo con tus Tarjetas de Crédito Santander y Tarjeta de Crédito Santander Empresas.",
-        "Válido en tiendas físicas y en entel.cl",
-        "No acumulable a otras promociones.",
-        "CAE 1,51% Calculado por un monto referencial de compra de $1.000.000 en 24 cuotas. Costo total del Crédito: $1.015.840. Operación afecta a impuesto al crédito a cargo del cliente.",
-        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Clínica Renacent",
-      "categoria": "Cuotas Sin Interés",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "6 a 12 y 24 cuotas sin interés",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Especialistas en Lipoescultura y Minilipo.",
-        "Exclusivo pagando con tus Tarjetas de Crédito Santander.",
-        "Es válido en tiendas físicas.",
-        "Alonso de Córdova 5870, oficina 803, Las Condes.",
-        "No es acumulable con otras promociones.",
-        "CAE 1,51% Calculado por un monto referencial de compra de $1.000.000 en 24 cuotas. Costo total del Crédito: $1.015.840. Operación afecta a impuesto al crédito a cargo del cliente.",
-        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Audiomúsica",
-      "categoria": "Cuotas Sin Interés",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "Hasta 24 cuotas sin interés",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "¡Encuentra ese instrumento musical que estabas buscando!",
-        "Exclusivo pagando con tus Tarjetas de Crédito Santander y Tarjeta de Crédito Santander Empresas.",
-        "Es válido en tiendas físicas.",
-        "No es acumulable con otras promociones.",
-        "CAE 1,51% Calculado por un monto referencial de compra de $1.000.000 en 24 cuotas. Costo total del Crédito: $1.015.840. Operación afecta a impuesto al crédito a cargo del cliente.",
-        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Ashley",
-      "categoria": "Cuotas Sin Interés",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "3 a 24 cuotas sin interés",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Renueva tu hogar u oficina con Ashley.",
-        "Exclusivo con tus Tarjetas de Crédito Santander y Tarjeta de Crédito Santander Empresas.",
-        "Válido en tiendas y www.ashley.cl",
-        "CAE 1,51% Calculado por un monto referencial de compra de $1.000.000 en 24 cuotas. Costo total del Crédito: $1.015.840. Operación afecta a impuesto al crédito a cargo del cliente.",
-        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl ​"
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Apple",
-      "categoria": "Cuotas Sin Interés",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "4 a 24 cuotas sin interés",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "¡Encuentra los mejores productos de Apple!",
-        "Exclusivo con tus Tarjetas de Crédito Santander y Tarjeta de Crédito Santander Empresas.",
-        "Válido en www.apple.com/cl/store.",
-        "No acumulable a otras promociones.",
-        "CAE 1,51% Calculado por un monto referencial de compra de $1.000.000 en 24 cuotas. Costo total del Crédito: $1.015.840. Operación afecta a impuesto al crédito a cargo del cliente.",
-        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Piscinería",
-      "categoria": "Cuotas Sin Interés",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "13 a 24 y 36 cuotas sin interés",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Vive la experiencia de tener un Robot limpia piscina",
-        "Exclusivo pagando con tus Tarjetas de Crédito Santander.",
-        "Es válido en tiendas físicas y en www.piscineria.com",
-        "No es acumulable con otras promociones.",
-        "CAE 1,53% Calculado por un monto referencial de compra de $1.000.000 en 36 cuotas. Costo total del Crédito: $1.023.760. Operación afecta a impuesto al crédito a cargo del cliente.",
-        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "HYLA",
-      "categoria": "Cuotas Sin Interés",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "19 a 36 cuotas sin interés",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Tecnología para la salud y limpieza.",
-        "Exclusivo con tus Tarjetas de Crédito Santander y Tarjeta de Crédito Santander Empresas.",
-        "Válido en tiendas y www.hylachileshop.cl",
-        "No acumulable a otras promociones.",
-        "CAE 1,53% Calculado por un monto referencial de compra de $1.000.000 en 36 cuotas. Costo total del Crédito: $1.023.760 . Operación afecta a impuesto al crédito a cargo del cliente.",
-        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Chile Lentes",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "3 a 12 cuotas sin interés y acumula 1 Milla LATAM Pass adicional",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Chile Lentes",
-        "Válido con Tarjetas de Crédito Santander LATAM Pass.",
-        "Válido en www.chilelentes.cl para compras a través de Webpay",
-        "No acumulable a descuentos y promociones vigentes. Incluye personalizados.",
-        "CAE 1,46% Calculado por un monto referencial de compra de $1.000.000 en 12 cuotas. Costo total del Crédito: $1.007.920. Operación afecta a impuesto al crédito a cargo del cliente.",
-        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Impulsa Solar",
-      "categoria": "Cuotas Sin Interés",
-      "descuento": null,
-      "dia": [
-        "Todos los días"
-      ],
-      "dia_texto": "3 a 48 cuotas sin interés todos los días y acumula 1 milla LATAM Pass adicional por dólar gastado",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "¡Equipa tu hogar con los mejores robots de cocina, licuadoras y más!",
-        "Exclusivo pagando con tus Tarjetas de Crédito Santander LATAM Pass.",
-        "Válido online",
-        "Acumula 1 milla LATAM Pass adicional por dólar gastado pagando con tus Tarjetas de Crédito Santander LATAM Pass",
-        "CAE 1,54% Calculado por un monto referencial de compra de $1.000.000 en 48 cuotas. Costo total del Crédito: $1.031.680. Operación afecta a impuesto al crédito a cargo del cliente.",
-        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "SOLARBOSCH",
-      "categoria": "Cuotas Sin Interés",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "3 a 48 cuotas sin interés y 1 Milla más por dólar gastado",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "SOLARBOSCH",
-        "Exclusivo pagando con tus Tarjetas de Crédito Santander.",
-        "Válido online",
-        "Acumula 1 milla LATAM Pass adicional por dólar gastado pagando con tus tarjetas de crédito Santander LATAM Pass",
-        "CAE 1,54% Calculado por un monto referencial de compra de $1.000.000 en 48 cuotas. Costo total del Crédito: $1.031.680. Operación afecta a impuesto al crédito a cargo del cliente.",
-        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Garmin",
-      "categoria": "Cuotas Sin Interés",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "3 a 12 cuotas sin interés y acumula 1 Milla LATAM Pass adicional",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Descubre lo mejor en relojes inteligentes especializados en Running, Trekking, Montañismo, Outdoor, etc.",
-        "Exclusivo pagando con tus Tarjetas de Crédito Santander y Tarjeta de Crédito Santander Empresas.",
-        "Válido en tiendas y https://garminstore.cl/collections/santander",
-        "10% dcto. válido en productos seleccionados.",
-        "Ingresa los 6 primeros dígitos de tu tarjeta como código de descuento.",
-        "Acumulación de 1 milla adicional válido en todas las compras y exclusivo pagando con tus Tarjetas de Crédito Santander LATAM Pass.",
-        "CAE 1,46% Calculado por un monto referencial de compra de $1.000.000 en 12 cuotas. Costo total del Crédito: $1.007.920. Operación afecta a impuesto al crédito a cargo del cliente.",
-        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. La bonificación de millas estructural se realizará según nivel y tarjeta de Crédito Santander LATAM Pass del cliente, más 1 milla adicional por dólar gastado por compras realizadas en campaña. Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio; la administración del programa LATAM Pass es de exclusiva responsabilidad de LATAM Airlines Group S.A. sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl. Conoce más sobre Santander Rewards y su reglamento en: https://banco.santander.cl/rewards."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Powermania",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "Paga de 3 a 48 cuotas sin interés y acumula 1 Milla LATAM Pass adicional",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "El poder es tuyo",
-        "Exclusivo pagando con tus Tarjetas de Crédito Santander LATAM Pass.",
-        "Válido en www.powermania.cl y www.airemania.cl",
-        "Exclusivo para compras a través de Webpay.",
-        "No acumulable con otras promociones.",
-        "CAE 1,54% y Monto Total a pagar de $1.031.680, anunciados son ejemplares y corresponden a compra de monto de $1.000.000 cursada en modalidad de pago de 48 cuotas mensuales, y consideran impuestos.",
-        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. La bonificación de millas estructural se realizará según nivel y tarjeta de Crédito Santander LATAM Pass del cliente, más 1 milla adicional por dólar gastado por compras realizadas en campaña. Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio; la administración del programa LATAM Pass es de exclusiva responsabilidad de LATAM Airlines Group S.A. sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl. Conoce más sobre Santander Rewards y su reglamento en: https://banco.santander.cl/rewards."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Thomas",
-      "categoria": "Cuotas Sin Interés",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "3 a 36 cuotas sin interés y acumula 1 Milla LATAM Pass adicional ",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Exclusivo con tus Tarjeta de Crédito y Tarjetas de Crédito Santander Empresas.",
-        "Válido online en www.thomas.cl",
-        "Acumulación de 1 milla adicional válido en todas las compras y exclusivo pagando con tus Tarjetas de Crédito Santander LATAM Pass.",
-        "CAE 1,53% Calculado por un monto referencial de compra de $1.000.000 en 36 cuotas. Costo total del Crédito: $1.023.760. Operación afecta a impuesto al crédito a cargo del cliente.",
-        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. La bonificación de millas estructural se realizará según nivel y tarjeta de Crédito Santander LATAM Pass del cliente, más 1 milla adicional por dólar gastado por compras realizadas en campaña. Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio; la administración del programa LATAM Pass es de exclusiva responsabilidad de LATAM Airlines Group S.A. sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl. Conoce más sobre Santander Rewards y su reglamento en: https://banco.santander.cl/rewards."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Nikon",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "Acumula 1 Milla LATAM Pass adicional",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "¡Captura increíbles momentos junto a Nikon!",
-        "Exclusivo pagando con tus Tarjetas de Crédito Santander LATAM Pass.",
-        "Es válido en www.nikoncenter.cl",
-        "No es acumulable con otras promociones.",
-        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. La bonificación de millas estructural se realizará según nivel y tarjeta de Crédito Santander LATAM Pass del cliente, más 1 milla adicional por dólar gastado por compras realizadas en campaña. Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio; la administración del programa LATAM Pass es de exclusiva responsabilidad de LATAM Airlines Group S.A. sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl. Conoce más sobre Santander Rewards y su reglamento en: https://banco.santander.cl/rewards."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Lhotse",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "Acumula 1 Milla LATAM Pass adicional",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "¡Equípate para tus aventuras veraniegas! Smartwatch, audífonos, cámaras y más.",
-        "Exclusivo pagando con tus Tarjetas de Crédito Santander LATAM Pass.",
-        "Válido en www.lhotsestore.cl",
-        "No acumulable con otras promociones.",
-        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. La bonificación de millas estructural se realizará según nivel y tarjeta de Crédito Santander LATAM Pass del cliente, más 1 milla adicional por dólar gastado por compras realizadas en campaña. Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio; la administración del programa LATAM Pass es de exclusiva responsabilidad de LATAM Airlines Group S.A. sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl. Conoce más sobre Santander Rewards y su reglamento en: https://banco.santander.cl/rewards."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "UnionX",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "Acumula 1 Milla LATAM Pass adicional",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "¡Lleva contigo el verano comprando tus productos favoritos en UnionX!",
-        "Exclusivo pagando con tus Tarjetas de Crédito Santander LATAM Pass.",
-        "Válido en www.unionx.cl",
-        "No acumulable con otras promociones.",
-        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. La bonificación de millas estructural se realizará según nivel y tarjeta de Crédito Santander LATAM Pass del cliente, más 1 milla adicional por dólar gastado por compras realizadas en campaña. Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio; la administración del programa LATAM Pass es de exclusiva responsabilidad de LATAM Airlines Group S.A. sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl. Conoce más sobre Santander Rewards y su reglamento en: https://banco.santander.cl/rewards."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Simplit",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "Acumula 1 Milla LATAM Pass adicional",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Todos los artículos, accesorios y utensilios que necesitas para equipar tu cocina. Despachos a todo Chile.",
-        "Exclusivo pagando con tus Tarjetas de Crédito Santander LATAM Pass.",
-        "Válido en www.simplithome.cl",
-        "No acumulable con otras promociones.",
-        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. La bonificación de millas estructural se realizará según nivel y tarjeta de Crédito Santander LATAM Pass del cliente, más 1 milla adicional por dólar gastado por compras realizadas en campaña. Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio; la administración del programa LATAM Pass es de exclusiva responsabilidad de LATAM Airlines Group S.A. sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl. Conoce más sobre Santander Rewards y su reglamento en: https://banco.santander.cl/rewards."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Saxoline",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": "20% dcto.",
-      "dia": [
-        "Miércoles"
-      ],
-      "dia_texto": "todos los miércoles, acumula 1 milla LATAM Pass adicional",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "¡Compra tu equipaje y accesorios favoritos!",
-        "Exclusivo con tus Tarjetas de Crédito y Débito Santander.",
-        "Válido en www.saxoline.cl",
-        "Acumulación de millas exclusivo con tus Tarjetas de Crédito Santander LATAM Pass.",
-        "Ingresar los 6 primeros dígitos de tu tarjeta como código de descuento.",
-        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. La bonificación de millas estructural se realizará según nivel y tarjeta de Crédito Santander LATAM Pass del cliente, más 1 milla adicional por dólar gastado por compras realizadas en campaña. Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio; la administración del programa LATAM Pass es de exclusiva responsabilidad de LATAM Airlines Group S.A. sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl. Conoce más sobre Santander Rewards y su reglamento en: https://banco.santander.cl/rewards."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Sound Advisors",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "Acumula 2 Millas LATAM Pass adicionales",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "¡Compra tu sistema de audio HiFi favoritos en Sound Advisors!",
-        "Exclusivo pagando con tus Tarjetas de Crédito Santander LATAM Pass.",
-        "Válido en www.soundadvisors.cl.",
-        "No acumulable con otras promociones.",
-        "Ingresa los 6 primeros dígitos de tu Tarjeta como código de descuento.",
-        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. La bonificación de millas estructural se realizará según nivel y tarjeta de Crédito Santander LATAM Pass del cliente, más 2 millas adicionales por dólar gastado por compras realizadas en campaña. Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio; la administración del programa LATAM Pass es de exclusiva responsabilidad de LATAM Airlines Group S.A. sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl. Conoce más sobre Santander Rewards y su reglamento en: https://banco.santander.cl/rewards."
       ],
       "sucursales": []
     },
