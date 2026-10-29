@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-28T16:52",
+  "actualizado": "2026-10-29T17:11",
   "beneficios": [
     {
       "banco": "Banco de Chile",
@@ -68,34 +68,6 @@
       ],
       "sucursales": [
         "4 Poniente 630, esquina 7 Norte, Región de Valparaíso, Viña del Mar"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Chili's",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Martes"
-      ],
-      "dia_texto": "martes de octubre",
-      "canal": null,
-      "vigencia": "Promoción válida del 01 al 31 de octubre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial 40% dto. martes de octubre",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dto. $50.000 por mesa"
-      ],
-      "sucursales": [
-        "Los Domínicos, Avenida Padre Hurtado Sur #785, Región Metropolitana, Las Condes",
-        "Alto Las Condes, Avenida Kennedy #9001 local 3207, Región Metropolitana, Las Condes",
-        "Parque Arauco, Avenida Kennedy #5413 local 461, Región Metropolitana, Las Condes",
-        "Costanera, Andrés Bello #2447 local 5128, Región Metropolitana, Providencia",
-        "Arauco Maipú, Avenida Américo Vespucio #399, Región Metropolitana, Maipú",
-        "Isidora, Isidora Goyenechea #2940, Región Metropolitana, Las Condes"
       ]
     },
     {
@@ -194,31 +166,6 @@
       ],
       "sucursales": [
         "Ruta V-155, Km 2, Camino a Los Bajos, Región de Los Lagos, Frutillar"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "PF CHANGS",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Miércoles"
-      ],
-      "dia_texto": "miércoles de octubre",
-      "canal": null,
-      "vigencia": "Promoción válida del 01 al 31 de octubre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial 40% dto. miércoles de octubre",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dto. $50.000 por mesa"
-      ],
-      "sucursales": [
-        "Parque Arauco, Avenida Presidente Kennedy #5413, Región Metropolitana, Las Condes",
-        "Isidora Goyenechea #2940, Región Metropolitana, Las Condes",
-        "Alto las Condes, Avenida Presidente Kennedy #9001, Región Metropolitana, Las Condes"
       ]
     },
     {
@@ -13887,6 +13834,29 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "Sicily",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Miércoles"
+      ],
+      "dia_texto": "miércoles de noviembre",
+      "canal": null,
+      "vigencia": "Promoción válida del 01 al 30 de noviembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. miércoles de noviembre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Alonso de Córdova #4226, Región Metropolitana, Vitacura"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "DESI AVOCCO",
       "categoria": "Retail y Otras Marcas",
       "descuento": "30% dto.",
@@ -18692,31 +18662,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Peluquería Francesa",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Lunes",
-        "Martes",
-        "Miércoles"
-      ],
-      "dia_texto": "lunes a miércoles de octubre",
-      "canal": null,
-      "vigencia": "Promoción válida del 01 al 31 de octubre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial 40% dto. lunes a miércoles de octubre.",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dto. $50.000 por mesa"
-      ],
-      "sucursales": [
-        "Compañía de Jesús #2789, RM, Santiago, Teléfono: +56977989743"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "Rishtedar",
       "categoria": "Sabores",
       "descuento": "40% dto.",
@@ -18817,29 +18762,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Wayna Cevicheria by Kechua",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Miércoles"
-      ],
-      "dia_texto": "miércoles de octubre",
-      "canal": null,
-      "vigencia": "Promoción válida del 01 al 31 de octubre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial. 40% dto. miércoles de octubre.",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dcto. $50.000 por mesa"
-      ],
-      "sucursales": [
-        "Sta. Inés 1513, 1515 - 1517, Región Metropolitana, La Florida"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "CuracaRibs",
       "categoria": "Sabores",
       "descuento": "40% dto.",
@@ -18882,52 +18804,6 @@
       ],
       "sucursales": [
         "Avenida Argentina #255, Región de Ñuble, Chillán"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "YADO BY ASIA",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Martes"
-      ],
-      "dia_texto": "martes de octubre",
-      "canal": null,
-      "vigencia": "Promoción válida del 01 al 31 de octubre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial 40% dto. martes de octubre.",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dto. $50.000 por mesa"
-      ],
-      "sucursales": [
-        "Tomas Bonilla #815, Región de Tarapacá, Iquique"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Augusta",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Lunes"
-      ],
-      "dia_texto": "lunes de octubre",
-      "canal": null,
-      "vigencia": "Promoción válida del 01 al 31 de octubre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial 40% dto. lunes de octubre.",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dcto. $50.000 por mesa"
-      ],
-      "sucursales": [
-        "Paso Hondo #209, Región del Bío Bío, Concepción"
       ]
     },
     {
@@ -18979,29 +18855,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Greta",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Sábado"
-      ],
-      "dia_texto": "sábados de octubre",
-      "canal": null,
-      "vigencia": "Promoción válida del 01 al 31 de octubre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial 40% dto. sábados de octubre.",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dto. $50.000 por mesa"
-      ],
-      "sucursales": [
-        "2 Nte. 3815, Región del Maule, Talca"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "La Joya Cantina",
       "categoria": "Sabores",
       "descuento": "40% dto.",
@@ -19021,52 +18874,6 @@
       ],
       "sucursales": [
         "EUSEBIO LILLO #200, Región de Valparaíso, Valparaíso"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Pistacho",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Domingo"
-      ],
-      "dia_texto": "domingos de octubre",
-      "canal": null,
-      "vigencia": "Promoción válida del 01 al 31 de octubre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial 40% dto. domingos de octubre",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope $50.000 de dto"
-      ],
-      "sucursales": [
-        "Strip Center Portal Las Quemas local 15 y 16, Osorno, Los Lagos"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Greed Taproom",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Martes"
-      ],
-      "dia_texto": "martes de octubre",
-      "canal": null,
-      "vigencia": "Promoción válida del 01 al 31 de octubre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial 40% dto. martes de octubre.",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dto. $50.000 por mesa"
-      ],
-      "sucursales": [
-        "Ignacio Zenteno #2661, Región de Los Lagos, Osorno"
       ]
     },
     {
@@ -19121,27 +18928,76 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Dominga Bistró",
+      "comercio": "Shell",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "$7.000 de dto.",
+      "dia": [],
+      "dia_texto": "en La Barra al pagar con la Nueva  App Shell",
+      "canal": null,
+      "vigencia": "Promoción válida hasta el 22 de noviembre de 2026.",
+      "condiciones": [
+        "$7.000 de dto. en La Barra al comprar combustible, productos en tiendas upa! u otros servicios de Shell con tu Tarjeta del Chile a través de la Nueva App Shell.",
+        "Cupón válido para compras desde $30.000 en labarra.cl",
+        "Recibirás tu cupón por correo electrónico dentro de los 7 días hábiles posteriores a tu compra en Shell.",
+        "Un cupón valido por semana.",
+        "1. Descarga la Nueva App Shell en tu teléfono móvil.",
+        "2. Regístrate con el código que recibirás por correo y crea tu clave. Si no llega el correo, revisa la carpeta de spam.",
+        "3. Enrola tu Tarjeta Banco Edwards en la sección Billetera de la Nueva App Shell.",
+        "4. Solicita al atendedor pagar con la Nueva App Shell y selecciona tu Tarjeta del Chile al momento del pago."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Jimmy John´s",
       "categoria": "Sabores",
-      "descuento": "40% dto.",
+      "descuento": "30% dto.",
       "dia": [
+        "Lunes",
         "Domingo"
       ],
-      "dia_texto": "domingos de octubre",
-      "canal": null,
-      "vigencia": "Promoción válida del 01 al 31 de octubre de 2026.",
+      "dia_texto": "lunes y domingo",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
       "condiciones": [
-        "Válido para consumo presencial 40% dto. domingos de octubre.",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "Jimmy John´s ofrece sándwiches gourmet preparados con pan horneado cada día en el local, carnes recién cortadas y vegetales frescos. Una propuesta rápida, fresca y llena de sabor para disfrutar en cada visita.",
+        "30% dto. lunes y domingo en compras presenciales.",
+        "Solicita tu descuento al momento de pagar.",
+        "No válido para productos embotellados.",
         "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dto. $50.000 por mesa",
-        "Exclusivo Valdivia."
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
       ],
       "sucursales": [
-        "Filomena Valenzuela #221, Región de Tarapacá, Iquique",
-        "Avenida Benjamín Viel S/N, Región de Los Ríos, Valdivia"
+        "Av. Apoquindo #6087, local 4, Región Metropolitana, Las Condes",
+        "Av. Pdte. Kennedy #5413, Región Metropolitana, Las Condes"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Heladerías Savory",
+      "categoria": "Sabores",
+      "descuento": "30% dto.",
+      "dia": [
+        "Lunes",
+        "Martes"
+      ],
+      "dia_texto": "lunes y martes",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 31 de julio del 2027.",
+      "condiciones": [
+        "Savory ofrece una amplia variedad de helados, sabores y formatos para todos los gustos. Desde opciones individuales hasta alternativas para compartir, sus productos invitan a disfrutar en familia o con amigos.",
+        "30% dto. lunes y martes en compras presenciales.",
+        "Solicita tu descuento al momento de pagar.",
+        "No válido para productos embotellados.",
+        "No acumulable con otras promociones.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Juan Soler Manfredini #131, Local 420, Región de Los Lagos, Puerto Montt",
+        "Av. Los Pablos #1880, Local 18, Región de La Araucanía, Temuco",
+        "Calle Serrano #935, Local N°2, Región Metropolitana, Melipilla",
+        "Av. Libertador Bernardo O´Higgins #5091, Local 07, Región Metropolitana, Santiago",
+        "Av. Los Pajaritos #1790, Local 3020, Región Metropolitana, Maipú"
       ]
     },
     {
@@ -20773,31 +20629,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Capri",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Martes",
-        "Miércoles"
-      ],
-      "dia_texto": "martes y miércoles de octubre",
-      "canal": null,
-      "vigencia": "Promoción válida del 01 al 31 de octubre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial 40% dto. martes y miércoles de octubre.",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dto. $50.000 por mesa"
-      ],
-      "sucursales": [
-        "Gerónimo de Alderete 1423, Región Metropolitana, Vitacura",
-        "El Rodeo #13052, Región Metropolitana, Lo Barnechea"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "Oh My Pizza",
       "categoria": "Sabores",
       "descuento": "40% dto.",
@@ -20962,29 +20793,6 @@
       ],
       "sucursales": [
         "Ramón Freire #1105, Edificio Plaza Allegra, Región de los lagos, Puerto Varas"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Basking by Aurea",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Miércoles"
-      ],
-      "dia_texto": "miércoles de octubre",
-      "canal": null,
-      "vigencia": "Promoción válida del 01 al 31 de octubre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial 40% dto. miércoles de octubre.",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dto. $50.000 por mesa"
-      ],
-      "sucursales": [
-        "El Manantial #1781, Región Metropolitana, Vitacura, +569 35341318"
       ]
     },
     {
@@ -21619,6 +21427,34 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "Chili's",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Martes"
+      ],
+      "dia_texto": "martes de noviembre",
+      "canal": null,
+      "vigencia": "Promoción válida del 01 al 30 de noviembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. martes de noviembre",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Los Domínicos, Avenida Padre Hurtado Sur #785, Región Metropolitana, Las Condes",
+        "Alto Las Condes, Avenida Kennedy #9001 local 3207, Región Metropolitana, Las Condes",
+        "Parque Arauco, Avenida Kennedy #5413 local 461, Región Metropolitana, Las Condes",
+        "Costanera, Andrés Bello #2447 local 5128, Región Metropolitana, Providencia",
+        "Arauco Maipú, Avenida Américo Vespucio #399, Región Metropolitana, Maipú",
+        "Isidora, Isidora Goyenechea #2940, Región Metropolitana, Las Condes"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "Majestic",
       "categoria": "Sabores",
       "descuento": "40% dto.",
@@ -21809,6 +21645,77 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "PF CHANGS",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Miércoles"
+      ],
+      "dia_texto": "miércoles de noviembre",
+      "canal": null,
+      "vigencia": "Promoción válida del 01 al 30 de noviembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. miércoles de noviembre",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Parque Arauco, Avenida Presidente Kennedy #5413, Región Metropolitana, Las Condes",
+        "Isidora Goyenechea #2940, Región Metropolitana, Las Condes",
+        "Alto las Condes, Avenida Presidente Kennedy #9001, Región Metropolitana, Las Condes"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Augusta",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Lunes"
+      ],
+      "dia_texto": "lunes de noviembre",
+      "canal": null,
+      "vigencia": "Promoción válida del 01 al 30 de noviembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. lunes de noviembre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dcto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Paso Hondo #209, Región del Bío Bío, Concepción"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "YADO BY ASIA",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Martes"
+      ],
+      "dia_texto": "martes de noviembre",
+      "canal": null,
+      "vigencia": "Promoción válida del 01 al 30 de noviembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. martes de noviembre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Tomas Bonilla #815, Región de Tarapacá, Iquique"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "Abrasas",
       "categoria": "Sabores",
       "descuento": "40% dto.",
@@ -21828,29 +21735,6 @@
       ],
       "sucursales": [
         "Pdte. Federico Errázuriz #952, Región de Magallanes y de la Antártica Chilena, Punta Arenas"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Mosto",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Martes"
-      ],
-      "dia_texto": "martes de octubre",
-      "canal": null,
-      "vigencia": "Promoción válida del 01 al 31 de octubre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial 40% dto. martes de octubre.",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dto. $50.000 por mesa"
-      ],
-      "sucursales": [
-        "Diego Portales #204, Región de los Lagos, Puerto Varas"
       ]
     },
     {
@@ -21878,30 +21762,30 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Tololo Beach",
+      "comercio": "Greta",
       "categoria": "Sabores",
       "descuento": "40% dto.",
       "dia": [
-        "Martes"
+        "Sábado"
       ],
-      "dia_texto": "martes de octubre",
+      "dia_texto": "sábados de noviembre",
       "canal": null,
-      "vigencia": "Promoción válida del 01 al 31 de octubre de 2026.",
+      "vigencia": "Promoción válida del 01 al 30 de noviembre de 2026.",
       "condiciones": [
-        "Válido para consumo presencial 40% dto. martes de octubre.",
+        "Válido para consumo presencial 40% dto. sábados de noviembre.",
         "Solicita el descuento al momento de pagar en el restaurant.",
         "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
         "No acumulable con otras promociones.",
         "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope $50.000 de dto"
+        "Tope dto. $50.000 por mesa"
       ],
       "sucursales": [
-        "Av. del Mar #5200, La Serena, Coquimbo"
+        "2 Nte. 3815, Región del Maule, Talca"
       ]
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Tololo Beef",
+      "comercio": "Greed Taproom",
       "categoria": "Sabores",
       "descuento": "40% dto.",
       "dia": [
@@ -21909,9 +21793,57 @@
       ],
       "dia_texto": "martes de octubre",
       "canal": null,
-      "vigencia": "Promoción válida del 01 al 31 de octubre de 2026.",
+      "vigencia": "Promoción válida del 01 al 30 de noviembre de 2026.",
       "condiciones": [
         "Válido para consumo presencial 40% dto. martes de octubre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Ignacio Zenteno #2661, Región de Los Lagos, Osorno"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Dominga Bistró",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Domingo"
+      ],
+      "dia_texto": "domingos de noviembre",
+      "canal": null,
+      "vigencia": "Promoción válida del 01 al 30 de noviembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. domingos de noviembre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dto. $50.000 por mesa",
+        "Exclusivo Valdivia."
+      ],
+      "sucursales": [
+        "Filomena Valenzuela #221, Región de Tarapacá, Iquique",
+        "Avenida Benjamín Viel S/N, Región de Los Ríos, Valdivia"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Pistacho",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Jueves"
+      ],
+      "dia_texto": "jueves de noviembre",
+      "canal": null,
+      "vigencia": "Promoción válida del 01 al 30 de noviembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. jueves de noviembre.",
         "Solicita el descuento al momento de pagar en el restaurant.",
         "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
         "No acumulable con otras promociones.",
@@ -21919,7 +21851,7 @@
         "Tope $50.000 de dto"
       ],
       "sucursales": [
-        "Av. Costanera #5425, La Serena, Coquimbo"
+        "Strip Center Portal Las Quemas local 15 y 16, Osorno, Los Lagos"
       ]
     },
     {
@@ -22556,19 +22488,18 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Boga",
+      "comercio": "Capri",
       "categoria": "Sabores",
       "descuento": "40% dto.",
       "dia": [
-        "Lunes",
         "Martes",
         "Miércoles"
       ],
-      "dia_texto": "lunes a miércoles de octubre",
+      "dia_texto": "martes y miércoles de noviembre",
       "canal": null,
-      "vigencia": "Promoción válida del 01 al 31 de octubre de 2026.",
+      "vigencia": "Promoción válida del 01 al 30 de noviembre de 2026.",
       "condiciones": [
-        "Válido para consumo presencial 40% dto. lunes a miércoles de octubre.",
+        "Válido para consumo presencial 40% dto. martes y miércoles de noviembre.",
         "Solicita el descuento al momento de pagar en el restaurant.",
         "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
         "No acumulable con otras promociones.",
@@ -22576,80 +22507,8 @@
         "Tope dto. $50.000 por mesa"
       ],
       "sucursales": [
-        "Avenida Presidente Kennedy Lateral #9001, Alto las Condes local 3236, Región Metropolitana, Las Condes"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Ari Nikkei",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Lunes",
-        "Miércoles"
-      ],
-      "dia_texto": "lunes y miércoles de octubre",
-      "canal": null,
-      "vigencia": "Promoción válida del 01 al 31 de octubre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial 40% dto. lunes y miércoles de octubre.",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dcto. $50.000 por mesa"
-      ],
-      "sucursales": [
-        "Cam. El Alba 11969, Región Metropolitana, Las Condes",
-        "Av. José Alcalde Délano 10492, Región Metropolitana, Lo Barnechea"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "La Birrería",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Miércoles",
-        "Sábado"
-      ],
-      "dia_texto": "miércoles y sábado de octubre",
-      "canal": null,
-      "vigencia": "Promoción válida del 01 al 31 de octubre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial 40% dto. miércoles y sábado de octubre.",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dcto. $50.000 por mesa"
-      ],
-      "sucursales": [
-        "Av. Pedro Fontova 7280, Local 106-107, Región Metropolitana, Huechuraba"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Majka Bistro",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Miércoles",
-        "Sábado"
-      ],
-      "dia_texto": "miércoles y sábado de octubre",
-      "canal": null,
-      "vigencia": "Promoción válida del 01 al 31 de octubre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial 40% dto. miércoles y sábado de octubre.",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dto. $50.000 por mesa"
-      ],
-      "sucursales": [
-        "Av. Príncipe de Gales #7102, Región Metropolitana, La Reina"
+        "Gerónimo de Alderete 1423, Región Metropolitana, Vitacura",
+        "El Rodeo #13052, Región Metropolitana, Lo Barnechea"
       ]
     },
     {
@@ -22680,6 +22539,31 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "Peluquería Francesa",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Lunes",
+        "Martes",
+        "Miércoles"
+      ],
+      "dia_texto": "lunes a miércoles de noviembre",
+      "canal": null,
+      "vigencia": "Promoción válida del 01 al 30 de noviembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. lunes a miércoles de noviembre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Compañía de Jesús #2789, RM, Santiago, Teléfono: +56977989743"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "Verde Sazón",
       "categoria": "Sabores",
       "descuento": "40% dto.",
@@ -22699,30 +22583,6 @@
       ],
       "sucursales": [
         "Miguel Claro 1873, Región Metropolitana, Providencia"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "La Cocina de Javier",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Martes",
-        "Miércoles"
-      ],
-      "dia_texto": "martes y miércoles de octubre",
-      "canal": null,
-      "vigencia": "Promoción válida del 01 al 31 de octubre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial 40% dto. martes y miércoles de octubre.",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dto. $50.000 por mesa"
-      ],
-      "sucursales": [
-        "VITACURA #7482, Región Metropolitana, VITACURA"
       ]
     },
     {
@@ -22751,41 +22611,40 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Kechua",
+      "comercio": "Basking by Aurea",
       "categoria": "Sabores",
       "descuento": "40% dto.",
       "dia": [
-        "Miércoles"
+        "Jueves"
       ],
-      "dia_texto": "miércoles de octubre",
+      "dia_texto": "jueves de noviembre",
       "canal": null,
-      "vigencia": "Promoción válida del 01 al 31 de octubre de 2026.",
+      "vigencia": "Promoción válida del 01 al 30 de noviembre de 2026.",
       "condiciones": [
-        "Válido para consumo presencial. 40% dto. miércoles de octubre.",
+        "Válido para consumo presencial 40% dto. jueves de noviembre.",
         "Solicita el descuento al momento de pagar en el restaurant.",
         "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
         "No acumulable con otras promociones.",
         "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dcto. $50.000 por mesa"
+        "Tope dto. $50.000 por mesa"
       ],
       "sucursales": [
-        "Av San Josemaría Escrivá de Balaguer #6400, BordeRío, Región Metropolitana, Vitacura",
-        "Alcaldesa Balbina Vera #3561, Región Metropolitana, Ñuñoa"
+        "El Manantial #1781, Región Metropolitana, Vitacura, +569 35341318"
       ]
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Güeros - Ñuñoa",
+      "comercio": "Wayna Cevicheria by Kechua",
       "categoria": "Sabores",
       "descuento": "40% dto.",
       "dia": [
         "Miércoles"
       ],
-      "dia_texto": "miércoles de octubre",
+      "dia_texto": "miércoles de noviembre",
       "canal": null,
-      "vigencia": "Promoción válida del 01 al 31 de octubre de 2026.",
+      "vigencia": "Promoción válida del 01 al 30 de noviembre de 2026.",
       "condiciones": [
-        "Válido para consumo presencial. 40% dto. miércoles de octubre.",
+        "Válido para consumo presencial. 40% dto. miércoles de noviembre.",
         "Solicita el descuento al momento de pagar en el restaurant.",
         "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
         "No acumulable con otras promociones.",
@@ -22793,7 +22652,7 @@
         "Tope dcto. $50.000 por mesa"
       ],
       "sucursales": [
-        "Av. Alcaldesa Balbina Vera 3561, Local 116, Región Metropolitana, Ñuñoa"
+        "Sta. Inés 1513, 1515 - 1517, Región Metropolitana, La Florida"
       ]
     },
     {
@@ -23005,6 +22864,30 @@
       ],
       "sucursales": [
         "Príncipe de Gales #6560, Región Metropolitana, La Reina"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "La Cocina de Javier",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Martes",
+        "Miércoles"
+      ],
+      "dia_texto": "martes y miércoles de noviembre",
+      "canal": null,
+      "vigencia": "Promoción válida del 01 al 30 de noviembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. martes y miércoles de noviembre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "VITACURA #7482, Región Metropolitana, VITACURA"
       ]
     },
     {
@@ -23250,11 +23133,11 @@
       "dia": [
         "Miércoles"
       ],
-      "dia_texto": "miércoles de octubre",
+      "dia_texto": "miércoles de noviembre",
       "canal": null,
-      "vigencia": "Promoción válida del 01 al 31 de octubre de 2026.",
+      "vigencia": "Promoción válida del 01 al 30 de noviembre de 2026.",
       "condiciones": [
-        "Válido para consumo presencial. 40% dto. miércoles de octubre.",
+        "Válido para consumo presencial. 40% dto. miércoles de noviembre.",
         "Solicita el descuento al momento de pagar en el restaurant.",
         "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
         "No acumulable con otras promociones.",
@@ -23307,17 +23190,161 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "Majka Bistro",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Miércoles",
+        "Sábado"
+      ],
+      "dia_texto": "miércoles y sábado de noviembre",
+      "canal": null,
+      "vigencia": "Promoción válida del 01 al 30 de noviembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. miércoles y sábado de noviembre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Av. Príncipe de Gales #7102, Región Metropolitana, La Reina"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "La Birrería",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Miércoles",
+        "Sábado"
+      ],
+      "dia_texto": "miércoles y sábado de noviembre",
+      "canal": null,
+      "vigencia": "Promoción válida del 01 al 30 de noviembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. miércoles y sábado de noviembre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dcto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Av. Pedro Fontova 7280, Local 106-107, Región Metropolitana, Huechuraba"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Ari Nikkei",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Lunes",
+        "Miércoles"
+      ],
+      "dia_texto": "lunes y miércoles de noviembre",
+      "canal": null,
+      "vigencia": "Promoción válida del 01 al 30 de noviembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. lunes y miércoles de noviembre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dcto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Cam. El Alba 11969, Región Metropolitana, Las Condes",
+        "Av. José Alcalde Délano 10492, Región Metropolitana, Lo Barnechea"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Boga",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Lunes",
+        "Martes",
+        "Miércoles"
+      ],
+      "dia_texto": "lunes a miércoles de noviembre",
+      "canal": null,
+      "vigencia": "Promoción válida del 01 al 30 de noviembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. lunes a miércoles de noviembre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Avenida Presidente Kennedy Lateral #9001, Alto las Condes local 3236, Región Metropolitana, Las Condes"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Tololo Beef",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Martes"
+      ],
+      "dia_texto": "martes de noviembre",
+      "canal": null,
+      "vigencia": "Promoción válida del 01 al 30 de noviembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. martes de noviembre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope $50.000 de dto"
+      ],
+      "sucursales": [
+        "Av. Costanera #5425, La Serena, Coquimbo"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Tololo Beach",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Martes"
+      ],
+      "dia_texto": "martes de noviembre",
+      "canal": null,
+      "vigencia": "Promoción válida del 01 al 30 de noviembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. martes de noviembre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope $50.000 de dto"
+      ],
+      "sucursales": [
+        "Av. del Mar #5200, La Serena, Coquimbo"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "Jardín Ulriksen",
       "categoria": "Sabores",
       "descuento": "40% dto",
       "dia": [
         "Lunes"
       ],
-      "dia_texto": "lunes de octubre",
+      "dia_texto": "lunes de noviembre",
       "canal": null,
-      "vigencia": "Promoción válida del 01 al 31 de octubre de 2026.",
+      "vigencia": "Promoción válida del 01 al 30 de noviembre de 2026.",
       "condiciones": [
-        "Válido para consumo presencial. 40% dto. lunes de octubre.",
+        "Válido para consumo presencial. 40% dto. lunes de noviembre.",
         "Solicita el descuento al momento de pagar en el restaurant.",
         "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
         "No acumulable con otras promociones.",
@@ -23349,6 +23376,29 @@
       ],
       "sucursales": [
         "Las Encinas #191, Región de los Ríos, Valdivia"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Mosto",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Martes"
+      ],
+      "dia_texto": "martes de noviembre",
+      "canal": null,
+      "vigencia": "Promoción válida del 01 al 30 de noviembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. martes de noviembre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Diego Portales #204, Región de los Lagos, Puerto Varas"
       ]
     },
     {
@@ -24289,6 +24339,30 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "Kechua",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Miércoles"
+      ],
+      "dia_texto": "miércoles de noviembre",
+      "canal": null,
+      "vigencia": "Promoción válida del 01 al 30 de noviembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial. 40% dto. miércoles de noviembre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dcto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Av San Josemaría Escrivá de Balaguer #6400, BordeRío, Región Metropolitana, Vitacura",
+        "Alcaldesa Balbina Vera #3561, Región Metropolitana, Ñuñoa"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "Adidas",
       "categoria": "Retail y Otras Marcas",
       "descuento": "30% dto. adicional",
@@ -24472,6 +24546,29 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "Güeros - Ñuñoa",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Miércoles"
+      ],
+      "dia_texto": "miércoles de noviembre",
+      "canal": null,
+      "vigencia": "Promoción válida del 01 al 31 de octubre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial. 40% dto. miércoles de noviembre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dcto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Av. Alcaldesa Balbina Vera 3561, Local 116, Región Metropolitana, Ñuñoa"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "Skechers",
       "categoria": "Entretención y Deportes",
       "descuento": "40% dto.",
@@ -24632,6 +24729,1108 @@
         "Descuento no acumulable en el costo de envío.",
         "No acumulable con otros cupones de descuento.",
         "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Barrica 94",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Miércoles"
+      ],
+      "dia_texto": "miércoles de noviembre",
+      "canal": null,
+      "vigencia": "Promoción válida del 01 al 30 de noviembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. miércoles de noviembre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Av. José Alcalde Délano #10533, local 1508, Región Metropolitana, Lo Barnechea"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Clínica DentiLike",
+      "categoria": "Salud y Belleza",
+      "descuento": "20% dto.",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 31 de octubre de 2027.",
+      "condiciones": [
+        "Clínica Dentilike, presente en Puerto Montt y Osorno, ofrece atención odontológica integral, cercana y personalizada para transformar sonrisas y mejorar la calidad de vida de sus pacientes. Su compromiso se basa en la confianza, el bienestar y el cuidado de cada sonrisa. ¡Contáctalos y da el primer paso hacia la sonrisa que deseas!",
+        "20% dto. todos los días en compra presencial.",
+        "Beneficio válido para todos los procedimientos.",
+        "Solicita tu descuento al momento de pagar.",
+        "No acumulable con otras promociones.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Calle Antonio Varas #216, Oficina #805, Región de Los Lagos, Puerto Montt",
+        "Calle Francisco Bilbao #1129, Oficina #1301, Región de Los Lagos, Osorno"
+      ]
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Barrica 94",
+      "categoria": "Sabores",
+      "descuento": "40% dcto.",
+      "dia": [],
+      "dia_texto": "todos los viermes",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "¡Disfruta el punto de encuentro entre el vino y la gastronomía!",
+        "Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass.",
+        "Válido para consumo en local.",
+        "Av. José Alcalde Délano 10533, Lo Barnechea",
+        "No acumulable a otras promociones.",
+        "Pide tu descuento al momento de pagar.",
+        "Descuento máximo por pedido de $100.000.",
+        "Se excluyen propinas, menús, happy hours.",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Cosecha del Mar",
+      "categoria": "Sabores",
+      "descuento": "40% dcto.",
+      "dia": [
+        "Viernes"
+      ],
+      "dia_texto": "todos los viernes",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "¡Explora el mundo del salmón!",
+        "Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass.",
+        "Válido en local, pagando con tu tarjeta física.",
+        "Av. La Dehesa 2035, Lo Barnechea y Decher 161, Puerto Varas.",
+        "Tope de dcto. mensual $100.000",
+        "No acumulable a otras promociones.",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Sicily",
+      "categoria": "Sabores",
+      "descuento": "40% dcto",
+      "dia": [
+        "Jueves"
+      ],
+      "dia_texto": "todos los jueves",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander Latam Pass.",
+        "Válido en local",
+        "Descuento no aplica para productos en promociones o con descuentos.",
+        "Tope de descuento de $100.000",
+        "Para hacer efectivo el descuento debe ser solicitado mostrando y pagando con tus Tarjetas Santander.",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Surfestival Pichilemu 2027",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "20% dcto.",
+      "dia": [],
+      "dia_texto": "en entradas",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Música, playa y buena vibra",
+        "Exclusivo pagando con tus Tarjetas de Crédito y Débito Santander.",
+        "Válido en www.ticketplus.cl",
+        "Tope de 4 entradas por RUT de cliente.",
+        "Ingresa los 6 primeros dígitos de tu Tarjeta como código de descuento.",
+        "No acumulable con otras promociones.",
+        "Promoción válida para compras realizadas solo en ticketplus.cl/events/surfestival-road-to-2027, exclusivo pagando con Tarjetas Santander e ingresando como código de descuento los primeros 6 dígitos de la Tarjeta. Tope de 4 entradas por RUT de cliente. (*) Stock disponible para el 30% de descuento: 500 entradas y Stock disponible para el 20% de descuento: 2500 entradas. Descuento no aplica al cargo por servicio. El único canal de venta autorizado es www.ticketplus.com, cualquier otro canal puede perjudicar al consumidor. Ticketplus no se responsabiliza por transacciones realizadas fuera del canal de venta oficial. La garantía, servicio y calidad del producto es de exclusiva responsabilidad de Surfestival y de la venta de entradas es Ticketplus sin responsabilidad para Banco Santander Chile ni en la ulterior atención que ello demande. Carga Anual Equivalente (CAE) de 1,19% y Monto Total a pagar de $1.001.980 anunciados son ejemplares y corresponden a compra de monto de $1.000.000, cursada en modalidad de pago de 3 cuotas mensuales en , y consideran impuestos. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Mitta",
+      "categoria": "Viajes",
+      "descuento": "35% dcto.",
+      "dia": [],
+      "dia_texto": "en arriendo diario más 3 a 6 cuotas sin interés",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "¡Arriendos de autos con precios únicos!",
+        "Exclusivo con tus Tarjetas de Crédito y Débito Santander.",
+        "Válido en www.mitta.cl",
+        "Descuento válido para arriendo diario de hasta 5 días",
+        "Ingresando los 6 primeros dígitos de tu Tarjeta como código de descuento.",
+        "Promoción sujeta a disponibilidad de categorías. La tarifa publicada incluye CDW (colisión) que no es descontable. Descuento aplica solamente en arriendos de personas naturales. No aplica sobre opcionales y servicios adicionales (seguros, TAG, bencina, cargo aeropuerto, impuesto).",
+        "No acumulable a otras promociones.",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​​"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "GOODYEAR",
+      "categoria": "Cuotas Sin Interés",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "3 a 6 cuotas sin interés",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "GOODYEAR",
+        "Exclusivo pagando con tus Tarjetas de Crédito Santander.",
+        "Válido en tienda.",
+        "CAE 1,36% Calculado por un monto referencial de compra de $1.000.000 en 6 cuotas. Costo total del Crédito: $1.003.960. Operación afecta a impuesto al crédito a cargo del cliente.",
+        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "RUY BARBOSA",
+      "categoria": "Cuotas Sin Interés",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "3 a 48 cuotas sin interés",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "RUY BARBOSA",
+        "Exclusivo pagando con tus Tarjetas de Crédito Santander.",
+        "Válido en tiendas.",
+        "CAE 1,54% Calculado por un monto referencial de compra de $1.000.000 en 48 cuotas. Costo total del Crédito: $1.031.680. Operación afecta a impuesto al crédito a cargo del cliente.",
+        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Motor Doo",
+      "categoria": "Cuotas Sin Interés",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "4 a 24 cuotas sin interés",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Distribuidor oficial en Chile de Peugeot Motocycles Can-Am, Sea-Doo, Ski-Doo y Rotax Kart.",
+        "Exclusivo pagando con tus Tarjetas de Crédito Santander y Tarjeta de Crédito Santander Empresas.",
+        "Es válido en tiendas físicas y online.",
+        "Válido en compra de unidades nuevas, no aplica a repuestos o accesorios.",
+        "No es acumulable con otras promociones.",
+        "1,51% Calculado por un monto referencial de compra de $1.000.000 en 24 cuotas. Costo total del Crédito: $1.015.840. Operación afecta a impuesto al crédito a cargo del cliente.",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "PC Factory",
+      "categoria": "Cuotas Sin Interés",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "3 a 12 cuotas sin interés",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "¡Encuentra todo lo que necesitas en tecnología!",
+        "Exclusivo con tus Tarjetas de Crédito Santander.",
+        "Válido en tiendas y en www.pcfactory.cl",
+        "No acumulable a otras promociones.",
+        "CAE 1,46% Calculado por un monto referencial de compra de $1.000.000 en 12 cuotas. Costo total del Crédito: $1.007.920 . Operación afecta a impuesto al crédito a cargo del cliente.",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "BOE",
+      "categoria": "Cuotas Sin Interés",
+      "descuento": null,
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "3 a 6 cuotas sin interés todos los días",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "BOE",
+        "Exclusivo pagando con tus Tarjetas de Crédito Santander.",
+        "Es válido en online.",
+        "CAE 1,36% Calculado por un monto referencial de compra de $1.000.000 en 6 cuotas. Costo total del Crédito: $1.003.960. Operación afecta a impuesto al crédito a cargo del cliente.",
+        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "KLASSIC CAR",
+      "categoria": "Cuotas Sin Interés",
+      "descuento": null,
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "4 a 12 cuotas sin interés todos los días",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "KLASSIC CAR",
+        "Exclusivo pagando con tus Tarjetas de Crédito Santander.",
+        "Válido en tienda Avenida Vitacura 8092, Vitacura.",
+        "Válido en Audi y Volkswagen, excluye Taller y repuestos.",
+        "CAE 1,46% Calculado por un monto referencial de compra de $1.000.000 en 6 cuotas. Costo total del Crédito: $1.007.920. Operación afecta a impuesto al crédito a cargo del cliente.",
+        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Decathlon",
+      "categoria": "Cuotas Sin Interés",
+      "descuento": null,
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "3 y 6 cuotas sin interés todos los días",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Encuentra todo lo que necesitas de deporte",
+        "Exclusivo pagando con tus Tarjetas de Crédito Santander.",
+        "Compras sobre $50.000",
+        "Es válido en tiendas.",
+        "CAE 1,36% Calculado por un monto referencial de compra de $1.000.000 en 6 cuotas. Costo total del Crédito: $1.003.960. Operación afecta a impuesto al crédito a cargo del cliente.",
+        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "E-Mobility",
+      "categoria": "Cuotas Sin Interés",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "13 a 24 cuotas sin interés",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Descubre distintos medios de transporte ecológicos.",
+        "Exclusivo pagando con tus Tarjetas de Crédito Santander.",
+        "Válido en showroom.",
+        "No es acumulable con otras promociones.",
+        "CAE 1,51% Calculado por un monto referencial de compra de $1.000.000 en 24 cuotas. Costo total del Crédito: $1.015.840. Operación afecta a impuesto al crédito a cargo del cliente.",
+        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Bonificación de triple acumulación de Millas LATAM Pass (1 milla estructural + 2 millas adicionales por dólar gastado) solo aplica para las compras realizadas en campaña. Acreditación de Millas LATAM Pass, en caso de corresponder, se realizará en el mes siguiente de la compra. Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio; la administración del programa LATAM Pass es de exclusiva responsabilidad de LATAM Airlines Group S.A. sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Forastero",
+      "categoria": "Cuotas Sin Interés",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "3 a 24 cuotas sin interés",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Ambientes que conmueven, inspiran y conectan.",
+        "Exclusivo pagando con tus Tarjetas de Crédito Santander.",
+        "Válido en tiendas presenciales y www.forastero.life",
+        "CAE 1,51% Calculado por un monto referencial de compra de $1.000.000 en 24 cuotas. Costo total del Crédito: $1.015.840. Operación afecta a impuesto al crédito a cargo del cliente.",
+        "Exclusivo vía Webpay.",
+        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Skyclope Solar",
+      "categoria": "Sustentable",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "3 a 48 Cuotas sin interés",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Skyclope Solar",
+        "Exclusivo pagando con tus Tarjetas de Crédito Santander.",
+        "Válido en compras online.",
+        "CAE 1,54% Calculado por un monto referencial de compra de $1.000.000 en 48 cuotas. Costo total del Crédito: $1.031.680. Operación afecta a impuesto al crédito a cargo del cliente.",
+        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "REUSE",
+      "categoria": "Cuotas Sin Interés",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "3 a 24 cuotas sin interés",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "REUSE",
+        "Exclusivo con tus Tarjetas de Crédito Santander y Tarjeta de Crédito Santander Empresas.",
+        "Válido presencial y online",
+        "No acumulable a otras promociones.",
+        "CAE 1,51% Calculado por un monto referencial de compra de $1.000.000 en 24 cuotas. Costo total del Crédito: $1.015.840. Operación afecta a impuesto al crédito a cargo del cliente.",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Clinica Vespucio",
+      "categoria": "Cuotas Sin Interés",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "13 a 24 cuotas sin interés",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Atención con los mejores especialistas.",
+        "Exclusivo con tus Tarjetas de Crédito Santander.",
+        "Válido en presencial",
+        "No acumulable a otras promociones.",
+        "CAE 1,51% Calculado por un monto referencial de compra de $1.000.000 en 24 cuotas. Costo total del Crédito: $1.015.840 . Operación afecta a impuesto al crédito a cargo del cliente.",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Clínica Dávila",
+      "categoria": "Cuotas Sin Interés",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "13 a 24 cuotas sin interés",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Cuida tu salud en Dávila, calidad a tu alcance.",
+        "Exclusivo con tus Tarjetas de Crédito Santander.",
+        "Válido en presencial",
+        "No acumulable a otras promociones.",
+        "CAE 1,51% Calculado por un monto referencial de compra de $1.000.000 en 24 cuotas. Costo total del Crédito: $1.015.840 . Operación afecta a impuesto al crédito a cargo del cliente.",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Universidad de los Andes",
+      "categoria": "Cuotas Sin Interés",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "3 a 12 cuotas sin interés",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Conoce las 29 carreras y 11 programas de Bachillerato.",
+        "Exclusivo pagando con tus Tarjetas de Crédito Santander y Tarjeta de Crédito Santander Empresas.",
+        "Válido online.",
+        "CAE 1,46% Calculado por un monto referencial de compra de $1.000.000 en 36 cuotas. Costo total del Crédito: $1.007.920. Operación afecta a impuesto al crédito a cargo del cliente.",
+        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "MISHKA",
+      "categoria": "Cuotas Sin Interés",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "3 a 6 cuotas sin interés",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Zapatos y accesorios",
+        "Exclusivo pagando con tus Tarjetas de Crédito Santander.",
+        "Válido en tiendas y www.mishka.cl",
+        "No acumulable con otras promociones.",
+        "CAE 1,36% Calculado por un monto referencial de compra de $1.000.000 en 36 cuotas. Costo total del Crédito: $1.003.920. Operación afecta a impuesto al crédito a cargo del cliente.",
+        "Promoción de doble acumulación de Millas LATAM Pass aplica solo para compras durante el 9 al 15 de diciembre de 2024 pagando con Tarjetas de Crédito Santander LATAM Pass. (I) Bonificación de doble (1 milla estructural + 1 milla adicional por dólar gastado) acumulación de Millas LATAM Pass solo aplica para las compras realizadas en campaña. La acreditación de doble acumulación de Millas LATAM Pass, en caso de corresponder, se realizará en el mes siguiente de la compra. (II) Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad de los comercios. (III) La administración del programa LATAM Pass es de exclusiva responsabilidad de LATAM Airlines Group S.A. sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Rock & Road",
+      "categoria": "Cuotas Sin Interés",
+      "descuento": null,
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "3 a 24 cuotas sin interés todos los días",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Bicicletas",
+        "Exclusivo pagando con tus Tarjetas de Crédito Santander.",
+        "Válido en tiendas y compras online.",
+        "CAE 1,53% Calculado por un monto referencial de compra de $1.000.000 en 24 cuotas. Costo total del Crédito: $1.023.760. Operación afecta a impuesto al crédito a cargo del cliente.",
+        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Integrakin",
+      "categoria": "Cuotas Sin Interés",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "3 a 36 cuotas sin interés",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Equipos y aparatos estéticos",
+        "Exclusivo pagando con tus Tarjetas de Crédito Santander.",
+        "Válido en compras online.",
+        "CAE 1,53%. Calculado por un monto referencial de compra de $1.000.000 en 36 cuotas. Costo total del Crédito: $1.023.760. Operación afecta a impuesto al crédito a cargo del cliente.",
+        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Mobie",
+      "categoria": "Cuotas Sin Interés",
+      "descuento": "20% dcto.",
+      "dia": [],
+      "dia_texto": "7 a 12 cuotas sin interés y",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Muévete sin contaminar en una MOBIE ELÉCTRICA.",
+        "Exclusivo pagando con tus Tarjetas de Crédito Santander.",
+        "Válido en www.mobie.cl y presencial",
+        "CAE 1,46%. Calculado por un monto referencial de compra de $1.000.000 en 12 cuotas. Costo total del Crédito: $1.007.920. Operación afecta a impuesto al crédito a cargo del cliente.",
+        "20% dcto. sobre el precio publicado en la página web www.mobie.cl. Exclusivo para las motos modelo BRAVO hasta agotar stock. Precio normal: $2.599.900, Precio oferta: $2.080.000 con IVA incluido.",
+        "El precio oferta, incluye el valor de inscripción y placa patente instalada.",
+        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Cueros Vélez",
+      "categoria": "Cuotas Sin Interés",
+      "descuento": "30% dcto",
+      "dia": [],
+      "dia_texto": "3 a 6 cuotas sin interés +  por compras de 2 o más productos",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "3 a 6 cuotas sin interés",
+        "Pagando con tus Tarjetas de Crédito Santander.",
+        "Válido en tiendas físicas, línea WhatsApp +56 9 8673 2392 y tienda online velez.cl",
+        "Descuento no aplica para chaquetas, fragancias, morral Archaeology, bowling Lili, bandolera Mini lili, bandolera Garniel, productos de cuidado del cuero, productos exclusivo online, costo de la marcación láser, producto personalizado de taller artesano (pigmentación), ni bonos regalo.",
+        "Beneficio exclusivo para clientes que se registren en el programa Quiero Vélez.",
+        "Redimible una (1) sola vez por persona.",
+        "Cupón para compras online VZCL2X30BS",
+        "CAE 1,36% Calculado por un monto referencial de compra de $1.000.000 en 6 cuotas. Costo total del Crédito: $1.003.960. Operación afecta a impuesto al crédito a cargo del cliente.",
+        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Kitchen Center",
+      "categoria": "Cuotas Sin Interés",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "13 a 24 cuotas sin interés",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Renueva tu cocina con productos que combinan diseño, tecnología de Kitchen Center",
+        "Exclusivo pagando con tus Tarjetas de Crédito Santander.",
+        "Es válido en tiendas físicas.",
+        "CAE 1,51% Calculado por un monto referencial de compra de $1.000.000 en 12 cuotas. Costo total del Crédito: $1.015.840. Operación afecta a impuesto al crédito a cargo del cliente.",
+        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Rabbit Bikes",
+      "categoria": "Cuotas Sin Interés",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "3 a 24 cuotas sin interés",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Convierte tus paseos y viajes urbanos en traslados inolvidables con la energía de una Rabbit.",
+        "Exclusivo pagando con tus Tarjetas de Crédito Santander.",
+        "Válido presencial en Corner nivel 3 en mall Casa Costanera, en www.rabbitbikes.com y a través de link de pago Getnet de Rabbit.",
+        "CAE 1,51% Calculado por un monto referencial de compra de $1.000.000 en 24 cuotas. Costo total del Crédito: $1.015.840. Operación afecta a impuesto al crédito a cargo del cliente.",
+        "La entrega de los servicios, calidad y demás características de los productos es de exclusiva responsabilidad del Rabbit Sports SPA, sin ninguna injerencia o responsabilidad para Banco Santander Chile. Infórmese sobre la garantía estatal de los depósitos en su Banco o en www.cmfchile.cl. Promoción de 3 a 24 cuotas sin interés exclusiva con Tarjetas de Crédito Santander. CAE 1,51% Calculado por un monto referencial de compra de $1.000.000 en 24 cuotas. Costo total del Crédito: $1.015.840. Operación afecta a impuesto al crédito a cargo del cliente. Válido hasta el 31 de diciembre de 2025 para venta presencial a través de POS Getnet en Corner en Nivel 3 en Mall Casa Costanera y online a través de Link de Pago Getnet y Web Chekout Getnet en rabbitbikes.com."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "CDM Medical",
+      "categoria": "Cuotas Sin Interés",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "3 a 36 cuotas sin interés",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Equipos médicos de alta tecnología en Medicina Estética, Dermatología, Medicina Metabólica y más.",
+        "Exclusivo con tus Tarjetas de Crédito Santander y Tarjetas de Crédito Santander Empresas.",
+        "Válido en presencial y en www.cdmmedical.cl",
+        "No acumulable a otras promociones.",
+        "CAE 1,53% Calculado por un monto referencial de compra de $1.000.000 en 36 cuotas. Costo total del Crédito: $1.023.760 . Operación afecta a impuesto al crédito a cargo del cliente.",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Splash",
+      "categoria": "Cuotas Sin Interés",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "3 a 12 cuotas sin interés",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Revisa los servicios de construcción de piscinas, SPA y quinchos.",
+        "Exclusivo pagando con tus Tarjetas de Crédito Santander y Tarjeta de Crédito Santander Empresas.",
+        "Es válido en tiendas, todos los días.",
+        "No es acumulable con otras promociones.",
+        "CAE 1,46% Calculado por un monto referencial de compra de $1.000.000 en 12 cuotas. Costo total del Crédito: $1.007.920. Operación afecta a impuesto al crédito a cargo del cliente.",
+        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Ironside",
+      "categoria": "Cuotas Sin Interés",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "3 a 24 cuotas sin interés",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Venta de equipamiento deportivo",
+        "Exclusivo pagando con tus Tarjetas de Crédito, Débito Santander y Tarjeta de Crédito Santander Empresas.",
+        "Válido en www.ironside.cl",
+        "Ingresa los 6 primeros dígitos de tu Tarjeta como código de descuento.",
+        "CAE 1,51% Calculado por un monto referencial de compra de $1.000.000 en 24 cuotas. Costo total del Crédito: $1.015.840. Operación afecta a impuesto al crédito a cargo del cliente.",
+        "No acumulable con otras promociones.",
+        "Cuotas sin interés aplica con Tarjeta de Crédito Santander.",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Duoc UC",
+      "categoria": "Cuotas Sin Interés",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "3 a 6 cuotas sin interés",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Estudia la carrera que siempre quisiste",
+        "Exclusivo pagando con tus Tarjetas de Crédito Santander y Tarjeta de Crédito Santander Empresas.",
+        "Válido en presencial y www.duoc.cl",
+        "Válido en Educación continua.",
+        "CAE 1,36% Calculado por un monto referencial de compra de $1.000.000 en 6 cuotas. Costo total del Crédito: $1.003.960. Operación afecta a impuesto al crédito a cargo del cliente.",
+        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Yamaha",
+      "categoria": "Cuotas Sin Interés",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "7 a 24 cuotas sin interés",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Descubre la gama de motos Yamaha",
+        "Exclusivo pagando con tus Tarjetas de Crédito Santander y Tarjeta de Crédito Santander Empresas.",
+        "Es válido en tiendas.",
+        "No es acumulable con otras promociones.",
+        "CAE 1,51% Calculado por un monto referencial de compra de $1.000.000 en 24 cuotas. Costo total del Crédito: $1.015.840. Operación afecta a impuesto al crédito a cargo del cliente.",
+        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Perfect Pool",
+      "categoria": "Cuotas Sin Interés",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "7 a 12 cuotas sin interés",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "¡Tempera tu piscina con los mejores especialistas!",
+        "Exclusivo pagando con tus Tarjetas de Crédito Santander.",
+        "Es válido en tiendas físicas y en www.perfectpool.cl",
+        "No es acumulable con otras promociones.",
+        "CAE 1,46% Calculado por un monto referencial de compra de $1.000.000 en 12 cuotas. Costo total del Crédito: $1.007.920. Operación afecta a impuesto al crédito a cargo del cliente.",
+        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Warmtec",
+      "categoria": "Cuotas Sin Interés",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "3 a 36 cuotas sin interés",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Descubre la innovadora tecnología en calefacción para tu hogar.",
+        "Exclusivo pagando con tus Tarjetas de Crédito Santander y Tarjetas de Crédito Santander Empresas.",
+        "Es válido en tiendas y online.",
+        "No es acumulable con otras promociones.",
+        "CAE 1,53% Calculado por un monto referencial de compra de $1.000.000 en 36 cuotas. Costo total del Crédito: $1.023.760. Operación afecta a impuesto al crédito a cargo del cliente.",
+        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Defontana",
+      "categoria": "Cuotas Sin Interés",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "4 a 24 cuotas sin interés",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Software de gestión integral, la solución para empresas.",
+        "Exclusivo pagando con tus Tarjetas de Crédito Santander y Tarjeta de Crédito Santander Empresas.",
+        "Es válido online.",
+        "No es acumulable con otras promociones.",
+        "CAE 1,51% Calculado por un monto referencial de compra de $1.000.000 en 24 cuotas. Costo total del Crédito: $1.015.840. Operación afecta a impuesto al crédito a cargo del cliente.",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Pro Circuit",
+      "categoria": "Cuotas Sin Interés",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "13 a 24 cuotas sin interés",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Conoce toda la línea de motocicletas de ProCircuit",
+        "Exclusivo pagando con tus Tarjetas de Crédito Santander y Tarjeta de Crédito Santander Empresas.",
+        "Es válido en tiendas.",
+        "Sólo las marcas Keeway, Benelli y Royal Enfield son válidas pagando en hasta 24 cuotas sin interés.",
+        "No es acumulable con otras promociones.",
+        "CAE 1,51% Calculado por un monto referencial de compra de $1.000.000 en 24 cuotas. Costo total del Crédito: $1.015.840 . Operación afecta a impuesto al crédito a cargo del cliente.",
+        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Anfruns",
+      "categoria": "Cuotas Sin Interés",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "3 a 6 cuotas sin interés",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Encuentra autos 0km, usados y postventa exclusivo en sucursales Anfruns Motors.",
+        "Exclusivo pagando con tus Tarjetas de Crédito Santander y Tarjeta de Crédito Santander Empresas.",
+        "Válido en tiendas físicas y presencial.",
+        "No es acumulable con otras promociones.",
+        "CAE 1,36% Calculado por un monto referencial de compra de $1.000.000 en 6 cuotas. Costo total del Crédito: $1.003.960. Operación afecta a impuesto al crédito a cargo del cliente.",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Ergostore",
+      "categoria": "Cuotas Sin Interés",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "7 a 24 cuotas sin interés",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Consigue los mejores escritorios eléctricos elevables, bicicleta de escritorio, cinta para caminar en la oficina y más",
+        "Exclusivo pagando con tus Tarjetas de Crédito Santander y Tarjeta de Crédito Santander Empresas.",
+        "Es válido en www.ergostore.cl y en tienda Román Díaz 2111, Ñuñoa.",
+        "No es acumulable con otras promociones.",
+        "CAE 1,51% Calculado por un monto referencial de compra de $1.000.000 en 12 cuotas. Costo total del Crédito: $1.015.840. Operación afecta a impuesto al crédito a cargo del cliente.",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Claro",
+      "categoria": "Cuotas Sin Interés",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "13 a 36 cuotas sin interés",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Renueva tu equipo con Claro y conéctate con lo que más te gusta",
+        "Exclusivo pagando con tus Tarjetas de Crédito Santander y Tarjeta de Crédito Santander Empresas.",
+        "Es válido en tiendas y www.clarochile.cl",
+        "No es acumulable con otras promociones.",
+        "CAE 1,53% Calculado por un monto referencial de compra de $1.000.000 en 36 cuotas. Costo total del Crédito: $1.023.760. Operación afecta a impuesto al crédito a cargo del cliente.",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "WOM",
+      "categoria": "Cuotas Sin Interés",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "13 a 24 cuotas sin interés",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Conoce todos los equipos y accesorios que tiene WOM para ti.",
+        "Exclusivo pagando con tus Tarjetas de Crédito Santander y Tarjeta de Crédito Santander Empresas.",
+        "Es válido en tiendas y www.wom.cl",
+        "No es acumulable con otras promociones.",
+        "Aplica a equipo de telefonía y accesorios.",
+        "No aplica para la contratación de planes móviles y fibras ópticas.",
+        "CAE 1,51% Calculado por un monto referencial de compra de $1.000.000 en 24 cuotas. Costo total del Crédito: $1.015.840. Operación afecta a impuesto al crédito a cargo del cliente.",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "DKo Home",
+      "categoria": "Cuotas Sin Interés",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "3 a 12 cuotas sin interés",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "¡Renovar y decorar tu hogar u oficina nunca fue tan fácil!",
+        "Exclusivo pagando con tus Tarjetas de Crédito Santander y Tarjeta de Crédito Santander Empresas.",
+        "Es válido en tiendas físicas y online.",
+        "No es acumulable con otras promociones.",
+        "CAE 1,46% Calculado por un monto referencial de compra de $1.000.000 en 12 cuotas. Costo total del Crédito: $1.007.920. Operación afecta a impuesto al crédito a cargo del cliente.",
+        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "CUBE",
+      "categoria": "Cuotas Sin Interés",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "3 a 12 cuotas sin interés",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Especialistas en ciclismo.",
+        "Exclusivo pagando con tus Tarjetas de Crédito, Débito Santander y Tarjeta de Crédito Santander Empresas.",
+        "Ingresando los 6 primeros dígitos de tu Tarjeta como código de descuento.",
+        "Es válido en tiendas y online.",
+        "Avenida Padre Hurtado 1121, Vitacura, Santiago.",
+        "No es acumulable con otras promociones.",
+        "CAE 1,46% Calculado por un monto referencial de compra de $1.000.000 en 12 cuotas. Costo total del Crédito: $1.007.920. Operación afecta a impuesto al crédito a cargo del cliente.",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Movistar",
+      "categoria": "Cuotas Sin Interés",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "13 a 36 cuotas sin interés",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "¡Conéctate con las mejores ofertas en equipos, planes y accesorios!",
+        "Exclusivo pagando con tus Tarjetas de Crédito Santander y Tarjeta de Crédito Santander Empresas.",
+        "Es válido en tiendas y www.movistar.cl",
+        "No es acumulable con otras promociones.",
+        "CAE 1,53% Calculado por un monto referencial de compra de $1.000.000 en 36 cuotas. Costo total del Crédito: $1.023.760. Operación afecta a impuesto al crédito a cargo del cliente.",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "GAES",
+      "categoria": "Cuotas Sin Interés",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "13 a 24 cuotas sin interés",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Recupera el placer de escuchar con los expertos en audiología.",
+        "Exclusivo pagando con tus Tarjetas de Crédito Santander y Tarjeta de Crédito Santander Empresas.",
+        "Válido en centros auditivos Gaes de Chile.",
+        "No es acumulable con otras promociones.",
+        "CAE 1,51% Calculado por un monto referencial de compra de $1.000.000 en 18 cuotas. Costo total del Crédito: $1.015.840. Operación afecta a impuesto al crédito a cargo del cliente.",
+        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Clínica Lo Arcaya",
+      "categoria": "Cuotas Sin Interés",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "3 a 24 cuotas sin interés",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Clínica especialista en cirugía plástica y estétic a con equipos médicos acreditados y especialistas.",
+        "Exclusivo pagando con tus Tarjetas de Crédito Santander.",
+        "Válido online y presencial en Clínica Lo Arcaya, Las Condes.",
+        "No acumulable con otras promociones.",
+        "CAE de 1,51%. Calculado por un monto referencial de compra de $1.000.000 en 24 cuotas. Costo total del Crédito: $1.015.840. Operación afecta a impuesto al crédito.",
+        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Osoji",
+      "categoria": "Cuotas Sin Interés",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "12 a 24 cuotas sin interés",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "¡Haz tu vida más fácil con Osoji! Recuerda que:",
+        "Exclusivo pagando con tus Tarjetas de Crédito Santander y Tarjeta de Crédito Santander Empresas.",
+        "Cuotas sin interés válido en www.osoji.cl",
+        "No es acumulable con otras promociones.",
+        "CAE de 1,51%. Calculado por un monto referencial de compra de $1.000.000 en 24 cuotas. Costo total del Crédito: $1.015.840. Operación afecta a impuesto al crédito.",
+        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Bonificación de triple acumulación de Millas LATAM Pass (1 milla estructural + 2 millas adicionales por dólar gastado) solo aplica para las compras realizadas en campaña. Acreditación de Millas LATAM Pass, en caso de corresponder, se realizará en el mes siguiente de la compra. Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio; la administración del programa LATAM Pass es de exclusiva responsabilidad de LATAM Airlines Group S.A. sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "HP",
+      "categoria": "Cuotas Sin Interés",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "13 a 24 cuotas sin interés",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Descubre la gran colección de Notebooks, Desktops, Impresoras, Monitores, Accesorios y más.",
+        "Cuotas sin interés:",
+        "Exclusivo pagando con tus Tarjetas de Crédito Santander y Tarjeta de Crédito Santander Empresas.",
+        "Válido en www.hp.com",
+        "CAE 1,51% Calculado por un monto referencial de compra de $1.000.000 en 24 cuotas. Costo total del Crédito: $1.015.840. Operación afecta a impuesto al crédito a cargo del cliente.",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Corrales del Sur",
+      "categoria": "Sabores",
+      "descuento": "20% dcto.",
+      "dia": [
+        "Lunes"
+      ],
+      "dia_texto": "todos los lunes",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "¡El mejor corte de carne en Corrales del Sur!",
+        "Exclusivo con tus Tarjetas de Crédito Santander",
+        "Válido en tiendas y corralesdelsur.cl",
+        "Exclusivo en categoría hogar.",
+        "No acumulable a otras promociones.",
+        "Ingresa los primeros 6 dígitos de tu Tarjeta como código de descuento.",
+        "Descuento máximo por pedido de $40.000."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Corrales del Sur",
+      "categoria": "Sabores",
+      "descuento": "30% dcto.",
+      "dia": [
+        "Jueves"
+      ],
+      "dia_texto": "todos los jueves",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "¡El mejor Angus nacional en Corrales del Sur!",
+        "Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass.",
+        "Válido para consumo en local y en www.corralesdelsur.cl.",
+        "Exclusivo en carnes Corrales del Sur y embutidos.",
+        "No acumulable a otras promociones.",
+        "Ingresa los primeros 6 dígitos de tu Tarjeta como código de descuento.",
+        "Descuento máximo por pedido de $100.000.",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Juan Esparraguito",
+      "categoria": "Sabores",
+      "descuento": "30% dcto.",
+      "dia": [
+        "Miércoles"
+      ],
+      "dia_texto": "todos los miércoles",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Mucho más que frutas y verduras, productos de temporada y seleccionados uno a uno",
+        "Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass.",
+        "Válido en www.juanesparraguito.com",
+        "No acumulable a otras promociones.",
+        "Ingresa los 6 primeros dígitos de tu tarjeta como código de descuento.",
+        "Descuento máximo por pedido de $100.000",
+        "Exclusivo en frutas y verduras.",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Bloody Mary",
+      "categoria": "Sabores",
+      "descuento": "40% dcto",
+      "dia": [
+        "Martes"
+      ],
+      "dia_texto": "todos los martes",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Coctelería de autor y cocina mediterránea para compartir",
+        "Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass.",
+        "Válido en local.",
+        "No acumulable a otras promociones.",
+        "Alonso de Cordova 3854, Vitacura",
+        "Descuento máximo por pedido de $100.000",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Aquality",
+      "categoria": "Sabores",
+      "descuento": "40% dcto.",
+      "dia": [
+        "Martes"
+      ],
+      "dia_texto": "todos los martes y acumula 1 Milla LATAM Pass adicional",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "¡Compra pescados y mariscos congelados de calidad superior! Además, acumula 1 Milla LATAM Pass adicional del 01 al 07 de cada mes.",
+        "Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass.",
+        "Válido en www.aqualitysoluciones.cl",
+        "No acumulable a otras promociones.",
+        "Ingresando los 6 primeros dígitos de tu Tarjeta como código de descuento.",
+        "Despacho aplica en Región Metropolitana y Punto de retiro aplica en Chicureo y Concón.",
+        "Descuento máximo por pedido de $100.000.",
+        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. La bonificación de millas estructural se realizará según nivel y tarjeta de Crédito Santander LATAM Pass del cliente, más 1 milla adicional por dólar gastado por compras realizadas en campaña. Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio; la administración del programa LATAM Pass es de exclusiva responsabilidad de LATAM Airlines Group S.A. sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl. Conoce más sobre Santander Rewards y su reglamento en: https://banco.santander.cl/rewards."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Naoki",
+      "categoria": "Sabores",
+      "descuento": null,
+      "dia": [
+        "Lunes"
+      ],
+      "dia_texto": "40%. dcto. todos los lunes",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Sabores y técnicas japonesas se combinan con elementos locales de la costa chilena para crear una experiencia gastronómica única",
+        "Exclusivo con tu Tarjeta de Crédito WorldMember Limited Santander",
+        "Válido para consumo en local.",
+        "Av. Vitacura 3875, Vitacura.",
+        "Tope de descuento de $100.000.",
+        "No acumulable a otras promociones.",
+        "Se excluyen propinas, menús, happy hours.",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "El Mundo del Vino",
+      "categoria": "Sabores",
+      "descuento": "40% dcto.",
+      "dia": [
+        "Lunes"
+      ],
+      "dia_texto": "todos los lunes en viñas seleccionadas",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "¡El mejor vino para ti!",
+        "Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass.",
+        "Válido para compras en local y www.elmundodelvino.cl",
+        "No acumulable a otras promociones.",
+        "En viñas seleccionadas: San Pedro, Tarapaca, Ventisquero, Casa Bauza, Bodegas RE, Báron Philippe, Tres Palacio, Las Veletas, Cono Sur, Concha y Toro, Errazuriz.",
+        "Ingresando los 6 primeros dígitos de tu Tarjeta como código de descuento.",
+        "Descuento máximo por pedido de $100.000",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​"
       ],
       "sucursales": []
     },
@@ -25456,29 +26655,6 @@
     },
     {
       "banco": "Banco Santander",
-      "comercio": "Aquality",
-      "categoria": "Sabores",
-      "descuento": "40% dcto.",
-      "dia": [
-        "Martes"
-      ],
-      "dia_texto": "todos los martes y acumula 1 Milla LATAM Pass adicional",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "¡Compra pescados y mariscos congelados de calidad superior! Además, acumula 1 Milla LATAM Pass adicional del 01 al 07 de cada mes.",
-        "Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass.",
-        "Válido en www.aqualitysoluciones.cl",
-        "No acumulable a otras promociones.",
-        "Ingresando los 6 primeros dígitos de tu Tarjeta como código de descuento.",
-        "Despacho aplica en Región Metropolitana y Punto de retiro aplica en Chicureo y Concón.",
-        "Descuento máximo por pedido de $100.000.",
-        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. La bonificación de millas estructural se realizará según nivel y tarjeta de Crédito Santander LATAM Pass del cliente, más 1 milla adicional por dólar gastado por compras realizadas en campaña. Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio; la administración del programa LATAM Pass es de exclusiva responsabilidad de LATAM Airlines Group S.A. sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl. Conoce más sobre Santander Rewards y su reglamento en: https://banco.santander.cl/rewards."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
       "comercio": "Sound Advisors",
       "categoria": "Retail y Otras Marcas",
       "descuento": null,
@@ -25798,25 +26974,6 @@
     },
     {
       "banco": "Banco Santander",
-      "comercio": "Warmtec",
-      "categoria": "Cuotas Sin Interés",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "3 a 36 cuotas sin interés",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Descubre la innovadora tecnología en calefacción para tu hogar.",
-        "Exclusivo pagando con tus Tarjetas de Crédito Santander y Tarjetas de Crédito Santander Empresas.",
-        "Es válido en tiendas y online.",
-        "No es acumulable con otras promociones.",
-        "CAE 1,53% Calculado por un monto referencial de compra de $1.000.000 en 36 cuotas. Costo total del Crédito: $1.023.760. Operación afecta a impuesto al crédito a cargo del cliente.",
-        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
       "comercio": "FreeMet",
       "categoria": "Sustentable",
       "descuento": "20% dcto.",
@@ -25920,25 +27077,6 @@
         "Válido en tienda presencial",
         "No acumulable a otros descuentos. Excluye tienda outlet.",
         "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​"
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Forastero",
-      "categoria": "Cuotas Sin Interés",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "3 a 24 cuotas sin interés",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Ambientes que conmueven, inspiran y conectan.",
-        "Exclusivo pagando con tus Tarjetas de Crédito Santander.",
-        "Válido en tiendas presenciales y www.forastero.life",
-        "CAE 1,51% Calculado por un monto referencial de compra de $1.000.000 en 24 cuotas. Costo total del Crédito: $1.015.840. Operación afecta a impuesto al crédito a cargo del cliente.",
-        "Exclusivo vía Webpay.",
-        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
       ],
       "sucursales": []
     },
@@ -26074,28 +27212,6 @@
     },
     {
       "banco": "Banco Santander",
-      "comercio": "Bloody Mary",
-      "categoria": "Sabores",
-      "descuento": "40% dcto",
-      "dia": [
-        "Martes"
-      ],
-      "dia_texto": "todos los martes",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Coctelería de autor y cocina mediterránea para compartir",
-        "Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass.",
-        "Válido en local.",
-        "No acumulable a otras promociones.",
-        "Alonso de Cordova 3854, Vitacura",
-        "Descuento máximo por pedido de $100.000",
-        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​"
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
       "comercio": "Ají Seco",
       "categoria": "Sabores",
       "descuento": "40% dcto",
@@ -26142,24 +27258,6 @@
     },
     {
       "banco": "Banco Santander",
-      "comercio": "GOODYEAR",
-      "categoria": "Cuotas Sin Interés",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "3 a 6 cuotas sin interés",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "GOODYEAR",
-        "Exclusivo pagando con tus Tarjetas de Crédito Santander.",
-        "Válido en tienda.",
-        "CAE 1,36% Calculado por un monto referencial de compra de $1.000.000 en 6 cuotas. Costo total del Crédito: $1.003.960. Operación afecta a impuesto al crédito a cargo del cliente.",
-        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
       "comercio": "Google Cloud",
       "categoria": "Retail y Otras Marcas",
       "descuento": null,
@@ -26175,24 +27273,6 @@
         "La oferta es exclusiva para el canal de afiliados.",
         "Los créditos deben usarse dentro de los 90 días posteriores al inicio de la cuenta de prueba gratuita.",
         "Válido solo aplica para nuevos clientes de Google Cloud."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "RUY BARBOSA",
-      "categoria": "Cuotas Sin Interés",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "3 a 48 cuotas sin interés",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "RUY BARBOSA",
-        "Exclusivo pagando con tus Tarjetas de Crédito Santander.",
-        "Válido en tiendas.",
-        "CAE 1,54% Calculado por un monto referencial de compra de $1.000.000 en 48 cuotas. Costo total del Crédito: $1.031.680. Operación afecta a impuesto al crédito a cargo del cliente.",
-        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
       ],
       "sucursales": []
     },
@@ -26333,47 +27413,6 @@
     },
     {
       "banco": "Banco Santander",
-      "comercio": "Perfect Pool",
-      "categoria": "Cuotas Sin Interés",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "7 a 12 cuotas sin interés",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "¡Tempera tu piscina con los mejores especialistas!",
-        "Exclusivo pagando con tus Tarjetas de Crédito Santander.",
-        "Es válido en tiendas físicas y en www.perfectpool.cl",
-        "No es acumulable con otras promociones.",
-        "CAE 1,46% Calculado por un monto referencial de compra de $1.000.000 en 12 cuotas. Costo total del Crédito: $1.007.920. Operación afecta a impuesto al crédito a cargo del cliente.",
-        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Barrica 94",
-      "categoria": "Sabores",
-      "descuento": "40% dcto.",
-      "dia": [],
-      "dia_texto": "todos los viermes",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "¡Disfruta el punto de encuentro entre el vino y la gastronomía!",
-        "Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass.",
-        "Válido para consumo en local.",
-        "Av. José Alcalde Délano 10533, Lo Barnechea",
-        "No acumulable a otras promociones.",
-        "Pide tu descuento al momento de pagar.",
-        "Descuento máximo por pedido de $100.000.",
-        "Se excluyen propinas, menús, happy hours.",
-        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​"
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
       "comercio": "RODA",
       "categoria": "Retail y Otras Marcas",
       "descuento": "15% dcto",
@@ -26488,26 +27527,6 @@
         "Incluido con las Tarjetas Mastercard",
         "Válido en https://mastercardassistances.com/",
         "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​"
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Rock & Road",
-      "categoria": "Cuotas Sin Interés",
-      "descuento": null,
-      "dia": [
-        "Todos los días"
-      ],
-      "dia_texto": "3 a 24 cuotas sin interés todos los días",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Bicicletas",
-        "Exclusivo pagando con tus Tarjetas de Crédito Santander.",
-        "Válido en tiendas y compras online.",
-        "CAE 1,53% Calculado por un monto referencial de compra de $1.000.000 en 24 cuotas. Costo total del Crédito: $1.023.760. Operación afecta a impuesto al crédito a cargo del cliente.",
-        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
       ],
       "sucursales": []
     },
@@ -26803,29 +27822,6 @@
     },
     {
       "banco": "Banco Santander",
-      "comercio": "El Mundo del Vino",
-      "categoria": "Sabores",
-      "descuento": "40% dcto.",
-      "dia": [
-        "Lunes"
-      ],
-      "dia_texto": "todos los lunes en viñas seleccionadas",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "¡El mejor vino para ti!",
-        "Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass.",
-        "Válido para compras en local y www.elmundodelvino.cl",
-        "No acumulable a otras promociones.",
-        "En viñas seleccionadas: Clos de Luz, Barón Philippe, Tres Palacios, Las Veletas, San Pedro, Tarapaca, Tabali, Ventisquero, Errazuriz.",
-        "Ingresando los 6 primeros dígitos de tu Tarjeta como código de descuento.",
-        "Descuento máximo por pedido de $100.000",
-        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​"
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
       "comercio": "Rolls Sushi Nikkei",
       "categoria": "Sabores",
       "descuento": "30% dcto.",
@@ -26957,27 +27953,6 @@
         "Tope de descuento de $100.000.",
         "No acumulable a otras promociones.",
         "Se excluyen propinas, menús, happy hours.",
-        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​"
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Sicily",
-      "categoria": "Sabores",
-      "descuento": "40% dcto",
-      "dia": [
-        "Jueves"
-      ],
-      "dia_texto": "todos los jueves",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander Latam Pass.",
-        "Válido en local",
-        "Descuento no aplica para productos en promociones o con descuentos.",
-        "Tope de descuento de $100.000",
-        "Para hacer efectivo el descuento debe ser solicitado mostrando y pagando con tus Tarjetas Santander.",
         "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​"
       ],
       "sucursales": []
@@ -27980,27 +28955,6 @@
         "Ingresa los 6 primeros dígitos de tu Tarjeta como código de descuento.",
         "No acumulable con otras promociones.",
         "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​"
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Mitta",
-      "categoria": "Viajes",
-      "descuento": "35% dcto.",
-      "dia": [],
-      "dia_texto": "en arriendo diario más 3 a 6 cuotas sin interés",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "¡Arriendos de autos con precios únicos!",
-        "Exclusivo con tus Tarjetas de Crédito y Débito Santander.",
-        "Válido en www.mitta.cl",
-        "Descuento válido para arriendo diario de hasta 5 días",
-        "Ingresando los 6 primeros dígitos de tu Tarjeta como código de descuento.",
-        "Promoción sujeta a disponibilidad de categorías. La tarifa publicada incluye CDW (colisión) que no es descontable. Descuento aplica solamente en arriendos de personas naturales. No aplica sobre opcionales y servicios adicionales (seguros, TAG, bencina, cargo aeropuerto, impuesto).",
-        "No acumulable a otras promociones.",
-        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​​"
       ],
       "sucursales": []
     },
@@ -29868,28 +30822,6 @@
     },
     {
       "banco": "Banco Santander",
-      "comercio": "Cosecha del Mar",
-      "categoria": "Sabores",
-      "descuento": "40% dcto.",
-      "dia": [
-        "Viernes"
-      ],
-      "dia_texto": "todos los viernes",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "¡Explora el mundo del salmón!",
-        "Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass.",
-        "Válido en local, pagando con tu tarjeta física.",
-        "Av. La Dehesa 2035, Lo Barnechea y Decher 161, Puerto Varas.",
-        "Tope de dcto. mensual $100.000",
-        "No acumulable a otras promociones.",
-        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​"
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
       "comercio": "La Dicha",
       "categoria": "Sabores",
       "descuento": "40% dcto.",
@@ -29907,29 +30839,6 @@
         "No acumulable a otras promociones.",
         "Pide tu descuento al momento de pagar.",
         "Tope de descuento $100.000.",
-        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​"
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Juan Esparraguito",
-      "categoria": "Sabores",
-      "descuento": "30% dcto.",
-      "dia": [
-        "Miércoles"
-      ],
-      "dia_texto": "todos los miércoles",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Mucho más que frutas y verduras, productos de temporada y seleccionados uno a uno",
-        "Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass.",
-        "Válido en www.juanesparraguito.com",
-        "No acumulable a otras promociones.",
-        "Ingresa los 6 primeros dígitos de tu tarjeta como código de descuento.",
-        "Descuento máximo por pedido de $100.000",
-        "Exclusivo en frutas y verduras.",
         "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​"
       ],
       "sucursales": []
@@ -29954,29 +30863,6 @@
         "No acumulable a otras promociones.",
         "Se excluyen propinas, menús, happy hours.",
         "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Naoki",
-      "categoria": "Sabores",
-      "descuento": null,
-      "dia": [
-        "Lunes"
-      ],
-      "dia_texto": "40%. dcto. todos los lunes",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Sabores y técnicas japonesas se combinan con elementos locales de la costa chilena para crear una experiencia gastronómica única",
-        "Exclusivo con tu Tarjeta de Crédito WorldMember Limited Santander",
-        "Válido para consumo en local.",
-        "Av. Vitacura 3875, Vitacura.",
-        "Tope de descuento de $100.000.",
-        "No acumulable a otras promociones.",
-        "Se excluyen propinas, menús, happy hours.",
-        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​"
       ],
       "sucursales": []
     },
@@ -30262,51 +31148,6 @@
     },
     {
       "banco": "Banco Santander",
-      "comercio": "Corrales del Sur",
-      "categoria": "Sabores",
-      "descuento": "20% dcto.",
-      "dia": [
-        "Lunes"
-      ],
-      "dia_texto": "todos los lunes",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "¡El mejor corte de carne en Corrales del Sur!",
-        "Exclusivo con tus Tarjetas de Crédito Santander",
-        "Válido en tiendas y corralesdelsur.cl",
-        "Exclusivo en categoría hogar.",
-        "No acumulable a otras promociones.",
-        "Ingresa los primeros 6 dígitos de tu Tarjeta como código de descuento.",
-        "Descuento máximo por pedido de $40.000."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Corrales del Sur",
-      "categoria": "Sabores",
-      "descuento": "30% dcto.",
-      "dia": [
-        "Jueves"
-      ],
-      "dia_texto": "todos los jueves",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "¡El mejor Angus nacional en Corrales del Sur!",
-        "Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass.",
-        "Válido para consumo en local y en www.corralesdelsur.cl.",
-        "Exclusivo en carnes Corrales del Sur y embutidos.",
-        "No acumulable a otras promociones.",
-        "Ingresa los primeros 6 dígitos de tu Tarjeta como código de descuento.",
-        "Descuento máximo por pedido de $100.000.",
-        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​"
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
       "comercio": "CuracaRibs",
       "categoria": "Sabores",
       "descuento": "40% dcto.",
@@ -30350,642 +31191,6 @@
         "Sin tope de descuento.",
         "Horarios de Atención: Lunes a jueves de 9:00 a 14:00 hrs y horario tarde de 15:30 a 17:00 hrs. Viernes de 9:00 a 14:00 hrs.",
         "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad de Huerto Sur Cafeterías SPA y Sociedad Bustorf Larsen Cía., sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Motor Doo",
-      "categoria": "Cuotas Sin Interés",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "4 a 24 cuotas sin interés",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Distribuidor oficial en Chile de Peugeot Motocycles Can-Am, Sea-Doo, Ski-Doo y Rotax Kart.",
-        "Exclusivo pagando con tus Tarjetas de Crédito Santander y Tarjeta de Crédito Santander Empresas.",
-        "Es válido en tiendas físicas y online.",
-        "Válido en compra de unidades nuevas, no aplica a repuestos o accesorios.",
-        "No es acumulable con otras promociones.",
-        "1,51% Calculado por un monto referencial de compra de $1.000.000 en 24 cuotas. Costo total del Crédito: $1.015.840. Operación afecta a impuesto al crédito a cargo del cliente.",
-        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "PC Factory",
-      "categoria": "Cuotas Sin Interés",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "3 a 12 cuotas sin interés",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "¡Encuentra todo lo que necesitas en tecnología!",
-        "Exclusivo con tus Tarjetas de Crédito Santander.",
-        "Válido en tiendas y en www.pcfactory.cl",
-        "No acumulable a otras promociones.",
-        "CAE 1,46% Calculado por un monto referencial de compra de $1.000.000 en 12 cuotas. Costo total del Crédito: $1.007.920 . Operación afecta a impuesto al crédito a cargo del cliente.",
-        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "BOE",
-      "categoria": "Cuotas Sin Interés",
-      "descuento": null,
-      "dia": [
-        "Todos los días"
-      ],
-      "dia_texto": "3 a 6 cuotas sin interés todos los días",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "BOE",
-        "Exclusivo pagando con tus Tarjetas de Crédito Santander.",
-        "Es válido en online.",
-        "CAE 1,36% Calculado por un monto referencial de compra de $1.000.000 en 6 cuotas. Costo total del Crédito: $1.003.960. Operación afecta a impuesto al crédito a cargo del cliente.",
-        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "KLASSIC CAR",
-      "categoria": "Cuotas Sin Interés",
-      "descuento": null,
-      "dia": [
-        "Todos los días"
-      ],
-      "dia_texto": "4 a 12 cuotas sin interés todos los días",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "KLASSIC CAR",
-        "Exclusivo pagando con tus Tarjetas de Crédito Santander.",
-        "Válido en tienda Avenida Vitacura 8092, Vitacura.",
-        "Válido en Audi y Volkswagen, excluye Taller y repuestos.",
-        "CAE 1,46% Calculado por un monto referencial de compra de $1.000.000 en 6 cuotas. Costo total del Crédito: $1.007.920. Operación afecta a impuesto al crédito a cargo del cliente.",
-        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Decathlon",
-      "categoria": "Cuotas Sin Interés",
-      "descuento": null,
-      "dia": [
-        "Todos los días"
-      ],
-      "dia_texto": "3 y 6 cuotas sin interés todos los días",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Encuentra todo lo que necesitas de deporte",
-        "Exclusivo pagando con tus Tarjetas de Crédito Santander.",
-        "Compras sobre $50.000",
-        "Es válido en tiendas.",
-        "CAE 1,36% Calculado por un monto referencial de compra de $1.000.000 en 6 cuotas. Costo total del Crédito: $1.003.960. Operación afecta a impuesto al crédito a cargo del cliente.",
-        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "E-Mobility",
-      "categoria": "Cuotas Sin Interés",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "13 a 24 cuotas sin interés",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Descubre distintos medios de transporte ecológicos.",
-        "Exclusivo pagando con tus Tarjetas de Crédito Santander.",
-        "Válido en showroom.",
-        "No es acumulable con otras promociones.",
-        "CAE 1,51% Calculado por un monto referencial de compra de $1.000.000 en 24 cuotas. Costo total del Crédito: $1.015.840. Operación afecta a impuesto al crédito a cargo del cliente.",
-        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Bonificación de triple acumulación de Millas LATAM Pass (1 milla estructural + 2 millas adicionales por dólar gastado) solo aplica para las compras realizadas en campaña. Acreditación de Millas LATAM Pass, en caso de corresponder, se realizará en el mes siguiente de la compra. Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio; la administración del programa LATAM Pass es de exclusiva responsabilidad de LATAM Airlines Group S.A. sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Skyclope Solar",
-      "categoria": "Sustentable",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "3 a 48 Cuotas sin interés",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Skyclope Solar",
-        "Exclusivo pagando con tus Tarjetas de Crédito Santander.",
-        "Válido en compras online.",
-        "CAE 1,54% Calculado por un monto referencial de compra de $1.000.000 en 48 cuotas. Costo total del Crédito: $1.031.680. Operación afecta a impuesto al crédito a cargo del cliente.",
-        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "REUSE",
-      "categoria": "Cuotas Sin Interés",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "3 a 24 cuotas sin interés",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "REUSE",
-        "Exclusivo con tus Tarjetas de Crédito Santander y Tarjeta de Crédito Santander Empresas.",
-        "Válido presencial y online",
-        "No acumulable a otras promociones.",
-        "CAE 1,51% Calculado por un monto referencial de compra de $1.000.000 en 24 cuotas. Costo total del Crédito: $1.015.840. Operación afecta a impuesto al crédito a cargo del cliente.",
-        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Clinica Vespucio",
-      "categoria": "Cuotas Sin Interés",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "13 a 24 cuotas sin interés",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Atención con los mejores especialistas.",
-        "Exclusivo con tus Tarjetas de Crédito Santander.",
-        "Válido en presencial",
-        "No acumulable a otras promociones.",
-        "CAE 1,51% Calculado por un monto referencial de compra de $1.000.000 en 24 cuotas. Costo total del Crédito: $1.015.840 . Operación afecta a impuesto al crédito a cargo del cliente.",
-        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Clínica Dávila",
-      "categoria": "Cuotas Sin Interés",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "13 a 24 cuotas sin interés",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Cuida tu salud en Dávila, calidad a tu alcance.",
-        "Exclusivo con tus Tarjetas de Crédito Santander.",
-        "Válido en presencial",
-        "No acumulable a otras promociones.",
-        "CAE 1,51% Calculado por un monto referencial de compra de $1.000.000 en 24 cuotas. Costo total del Crédito: $1.015.840 . Operación afecta a impuesto al crédito a cargo del cliente.",
-        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Universidad de los Andes",
-      "categoria": "Cuotas Sin Interés",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "3 a 12 cuotas sin interés",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Conoce las 29 carreras y 11 programas de Bachillerato.",
-        "Exclusivo pagando con tus Tarjetas de Crédito Santander y Tarjeta de Crédito Santander Empresas.",
-        "Válido online.",
-        "CAE 1,46% Calculado por un monto referencial de compra de $1.000.000 en 36 cuotas. Costo total del Crédito: $1.007.920. Operación afecta a impuesto al crédito a cargo del cliente.",
-        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "MISHKA",
-      "categoria": "Cuotas Sin Interés",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "3 a 6 cuotas sin interés",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Zapatos y accesorios",
-        "Exclusivo pagando con tus Tarjetas de Crédito Santander.",
-        "Válido en tiendas y www.mishka.cl",
-        "No acumulable con otras promociones.",
-        "CAE 1,36% Calculado por un monto referencial de compra de $1.000.000 en 36 cuotas. Costo total del Crédito: $1.003.920. Operación afecta a impuesto al crédito a cargo del cliente.",
-        "Promoción de doble acumulación de Millas LATAM Pass aplica solo para compras durante el 9 al 15 de diciembre de 2024 pagando con Tarjetas de Crédito Santander LATAM Pass. (I) Bonificación de doble (1 milla estructural + 1 milla adicional por dólar gastado) acumulación de Millas LATAM Pass solo aplica para las compras realizadas en campaña. La acreditación de doble acumulación de Millas LATAM Pass, en caso de corresponder, se realizará en el mes siguiente de la compra. (II) Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad de los comercios. (III) La administración del programa LATAM Pass es de exclusiva responsabilidad de LATAM Airlines Group S.A. sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Integrakin",
-      "categoria": "Cuotas Sin Interés",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "3 a 36 cuotas sin interés",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Equipos y aparatos estéticos",
-        "Exclusivo pagando con tus Tarjetas de Crédito Santander.",
-        "Válido en compras online.",
-        "CAE 1,53%. Calculado por un monto referencial de compra de $1.000.000 en 36 cuotas. Costo total del Crédito: $1.023.760. Operación afecta a impuesto al crédito a cargo del cliente.",
-        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Mobie",
-      "categoria": "Cuotas Sin Interés",
-      "descuento": "20% dcto.",
-      "dia": [],
-      "dia_texto": "7 a 12 cuotas sin interés y",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Muévete sin contaminar en una MOBIE ELÉCTRICA.",
-        "Exclusivo pagando con tus Tarjetas de Crédito Santander.",
-        "Válido en www.mobie.cl y presencial",
-        "CAE 1,46%. Calculado por un monto referencial de compra de $1.000.000 en 12 cuotas. Costo total del Crédito: $1.007.920. Operación afecta a impuesto al crédito a cargo del cliente.",
-        "20% dcto. sobre el precio publicado en la página web www.mobie.cl. Exclusivo para las motos modelo BRAVO hasta agotar stock. Precio normal: $2.599.900, Precio oferta: $2.080.000 con IVA incluido.",
-        "El precio oferta, incluye el valor de inscripción y placa patente instalada.",
-        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Kitchen Center",
-      "categoria": "Cuotas Sin Interés",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "13 a 24 cuotas sin interés",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Renueva tu cocina con productos que combinan diseño, tecnología de Kitchen Center",
-        "Exclusivo pagando con tus Tarjetas de Crédito Santander.",
-        "Es válido en tiendas físicas.",
-        "CAE 1,51% Calculado por un monto referencial de compra de $1.000.000 en 12 cuotas. Costo total del Crédito: $1.015.840. Operación afecta a impuesto al crédito a cargo del cliente.",
-        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Rabbit Bikes",
-      "categoria": "Cuotas Sin Interés",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "3 a 24 cuotas sin interés",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Convierte tus paseos y viajes urbanos en traslados inolvidables con la energía de una Rabbit.",
-        "Exclusivo pagando con tus Tarjetas de Crédito Santander.",
-        "Válido presencial en Corner nivel 3 en mall Casa Costanera, en www.rabbitbikes.com y a través de link de pago Getnet de Rabbit.",
-        "CAE 1,51% Calculado por un monto referencial de compra de $1.000.000 en 24 cuotas. Costo total del Crédito: $1.015.840. Operación afecta a impuesto al crédito a cargo del cliente.",
-        "La entrega de los servicios, calidad y demás características de los productos es de exclusiva responsabilidad del Rabbit Sports SPA, sin ninguna injerencia o responsabilidad para Banco Santander Chile. Infórmese sobre la garantía estatal de los depósitos en su Banco o en www.cmfchile.cl. Promoción de 3 a 24 cuotas sin interés exclusiva con Tarjetas de Crédito Santander. CAE 1,51% Calculado por un monto referencial de compra de $1.000.000 en 24 cuotas. Costo total del Crédito: $1.015.840. Operación afecta a impuesto al crédito a cargo del cliente. Válido hasta el 31 de diciembre de 2025 para venta presencial a través de POS Getnet en Corner en Nivel 3 en Mall Casa Costanera y online a través de Link de Pago Getnet y Web Chekout Getnet en rabbitbikes.com."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "CDM Medical",
-      "categoria": "Cuotas Sin Interés",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "3 a 36 cuotas sin interés",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Equipos médicos de alta tecnología en Medicina Estética, Dermatología, Medicina Metabólica y más.",
-        "Exclusivo con tus Tarjetas de Crédito Santander y Tarjetas de Crédito Santander Empresas.",
-        "Válido en presencial y en www.cdmmedical.cl",
-        "No acumulable a otras promociones.",
-        "CAE 1,53% Calculado por un monto referencial de compra de $1.000.000 en 36 cuotas. Costo total del Crédito: $1.023.760 . Operación afecta a impuesto al crédito a cargo del cliente.",
-        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Ironside",
-      "categoria": "Cuotas Sin Interés",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "3 a 24 cuotas sin interés",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Venta de equipamiento deportivo",
-        "Exclusivo pagando con tus Tarjetas de Crédito, Débito Santander y Tarjeta de Crédito Santander Empresas.",
-        "Válido en www.ironside.cl",
-        "Ingresa los 6 primeros dígitos de tu Tarjeta como código de descuento.",
-        "CAE 1,51% Calculado por un monto referencial de compra de $1.000.000 en 24 cuotas. Costo total del Crédito: $1.015.840. Operación afecta a impuesto al crédito a cargo del cliente.",
-        "No acumulable con otras promociones.",
-        "Cuotas sin interés aplica con Tarjeta de Crédito Santander.",
-        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Duoc UC",
-      "categoria": "Cuotas Sin Interés",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "3 a 6 cuotas sin interés",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Estudia la carrera que siempre quisiste",
-        "Exclusivo pagando con tus Tarjetas de Crédito Santander y Tarjeta de Crédito Santander Empresas.",
-        "Válido en presencial y www.duoc.cl",
-        "Válido en Educación continua.",
-        "CAE 1,36% Calculado por un monto referencial de compra de $1.000.000 en 6 cuotas. Costo total del Crédito: $1.003.960. Operación afecta a impuesto al crédito a cargo del cliente.",
-        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Yamaha",
-      "categoria": "Cuotas Sin Interés",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "7 a 24 cuotas sin interés",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Descubre la gama de motos Yamaha",
-        "Exclusivo pagando con tus Tarjetas de Crédito Santander y Tarjeta de Crédito Santander Empresas.",
-        "Es válido en tiendas.",
-        "No es acumulable con otras promociones.",
-        "CAE 1,51% Calculado por un monto referencial de compra de $1.000.000 en 24 cuotas. Costo total del Crédito: $1.015.840. Operación afecta a impuesto al crédito a cargo del cliente.",
-        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Defontana",
-      "categoria": "Cuotas Sin Interés",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "4 a 24 cuotas sin interés",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Software de gestión integral, la solución para empresas.",
-        "Exclusivo pagando con tus Tarjetas de Crédito Santander y Tarjeta de Crédito Santander Empresas.",
-        "Es válido online.",
-        "No es acumulable con otras promociones.",
-        "CAE 1,51% Calculado por un monto referencial de compra de $1.000.000 en 24 cuotas. Costo total del Crédito: $1.015.840. Operación afecta a impuesto al crédito a cargo del cliente.",
-        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Pro Circuit",
-      "categoria": "Cuotas Sin Interés",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "13 a 24 cuotas sin interés",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Conoce toda la línea de motocicletas de ProCircuit",
-        "Exclusivo pagando con tus Tarjetas de Crédito Santander y Tarjeta de Crédito Santander Empresas.",
-        "Es válido en tiendas.",
-        "Sólo las marcas Keeway, Benelli y Royal Enfield son válidas pagando en hasta 24 cuotas sin interés.",
-        "No es acumulable con otras promociones.",
-        "CAE 1,51% Calculado por un monto referencial de compra de $1.000.000 en 24 cuotas. Costo total del Crédito: $1.015.840 . Operación afecta a impuesto al crédito a cargo del cliente.",
-        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Anfruns",
-      "categoria": "Cuotas Sin Interés",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "3 a 6 cuotas sin interés",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Encuentra autos 0km, usados y postventa exclusivo en sucursales Anfruns Motors.",
-        "Exclusivo pagando con tus Tarjetas de Crédito Santander y Tarjeta de Crédito Santander Empresas.",
-        "Válido en tiendas físicas y presencial.",
-        "No es acumulable con otras promociones.",
-        "CAE 1,36% Calculado por un monto referencial de compra de $1.000.000 en 6 cuotas. Costo total del Crédito: $1.003.960. Operación afecta a impuesto al crédito a cargo del cliente.",
-        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Ergostore",
-      "categoria": "Cuotas Sin Interés",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "7 a 24 cuotas sin interés",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Consigue los mejores escritorios eléctricos elevables, bicicleta de escritorio, cinta para caminar en la oficina y más",
-        "Exclusivo pagando con tus Tarjetas de Crédito Santander y Tarjeta de Crédito Santander Empresas.",
-        "Es válido en www.ergostore.cl y en tienda Román Díaz 2111, Ñuñoa.",
-        "No es acumulable con otras promociones.",
-        "CAE 1,51% Calculado por un monto referencial de compra de $1.000.000 en 12 cuotas. Costo total del Crédito: $1.015.840. Operación afecta a impuesto al crédito a cargo del cliente.",
-        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Claro",
-      "categoria": "Cuotas Sin Interés",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "13 a 36 cuotas sin interés",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Renueva tu equipo con Claro y conéctate con lo que más te gusta",
-        "Exclusivo pagando con tus Tarjetas de Crédito Santander y Tarjeta de Crédito Santander Empresas.",
-        "Es válido en tiendas y www.clarochile.cl",
-        "No es acumulable con otras promociones.",
-        "CAE 1,53% Calculado por un monto referencial de compra de $1.000.000 en 36 cuotas. Costo total del Crédito: $1.023.760. Operación afecta a impuesto al crédito a cargo del cliente.",
-        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "WOM",
-      "categoria": "Cuotas Sin Interés",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "13 a 24 cuotas sin interés",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Conoce todos los equipos y accesorios que tiene WOM para ti.",
-        "Exclusivo pagando con tus Tarjetas de Crédito Santander y Tarjeta de Crédito Santander Empresas.",
-        "Es válido en tiendas y www.wom.cl",
-        "No es acumulable con otras promociones.",
-        "Aplica a equipo de telefonía y accesorios.",
-        "No aplica para la contratación de planes móviles y fibras ópticas.",
-        "CAE 1,51% Calculado por un monto referencial de compra de $1.000.000 en 24 cuotas. Costo total del Crédito: $1.015.840. Operación afecta a impuesto al crédito a cargo del cliente.",
-        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "DKo Home",
-      "categoria": "Cuotas Sin Interés",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "3 a 12 cuotas sin interés",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "¡Renovar y decorar tu hogar u oficina nunca fue tan fácil!",
-        "Exclusivo pagando con tus Tarjetas de Crédito Santander y Tarjeta de Crédito Santander Empresas.",
-        "Es válido en tiendas físicas y online.",
-        "No es acumulable con otras promociones.",
-        "CAE 1,46% Calculado por un monto referencial de compra de $1.000.000 en 12 cuotas. Costo total del Crédito: $1.007.920. Operación afecta a impuesto al crédito a cargo del cliente.",
-        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "CUBE",
-      "categoria": "Cuotas Sin Interés",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "3 a 12 cuotas sin interés",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Especialistas en ciclismo.",
-        "Exclusivo pagando con tus Tarjetas de Crédito, Débito Santander y Tarjeta de Crédito Santander Empresas.",
-        "Ingresando los 6 primeros dígitos de tu Tarjeta como código de descuento.",
-        "Es válido en tiendas y online.",
-        "Avenida Padre Hurtado 1121, Vitacura, Santiago.",
-        "No es acumulable con otras promociones.",
-        "CAE 1,46% Calculado por un monto referencial de compra de $1.000.000 en 12 cuotas. Costo total del Crédito: $1.007.920. Operación afecta a impuesto al crédito a cargo del cliente.",
-        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Movistar",
-      "categoria": "Cuotas Sin Interés",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "13 a 36 cuotas sin interés",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "¡Conéctate con las mejores ofertas en equipos, planes y accesorios!",
-        "Exclusivo pagando con tus Tarjetas de Crédito Santander y Tarjeta de Crédito Santander Empresas.",
-        "Es válido en tiendas y www.movistar.cl",
-        "No es acumulable con otras promociones.",
-        "CAE 1,53% Calculado por un monto referencial de compra de $1.000.000 en 36 cuotas. Costo total del Crédito: $1.023.760. Operación afecta a impuesto al crédito a cargo del cliente.",
-        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "GAES",
-      "categoria": "Cuotas Sin Interés",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "13 a 24 cuotas sin interés",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Recupera el placer de escuchar con los expertos en audiología.",
-        "Exclusivo pagando con tus Tarjetas de Crédito Santander y Tarjeta de Crédito Santander Empresas.",
-        "Válido en centros auditivos Gaes de Chile.",
-        "No es acumulable con otras promociones.",
-        "CAE 1,51% Calculado por un monto referencial de compra de $1.000.000 en 18 cuotas. Costo total del Crédito: $1.015.840. Operación afecta a impuesto al crédito a cargo del cliente.",
-        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Clínica Lo Arcaya",
-      "categoria": "Cuotas Sin Interés",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "3 a 24 cuotas sin interés",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Clínica especialista en cirugía plástica y estétic a con equipos médicos acreditados y especialistas.",
-        "Exclusivo pagando con tus Tarjetas de Crédito Santander.",
-        "Válido online y presencial en Clínica Lo Arcaya, Las Condes.",
-        "No acumulable con otras promociones.",
-        "CAE de 1,51%. Calculado por un monto referencial de compra de $1.000.000 en 24 cuotas. Costo total del Crédito: $1.015.840. Operación afecta a impuesto al crédito.",
-        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Osoji",
-      "categoria": "Cuotas Sin Interés",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "12 a 24 cuotas sin interés",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "¡Haz tu vida más fácil con Osoji! Recuerda que:",
-        "Exclusivo pagando con tus Tarjetas de Crédito Santander y Tarjeta de Crédito Santander Empresas.",
-        "Cuotas sin interés válido en www.osoji.cl",
-        "No es acumulable con otras promociones.",
-        "CAE de 1,51%. Calculado por un monto referencial de compra de $1.000.000 en 24 cuotas. Costo total del Crédito: $1.015.840. Operación afecta a impuesto al crédito.",
-        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Bonificación de triple acumulación de Millas LATAM Pass (1 milla estructural + 2 millas adicionales por dólar gastado) solo aplica para las compras realizadas en campaña. Acreditación de Millas LATAM Pass, en caso de corresponder, se realizará en el mes siguiente de la compra. Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio; la administración del programa LATAM Pass es de exclusiva responsabilidad de LATAM Airlines Group S.A. sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "HP",
-      "categoria": "Cuotas Sin Interés",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "13 a 24 cuotas sin interés",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Descubre la gran colección de Notebooks, Desktops, Impresoras, Monitores, Accesorios y más.",
-        "Cuotas sin interés:",
-        "Exclusivo pagando con tus Tarjetas de Crédito Santander y Tarjeta de Crédito Santander Empresas.",
-        "Válido en www.hp.com",
-        "CAE 1,51% Calculado por un monto referencial de compra de $1.000.000 en 24 cuotas. Costo total del Crédito: $1.015.840. Operación afecta a impuesto al crédito a cargo del cliente.",
-        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
       ],
       "sucursales": []
     },
@@ -31220,28 +31425,6 @@
         "Código de descuento SALTOSANTANDER2026",
         "Salto sujeto a condiciones climáticas.",
         "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Cueros Vélez",
-      "categoria": "Cuotas Sin Interés",
-      "descuento": "30% dcto",
-      "dia": [],
-      "dia_texto": "3 a 6 cuotas sin interés +  por compras de 2 o más productos",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "3 a 6 cuotas sin interés",
-        "Pagando con tus Tarjetas de Crédito Santander.",
-        "Válido en tiendas físicas, línea WhatsApp +56 9 8673 2392 y tienda online velez.cl",
-        "Descuento no aplica para chaquetas, fragancias, morral Archaeology, bowling Lili, bandolera Mini lili, bandolera Garniel, productos de cuidado del cuero, productos exclusivo online, costo de la marcación láser, producto personalizado de taller artesano (pigmentación), ni bonos regalo.",
-        "Beneficio exclusivo para clientes que se registren en el programa Quiero Vélez.",
-        "Redimible una (1) sola vez por persona.",
-        "Cupón para compras online VZCL2X30BS",
-        "CAE 1,36% Calculado por un monto referencial de compra de $1.000.000 en 6 cuotas. Costo total del Crédito: $1.003.960. Operación afecta a impuesto al crédito a cargo del cliente.",
-        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
       ],
       "sucursales": []
     },
