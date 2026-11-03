@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-02T20:34",
+  "actualizado": "2026-11-03T18:09",
   "beneficios": [
     {
       "banco": "Banco de Chile",
@@ -11556,6 +11556,28 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "Pizzería Popular",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Jueves"
+      ],
+      "dia_texto": "jueves de noviembre",
+      "canal": null,
+      "vigencia": "Promoción válida del 01 al 30 de noviembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. jueves de noviembre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Tope de dto. $50.000"
+      ],
+      "sucursales": [
+        "Alonso de Córdova 4236, Región Metropolitana, Vitacura"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "Secret",
       "categoria": "Retail y Otras Marcas",
       "descuento": "20% dto.",
@@ -15540,6 +15562,30 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "Riccione",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Jueves"
+      ],
+      "dia_texto": "jueves de noviembre",
+      "canal": null,
+      "vigencia": "Promoción válida del 01 al 30 de noviembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial.",
+        "40% dto. todos los jueves de noviembre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Avenida Pablo Neruda 2451, Región de La Araucanía, Temuco"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "Marathon",
       "categoria": "Retail y Otras Marcas",
       "descuento": "20% dto. adicional",
@@ -17617,6 +17663,30 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "Al Pesto",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Jueves",
+        "Sábado"
+      ],
+      "dia_texto": "jueves y sábado de noviembre",
+      "canal": null,
+      "vigencia": "Promoción válida del 01 al 30 de noviembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. jueves y sábado de noviembre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Boulevard Los Ingles, Av. Chicureo Km 2, Región Metropolitana, Colina"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "Preuniversitario Alameda",
       "categoria": "Retail y Otras Marcas",
       "descuento": "25% dto.",
@@ -19138,6 +19208,155 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "PAD THAI",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Miércoles",
+        "Jueves",
+        "Viernes"
+      ],
+      "dia_texto": "miércoles a viernes de noviembre",
+      "canal": null,
+      "vigencia": "Promoción válida del 01 al 31 de octubre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. miércoles a viernes de noviembre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dto. $50.000 por mesa",
+        "El día 31/12 el beneficio no aplica para cenas o eventos de año nuevo."
+      ],
+      "sucursales": [
+        "Manuel Montt #231, Región Metropolitana, Providencia"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Porfirio",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Martes",
+        "Viernes",
+        "Sábado"
+      ],
+      "dia_texto": "martes, viernes y sábado de noviembre",
+      "canal": null,
+      "vigencia": "Promoción válida del 01 al 30 de noviembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. martes, viernes y sábado de noviembre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Av. Manuel Montt 697, Región Metropolitana, Providencia, Teléfono: +569 33919721"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Expendio",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Martes",
+        "Viernes",
+        "Sábado"
+      ],
+      "dia_texto": "martes, viernes y sábado de noviembre",
+      "canal": null,
+      "vigencia": "Promoción válida del 01 al 30 de noviembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. martes, viernes y sábado de noviembre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Av. Manuel Montt 727, RM, Providencia"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Vitali´s",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Martes",
+        "Viernes"
+      ],
+      "dia_texto": "martes y viernes de noviembre",
+      "canal": null,
+      "vigencia": "Promoción válida del 01 al 30 de noviembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. martes y viernes de noviembre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Av Vitacura #8133, Región Metropolitana, Vitacura"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Rishtedar",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Martes"
+      ],
+      "dia_texto": "martes de noviembre",
+      "canal": null,
+      "vigencia": "Promoción válida del 01 al 30 de noviembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. martes de noviembre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Holanda #160, Región Metropolitana, Providencia",
+        "Avda. Vitacura #5461, Región Metropolitana, Vitacura",
+        "Av. Principe De Gales #6500, Región Metropolitana, La Reina",
+        "El Rodeo #12850, Local 74 y 75, Región Metropolitana, Lo Barnechea"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "CuracaRibs",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Jueves"
+      ],
+      "dia_texto": "jueves de noviembre",
+      "canal": null,
+      "vigencia": "Promoción válida del 01 al 30 de noviembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial en Restaurantes CuracaRibs Ruta 68 y CuracaRibs Vitacura. 40% dto. jueves de noviembre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Tope de dcto. $50.000"
+      ],
+      "sucursales": [
+        "Ruta 68 km 45.500 km 45,5, Región Metropolitana, Curacaví",
+        "Los Abedules 3016, Región Metropolitana, Vitacura"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "Local Burger",
       "categoria": "Sabores",
       "descuento": "40% dto.",
@@ -19210,6 +19429,29 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "La Joya Cantina",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Jueves"
+      ],
+      "dia_texto": "jueves de noviembre",
+      "canal": null,
+      "vigencia": "Promoción válida del 01 al 30 de noviembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial. 40% dto. jueves de noviembre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dcto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "EUSEBIO LILLO #200, Región de Valparaíso, Valparaíso"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "Greta",
       "categoria": "Sabores",
       "descuento": "40% dto.",
@@ -19229,6 +19471,29 @@
       ],
       "sucursales": [
         "2 Nte. 3815, Región del Maule, Talca"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "The Clock",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Sábado"
+      ],
+      "dia_texto": "sábados de noviembre",
+      "canal": null,
+      "vigencia": "Promoción válida del 01 al 30 de noviembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial. 40% dto. sábados de noviembre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dcto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Conrado Amthauer #850, Los Lagos, Osorno"
       ]
     },
     {
@@ -19304,6 +19569,29 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "Au Restaurant",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Jueves"
+      ],
+      "dia_texto": "jueves de noviembre",
+      "canal": null,
+      "vigencia": "Promoción válida del 01 al 30 de noviembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. jueves de noviembre",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Obispo Hipólito Salas 135, Región del Bío Bío, Concepción"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "Matureo",
       "categoria": "Sabores",
       "descuento": "40% dto.",
@@ -19323,6 +19611,75 @@
       ],
       "sucursales": [
         "Conrado Amthauer #1076, Región de los Lagos, Osorno"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Mora Sushi",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Viernes"
+      ],
+      "dia_texto": "viernes de noviembre",
+      "canal": null,
+      "vigencia": "Promoción válida del 01 al 30 de noviembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. viernes de noviembre",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Fresia #236, Región de la Araucanía, Pucón"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Carbón",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Viernes"
+      ],
+      "dia_texto": "viernes de noviembre",
+      "canal": null,
+      "vigencia": "Promoción válida del 01 al 30 de noviembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. viernes de noviembre",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope $50.000 de dto"
+      ],
+      "sucursales": [
+        "Av. Central #184, Región de Valparaíso, Reñaca"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Costa Sushi",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Jueves"
+      ],
+      "dia_texto": "jueves de noviembre",
+      "canal": null,
+      "vigencia": "Promoción válida del 01 al 30 de noviembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. jueves de noviembre",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope $50.000 de dto"
+      ],
+      "sucursales": [
+        "Bernardo O´Higgins #1274, Región de Valparaíso, Valparaíso"
       ]
     },
     {
@@ -19373,6 +19730,29 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "Lebol Restobar",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Sábado"
+      ],
+      "dia_texto": "sábados de noviembre",
+      "canal": null,
+      "vigencia": "Promoción válida del 01 al 30 de noviembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. sábados de noviembre",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope $50.000 de dto"
+      ],
+      "sucursales": [
+        "Av. Ramón carrasco 99, Región del Bio Bio, Concepción"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "Jazz Restaurant",
       "categoria": "Sabores",
       "descuento": "40% dto.",
@@ -19392,6 +19772,52 @@
       ],
       "sucursales": [
         "Alonso García de Ramón #215, Lomas de San Andrés, Región del Biobío, Concepción"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Mirazu",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Sábado"
+      ],
+      "dia_texto": "sábados de noviembre",
+      "canal": null,
+      "vigencia": "Promoción válida del 01 al 30 de noviembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. sábados de noviembre",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope $50.000 de dto"
+      ],
+      "sucursales": [
+        "Avenida Borgoño #15460 Sector 5, Región de Valparaíso, Viña del Mar"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Da Alessandro",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Jueves"
+      ],
+      "dia_texto": "jueves de noviembre",
+      "canal": null,
+      "vigencia": "Promoción válida del 01 al 30 de noviembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. jueves de noviembre",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope $50.000 de dto"
+      ],
+      "sucursales": [
+        "Ramón Freire #1105, Edificio Plaza Allegra, Región de los lagos, Puerto Varas"
       ]
     },
     {
@@ -19669,6 +20095,33 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "Brasas del Arriero",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Lunes",
+        "Martes",
+        "Miércoles",
+        "Jueves",
+        "Viernes"
+      ],
+      "dia_texto": "lunes a viernes de noviembre",
+      "canal": null,
+      "vigencia": "Promoción válida del 01 al 30 de noviembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. lunes a viernes de noviembre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Trinidad Ote. 1307, Región Metropolitana, La Florida, (2) 2710 2321"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "Basking by Aurea",
       "categoria": "Sabores",
       "descuento": "40% dto.",
@@ -19711,6 +20164,29 @@
       ],
       "sucursales": [
         "Sta. Inés 1513, 1515 - 1517, Región Metropolitana, La Florida"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Güeros - Terrazas San Cristobal",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Jueves"
+      ],
+      "dia_texto": "jueves de noviembre",
+      "canal": null,
+      "vigencia": "Promoción válida del 01 al 30 de noviembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial. 40% dto. jueves de noviembre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dcto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Terrazas San Cristobal, Constitución #241, Región Metropolitana, Providencia"
       ]
     },
     {
@@ -20249,25 +20725,52 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Novu",
+      "comercio": "SABOR Y AROMA",
       "categoria": "Sabores",
       "descuento": "40% dto.",
       "dia": [
-        "Miércoles"
+        "Miércoles",
+        "Viernes"
       ],
-      "dia_texto": "miércoles de noviembre",
+      "dia_texto": "miércoles y viernes de noviembre",
       "canal": null,
       "vigencia": "Promoción válida del 01 al 30 de noviembre de 2026.",
       "condiciones": [
-        "Válido para consumo presencial 40% dto. miércoles de noviembre.",
+        "Válido para consumo presencial 40% dto. miércoles y viernes de noviembre.",
         "Solicita el descuento al momento de pagar en el restaurant.",
         "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
         "No acumulable con otras promociones.",
         "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dcto. $50.000 por mesa"
+        "Tope dto. $50.000 por mesa"
       ],
       "sucursales": [
-        "Carrera #301, Maule, Curicó"
+        "Raúl Labbe #12559, Región Metropolitana, Lo Barnechea"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Miscelaneo Bar",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Martes",
+        "Miércoles",
+        "Jueves",
+        "Sábado"
+      ],
+      "dia_texto": "martes, miércoles, jueves y sábado de noviembre",
+      "canal": null,
+      "vigencia": "Promoción válida del 01 al 30 de noviembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. martes, miércoles, jueves y sábado de noviembre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Santa María #5870, local 15, Región Metropolitana, Vitacura"
       ]
     },
     {
@@ -20370,6 +20873,56 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "DO SUSHI",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Miércoles",
+        "Sábado"
+      ],
+      "dia_texto": "miércoles y sábado de noviembre",
+      "canal": null,
+      "vigencia": "Promoción válida del 01 al 30 de noviembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. miércoles y sábado de noviembre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Avenida Suecia #155, Local 0167, Región Metropolitana, Providencia"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Basildon",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Lunes",
+        "Martes",
+        "Miércoles",
+        "Jueves"
+      ],
+      "dia_texto": "lunes a jueves de noviembre",
+      "canal": null,
+      "vigencia": "Promoción válida del 01 al 30 de noviembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. lunes a jueves de noviembre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope $50.000 de dto"
+      ],
+      "sucursales": [
+        "Orompello #68, Región del Bio Bio, Concepcion"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "Tololo Beef",
       "categoria": "Sabores",
       "descuento": "40% dto.",
@@ -20464,6 +21017,52 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "Otto Burger",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Viernes"
+      ],
+      "dia_texto": "viernes de noviembre",
+      "canal": null,
+      "vigencia": "Promoción válida del 01 al 30 de noviembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial. 40% dto. viernes de noviembre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope de dto. $50.000"
+      ],
+      "sucursales": [
+        "Av Manuel Labra Lillo #350, Región Maule, Curicó"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Sello de Raza",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Jueves"
+      ],
+      "dia_texto": "jueves de noviembre",
+      "canal": null,
+      "vigencia": "Promoción válida del 01 al 30 de noviembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. jueves de noviembre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Las Encinas #191, Región de los Ríos, Valdivia"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "Mosto",
       "categoria": "Sabores",
       "descuento": "40% dto.",
@@ -20506,6 +21105,75 @@
       ],
       "sucursales": [
         "Pdte. Federico Errázuriz #952, Región de Magallanes y de la Antártica Chilena, Punta Arenas"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Kechua - Terrazas San Cristóbal",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Jueves"
+      ],
+      "dia_texto": "jueves de noviembre",
+      "canal": null,
+      "vigencia": "Promoción válida del 01 al 30 de noviembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial. 40% dto. jueves de noviembre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dcto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Terrazas San Cristobal, Constitución #241, Región Metropolitana, Providencia"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Siete Negronis - Terrazas San Cristóbal",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Jueves"
+      ],
+      "dia_texto": "jueves de noviembre",
+      "canal": null,
+      "vigencia": "Promoción válida del 01 al 30 de noviembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial. 40% dto. jueves de noviembre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dcto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Terrazas San Cristobal, Constitución #241, Región Metropolitana, Providencia"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Tapas y Birra - Terrazas San Cristóbal",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Jueves"
+      ],
+      "dia_texto": "jueves de noviembre",
+      "canal": null,
+      "vigencia": "Promoción válida del 01 al 30 de noviembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial. 40% dto. jueves de noviembre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dcto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Terrazas San Cristobal, Constitución #241, Región Metropolitana, Providencia"
       ]
     },
     {
@@ -21492,6 +22160,32 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "Majestic",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Jueves",
+        "Viernes",
+        "Sábado"
+      ],
+      "dia_texto": "jueves, viernes y sábado de noviembre",
+      "canal": null,
+      "vigencia": "Promoción válida del 01 al 30 de noviembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. jueves, viernes y sábado de noviembre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial en www. majestic.cl o llamando al 242450337.",
+        "Dto no válido para el 14 de febrero día de los enamorados.",
+        "Tope dcto. $50.000 por mesa."
+      ],
+      "sucursales": [
+        "Av. Pdte. Kennedy Lateral 5600, Region Metropolitana, Las Condes"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "Bioparque Buinzoo",
       "categoria": "Entretención y Deportes",
       "descuento": "20% dto.",
@@ -21512,6 +22206,29 @@
       ],
       "sucursales": [
         "Panamericana Sur Km. 32, Región Metropolitana, Buin"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "El mesón de la Patagonia",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Jueves"
+      ],
+      "dia_texto": "jueves de noviembre",
+      "canal": null,
+      "vigencia": "Promoción válida del 01 al 30 de noviembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial. 40% dto. jueves de noviembre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dcto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Lo Barnechea #1223, Región Metropolitana, Lo Barnechea"
       ]
     },
     {
@@ -21575,6 +22292,29 @@
         "Local 144 - 146, AV EDO FREI MONTALVA 1110, MAGALLANES, PUNTA ARENAS",
         "CALLE 21 DE MAYO # 419, AYSEN, COYHAIQUE",
         "Local 115, CALLE SAN FRANCISCO N#666, LOS LAGOS, PUERTO VARAS"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Lumiére Bistró",
+      "categoria": "Sabores",
+      "descuento": "50% dto.",
+      "dia": [
+        "Viernes"
+      ],
+      "dia_texto": "viernes de noviembre",
+      "canal": null,
+      "vigencia": "Promoción válida desde el 01 al 30 de noviembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 50% dto. pagando con Tarjetas Visa Infinite todos los viernes de noviembre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA INFINITE del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dto. $65.000 por mesa"
+      ],
+      "sucursales": [
+        "Puerta del Sol #19, Región Metropolitana, Las Condes"
       ]
     },
     {
@@ -21697,6 +22437,29 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "Verde Sazón",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días de noviembre",
+      "canal": null,
+      "vigencia": "Promoción válida del 01 al 30 de noviembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. todos los días de noviembre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dcto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Miguel Claro 1873, Región Metropolitana, Providencia"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "AquaChile",
       "categoria": "Sabores",
       "descuento": "20% dto.",
@@ -21740,6 +22503,75 @@
         "El beneficio es acumulable con otros descuentos de la aplicación."
       ],
       "sucursales": []
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Barbazul - Terrazas San Cristóbal",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Jueves"
+      ],
+      "dia_texto": "jueves de noviembre",
+      "canal": null,
+      "vigencia": "Promoción válida del 01 al 30 de noviembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial. 40% dto. jueves de noviembre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dcto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Terrazas San Cristobal, Constitución #241, Región Metropolitana, Providencia"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Zacarías - Terrazas San Cristóbal",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Jueves"
+      ],
+      "dia_texto": "jueves de noviembre",
+      "canal": null,
+      "vigencia": "Promoción válida del 01 al 30 de noviembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial. 40% dto. jueves de noviembre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dcto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Terrazas San Cristobal, Constitución #241, Región Metropolitana, Providencia"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "La Chimba - Terrazas San Cristóbal",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Jueves"
+      ],
+      "dia_texto": "jueves de noviembre",
+      "canal": null,
+      "vigencia": "Promoción válida del 01 al 30 de noviembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial. 40% dto. jueves de noviembre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dcto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Terrazas San Cristobal, Constitución #241, Región Metropolitana, Providencia"
+      ]
     },
     {
       "banco": "Banco de Chile",
@@ -21845,6 +22677,29 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "Cervecería Kunstmann Valdivia",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Viernes"
+      ],
+      "dia_texto": "viernes de noviembre",
+      "canal": null,
+      "vigencia": "Promoción válida del 01 al 30 de noviembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. viernes de noviembre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope $50.000 de dto"
+      ],
+      "sucursales": [
+        "Ruta T 350 #950, Región de los Ríos, Valdivia"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "Adidas",
       "categoria": "Retail y Otras Marcas",
       "descuento": "30% dto. adicional",
@@ -21942,6 +22797,52 @@
         "Descuento no aplica para compras con factura y en cambios."
       ],
       "sucursales": []
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Rolls Sushi & Nikkei",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Viernes",
+        "Domingo"
+      ],
+      "dia_texto": "viernes y domingo de noviembre",
+      "canal": null,
+      "vigencia": "Promoción válida del 01 al 30 de noviembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. viernes y domingo de noviembre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Boulevard Los Ingles, Av. Chicureo Km 2, Región Metropolitana, Colina"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Doga Sushi",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Viernes"
+      ],
+      "dia_texto": "viernes de noviembre",
+      "canal": null,
+      "vigencia": "Promoción válida del 01 al 30 de noviembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. viernes de noviembre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Tope de dto. $50.000"
+      ],
+      "sucursales": [
+        "Av Vitacura #2908, Región Metropolitana, Las Condes"
+      ]
     },
     {
       "banco": "Banco de Chile",
@@ -22044,29 +22945,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Chingana",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Martes"
-      ],
-      "dia_texto": "martes de noviembre",
-      "canal": null,
-      "vigencia": "Promoción válida del 01 al 31 de octubre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial 40% dto. martes de octubre.",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dcto. $50.000 por mesa"
-      ],
-      "sucursales": [
-        "3 Poniente 563, Región de Valparaíso, Viña del Mar"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "Chili's",
       "categoria": "Sabores",
       "descuento": "40% dto.",
@@ -22163,6 +23041,52 @@
       "sucursales": [
         "Calle Antonio Varas #216, Oficina #805, Región de Los Lagos, Puerto Montt",
         "Calle Francisco Bilbao #1129, Oficina #1301, Región de Los Lagos, Osorno"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Novu",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Miércoles"
+      ],
+      "dia_texto": "miércoles de noviembre",
+      "canal": null,
+      "vigencia": "Promoción válida del 01 al 30 de noviembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. miércoles de noviembre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dcto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Carrera #301, Maule, Curicó"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "LA CHINGANA DEL BARRIO",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Martes"
+      ],
+      "dia_texto": "martes de noviembre",
+      "canal": null,
+      "vigencia": "Promoción válida del 01 al 31 de octubre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. martes de octubre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dcto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "3 Poniente 563, Región de Valparaíso, Viña del Mar"
       ]
     },
     {
@@ -22429,6 +23353,856 @@
       ]
     },
     {
+      "banco": "Banco de Chile",
+      "comercio": "Farmacias Cruz Verde",
+      "categoria": "Salud y Belleza",
+      "descuento": "Hasta 60% dto.",
+      "dia": [
+        "Lunes"
+      ],
+      "dia_texto": "lunes",
+      "canal": "Ambos",
+      "vigencia": "Promoción válida hasta el 15 de febrero de 2027.",
+      "condiciones": [
+        "25% dto. en medicamentos y vitaminas todos los lunes.",
+        "Todos los lunes de noviembre adicionalmente tienes: Hasta 40% dto. en Diabetes, colesterol y tiroides en productos seleccionados. Hasta 60% dto. en Tensiómetros. Beneficio válido para clientes inscritos en Club Cruz Verde. Puedes inscríbete en cruzverde.cl , App Cruz Verde o en cajas.",
+        "Válido para compra presencial, en cruzverde.cl y App Cruz Verde. El descuento se verá reflejado directamente al momento de pagar con tus Tarjetas de Chile.",
+        "No acumulable con otras promociones.",
+        "Descuento total incluye el beneficio del Club Cruz Verde y un descuento adicional por pago con tarjetas del Banco de Chile.",
+        "Revisa productos incluidos en cruzverde.cl/descuentos-banco-chile/"
+      ],
+      "sucursales": [
+        "Avenida Pedro Fontova 7523, Región Metropolitana, Huechuraba",
+        "Vitacura 2837, Región Metropolitana, Las Condes",
+        "Avenida Eliodoro Yañez 1281, Región Metropolitana, Providencia",
+        "Avenida Manuel Montt 1221, Región Metropolitana, Providencia",
+        "Avenida Vicuña Mackenna 7110, Región Metropolitana, La Florida",
+        "Alameda 3002, Región Metropolitana, Santiago",
+        "Ahumada 127, Región Metropolitana, Santiago",
+        "Avenida José Pedro Alessandri 331, Región Metropolitana, Ñuñoa",
+        "Vitacura 6602, Región Metropolitana, Vitacura",
+        "Avenida Recoleta 320, Región Metropolitana, Recoleta",
+        "Avenida Presidente Jorge Alessandri 20040, Región Metropolitana, San Bernardo",
+        "Huérfanos 806, Región Metropolitana, Santiago",
+        "Providencia 2012, Región Metropolitana, Providencia",
+        "Monjitas 801, Región Metropolitana, Santiago",
+        "Ahumada 3, Región Metropolitana, Santiago",
+        "Avenida Providencia 2120, Región Metropolitana, Providencia",
+        "Barcelona 2095, Región Metropolitana, Providencia",
+        "Avenida Américo Vespucio 399, Región Metropolitana, Maipú",
+        "Avenida Concha y Toro 1086, Región Metropolitana, Puente Alto",
+        "Avenida Concha y Toro 398, Región Metropolitana, Puente Alto",
+        "Avenida Los Pajaritos 1920, Región Metropolitana, Maipú",
+        "Puente 598, Región Metropolitana, Santiago",
+        "Avenida Bulnes 216, Región Metropolitana, Santiago",
+        "Arturo Prat 599, Región Metropolitana, San Bernardo",
+        "Avenida Vicuña Mackenna 699, Región Metropolitana, Santiago",
+        "Apoquindo 6005, Región Metropolitana, Las Condes",
+        "Zerafin Zamora 57, Región Metropolitana, La Florida",
+        "Manquehue 911, Región Metropolitana, Las Condes",
+        "Avenida Bernardo OHiggins 658, Región Metropolitana, Santiago",
+        "Estado 397, Región Metropolitana, Santiago",
+        "Irarrázaval 2520, Región Metropolitana, Ñuñoa",
+        "Salvador 42, Región Metropolitana, Providencia",
+        "Vitacura 4175, Región Metropolitana, Vitacura",
+        "Avenida Bernardo OHiggins 1461, Región Metropolitana, Santiago",
+        "Avenida Américo Vespucio 1307, Región Metropolitana, Las Condes",
+        "Avenida General Oscar Bonilla 5900, Región Metropolitana, Lo Prado",
+        "Avenida Salvador 1822, Región Metropolitana, Ñuñoa",
+        "Avenida Concha y Toro 3955, Región Metropolitana, Puente Alto",
+        "Avenida Francisco Bilbao 2851, Región Metropolitana, Providencia",
+        "Avenida Camilo Henríquez 3692, Región Metropolitana, Puente Alto",
+        "Avenida Vitacura 2700, Región Metropolitana, Las Condes",
+        "Avenida Monseñor Escriva De Balaguer 9499, Región Metropolitana, Vitacura",
+        "Gran Avenida José Miguel Carrera 10375, Región Metropolitana, El Bosque",
+        "Bellavista 415, Región Metropolitana, Providencia",
+        "Avenida Vicuña Mackenna 6100, Región Metropolitana, La Florida",
+        "Avenida Consistorial 2701, Región Metropolitana, Peñalolén",
+        "Avenida San Pablo 6256, Región Metropolitana, Lo Prado",
+        "Avenida Los Conquistadores 1850, Región Metropolitana, Providencia",
+        "Avenida Paseo Colina Sur 14500, Región Metropolitana, Colina",
+        "Avenida Apoquindo 4400, Región Metropolitana, Las Condes",
+        "Ingeniero Eduardo Dominguez 666, Región Metropolitana, Maipú",
+        "Estación Plaza de Puente Alto, Región Metropolitana, Puente Alto",
+        "Avenida Parque Central Esquina Camino a Melipilla Lote 1, Región Metropolitana, Maipú",
+        "Avenida Bernardo OHiggins 1132, Región Metropolitana, Talagante",
+        "Avenida Macul 2841, Región Metropolitana, Macul",
+        "Colombia 9187, Región Metropolitana, La Florida",
+        "Evaristo Lillo 29, Región Metropolitana, Las Condes",
+        "Avenida Bernardo OHiggins 3250, Región Metropolitana, Estación Central",
+        "Santo Domingo 67, Región Metropolitana, Puente Alto",
+        "Avenida Vicuña Mackenna 9797, Región Metropolitana, La Florida",
+        "Avenida Los Militares 6900, Región Metropolitana, Las Condes",
+        "Lo Fontecilla 441, Región Metropolitana, Las Condes",
+        "Lo Fontecilla 442, Región Metropolitana, Las Condes",
+        "Avenida Independencia 936, Región Metropolitana, Independencia",
+        "Avenida Carlos Ossandón 1188, Región Metropolitana, La Reina",
+        "Portugal 175, Región Metropolitana, Santiago",
+        "Avenida El Bosque Norte 190, Región Metropolitana, Las Condes",
+        "Avenida Kennedy 7915, Región Metropolitana, Las Condes",
+        "Avenida Pedro De Valdivia 3601, Región Metropolitana, Ñuñoa",
+        "Avenida Américo Vespucio 33, Región Metropolitana, La Cisterna",
+        "Patagonia 19, Región Metropolitana, Las Condes",
+        "Avenida Apoquindo 5020, Región Metropolitana, Las Condes",
+        "Avenida Luis Pasteur 5519, Región Metropolitana, Vitacura",
+        "Prebistero Moraga Sur 1, Región Metropolitana, Curacavi",
+        "Huérfanos 956, Región Metropolitana, Santiago",
+        "Sanchez Fontecilla 8968, Región Metropolitana, La Florida",
+        "Avenida Nonato Coo 3108, Región Metropolitana, Puente Alto",
+        "Avenida Concepción 47, Región Metropolitana, Colina",
+        "Avenida Diego Portales 6303, Región Metropolitana, Puente Alto",
+        "Isla Portezuelo 615, Región Metropolitana, Pudahuel",
+        "Avenida Américo Vespucio 1040, Región Metropolitana, Las Condes",
+        "Avenida Nueva Costanera 4177, Región Metropolitana, Vitacura",
+        "Amunategui 94, Región Metropolitana, Santiago",
+        "Lira 49, Región Metropolitana, Santiago",
+        "Santa Isabel 865, Región Metropolitana, Providencia",
+        "Avenida El Parque 4023, Región Metropolitana, Huechuraba",
+        "Avenida Presidente Kennedy 5413, Región Metropolitana, Las Condes",
+        "Avenida Alexander Fleming 7759, Región Metropolitana, Las Condes",
+        "Avenida Pedro Fontova 7789, Región Metropolitana, Huechuraba",
+        "Avenida Vicuña Mackenna 7110, Región Metropolitana, La Florida",
+        "Avenida Ossa 1220, Región Metropolitana, Ñuñoa",
+        "Providencia 2594, Región Metropolitana, Providencia",
+        "Avenida Cristóbal Colón 4008, Región Metropolitana, Las Condes",
+        "Avenida Vicuña Mackenna 7110, Región Metropolitana, La Florida",
+        "Principe de Gales 6812, Región Metropolitana, La Reina",
+        "Avenida Francisco Bilbao 2191, Región Metropolitana, Providencia",
+        "Avenida Cristóbal Colón 6071, Región Metropolitana, Las Condes",
+        "Avenida Francisco Bilbao 4144, Región Metropolitana, Las Condes",
+        "Gran Avenida 6567, Región Metropolitana, La Cisterna",
+        "Concha y Toro 194, Región Metropolitana, Puente Alto",
+        "Serrano 501, Región Metropolitana, Melipilla",
+        "Santa Rosa 13015, Región Metropolitana, La Pintana",
+        "José Joaquín Perez 7262, Región Metropolitana, Cerro Navia",
+        "Avenida Bernardo OHiggins 3806, Región Metropolitana, Estación Central",
+        "Avenida Domingo Santa Maria 3962, Región Metropolitana, Renca",
+        "Vivaceta 975, Región Metropolitana, Independencia",
+        "Las Bellotas 182, Región Metropolitana, Providencia",
+        "Gran Avenida 9863, Región Metropolitana, El Bosque",
+        "San Borja 184, Región Metropolitana, Estación Central",
+        "Avenida La Florida 9385, Región Metropolitana, La Florida",
+        "Avenida Los Pajaritos 3302, Región Metropolitana, Maipú",
+        "Avenida Los Pajaritos 2222, Región Metropolitana, Maipú",
+        "Avenida Presidente Kennedy 9001, Región Metropolitana, Las Condes",
+        "Santa Beatriz 22, Región Metropolitana, Providencia",
+        "Avenida Serrano 323, Región Metropolitana, Melipilla",
+        "Amanda Labarca 92, Región Metropolitana, Santiago",
+        "Avenida Apoquindo 3539, Región Metropolitana, Las Condes",
+        "Avenida 5 de Abril 81, Región Metropolitana, Maipú",
+        "Huérfanos 1201, Región Metropolitana, Santiago",
+        "Valle Apacible 10528, Región Metropolitana, Lo Barnechea",
+        "Eyzaguirre 307, Región Metropolitana, San Bernardo",
+        "Avenida La Dehesa 1751, Región Metropolitana, Lo Barnechea",
+        "Avenida Santa Maria 7030, Región Metropolitana, Vitacura",
+        "Avenida Los Dominicos 7550, Región Metropolitana, Las Condes",
+        "Avenida Pedro De Valdivia 2520, Región Metropolitana, Ñuñoa",
+        "Carmen Fariña 6509, Región Metropolitana, Vitacura",
+        "Avenida Américo Vespucio 1737, Región Metropolitana, Huechuraba",
+        "Ahumada 298, Región Metropolitana, Santiago",
+        "Carretera General San Martin 68, Región Metropolitana, Colina",
+        "Principe de Gales 9200, Región Metropolitana, La Reina",
+        "Coventry 601, Región Metropolitana, Ñuñoa",
+        "Avenida Camilo Henríquez 3692, Región Metropolitana, Puente Alto",
+        "OHiggins 572, Región Metropolitana, San Bernardo",
+        "Camino San Alberto Hurtado 2390, Región Metropolitana, Padre Hurtado",
+        "Avenida Mariano Sánchez Fontecilla 12000, Región Metropolitana, Peñalolén",
+        "Avenida La Dehesa 1445, Región Metropolitana, Lo Barnechea",
+        "Avenida Francisco Bilbao 8750, Región Metropolitana, Las Condes",
+        "Avenida Américo Vespucio 1001, Región Metropolitana, Maipú",
+        "Avenida Bernardo OHiggins 1092, Región Metropolitana, Talagante",
+        "Camino Lonquen s/n, Región Metropolitana, Calera de Tango",
+        "Camino El Alba 11101, Región Metropolitana, Las Condes",
+        "Avenida Bernardo OHiggins 358, Región Metropolitana, Quilicura",
+        "Tobalaba 4507, Región Metropolitana, Ñuñoa",
+        "Avenida Vitacura 8201, Región Metropolitana, Vitacura",
+        "Mar Tirreno 5449, Región Metropolitana, Peñalolén",
+        "21 de Mayo 4436, Región Metropolitana, Peñaflor",
+        "Ahumada 201, Región Metropolitana, Santiago",
+        "Avenida Irarrázaval 4949, Región Metropolitana, Ñuñoa",
+        "Gran Avenida 5731, Región Metropolitana, San Miguel",
+        "Avenida Concha y Toro 3854, Región Metropolitana, Puente Alto",
+        "Avenida Perú 805, Región Metropolitana, Recoleta",
+        "Antonio Varas 2280, Región Metropolitana, Ñuñoa",
+        "Avenida Providencia 1310, Región Metropolitana, Providencia",
+        "Avenida Presidente Kennedy 9001, Región Metropolitana, Las Condes",
+        "José Joaquín Prieto 5531, Región Metropolitana, Pedro Aguirre Cerda",
+        "Avenida José Pedro Alessandri 1166, Región Metropolitana, Ñuñoa",
+        "Providencia 2693, Región Metropolitana, Providencia",
+        "Avenida Apoquindo 3337, Región Metropolitana, Las Condes",
+        "Plaza de Armas 561, Región Metropolitana, Melipilla",
+        "Bandera 313, Región Metropolitana, Santiago",
+        "Lo Fontecilla 441, Región Metropolitana, Las Condes",
+        "Eyzaguirre 574, Región Metropolitana, San Bernardo",
+        "Andrés Bello 2465, Región Metropolitana, Providencia",
+        "Santa Marta De Huechuraba 7300, Región Metropolitana, Huechuraba",
+        "Gran Avenida 4501, Región Metropolitana, San Miguel",
+        "Avenida Vitacura 3480, Región Metropolitana, Vitacura",
+        "Avenida Providencia 2502, Región Metropolitana, Providencia",
+        "Rosario Norte 100, Región Metropolitana, Las Condes",
+        "Avenida Portugal 481, Región Metropolitana, Santiago",
+        "Vicente Valdes 85, Región Metropolitana, La Florida",
+        "Irarrázaval 5696, Región Metropolitana, Ñuñoa",
+        "Avenida La Plaza 1250, Región Metropolitana, Las Condes",
+        "Carlos Silva Vildósola 9073, Región Metropolitana, La Reina",
+        "Avenida Irarrázaval 2401, Región Metropolitana, Ñuñoa",
+        "Avenida Chicureo s/n, Región Metropolitana, Colina",
+        "Avenida Larrain 5862, Región Metropolitana, La Reina",
+        "Avenida Portales 3698, Región Metropolitana, San Bernardo",
+        "Avenida Américo Vespucio 1501, Región Metropolitana, Cerrillos",
+        "San José De Maipo 7722, Región Metropolitana, Puente Alto",
+        "Alcalde Fernando Castillo Velasco 8751, Región Metropolitana, La Reina",
+        "Avenida Manquehue Oriente 2030, Región Metropolitana, Lo Barnechea",
+        "Avenida Américo Vespucio 680, Región Metropolitana, Recoleta",
+        "Santa María 6736, Región Metropolitana, Vitacura",
+        "Avenida Vicuña Mackenna Oriente 7110, Región Metropolitana, La Florida",
+        "Isabel La Católica 5075, Región Metropolitana, Las Condes",
+        "Avenida Luis Pasteur 6625, Región Metropolitana, Vitacura",
+        "Doctor Manuel Barros Borgoño 63, Región Metropolitana, Providencia",
+        "Isidora Goyenechea 3600, Región Metropolitana, Las Condes",
+        "Avenida Ricardo Lyon 32, Región Metropolitana, Providencia",
+        "Avenida Vitacura 4607, Región Metropolitana, Vitacura",
+        "Avenida Vicuña Mackenna Oriente 7110, Región Metropolitana, La Florida",
+        "Stand Móvil Vive Más, Región Metropolitana, Santiago",
+        "Cerro El Plomo 5680, Región Metropolitana, Las Condes",
+        "Avenida Américo Vespucio 33, Región Metropolitana, La Cisterna",
+        "Manquehue Sur 31, Región Metropolitana, Las Condes",
+        "Avenida Paseo Pie Andino 4850, Región Metropolitana, Lo Barnechea",
+        "Avenida Chamisero 10290, Región Metropolitana, Colina",
+        "Avenida Vicuña Mackenna 4686, Región Metropolitana, Macul",
+        "Avenida Libertador Bernador OHiggins 1322, Región Metropolitana, Santiago",
+        "Carlos Peña Otaegui 11900, Región Metropolitana, Las Condes",
+        "Avenida Recoleta 460, Región Metropolitana, Recoleta",
+        "Gran Avenida 8999, Región Metropolitana, La Cisterna",
+        "Camino Carlos Vial Infante 25, Región Metropolitana, Pirque",
+        "Avenida Concha y Toro 3458, Región Metropolitana, Puente Alto",
+        "Avenida Independencia 565, Región Metropolitana, Independencia",
+        "Avenida Los Presidentes 8950, Región Metropolitana, Peñalolén",
+        "Calle Suecia 55, Región Metropolitana, Providencia",
+        "Balmaceda 750, Región Metropolitana, Peñaflor",
+        "Luis Thayer Ojeda 150, Región Metropolitana, Providencia",
+        "Avenida El Bosque Norte 121, Región Metropolitana, Las Condes",
+        "Avenida Américo Vespucio 1651, Región Metropolitana, Quilicura",
+        "Avenida Américo Vespucio 1501, Región Metropolitana, Cerrillos",
+        "Avenida Padre Hurtado Sur 875, Región Metropolitana, Las Condes",
+        "Avenida Américo Vespucio 1737, Región Metropolitana, Huechuraba",
+        "Avenida Las Condes 12340, Región Metropolitana, Vitacura",
+        "Avenida Providencia 1956, Región Metropolitana, Providencia",
+        "Pedro De Valdivia 1698, Región Metropolitana, Providencia",
+        "Eliodoro Yáñez 2616, Región Metropolitana, Providencia",
+        "Camino Apacible 635, Región Metropolitana, Pudahuel",
+        "Chicureo 2300, Región Metropolitana, Colina",
+        "Nueva Costanera 3900, Región Metropolitana, Vitacura",
+        "Apoquindo 5680, Región Metropolitana, Las Condes",
+        "Altos del Parque 5800, Región Metropolitana, Peñalolén",
+        "Avenida El Llano Subercaseasux 3519, Región Metropolitana, San Miguel",
+        "Puente 689, Región Metropolitana, Santiago",
+        "Avenida Americo Vespucio 1737, Región Metropolitana, Huechuraba",
+        "Avenida Apoquindo 4610, Región Metropolitana, Las Condes",
+        "Francisco Bilbao 8750, Región Metropolitana, Las Condes",
+        "Avenida Américo Vespucio 3100, Región Metropolitana, Peñalolén",
+        "Avenida Los Toros 5441, Región Metropolitana, Puente Alto",
+        "Avenida Kennedy 5601, Región Metropolitana, Las Condes",
+        "Gran Avenida 4501, Región Metropolitana, San Miguel",
+        "Profesor Zañartu 1121, Región Metropolitana, Independencia",
+        "Avenida Los Pajaritos 2222, Región Metropolitana, Maipú",
+        "Estado 234, Región Metropolitana, Santiago",
+        "Avenida Jose Alcalde Délano 10533, Región Metropolitana, Lo Barnechea",
+        "Avenida Libertador Bernardo OHiggins 1020, Región Metropolitana, Santiago",
+        "Avenida Concha y Toro 3955, Región Metropolitana, Puente Alto",
+        "Avenida OHiggins 581, Región Metropolitana, Quilicura",
+        "José Manuel Balmaceda 114, Región Metropolitana, Buin",
+        "Aeropuerto Internacional Arturo Merino Benites, Región Metropolitana, Pudahuel",
+        "Los Halcones 2180, Región Metropolitana, Lampa",
+        "Avenida Apoquindo 3910, Región Metropolitana, Las Condes",
+        "Avenida Padre Hurtado Sur 875, Región Metropolitana, Las Condes",
+        "Estoril 450, Región Metropolitana, Las Condes",
+        "Calle Jose Manuel Infante 927, Región Metropolitana, Providencia",
+        "Avenida Pedro Aguirre Cerda 7003-A1, Región Metropolitana, Cerrillos",
+        "Carlos Valdovinos 2020, Región Metropolitana, Pedro Aguirre Cerda",
+        "Avenida Las Condes 14141, Región Metropolitana, Las Condes",
+        "Ruta 5 Norte 16870, Región Metropolitana, Lampa",
+        "Avenida Camino Al Alba 11969, Región Metropolitana, Las Condes",
+        "Avenida San Martín 555, Región Metropolitana, Buin",
+        "Avenida La Montana 2528, Región Metropolitana, Lampa",
+        "Armando Cortínez Norte 2151, Región Metropolitana, Pudahuel",
+        "Avenida Camino San Jose de Maipo 6195, Región Metropolitana, Puente Alto",
+        "Avenida Padre Sergio Correa 15700, Región Metropolitana, Colina",
+        "Avenida Bernardo OHiggins 3470, Región Metropolitana, Estación Central",
+        "Avenida Larraín N°5862, local S1044, Región Metropolitana, La Reina",
+        "Avenida Vicuña Mackenna 10811, Región Metropolitana, La Florida",
+        "Avenida Manquehue Sur 329, Región Metropolitana, Las Condes",
+        "Calle Nueva Providencia 1885, Región Metropolitana, Providencia",
+        "Avenida Padre Hurtado Sur 875, Piso 0 BS-1436, Región Metropolitana, Las Condes",
+        "Avenida Andres Bello 2447, Región Metropolitana, Providencia",
+        "Avenida Camilo Henríquez 3692, Región Metropolitana, Puente Alto",
+        "Avenida Presidente Eduardo Frei Montalva 9709, Región Metropolitana, Quilicura",
+        "Avenida Recoleta 464, Región Metropolitana, Recoleta",
+        "Calle Santa Rosa 512-514/520, Región Metropolitana, Santiago",
+        "Avenida Apoquindo 6314, Región Metropolitana, Las Condes",
+        "Avenida Vicuña Mackenna Oriente 7110, Región Metropolitana, La Florida",
+        "Avenida Américo Vespucio Sur 345, Región Metropolitana, Las Condes",
+        "Avenida Los Pajaritos 1790, Región Metropolitana, Maipú",
+        "Calle Isidora Goyenechea 3162, Región Metropolitana, Las Condes",
+        "Avenida José Alcalde Delano 10630, Región Metropolitana, Lo Barnechea",
+        "Avenida Providencia 3, Región Metropolitana, Providencia",
+        "San Francisco de Borja 184, Región Metropolitana, Estación Central",
+        "Avenida Elias Fernandez Albano 27, Región Metropolitana, La Cisterna",
+        "Andrés Bello 2465, Región Metropolitana, Providencia",
+        "Avenida Vicuña Mackenna 6100, Región Metropolitana, La Florida",
+        "Avenida Principe de Gales 8481, Región Metropolitana, La Reina",
+        "Teatinos 2, Región Metropolitana, Santiago",
+        "Avenida Salesianos 1503, Región Metropolitana, San Miguel",
+        "Avenida Chamisero 9790, Región Metropolitana, Colina",
+        "Avenida Santa Blanca 1969, Región Metropolitana, Lo Barnechea",
+        "Avenida Santa Delia 8937, Región Metropolitana, La Florida",
+        "Baquedano 502, Región Metropolitana, Paine",
+        "Lo Cañas 3517, Región Metropolitana, La Florida",
+        "Avenida Salvador 710, Región Metropolitana, Providencia",
+        "Avenida El Llano Subercaseaux 3915, Región Metropolitana, San Miguel",
+        "Avenida Bernardo OHiggins 5091, Región Metropolitana, Estación Central",
+        "Avenida Concha y Toro 464, Región Metropolitana, Puente Alto",
+        "Avenida Principe de Gales 5800, Región Metropolitana, La Reina",
+        "Arturo Prat 1220, Región Metropolitana, Lampa",
+        "01997 AV EL SALTO - 4875, Región Metropolitana, Santiago",
+        "Pendiente, Región Metropolitana, Santiago",
+        "Pedro Torres 384, Región Metropolitana, Ñuñoa",
+        "Compañía De Jesus 2304, Región Metropolitana, Santiago",
+        "Irarrázaval 3965, Región Metropolitana, Ñuñoa",
+        "Avenida Isabel Riquelme Sur 1446, Región Metropolitana, Maipú",
+        "Avenida Apoquindo 7272, Región Metropolitana, Las Condes",
+        "Avenida Apoquindo 4343, Región Metropolitana, Las Condes",
+        "General Baquedano 890, Región Metropolitana, Paine",
+        "San Diego 1102, Región Metropolitana, Santiago",
+        "Vespucio 7500, Región Metropolitana, La Florida",
+        "Avenida Grecia 8585, Región Metropolitana, Peñalolén",
+        "San Pablo 4898, Región Metropolitana, Quinta Normal",
+        "Seminario 101, Región Metropolitana, Providencia",
+        "Independencia 2127, Región Metropolitana, Independencia",
+        "San Ignacio 1624, Región Metropolitana, Padre Hurtado",
+        "Avenida Independencia 4801, Región Metropolitana, Conchali",
+        "Gran Avenida 5485, Región Metropolitana, San Miguel",
+        "Alcalde Luis Araya Cereceda 4341, Región Metropolitana, Peñaflor",
+        "Avenida Américo Vespucio 1076, Región Metropolitana, Maipú",
+        "Diez De Julio, Región Metropolitana, Santiago",
+        "Avenida Las Rejas Norte 2, Región Metropolitana, Lo Prado",
+        "Avenida San Martín 405, Región Metropolitana, Santiago",
+        "Avda. Calera de Tango P4 Medio Loc A 4, Región Metropolitana, Calera de Tango",
+        "Avenida Vicuña Mackenna 202, Región Metropolitana, Melipilla",
+        "Avenida Manuel Montt 2222, Región Metropolitana, Ñuñoa",
+        "San Pablo 2398, Región Metropolitana, Santiago",
+        "Avenida Vicuña Mackenna 2005, Región Metropolitana, Peñaflor",
+        "Almirante Latorre 310, Región Metropolitana, Santiago",
+        "San Pablo 8315, Región Metropolitana, Pudahuel",
+        "Avenida Central 145, Región Metropolitana, Maipú",
+        "Avenida Rondizzonni 1650, Región Metropolitana, Santiago",
+        "Avenida Américo Vespucio 925, Región Metropolitana, Ñuñoa",
+        "Avenida Irarrázaval 2461, Región Metropolitana, Ñuñoa",
+        "Avenida General Bustamante 1001, Región Metropolitana, Ñuñoa",
+        "Avenida Agustinas 2078-2082, Región Metropolitana, Santiago",
+        "Avenida Los Corrales 1512, Región Metropolitana, Colina",
+        "Avenida Libertador Bernardo OHiggins 3700-3750, Región Metropolitana, Estación Central",
+        "Avenida Libertador Bernardo OHiggins 2293-2295, Región Metropolitana, Santiago",
+        "Franklin 798, Región Metropolitana, Santiago",
+        "Calle Camilo Henríquez 1042, Región Metropolitana, Puente Alto",
+        "Gran Avenida 6001, Región Metropolitana, San Miguel",
+        "Avenida Santa Rosa 9233, Región Metropolitana, San Ramón",
+        "Avenida Tres Poniente 900, Región Metropolitana, Maipú",
+        "Calle San Isidro 49, Región Metropolitana, Santiago",
+        "Avenida Irarrázaval 2768, Región Metropolitana, Ñuñoa",
+        "Avenida Santa Rosa 5320, Región Metropolitana, San Joaquin",
+        "Avenida Manquehue 1280, Región Metropolitana, Vitacura",
+        "Calle Compañía 1214, Región Metropolitana, Santiago",
+        "Av Ramon Subercaseaux 230 Local 2, Región Metropolitana, Pirque",
+        "Geronimo de Alderete 1100 Loc. 4-5, Región Metropolitana, Vitacura",
+        "Avenida Bernardo OHiggins 2259, Región Metropolitana, Talagante",
+        "Avenida San Diego 2099, Región Metropolitana, Santiago",
+        "Avenida Macul 4105, Región Metropolitana, Macul",
+        "Avenida Irarrázaval 3612, Región Metropolitana, Ñuñoa",
+        "Avenida Bernardo OHiggins 200, Región Metropolitana, Talagante",
+        "Padre Hurtado 13310, Región Metropolitana, San Bernardo",
+        "Calle Alcalde Jose Luis Infante 1320, Región Metropolitana, Maipú",
+        "Calle Pedro de Valdivia 628, Región Metropolitana, Providencia",
+        "Avenida José Alcalde Delano 10581, Región Metropolitana, Lo Barnechea",
+        "Avenida Gran Avenida José Miguel Carrera 13125, Región Metropolitana, El Bosque",
+        "Avenida Pajaritos 5100, Región Metropolitana, Maipú",
+        "Avenida Camino El Alba 12620, Región Metropolitana, Las Condes",
+        "Avenida Macul 3578, Región Metropolitana, Macul",
+        "Avenida La Florida 9127, Región Metropolitana, La Florida",
+        "Avenida Vitacura 6195, Región Metropolitana, Vitacura",
+        "Ahumada 10, Región Metropolitana, Santiago",
+        "Avenida OHiggins 19, Región Metropolitana, Quilicura",
+        "Principe de Gales 7271, Región Metropolitana, La Reina",
+        "Walker Martinez 693, Región Metropolitana, La Florida",
+        "Avenida Padre Hurtado 1621, Región Metropolitana, Las Condes",
+        "Avenida José Miguel Carrera 4681, Región Metropolitana, San Miguel",
+        "Carlos Antúnes 2490, Región Metropolitana, Providencia",
+        "Avenida Padre Hurtado 1280, Región Metropolitana, Vitacura",
+        "Avenida Americo Vespucio Norte 1955, Región Metropolitana, Maipú",
+        "Maipú 210, Región de Antofagasta, Antofagasta",
+        "Avenida Pedro Aguirre Cerda 10850, Región de Antofagasta, Antofagasta",
+        "Avenida Grecia 430, Región de Antofagasta, Antofagasta",
+        "Almirante Latorre 1997, Región de Antofagasta, Calama",
+        "Avenida Miguel Grau 1060, Región de Antofagasta, Calama",
+        "Cardenal Carlos Oviedo Cavada 5319, Región de Antofagasta, Antofagasta",
+        "21 de Mayo 1687, Región de Antofagasta, Tocopilla",
+        "Arturo Prat 543, Región de Antofagasta, Antofagasta",
+        "Pedro Aguirre Cerda 8700, Región de Antofagasta, Antofagasta",
+        "Arturo Prat 640, Región de Antofagasta, Antofagasta",
+        "José Santos Ossa 2332, Región de Antofagasta, Antofagasta",
+        "Pedro Aguirre Cerda 9400, Región de Antofagasta, Antofagasta",
+        "Sotomayor 1898, Región de Antofagasta, Calama",
+        "Balmaceda 3245, Región de Antofagasta, Calama",
+        "Latorre 1965, Región de Antofagasta, Calama",
+        "Eleuterio Ramirez 1977, Región de Antofagasta, Calama",
+        "José Manuel Balmaceda 2355, Región de Antofagasta, Antofagasta",
+        "Avenida Chorrillos 1749, Región de Antofagasta, Calama",
+        "José Miguel Carrera 1527, Región de Antofagasta, Antofagasta",
+        "Avenida Angamos 785, Región de Antofagasta, Antofagasta",
+        "Pedro Aguirre Cerda 11385, Región de Antofagasta, Antofagasta",
+        "Avenida Granaderos 3641, Región de Antofagasta, Calama",
+        "Caracoles 359, Región de Antofagasta, San Pedro de Atacama",
+        "Arturo Prat 491, Región de Antofagasta, Antofagasta",
+        "Avenida Angamos 2170, Región de Antofagasta, Antofagasta",
+        "Avenida Grecia 1120, Región de Antofagasta, Calama",
+        "Avenida Pedro Aguirre Cerda 10578, Región de Antofagasta, Antofagasta",
+        "Alonso de Ercilla 2192, Región de Antofagasta, Calama",
+        "Avenida Pedro Aguirre Cerda 5702, Región de Antofagasta, Antofagasta",
+        "Camino Aeropuerto S/N, Región de Antofagasta, Calama",
+        "Avenida Balmaceda 3242, Región de Antofagasta, Calama",
+        "Manuel Antonio Matta 1919, Región de Antofagasta, Antofagasta",
+        "Avenida Argentina 1910, Región de Antofagasta, Antofagasta",
+        "José Ignacio Carrera Pinto 909, Región de Antofagasta, Antofagasta",
+        "Avenida Huaytiquina 1425, Región de Antofagasta, Calama",
+        "Calle Zenteno 21, Región de Antofagasta, Antofagasta",
+        "Calle 14 De Febrero 2465, Región de Antofagasta, Antofagasta",
+        "Almirante Juan Jose Latorre 812, Región de Antofagasta, Mejillones",
+        "Calle Matta Antofagasta 2405, Región de Antofagasta, Antofagasta",
+        "Avenida Universidad Antofagasta 2751, Región de Antofagasta, Antofagasta",
+        "Avenida Angamos 745, Región de Antofagasta, Antofagasta",
+        "Avenida Vicuña Mackenna 1975, Región de Antofagasta, Calama",
+        "Arturo Prat 701, Región de Antofagasta, Taltal",
+        "21 de Mayo 299, Región de Arica y Parinacota, Arica",
+        "21 de Mayo 399, Región de Arica y Parinacota, Arica",
+        "Avenida 18 De Septiembre 2501, Región de Arica y Parinacota, Arica",
+        "Diego Portales 157, Región de Arica y Parinacota, Arica",
+        "Avenida Diego Portales 640, Región de Arica y Parinacota, Arica",
+        "Colón 601, Región de Arica y Parinacota, Arica",
+        "18 De Septiembre 1063, Región de Arica y Parinacota, Arica",
+        "Avenida Pedro Aguirre Cerda 1010, Región de Arica y Parinacota, Arica",
+        "Victoria 380, Región de Los Lagos, Osorno",
+        "Eleuterio Ramirez 884, Región de Los Lagos, Osorno",
+        "Julio Bushmann 2223, Región de Los Lagos, Osorno",
+        "Eleuterio Ramirez 1000, Región de Los Lagos, Osorno",
+        "Zenteno 1518, Región de Los Lagos, Osorno",
+        "Antonio Varas 952, Región de Los Lagos, Puerto Montt",
+        "Antonio Varas 555, Región de Los Lagos, Puerto Montt",
+        "Antonio Varas 598, Región de Los Lagos, Puerto Montt",
+        "Avenida Presidente Ibañez 173, Región de Los Lagos, Puerto Montt",
+        "San Martín 407, Región de Los Lagos, Castro",
+        "San Martín 309, Región de Los Lagos, Castro",
+        "Avenida Cuarta Terraza 5001, Región de Los Lagos, Puerto Montt",
+        "Avenida Pudeto 254, Región de Los Lagos, Ancud",
+        "Juan Ladrilleros 399, Región de Los Lagos, Quellón",
+        "Avenida Los Notros 1280, Región de Los Lagos, Puerto Montt",
+        "Carlos Richter 200 local 11, Región de Los Lagos, Frutillar",
+        "Avenida Austral 1400, Región de Los Lagos, Puerto Montt",
+        "Avenida César Ercilla 1740, Región de Los Lagos, Osorno",
+        "Avenida Gabriela Mistral 900, Región de Los Lagos, Puerto Montt",
+        "Ruta 225, km 1.5, parcela 5, Región de Los Lagos, Puerto Varas",
+        "Illapel 10, Región de Los Lagos, Puerto Montt",
+        "Avenida Ferrocarril, Región de Los Lagos, Puerto Montt",
+        "Avenida Ejercito 470, Región de Los Lagos, Puerto Montt",
+        "Avenida El Tepual 1360, Región de Los Lagos, Puerto Montt",
+        "Del Salvador 401, Región de Los Lagos, Puerto Varas",
+        "Avenida José Ignacio Zenteno 2719, Región de Los Lagos, Osorno",
+        "Calle Juan Soler Manfredini 131, Región de Los Lagos, Puerto Montt",
+        "Calle Bernardo OHiggins 51, Región de Los Lagos, Los Muermos",
+        "Calle Parque Industrial 450, Región de Los Lagos, Puerto Montt",
+        "Ruta 5 Sur 1105, Región de Los Lagos, Castro",
+        "Galvarino Riveros 1277, Región de Los Lagos, Castro",
+        "Baquedano 506, Región de Los Lagos, Llanquihue",
+        "San Francisco 400, Región de Los Lagos, Puerto Varas",
+        "Avenida Crucero 1915, Región de Los Lagos, Puerto Montt",
+        "Aureliano Sanchez 98, Región de Los Lagos, Calbuco",
+        "Cerro Tronador 4981, Región de Los Lagos, Puerto Montt",
+        "Calle Monseñor Ramon Munita 1600, Región de Los Lagos, Puerto Montt",
+        "Calle Pedro Montt 296, Región de Los Lagos, Purranque",
+        "Avenida Zenteno 861, Región de Los Lagos, Osorno",
+        "Avenida Volcan Puntiagudo 100, Región de Los Lagos, Puerto Montt",
+        "Carlos Anwandter 930, Región de Los Ríos, Valdivia",
+        "Esmeralda 700, Región de Los Ríos, La Unión",
+        "Comercio 585, Región de Los Ríos, Río Bueno",
+        "Avenida Ramón Picarte 384, Región de Los Ríos, Valdivia",
+        "Balmaceda 241, Región de Los Ríos, Futrono",
+        "Avenida Martinez De Rosas 690, Región de Los Ríos, Panguipulli",
+        "Coronel Santiago Bueras 1000, Región de Los Ríos, Valdivia",
+        "Errazuriz 1040, Región de Los Ríos, Valdivia",
+        "Avenida Los Laureles 80, Región de Los Ríos, Valdivia",
+        "Arauco 561, Región de Los Ríos, Valdivia",
+        "Avenida Ramón Picarte 310, Región de Los Ríos, Valdivia",
+        "Errazuriz 1040, Región de Los Ríos, Valdivia",
+        "Avenida Simpson 499, Región de Los Ríos, Valdivia",
+        "Ruta T-350 1800, Región de Los Ríos, Valdivia",
+        "Arturo Prat 748, Región de Los Ríos, Paillaco",
+        "Diego Portales 159, Región de Los Ríos, Panguipulli",
+        "Calle San Martin 98, Región de Los Ríos, Los Lagos",
+        "Calle Independencia 550, Región de Los Ríos, Valdivia",
+        "Avenida Francia 2651, Región de Los Ríos, Valdivia",
+        "Calle Mariquina 1200, Región de Los Ríos, Mariquina",
+        "Union 187, Región de Los Ríos, Lanco",
+        "José Nogueira 1120, Región de Magallanes y de la Antártica Chilena, Punta Arenas",
+        "Eduardo Simian, Región de Magallanes y de la Antártica Chilena, Primavera",
+        "Bories 701, Región de Magallanes y de la Antártica Chilena, Punta Arenas",
+        "Baquedano 331, Región de Magallanes y de la Antártica Chilena, Natales",
+        "Gobernador Carlos Bories 990, Región de Magallanes y de la Antártica Chilena, Punta Arenas",
+        "Padre Mariano Zavattaro 388, Región de Magallanes y de la Antártica Chilena, Porvenir",
+        "Avenida Bulnes km 3.5 Norte, Manzana 1-a, Región de Magallanes y de la Antártica Chilena, Punta Arenas",
+        "Avenida Enrique Abello 8, Región de Magallanes y de la Antártica Chilena, Punta Arenas",
+        "Avenida Eduardo Frei Montalva 1110, Región de Magallanes y de la Antártica Chilena, Punta Arenas",
+        "Avenida Pedro Aguirre Cerda 413, Región de Magallanes y de la Antártica Chilena, Punta Arenas",
+        "Avenida España 1358, Región de Magallanes y de la Antártica Chilena, Punta Arenas",
+        "Sarmiento 722, Región de Magallanes y de la Antártica Chilena, Punta Arenas",
+        "Avenida 21 de Mayo 3190, Región de Magallanes y de la Antártica Chilena, Punta Arenas",
+        "Serrano 509, Región de Ñuble, San Carlos",
+        "Avenida Ecuador 599, Región de Ñuble, Chillán",
+        "Arauco 623, Región de Ñuble, Chillán",
+        "Avenida Vicente Mendez 1545, Región de Ñuble, Chillán",
+        "Julio Lamas 365, Región de Ñuble, Coelemu",
+        "Avenida Valparaíso 640, Región de Valparaíso, Viña del Mar",
+        "Pedro Montt 1902, Región de Valparaíso, Valparaíso",
+        "Avenida Valparaíso 404, Región de Valparaíso, Viña del Mar",
+        "Chacabuco 281, Región de Valparaíso, Quillota",
+        "Avenida Edmundo Eluchans 2030, Región de Valparaíso, Viña del Mar",
+        "Avenida Argentina 540, Región de Valparaíso, Valparaíso",
+        "Cabo Ortiz 189, Región de Valparaíso, Quintero",
+        "Avenida Urmeneta 96, Región de Valparaíso, Limache",
+        "Avenida Ramón Freire 2414, Región de Valparaíso, Quilpué",
+        "Freire 471, Región de Valparaíso, Quilpué",
+        "Avenida Ramón Barros Luco 105, Región de Valparaíso, San Antonio",
+        "Avenida Libertad 1348, Región de Valparaíso, Viña del Mar",
+        "OHiggins 195, Región de Valparaíso, Quillota",
+        "Quillota 493, Región de Valparaíso, Viña del Mar",
+        "Magallanes 866, Región de Valparaíso, Concón",
+        "Avenida Con Con Reñaca 3850, Región de Valparaíso, Concón",
+        "José Joaquín Perez 202, Región de Valparaíso, La Calera",
+        "Pedro Montt 2705, Región de Valparaíso, Valparaíso",
+        "Urmeneta 99, Región de Valparaíso, Limache",
+        "Avenida Valparaíso 598, Región de Valparaíso, Viña del Mar",
+        "José Miguel Carrera 201, Región de Valparaíso, Viña del Mar",
+        "Avenida Valparaíso 664, Región de Valparaíso, Villa Alemana",
+        "Angamos 242, Región de Valparaíso, Viña del Mar",
+        "Avenida Argentina 51, Región de Valparaíso, Valparaíso",
+        "Alvarez 314, Región de Valparaíso, Viña del Mar",
+        "Uno Norte 2901, Región de Valparaíso, Viña del Mar",
+        "Avenida Cachagua 34, Región de Valparaíso, Zapallar",
+        "Avenida El Golf 5, Región de Valparaíso, Santo Domingo",
+        "Avenida Argentina 805, Región de Valparaíso, Los Andes",
+        "Merced 176, Región de Valparaíso, San Felipe",
+        "República 281, Región de Valparaíso, Limache",
+        "Claudio Vicuña 791, Región de Valparaíso, Quilpué",
+        "Moisés Chacon 140, Región de Valparaíso, Zapallar",
+        "Avenida Obispo Valdés Subercaseaux 1170, Región de Valparaíso, Valparaíso",
+        "Avenida Cardenal Samore 2335, Región de Valparaíso, Valparaíso",
+        "Avenida Valparaíso 691, Región de Valparaíso, Villa Alemana",
+        "Atamu Tekena s/n Hanga Roa, Región de Valparaíso, Isla de Pascua",
+        "Calle Maipú 320, Región de Valparaíso, Los Andes",
+        "Centenario 120, Región de Valparaíso, San Antonio",
+        "Providencia 196, Región de Valparaíso, San Antonio",
+        "José Narciso Aguirre 17, Región de Valparaíso, El Quisco",
+        "Carretera f30-e km. 45, Región de Valparaíso, Puchuncaví",
+        "Avenida Cartagena 313, Región de Valparaíso, Cartagena",
+        "Los Ginkos 5, Región de Valparaíso, Concón",
+        "Avenida Bernardo OHiggins 1150, Región de Valparaíso, San Felipe",
+        "Avenida Alessandri 4085, Región de Valparaíso, Viña del Mar",
+        "Avenida Dr Guillermo Mucke 701, Región de Valparaíso, Algarrobo",
+        "Palmira Romano 405, Región de Valparaíso, Limache",
+        "Avenida Valparaíso 1070, Región de Valparaíso, Viña del Mar",
+        "Avenida Benjamin Vicuña Mackenna 468, Región de Valparaíso, Viña del Mar",
+        "Avenida Diego Portales 551, Región de Valparaíso, Casablanca",
+        "Avenida Valparaíso 2150, Región de Valparaíso, Quillota",
+        "Los Carrera 1504, Región de Valparaíso, Quilpué",
+        "Ramón Freire 1551, Región de Valparaíso, Quillota",
+        "Borgoño 14650, Región de Valparaíso, Viña del Mar",
+        "Carlos Condell 1687, Región de Valparaíso, Quillota",
+        "Avenida José Joaquín Pérez 12010, Región de Valparaíso, La Calera",
+        "8 Norte 313, Región de Valparaíso, Viña del Mar",
+        "Calle 14 Norte 976, Región de Valparaíso, Viña del Mar",
+        "Avenida Libertad 1191, Región de Valparaíso, Viña del Mar",
+        "Calle San José María Escrivá de Valaguer 861, Región de Valparaíso, Concón",
+        "Avenida Libertad 1191, Región de Valparaíso, Viña del Mar",
+        "Avenida Los Carrera 754, Región de Valparaíso, Quilpué",
+        "Domingo Ortiz de Rosas 402, Región de Valparaíso, La Ligua",
+        "Edmundo Eluchans 1850, Región de Valparaíso, Viña del Mar",
+        "Condell N°1301, Local 101, Región de Valparaíso, Valparaíso",
+        "Avenida Miraflores 2332, Región de Valparaíso, San Felipe",
+        "Avenida Libertad 800, Región de Valparaíso, Viña del Mar",
+        "Chacabuco 299, Región de Valparaíso, Quillota",
+        "Via F-30 E, Esquinavia F-124, Región de Valparaíso, Puchuncaví",
+        "Balmaceda 64, Región de Valparaíso, Llaillay",
+        "Polanco 263, Región de Valparaíso, La Ligua",
+        "Condell 1202, Región de Valparaíso, Valparaíso",
+        "Pedro Montt 2489, Región de Valparaíso, Valparaíso",
+        "Sotomayor 160, Región de Valparaíso, Valparaíso",
+        "Maipú 302, Región de Valparaíso, Los Andes",
+        "Arturo Prat 199, Región de Valparaíso, San Felipe",
+        "Normandie 2017, Región de Valparaíso, Quintero",
+        "Avenida Valparaíso 786, Región de Valparaíso, Viña del Mar",
+        "Avenida Humeres 730, Región de Valparaíso, Cabildo",
+        "Avenida Jorge Kenrick 35, Región de Valparaíso, Valparaíso",
+        "Avenida Magallanes 1059, Región de Valparaíso, Concón",
+        "Avenida Barros Luco 2970, Región de Valparaíso, San Antonio",
+        "Diego Portales 822, Región de Valparaíso, Quilpué",
+        "Claudio Vicuña 806, Región de Valparaíso, Quilpué",
+        "Avenida Pacífico 5095, Región de Valparaíso, Viña del Mar",
+        "Rafael Ariztía 587 Loc 1020, Región de Valparaíso, Quillota",
+        "Avenida Alessandri 1915, Región de Valparaíso, Algarrobo",
+        "Calle Valparaíso 286-298 esquina Traslaviña, Región de Valparaíso, Viña del Mar",
+        "Chacabuco 294, Región de Valparaíso, Casablanca",
+        "Camino Internacional 2440, Región de Valparaíso, Viña del Mar",
+        "Avenida Alessandri 50, Región de Valparaíso, San Esteban",
+        "4 Poniente 332, Región de Valparaíso, Viña del Mar",
+        "Avenida Bernardo OHiggins 740, Región de Valparaíso, San Felipe",
+        "José Joaquín Pérez 124, Región de Valparaíso, La Calera",
+        "Barros Arana 780, Región del Biobío, Concepción",
+        "Avenida Cristóbal Colón 300, Región del Biobío, Talcahuano",
+        "Rengo 601, Región del Biobío, Concepción",
+        "Barros Arana 599, Región del Biobío, Concepción",
+        "Jorge Alessandri 3177, Región del Biobío, Talcahuano",
+        "OHiggins 801, Región del Biobío, Concepción",
+        "Colón 491, Región del Biobío, Los Ángeles",
+        "Colón 341, Región del Biobío, Los Ángeles",
+        "Colón 411, Región del Biobío, Los Ángeles",
+        "Avenida Alemania 686, Región del Biobío, Los Ángeles",
+        "Valdivia 440, Región del Biobío, Los Ángeles",
+        "Camino El Venado 1360, Región del Biobío, San Pedro de la Paz",
+        "Balmaceda 215, Región del Biobío, Laja",
+        "Manuel Montt 399, Región del Biobío, Coronel",
+        "Anibal Pinto 510, Región del Biobío, Concepción",
+        "Pedro De Valdivia 976, Región del Biobío, Concepción",
+        "Avenida Cristóbal Colón 396, Región del Biobío, Talcahuano",
+        "Avenida Pedro Aguirre Cerda 1055, Región del Biobío, San Pedro de la Paz",
+        "Avenida Cristóbal Colón 3284, Región del Biobío, Talcahuano",
+        "Manuel Montt 1065, Región del Biobío, Tomé",
+        "Ramón Carrasco 52, Región del Biobío, Concepción",
+        "Avenida Laguna Grande 115, Región del Biobío, San Pedro de la Paz",
+        "Los Carrera Poniente 301, Región del Biobío, Concepción",
+        "OHiggins 449, Región del Biobío, Concepción",
+        "Cristóbal Colón 180, Región del Biobío, Talcahuano",
+        "Avenida Costanera Norte 1 9871, Región del Biobío, Hualpén",
+        "Los Leones 770, Región del Biobío, Curanilahue",
+        "Roosevelt 1694, Región del Biobío, Concepción",
+        "Río Claro 199, Región del Biobío, Cabrero",
+        "Barros Arana 1068, Región del Biobío, Concepción",
+        "Avenida Alemania 831, Región del Biobío, Los Ángeles",
+        "Autopista Concepción - Talcahuano 6891, Región del Biobío, Talcahuano",
+        "Almagro 596, Región del Biobío, Los Ángeles",
+        "Avenida Portal San Pedro 6950, Región del Biobío, San Pedro de la Paz",
+        "Los Manios 4385, Región del Biobío, San Pedro de la Paz",
+        "Perez Gacitua 279, Región del Biobío, Talcahuano",
+        "Avenida Aníbal Pinto 340, Región del Biobío, Concepción",
+        "Calle Barros Arana 472, Región del Biobío, Concepción",
+        "Calle Barros Arana 890, Región del Biobío, Concepción",
+        "Calle Pedro Aguirre Cerda 646, Región del Biobío, Lota",
+        "Avenida Ercilla 190, Región del Biobío, Los Ángeles",
+        "Carlos Pratt Gonzalez 913, Región del Biobío, Coronel",
+        "Avenida Gabriela Mistral 25, Región del Biobío, Los Ángeles",
+        "Avenida Portal de San Pedro 4850, Región del Biobío, San Pedro de la Paz",
+        "Avenida Villagran 699, Región del Biobío, Mulchén",
+        "Ocho Oriente 720, Región del Biobío, Chiguayante",
+        "Avenida Jorge Alessandri 3515, Región del Biobío, Talcahuano",
+        "Manuel Rodriguez 925, Región del Biobío, Chiguayante",
+        "Bélgica 1431, Región del Biobío, Hualpén",
+        "Saavedra 908, Región del Biobío, Cañete",
+        "OHiggins 2701, Región del Biobío, Chiguayante",
+        "Colón 7948, Región del Biobío, Talcahuano",
+        "Chacabuco 357, Región del Biobío, Arauco",
+        "Saavedra 599, Región del Biobío, Lebu",
+        "Covadonga 267, Región del Biobío, Cañete",
+        "San Martín 401, Región del Biobío, Nacimiento",
+        "San Martín 336, Región del Biobío, Nacimiento",
+        "Freire 500, Región del Biobío, Penco",
+        "Condell esquina Saavedra S/N, Región del Biobío, Cañete",
+        "Avenida Bellavista 1273, Región del Biobío, Concepción",
+        "Sor Vicenta 2515, Región del Biobío, Los Ángeles",
+        "Avenida Paicaví 312, Región del Biobío, Concepción",
+        "Avenida Pedro Aguirre Cerda 350, Región del Biobío, San Pedro de la Paz",
+        "Avenida Libertad 1190, Región del Biobío, Chillán",
+        "Avenida Marconi 1196, Región del Biobío, Los Ángeles",
+        "San Martín 1387, Región del Biobío, Concepción",
+        "Avenida Paicaví 1122, Región del Biobío, Concepción",
+        "Calle Vicuña Mackenna 780, Región del Biobío, Los Ángeles",
+        "Avenida OHiggins 700, Región del Biobío, Yumbel",
+        "Calle Gabriela Mistral 1268, Región del Biobío, Los Ángeles",
+        "Avenida Oriente 1231, Región del Biobío, Los Ángeles",
+        "Calle Maipón 801, Región del Biobío, Chillán",
+        "Los Canelos 79, Región del Biobío, San Pedro de la Paz",
+        "Calle Carrera Pinto 614, Región del Biobío, Los Álamos",
+        "Calle Esmeralda 204, Región del Biobío, Yungay",
+        "Villagrán 770, Región del Biobío, Mulchén",
+        "José Domingo Mujica 475, Región del Libertador General Bernardo OHiggins, Rancagua",
+        "Avenida Diagonal Doñihue 2251, Región del Libertador General Bernardo OHiggins, Rancagua",
+        "Casanova 344, Región del Libertador General Bernardo OHiggins, Santa Cruz",
+        "Manuel Rodriguez 232, Región del Libertador General Bernardo OHiggins, Nancagua",
+        "German Riesco 510, Región del Libertador General Bernardo OHiggins, San Vicente",
+        "Avenida El Álamo 602, Región del Libertador General Bernardo OHiggins, San Fernando",
+        "Calle Cuevas 599, Región del Libertador General Bernardo OHiggins, Rancagua",
+        "Chacabuco 209, Región de Atacama, Copiapó",
+        "Avenida Los Carrera 2242, Región de Atacama, Copiapó",
+        "Avenida Brasil 941, Región de Atacama, Vallenar",
+        "Avenida Ossa Cerda 330, Región de Atacama, Caldera",
+        "Calle Maipú 110, Región de Atacama, Copiapó",
+        "Colipí 484, Región de Atacama, Copiapó",
+        "Avenida OHiggins 115, Región de Atacama, Diego de Almagro",
+        "Avenida Los Carrera 4723, Región de Atacama, Copiapó",
+        "Buin 452, Región de Atacama, Chañaral",
+        "Calle Carrera 1500, Región de Aysén del General Carlos Ibáñez del Campo, Aysén",
+        "Lautaro 331-339, Región de Aysén del General Carlos Ibáñez del Campo, Coyhaique",
+        "Calle Victoria 745, Región de Aysén del General Carlos Ibáñez del Campo, Coyhaique",
+        "Avenida Libertador Bernardo OHiggins 505, Región de Aysén del General Carlos Ibáñez del Campo, Chile Chico",
+        "Calle Huanhuali 254, Región de Coquimbo, La Serena",
+        "Avenida Manuel Bulnes 220, Región de Coquimbo, Salamanca",
+        "Avenida Presidente Arturo Alessandri 1117, Región de Coquimbo, Coquimbo",
+        "Avenida Arturo Prat 182, Región de Coquimbo, Vicuña",
+        "Balmaceda 1397, Región de Coquimbo, La Serena",
+        "Avenida José Manuel Balmaceda 1350, Región de Coquimbo, La Serena",
+        "Avenida Talca 101, Región de Coquimbo, Coquimbo",
+        "Avenida Caupolicán 600, Región de Coquimbo, Los Vilos",
+        "Arturo Prat 695, Región de Coquimbo, La Serena",
+        "Calle Manuel Montt 901, Región de La Araucanía, Temuco",
+        "Avenida OHiggins 311, Región de La Araucanía, Pucón",
+        "Avenida San Martín 567, Región de La Araucanía, Temuco",
+        "Avenida Martin Lutero 2126, Región de La Araucanía, Temuco",
+        "Avenida Los Creadores 191, Región de La Araucanía, Temuco",
+        "Avenida OHiggins 892, Región de La Araucanía, Lautaro",
+        "Avenida Los Pablos 2050, Región de La Araucanía, Temuco",
+        "Santa Cruz 795, Región de La Araucanía, Traiguén",
+        "Av. Hacienda Sta María 149 Loc 1 y 2, Región de La Araucanía, Temuco",
+        "Camino Segunda Faja al Volcán Lote 3-A, Región de La Araucanía, Villarrica",
+        "Calle Blanco Encalada 446, Región de La Araucanía, Pitrufquén",
+        "Avenida Las Perdices 547, Región de La Araucanía, Temuco",
+        "Av. Prat 1472 o 1490 Loc 1-2-3, Región de La Araucanía, Victoria",
+        "Calle Manquehue 850, Región de La Araucanía, Padre Las Casas",
+        "Manuel Montt 381, Región de La Araucanía, Temuco",
+        "Qhecheraguas 1916, Región del Maule, Molina",
+        "Avenida Manuel Labra Lillo 350, Región del Maule, Curicó",
+        "2 Sur 2015, Región del Maule, Talca",
+        "Quechereguas 1995, Región del Maule, Molina",
+        "Calle Arturo Prat 2390, Región del Maule, San Javier",
+        "Avenida Aníbal León Bustos 280, Región del Maule, Linares",
+        "Avenida Huamachuco 881, Región del Maule, San Clemente",
+        "Avenida Lircay 2455, Región del Maule, Talca",
+        "Avenida Comalle 101, Región del Maule, Teno",
+        "Avenida 22 Norte 3960, Región del Maule, Talca",
+        "Aníbal Pinto 598, Región del Maule, Parral"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Impasto",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Martes",
+        "Miércoles",
+        "Jueves",
+        "Viernes",
+        "Sábado",
+        "Domingo"
+      ],
+      "dia_texto": "martes a domingo de noviembre",
+      "canal": null,
+      "vigencia": "Promoción válida del 01 al 30 de noviembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. martes a domingo de noviembre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Tope dto. $50.000 por mesa."
+      ],
+      "sucursales": [
+        "Alférez Real #1485, Región Metropolitana, Providencia"
+      ]
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Chili´s",
+      "categoria": "Sabores",
+      "descuento": "40% dcto.",
+      "dia": [
+        "Lunes"
+      ],
+      "dia_texto": "todos los lunes",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Entregar lo mejor en comida tex-mex, como en ningún otro lugar directo en tu hogar!",
+        "Exclusivo con tus Tarjetas de Crédito Santander.",
+        "Válido en local, delivery web y retiro en local.",
+        "No acumulable con otras promociones.",
+        "Descuento máximo por pedido de $40.000"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Kaufmann",
+      "categoria": "Cuotas Sin Interés",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "13 a 48 cuotas sin interés",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Mercedes Benz, Smart y seminuevos",
+        "Exclusivo con tus Tarjetas de Crédito Santander Chile.",
+        "Válido en concesionarias Kaufmann en compras de autos Mercedes Benz, Smart y seminuevos.",
+        "CAE 0,8%: Monto Total a pagar de $10.080.000, son referenciales y corresponden a una compra por $10.000.000 cursada en modalidad de pago de 48 cuotas mensuales, y consideran impuestos.",
+        "Se excluyen de la promoción los autos seminuevos de sucursal JPN.",
+        "Vigencia de la promoción hasta el 31 de agosto de 2026, válido para autos nuevos Mercedes Benz, smart y Seminuevos. Se excluyen de la promoción los autos Seminuevos de sucursal JPN. CAE 0,8%: Monto Total a pagar de $10.080.000, son referenciales y corresponden a una compra por $10.000.000 cursada en modalidad de pago de 48 cuotas mensuales, y consideran impuestos. Límite mensual de compras que da derecho a acumulación de millas LATAM Pass; The Platinum Card American Express Santander LATAM Pass: monto menor entre: (a) la cantidad de 60.000 Dólares en cada periodo de facturación, y (b) el monto del respectivo cupo de la Tarjeta. Límite mensual de compras que da derecho a acumulación WorldMember Limited Santander LATAM Pass: monto menor entre: (a) la cantidad de 30.000 Dólares en cada periodo de facturación, y (b) el monto del respectivo cupo de la Tarjeta. Consulte por otros eventuales cargos. La acumulación de millas y otros beneficios no financieros anunciados son responsabilidad de LATAM AIRLINES GROUP S.A. o de terceros que los otorguen, sin que corresponda a Banco Santander Chile intervención alguna en ello, ni en la ulterior atención que ello demande. Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "BazarED",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "30% de descuento en entradas y 30% de Cashback en compras BazarED",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Este evento reúne lo mejor de la moda, el diseño y la decoración.",
+        "Fechas: 5 y 6 de noviembre de 2026.",
+        "30% de descuento en entradas exclusivo para Tarjetas Visa Infinite y Visa Signature",
+        "30% de cashback en compras - Exclusivo Visa Infinite: Exclusivo pagando con Visa Infinite, pagando desde el celular.",
+        "Tecnología: Exclusivamente a través de POS Tap to Phone habilitados por SumUp.",
+        "Tope: $30.000 de cashback por tarjeta durante la promoción.",
+        "Fondo promocional: $15.000.000",
+        "Términos y condiciones – Cashback Visa Infinite 30% de cashback en compras presenciales realizadas con tarjetas Visa Infinite mediante pago desde el celular, exclusivamente a través de tecnología Tap to Phone habilitada por SumUp, en comercios adheridos a la promoción en Bazar ED 2026. Promoción válida los días 5 y 6 de noviembre de 2026 o hasta agotar el fondo promocional de $15.000.000, lo que ocurra primero. Tope total de cashback de $30.000 por tarjeta durante la promoción. El cashback puede tardar en hacerse efectivo hasta 20 días hábiles y no aplica a transacciones reversadas, anuladas, fraudulentas o que no cumplan con los requisitos de la promoción. Términos y condiciones – Descuento en entradas 30% de descuento sobre el valor de la entrada general para Bazar ED 2026, adquiridas con tarjetas Visa Signature o Visa Infinite emitidas en Chile en Ticketmaster.cl o en las boleterías presenciales autorizadas. El descuento será aplicable exclusivamente hasta dos entradas generales diarias mientras dure la promoción. Promoción válida hasta el 9 de noviembre de 2026 o hasta agotar el stock disponible, lo que ocurra primero. Organizador responsable: Descuentos e Incentivos SpA."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Zenit 90",
+      "categoria": "Cuotas Sin Interés",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "3 a 36 cuotas sin interés",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Especialistas en diseño e instalación de sistemas fotovoltaicos para hogares y empresas en Chile.",
+        "Exclusivo pagando con tus Tarjetas de Crédito Santander.",
+        "Válido en www.zenit90.com",
+        "CAE 1,53% Calculado por un monto referencial de compra de $1.000.000 en 36 cuotas. Costo total del Crédito: $1.023.760. Operación afecta a impuesto al crédito a cargo del cliente.",
+        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio; la administración del programa LATAM Pass es de exclusiva responsabilidad de LATAM Airlines Group S.A. sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl. Conoce más sobre Santander Rewards y su reglamento en: https://banco.santander.cl/rewards."
+      ],
+      "sucursales": []
+    },
+    {
       "banco": "Banco Santander",
       "comercio": "miCoca-Cola.cl",
       "categoria": "Retail y Otras Marcas",
@@ -22591,24 +24365,6 @@
         "Tope de descuento de $40.000.",
         "No acumulable a otras promociones.",
         "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​"
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Zenit 90",
-      "categoria": "Cuotas Sin Interés",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "3 a 36 cuotas sin interés",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Especialistas en diseño e instalación de sistemas fotovoltaicos para hogares y empresas en Chile.",
-        "Exclusivo pagando con tus Tarjetas de Crédito Santander.",
-        "Válido en www.zenit90.com",
-        "CAE 1,53% Calculado por un monto referencial de compra de $1.000.000 en 36 cuotas. Costo total del Crédito: $1.023.760. Operación afecta a impuesto al crédito a cargo del cliente.",
-        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio; la administración del programa LATAM Pass es de exclusiva responsabilidad de LATAM Airlines Group S.A. sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl. Conoce más sobre Santander Rewards y su reglamento en: https://banco.santander.cl/rewards."
       ],
       "sucursales": []
     },
@@ -22788,25 +24544,6 @@
         "Ingresa los 6 primeros dígitos de tu Tarjeta como código de descuento.",
         "No acumulable con otras promociones.",
         "Promoción válida para compras realizadas solo en ticketplus.cl/events/surfestival-road-to-2027, exclusivo pagando con Tarjetas Santander e ingresando como código de descuento los primeros 6 dígitos de la Tarjeta. Tope de 4 entradas por RUT de cliente. (*) Stock disponible para el 30% de descuento: 500 entradas y Stock disponible para el 20% de descuento: 2500 entradas. Descuento no aplica al cargo por servicio. El único canal de venta autorizado es www.ticketplus.com, cualquier otro canal puede perjudicar al consumidor. Ticketplus no se responsabiliza por transacciones realizadas fuera del canal de venta oficial. La garantía, servicio y calidad del producto es de exclusiva responsabilidad de Surfestival y de la venta de entradas es Ticketplus sin responsabilidad para Banco Santander Chile ni en la ulterior atención que ello demande. Carga Anual Equivalente (CAE) de 1,19% y Monto Total a pagar de $1.001.980 anunciados son ejemplares y corresponden a compra de monto de $1.000.000, cursada en modalidad de pago de 3 cuotas mensuales en , y consideran impuestos. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Kaufmann",
-      "categoria": "Cuotas Sin Interés",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "13 a 48 cuotas sin interés",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Mercedes Benz, smart y Seminuevos",
-        "Exclusivo con tus Tarjetas de Crédito Santander Chile.",
-        "Válido en concesionarias Kaufmann en compras de autos Mercedes Benz, smart y Seminuevos.",
-        "CAE 0,8%: Monto Total a pagar de $10.080.000, son referenciales y corresponden a una compra por $10.000.000 cursada en modalidad de pago de 48 cuotas mensuales, y consideran impuestos.",
-        "Se excluyen de la promoción los autos Seminuevos de sucursal JPN.",
-        "Vigencia de la promoción hasta el 31 de agosto de 2026, válido para autos nuevos Mercedes Benz, smart y Seminuevos. Se excluyen de la promoción los autos Seminuevos de sucursal JPN. CAE 0,8%: Monto Total a pagar de $10.080.000, son referenciales y corresponden a una compra por $10.000.000 cursada en modalidad de pago de 48 cuotas mensuales, y consideran impuestos. Límite mensual de compras que da derecho a acumulación de millas LATAM Pass; The Platinum Card American Express Santander LATAM Pass: monto menor entre: (a) la cantidad de 60.000 Dólares en cada periodo de facturación, y (b) el monto del respectivo cupo de la Tarjeta. Límite mensual de compras que da derecho a acumulación WorldMember Limited Santander LATAM Pass: monto menor entre: (a) la cantidad de 30.000 Dólares en cada periodo de facturación, y (b) el monto del respectivo cupo de la Tarjeta. Consulte por otros eventuales cargos. La acumulación de millas y otros beneficios no financieros anunciados son responsabilidad de LATAM AIRLINES GROUP S.A. o de terceros que los otorguen, sin que corresponda a Banco Santander Chile intervención alguna en ello, ni en la ulterior atención que ello demande. Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
       ],
       "sucursales": []
     },
@@ -24282,27 +26019,6 @@
         "Ingresa los 6 primeros dígitos de tu Tarjeta como código de descuento.",
         "Descuento máximo por pedido de $40.000.",
         "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​"
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Chili´s",
-      "categoria": "Sabores",
-      "descuento": "40% dcto.",
-      "dia": [
-        "Lunes"
-      ],
-      "dia_texto": "todos los lunes",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Entregar lo mejor en comida tex-mex, como en ningún otro lugar directo en tu hogar!",
-        "Exclusivo con tus Tarjetas de Crédito Santander.",
-        "Válido en local, delivery web y retiro en local.",
-        "Av. Italia 1484, Providencia",
-        "No acumulable con otras promociones.",
-        "Descuento máximo por pedido de $40.000"
       ],
       "sucursales": []
     },
