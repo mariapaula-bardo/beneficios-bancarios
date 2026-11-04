@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-03T18:09",
+  "actualizado": "2026-11-04T18:20",
   "beneficios": [
     {
       "banco": "Banco de Chile",
@@ -12894,50 +12894,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "CINE PLANES CORDILLERA",
-      "categoria": "Entretención y Deportes",
-      "descuento": "Disfruta 4X3 en entradas",
-      "dia": [],
-      "dia_texto": "con tu Tarjeta del Plan Cordillera",
-      "canal": null,
-      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
-      "condiciones": [
-        "Con tus tarjetas del Plan Cordillera disfruta 4x3 en entradas a cines 2D en Cineplanet, Cine Sol, cine Muvix y Cinepolis, además de entradas Cinepolis Premium Class.",
-        "¿Cómo obtener el beneficio?",
-        "Ingresa a cines.travel.cl",
-        "Ingresa con tu usuario y contraseña.",
-        "Selecciona 4 entradas de un mismo tipo.",
-        "Selecciona ir al carro y en la sección ¿Tienes un código promocional? Ingresa el código 4X3CORDILLERA y se reflejará el descuento en el carro.",
-        "Sigue el proceso de pago a través del botón Banco de Chile.",
-        "Máximo un código por compra.",
-        "Puedes usar un máximo de 20 códigos por año."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "CINE PLANES OCÉANO",
-      "categoria": "Entretención y Deportes",
-      "descuento": "Disfruta 2x1 en entradas al cine",
-      "dia": [],
-      "dia_texto": "con tu Tarjeta del Plan Océano",
-      "canal": null,
-      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
-      "condiciones": [
-        "Con tus tarjetas del Plan Océano disfruta 2x1 en entradas a cines 2D en Cineplanet, Cine Star, Cine Sol, Cine Muvix y Cinepolis.",
-        "¿Cómo obtener el beneficio?",
-        "Ingresa a cines.travel.cl",
-        "Ingresa con tu usuario y contraseña.",
-        "Selecciona 2 entradas de un mismo tipo.",
-        "Selecciona ir al carro y en la sección ¿Tienes un código promocional? Ingresa el código 2X1OCEANO y se reflejará el descuento en el carro.",
-        "Sigue el proceso de pago a través del botón Banco de Chile.",
-        "Máximo un código por compra.",
-        "Puedes usar un máximo de 20 códigos por año."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "MOTA",
       "categoria": "Retail y Otras Marcas",
       "descuento": "25% dto.",
@@ -13664,91 +13620,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "CinePlanet",
-      "categoria": "Entretención y Deportes",
-      "descuento": "26% dto.",
-      "dia": [
-        "Todos los días"
-      ],
-      "dia_texto": "todos los días",
-      "canal": "Online",
-      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
-      "condiciones": [
-        "Compra tu entrada a $5.200 pagando con tus Tarjetas del Chile.",
-        "Para comprar tus entradas o canjearlas con tus Dólares-Premio, ingresa a duty.travel.cl > Panoramas Cine.",
-        "Recibirás un mail con tus códigos e instrucciones para hacer válidas tus entradas en el sitio web del cine y/o boleterías.",
-        "Código válido para una entrada Cineplanet 2D convencional, cualquier día y horario.",
-        "Excluye preventas y películas que cuenten con restricción del distribuidor.",
-        "Máximo 6 entradas mensuales por cliente."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Cine Star",
-      "categoria": "Entretención y Deportes",
-      "descuento": "19% dto.",
-      "dia": [
-        "Todos los días"
-      ],
-      "dia_texto": "todos los días",
-      "canal": "Online",
-      "vigencia": "Promoción válida hasta el 30 de noviembre de 2026.",
-      "condiciones": [
-        "Compra tu entrada a $4.800 pagando con tus Tarjetas del Chile.",
-        "Para comprar tus entradas o canjearlas con tus Dólares-Premio, ingresa a duty.travel.cl > Panoramas Cine.",
-        "Una vez realizada la compra o canje, recibirás un mail con el código e instrucciones en un plazo de hasta 12 horas hábiles.",
-        "Canjea tu código en cinestar.cl o directamente en la boletería presencial del cine.",
-        "El canje online tiene un cargo por servicio de $500, sujeto a modificaciones por parte de Cine Star.",
-        "Código válido para una entrada Cine Star 2D, cualquier día y horario.",
-        "Máximo 6 entradas mensuales por cliente.",
-        "Excluye preventas y películas con restricción del distribuidor."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Cinépolis",
-      "categoria": "Entretención y Deportes",
-      "descuento": "Hasta 25% dto.",
-      "dia": [
-        "Todos los días"
-      ],
-      "dia_texto": "todos los días",
-      "canal": "Online",
-      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
-      "condiciones": [
-        "Compra tu entrada desde $6.000 pagando con tus Tarjetas del Chile.",
-        "Para comprar tus entradas o canjearlas con tus Dólares-Premio, ingresa a duty.travel.cl > Panoramas Cine.",
-        "Una vez realizada la compra o canje, recibirás un mail con el código e instrucciones en un plazo de hasta 12 horas hábiles.",
-        "Canjea tu código en cinepolis.com/cl o directamente en boletería.",
-        "Máximo 6 entradas mensuales por cliente.",
-        "Excluye preventas, películas con restricción del distribuidor y salas Premium, IMAX, 4DX, Pluus y Junior."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Cine Muvix",
-      "categoria": "Entretención y Deportes",
-      "descuento": "20% dto.",
-      "dia": [
-        "Todos los días"
-      ],
-      "dia_texto": "todos los días",
-      "canal": "Online",
-      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
-      "condiciones": [
-        "Compra tu entrada MUVIX sala tradicional 2D por $4.800 pagando con tus Tarjetas del Chile.",
-        "Para comprar tus entradas o canjearlas con tus Dólares-Premio, ingresa a duty.travel.cl > Panoramas Cine.",
-        "Canjea tu código en muvix.cl o directamente en la boletería presencial del cine.",
-        "Máximo 6 entradas mensuales por cliente.",
-        "Excluye preventas y películas con restricción del distribuidor."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "Happy Point",
       "categoria": "Sabores",
       "descuento": "20% dto.",
@@ -14442,6 +14313,91 @@
       "sucursales": [
         "Local 2002, Av. La Dehesa #1445, Región Metropolitana, Lo Barnechea"
       ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Cinépolis",
+      "categoria": "Entretención y Deportes",
+      "descuento": "Canjea tus Dólares-Premio",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días",
+      "canal": null,
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
+      "condiciones": [
+        "Compra tu entrada desde $6.000 pagando con tus Tarjetas del Chile.",
+        "Para comprar tus entradas o canjearlas con tus Dólares-Premio, ingresa a tienda.travel.cl > Panoramas Cine.",
+        "Una vez realizada la compra o canje, recibirás un mail con el código e instrucciones en un plazo de hasta 12 horas hábiles.",
+        "Canjea tu código en cinepolis.com/cl o directamente en boletería.",
+        "Máximo 6 entradas mensuales por cliente.",
+        "Excluye preventas, películas con restricción del distribuidor y salas Premium, IMAX, 4DX, Pluus y Junior."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "CinePlanet",
+      "categoria": "Entretención y Deportes",
+      "descuento": "Canjea tus Dólares-Premio",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días",
+      "canal": null,
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
+      "condiciones": [
+        "Compra tu entrada a $5.200 pagando con tus Tarjetas del Chile.",
+        "Para comprar tus entradas o canjearlas con tus Dólares-Premio, ingresa a tienda.travel.cl > Panoramas Cine.",
+        "Recibirás un mail con tus códigos e instrucciones para hacer válidas tus entradas en el sitio web del cine y/o boleterías.",
+        "Código válido para una entrada Cineplanet 2D convencional, cualquier día y horario.",
+        "Excluye preventas y películas que cuenten con restricción del distribuidor.",
+        "Máximo 6 entradas mensuales por cliente."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Cine Muvix",
+      "categoria": "Entretención y Deportes",
+      "descuento": "Canjea tus Dólares-Premio",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días",
+      "canal": "Online",
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
+      "condiciones": [
+        "Compra tu entrada MUVIX sala tradicional 2D por $4.800 pagando con tus Tarjetas del Chile.",
+        "Para comprar tus entradas o canjearlas con tus Dólares-Premio, ingresa a tienda.travel.cl > Panoramas Cine.",
+        "Canjea tu código en muvix.cl o directamente en la boletería presencial del cine.",
+        "Máximo 6 entradas mensuales por cliente.",
+        "Excluye preventas y películas con restricción del distribuidor."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Cine Star",
+      "categoria": "Entretención y Deportes",
+      "descuento": "Canjea tus Dólares-Premio",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días",
+      "canal": null,
+      "vigencia": "Promoción válida hasta el 30 de noviembre de 2026.",
+      "condiciones": [
+        "Compra tu entrada a $4.800 pagando con tus Tarjetas del Chile.",
+        "Para comprar tus entradas o canjearlas con tus Dólares-Premio, ingresa a tienda.travel.cl > Panoramas Cine.",
+        "Una vez realizada la compra o canje, recibirás un mail con el código e instrucciones en un plazo de hasta 12 horas hábiles.",
+        "Canjea tu código en cinestar.cl o directamente en la boletería presencial del cine.",
+        "El canje online tiene un cargo por servicio de $500, sujeto a modificaciones por parte de Cine Star.",
+        "Código válido para una entrada Cine Star 2D, cualquier día y horario.",
+        "Máximo 6 entradas mensuales por cliente.",
+        "Excluye preventas y películas con restricción del distribuidor."
+      ],
+      "sucursales": []
     },
     {
       "banco": "Banco de Chile",
@@ -17758,59 +17714,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Jimmy John´s",
-      "categoria": "Sabores",
-      "descuento": "30% dto.",
-      "dia": [
-        "Lunes",
-        "Domingo"
-      ],
-      "dia_texto": "lunes y domingo",
-      "canal": "Tienda física",
-      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
-      "condiciones": [
-        "Jimmy John´s ofrece sándwiches gourmet preparados con pan horneado cada día en el local, carnes recién cortadas y vegetales frescos. Una propuesta rápida, fresca y llena de sabor para disfrutar en cada visita.",
-        "30% dto. lunes y domingo en compras presenciales.",
-        "Solicita tu descuento al momento de pagar.",
-        "No válido para productos embotellados.",
-        "No acumulable con otras promociones.",
-        "Descuento exclusivo pagando con tus Tarjetas del Chile."
-      ],
-      "sucursales": [
-        "Av. Apoquindo #6087, local 4, Región Metropolitana, Las Condes",
-        "Av. Pdte. Kennedy #5413, Región Metropolitana, Las Condes"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Heladerías Savory",
-      "categoria": "Sabores",
-      "descuento": "30% dto.",
-      "dia": [
-        "Lunes",
-        "Martes"
-      ],
-      "dia_texto": "lunes y martes",
-      "canal": "Tienda física",
-      "vigencia": "Promoción válida hasta el 31 de julio del 2027.",
-      "condiciones": [
-        "Savory ofrece una amplia variedad de helados, sabores y formatos para todos los gustos. Desde opciones individuales hasta alternativas para compartir, sus productos invitan a disfrutar en familia o con amigos.",
-        "30% dto. lunes y martes en compras presenciales.",
-        "Solicita tu descuento al momento de pagar.",
-        "No válido para productos embotellados.",
-        "No acumulable con otras promociones.",
-        "Descuento exclusivo pagando con tus Tarjetas del Chile."
-      ],
-      "sucursales": [
-        "Juan Soler Manfredini #131, Local 420, Región de Los Lagos, Puerto Montt",
-        "Av. Los Pablos #1880, Local 18, Región de La Araucanía, Temuco",
-        "Calle Serrano #935, Local N°2, Región Metropolitana, Melipilla",
-        "Av. Libertador Bernardo O´Higgins #5091, Local 07, Región Metropolitana, Santiago",
-        "Av. Los Pajaritos #1790, Local 3020, Región Metropolitana, Maipú"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "Luked Apparel",
       "categoria": "Retail y Otras Marcas",
       "descuento": "20% dto.",
@@ -19841,6 +19744,50 @@
       "sucursales": [
         "Av. San Martín #597, Región Valparaíso, Viña del Mar"
       ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "CINE PLANES OCÉANO",
+      "categoria": "Entretención y Deportes",
+      "descuento": "Disfruta 2x1 en entradas al cine",
+      "dia": [],
+      "dia_texto": "con tu Tarjeta del Plan Océano",
+      "canal": null,
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
+      "condiciones": [
+        "Con tus tarjetas del Plan Océano disfruta 2x1 en entradas a cines 2D en Cineplanet, Cine Star, Cine Sol, Cine Muvix y Cinepolis.",
+        "¿Cómo obtener el beneficio?",
+        "Ingresa a tienda.travel.cl",
+        "Ingresa con tu usuario y contraseña.",
+        "Selecciona 2 entradas de un mismo tipo.",
+        "Selecciona ir al carro y en la sección ¿Tienes un código promocional? Ingresa el código 2X1OCEANO y se reflejará el descuento en el carro.",
+        "Sigue el proceso de pago a través del botón Banco de Chile.",
+        "Máximo un código por compra.",
+        "Puedes usar un máximo de 20 códigos por año."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "CINE PLANES CORDILLERA",
+      "categoria": "Entretención y Deportes",
+      "descuento": "Disfruta 4X3 en entradas",
+      "dia": [],
+      "dia_texto": "con tu Tarjeta del Plan Cordillera",
+      "canal": null,
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
+      "condiciones": [
+        "Con tus tarjetas del Plan Cordillera disfruta 4x3 en entradas a cines 2D en Cineplanet, Cine Sol, cine Muvix y Cinepolis, además de entradas Cinepolis Premium Class.",
+        "¿Cómo obtener el beneficio?",
+        "Ingresa a tienda.travel.cl",
+        "Ingresa con tu usuario y contraseña.",
+        "Selecciona 4 entradas de un mismo tipo.",
+        "Selecciona ir al carro y en la sección ¿Tienes un código promocional? Ingresa el código 4X3CORDILLERA y se reflejará el descuento en el carro.",
+        "Sigue el proceso de pago a través del botón Banco de Chile.",
+        "Máximo un código por compra.",
+        "Puedes usar un máximo de 20 códigos por año."
+      ],
+      "sucursales": []
     },
     {
       "banco": "Banco de Chile",
@@ -23045,6 +22992,66 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "Heladerías Savory",
+      "categoria": "Sabores",
+      "descuento": "30% dto.",
+      "dia": [
+        "Lunes",
+        "Martes"
+      ],
+      "dia_texto": "lunes y martes",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 31 de julio del 2027.",
+      "condiciones": [
+        "Savory ofrece una amplia variedad de helados, sabores y formatos para todos los gustos. Desde opciones individuales hasta alternativas para compartir, sus productos invitan a disfrutar en familia o con amigos.",
+        "30% dto. lunes y martes en compras presenciales.",
+        "Solicita tu descuento al momento de pagar.",
+        "No válido para productos embotellados.",
+        "No acumulable con otras promociones.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "SV EU Las Rejas, Avenida Libertador Bernardo O´Higgins N° 5091, local 07, Región Metropolitana, Estación Central",
+        "SV EU Maipú, Avenida Pajaritos N° 1790, local 3020, Región Metropolitana, Maipú",
+        "SV Costanera Pasmar 420, Juan Soler Manfredini 131, local 420, Región de Los Lagos, Puerto Montt",
+        "SV EU Melipilla, Calle Serrano N° 395, local FC02, Región Metropolitana, Melipilla",
+        "SV EU Antofagasta, Calle Zenteno N° 21, local 3056, Región de Antofagasta, Antofagasta",
+        "SV EU Linares, Avenida Aníbal León Bustos 0280, local 17, Región del Maule, Linares",
+        "SV Puerto Varas - Pasmar, Calle San Francisco N° 666, local 312A, Región de Los Lagos, Puerto Varas",
+        "SV Vivo Los Toros, Avenida Concha y Toro N° 3909 (ex 3835), local 1322, Región Metropolitana, Puente Alto",
+        "SV EU Los Andes, Avenida Santa Teresa 683, local 84, Región de Valparaíso, Los Andes",
+        "SV Alerce - Pasmar, Avenida Ferrocarril N° 2001, camino a Alerce, Región de Los Lagos, Puerto Montt",
+        "Easton Quilicura, Avenida Presidente Eduardo Frei Montalva N° 9709 y N° 9719, Región Metropolitana, Quilicura"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Jimmy John´s",
+      "categoria": "Sabores",
+      "descuento": "30% dto.",
+      "dia": [
+        "Lunes",
+        "Domingo"
+      ],
+      "dia_texto": "lunes y domingo",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
+      "condiciones": [
+        "Jimmy John´s ofrece sándwiches gourmet preparados con pan horneado cada día en el local, carnes recién cortadas y vegetales frescos. Una propuesta rápida, fresca y llena de sabor para disfrutar en cada visita.",
+        "30% dto. lunes y domingo en compras presenciales.",
+        "Solicita tu descuento al momento de pagar.",
+        "No válido para productos embotellados.",
+        "No acumulable con otras promociones.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Apumanque, Av. Apoquindo 6087, local 4, Región Metropolitana, Las Condes",
+        "Parque Arauco, Av. Pdte. Kennedy 5413, Parque Arauco, foodcourt, piso 4, zona C, Región Metropolitana, Las Condes",
+        "CV Galería Vitacura, Alonso de Córdova 4355, Región Metropolitana, Vitacura"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "Novu",
       "categoria": "Sabores",
       "descuento": "40% dto.",
@@ -24126,6 +24133,70 @@
     },
     {
       "banco": "Banco Santander",
+      "comercio": "BazarED",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "30% de descuento en entradas y 30% de Cashback en compras BazarED",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Este evento reúne lo mejor de la moda, el diseño y la decoración.",
+        "Fechas del evento: Entre el 05 al 08 de noviembre de 2026.",
+        "Vigencia del cashback: 05 y 06 de noviembre de 2026.",
+        "30% de descuento en entradas exclusivo para Tarjetas Visa Infinite y Visa Signature",
+        "30% de cashback en compras - Exclusivo Visa Infinite.",
+        "Exclusivo pagando con Visa Infinite, pagando desde el celular.",
+        "Tecnología: Exclusivamente a través de POS Tap to Phone habilitados por SumUp.",
+        "Tope: $30.000 de cashback por tarjeta durante la promoción.",
+        "Fondo promocional: $15.000.000",
+        "Términos y condiciones – Cashback Visa Infinite 30% de cashback en compras presenciales realizadas con tarjetas Visa Infinite mediante pago desde el celular, exclusivamente a través de tecnología Tap to Phone habilitada por SumUp, en comercios adheridos a la promoción en Bazar ED 2026. Promoción válida los días 5 y 6 de noviembre de 2026 o hasta agotar el fondo promocional de $15.000.000, lo que ocurra primero. Tope total de cashback de $30.000 por tarjeta durante la promoción. El cashback puede tardar en hacerse efectivo hasta 20 días hábiles y no aplica a transacciones reversadas, anuladas, fraudulentas o que no cumplan con los requisitos de la promoción. Términos y condiciones – Descuento en entradas 30% de descuento sobre el valor de la entrada general para Bazar ED 2026, adquiridas con tarjetas Visa Signature o Visa Infinite emitidas en Chile en Ticketmaster.cl o en las boleterías presenciales autorizadas. El descuento será aplicable exclusivamente hasta dos entradas generales diarias mientras dure la promoción. Promoción válida hasta el 9 de noviembre de 2026 o hasta agotar el stock disponible, lo que ocurra primero. Organizador responsable: Descuentos e Incentivos SpA."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Nikola",
+      "categoria": "Cuotas Sin Interés",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "3 a 48 cuotas sin interés",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "¡Aprovecha al máximo los recursos naturales y la energía con paneles solares para tu hogar!",
+        "Exclusivo pagando con tus Tarjetas de Crédito Santander y Tarjetas de Crédito Santander Empresas.",
+        "Es válido en www.nikola.cl",
+        "No es acumulable con otras promociones.",
+        "CAE 1,54% Calculado por un monto referencial de compra de $1.000.000 en 48 cuotas. Costo total del Crédito: $1.031.680 . Operación afecta a impuesto al crédito a cargo del cliente.",
+        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Houm",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "Corretaje gratis o un arriendo extra, y 20% de dcto. en tu plan de administración",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Si tu propiedad está disponible, Houm la publica y arrienda sin cobrarte corretaje. Si ya está arrendada, traspasa su administración a Houm y recibe un arriendo extra. En los dos casos, tu plan de administración tiene un 20% de dcto.",
+        "Debes recibir el arriendo en una Cuenta Corriente o Cuenta Vista Santander.",
+        "Tu propiedad debe ser residencial, estar en Santiago, Valparaíso, Concepción, La Serena o Temuco, y no tener contrato de administración vigente con Houm, ni haberlo tenido en los últimos 12 meses.",
+        "Corretaje gratis: debes contratar el corretaje junto con un plan de administración.",
+        "Arriendo extra: tu propiedad debe estar arrendada. Houm lo deposita cuando reciba el primer arriendo. Se deposita en una Cuenta Corriente o Cuenta Vista Santander.",
+        "El 20% dcto. se calcula antes de IVA sobre el valor del plan de administración.",
+        "Beneficios sujetos a evaluación. Uno por propiedad. No acumulable con otras promociones.",
+        "Más información y condiciones: https://houm.com/cl/alianzas/santander",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad de Huerto Sur Cafeterías SPA y Sociedad Bustorf Larsen Cía., sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
       "comercio": "Chili´s",
       "categoria": "Sabores",
       "descuento": "40% dcto.",
@@ -24160,27 +24231,6 @@
         "CAE 0,8%: Monto Total a pagar de $10.080.000, son referenciales y corresponden a una compra por $10.000.000 cursada en modalidad de pago de 48 cuotas mensuales, y consideran impuestos.",
         "Se excluyen de la promoción los autos seminuevos de sucursal JPN.",
         "Vigencia de la promoción hasta el 31 de agosto de 2026, válido para autos nuevos Mercedes Benz, smart y Seminuevos. Se excluyen de la promoción los autos Seminuevos de sucursal JPN. CAE 0,8%: Monto Total a pagar de $10.080.000, son referenciales y corresponden a una compra por $10.000.000 cursada en modalidad de pago de 48 cuotas mensuales, y consideran impuestos. Límite mensual de compras que da derecho a acumulación de millas LATAM Pass; The Platinum Card American Express Santander LATAM Pass: monto menor entre: (a) la cantidad de 60.000 Dólares en cada periodo de facturación, y (b) el monto del respectivo cupo de la Tarjeta. Límite mensual de compras que da derecho a acumulación WorldMember Limited Santander LATAM Pass: monto menor entre: (a) la cantidad de 30.000 Dólares en cada periodo de facturación, y (b) el monto del respectivo cupo de la Tarjeta. Consulte por otros eventuales cargos. La acumulación de millas y otros beneficios no financieros anunciados son responsabilidad de LATAM AIRLINES GROUP S.A. o de terceros que los otorguen, sin que corresponda a Banco Santander Chile intervención alguna en ello, ni en la ulterior atención que ello demande. Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "BazarED",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "30% de descuento en entradas y 30% de Cashback en compras BazarED",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Este evento reúne lo mejor de la moda, el diseño y la decoración.",
-        "Fechas: 5 y 6 de noviembre de 2026.",
-        "30% de descuento en entradas exclusivo para Tarjetas Visa Infinite y Visa Signature",
-        "30% de cashback en compras - Exclusivo Visa Infinite: Exclusivo pagando con Visa Infinite, pagando desde el celular.",
-        "Tecnología: Exclusivamente a través de POS Tap to Phone habilitados por SumUp.",
-        "Tope: $30.000 de cashback por tarjeta durante la promoción.",
-        "Fondo promocional: $15.000.000",
-        "Términos y condiciones – Cashback Visa Infinite 30% de cashback en compras presenciales realizadas con tarjetas Visa Infinite mediante pago desde el celular, exclusivamente a través de tecnología Tap to Phone habilitada por SumUp, en comercios adheridos a la promoción en Bazar ED 2026. Promoción válida los días 5 y 6 de noviembre de 2026 o hasta agotar el fondo promocional de $15.000.000, lo que ocurra primero. Tope total de cashback de $30.000 por tarjeta durante la promoción. El cashback puede tardar en hacerse efectivo hasta 20 días hábiles y no aplica a transacciones reversadas, anuladas, fraudulentas o que no cumplan con los requisitos de la promoción. Términos y condiciones – Descuento en entradas 30% de descuento sobre el valor de la entrada general para Bazar ED 2026, adquiridas con tarjetas Visa Signature o Visa Infinite emitidas en Chile en Ticketmaster.cl o en las boleterías presenciales autorizadas. El descuento será aplicable exclusivamente hasta dos entradas generales diarias mientras dure la promoción. Promoción válida hasta el 9 de noviembre de 2026 o hasta agotar el stock disponible, lo que ocurra primero. Organizador responsable: Descuentos e Incentivos SpA."
       ],
       "sucursales": []
     },
@@ -30173,25 +30223,6 @@
         "Exclusivo en paneles solares.",
         "CAE 1,54% y monto total a pagar de $1.031.680, anunciados son ejemplares y corresponden a compra de monto de $1.000.000 cursada en modalidad de pago de 48 cuotas mensuales, y consideran impuestos.",
         "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Nikola",
-      "categoria": "Cuotas Sin Interés",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "3 a 48 cuotas sin interés",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "¡Aprovecha al máximo los recursos naturales y la energía con paneles solares para tu hogar!",
-        "Exclusivo pagando con tus Tarjetas de Crédito Santander y Tarjetas de Crédito Santander Empresas.",
-        "Es válido en www.nikola.cl",
-        "No es acumulable con otras promociones.",
-        "CAE 1,54% Calculado por un monto referencial de compra de $1.000.000 en 48 cuotas. Costo total del Crédito: $1.031.680 . Operación afecta a impuesto al crédito a cargo del cliente.",
-        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
       ],
       "sucursales": []
     },
