@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-04T18:20",
+  "actualizado": "2026-11-05T18:23",
   "beneficios": [
     {
       "banco": "Banco de Chile",
@@ -18080,22 +18080,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Nikola",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "Paga hasta en 36 cuotas sin interés",
-      "canal": null,
-      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
-      "condiciones": [
-        "¡Invierte en un futuro más rentable, seguro y sostenible! En Nikola te acompañamos con asesoría clara y personalizada para que evalúes un proyecto solar de alta calidad, ideal para tu casa o pyme. Somos parte de Energy Holding, grupo de origen belga con más de 10 años de experiencia en el mercado chileno, especializado en soluciones de energía solar eficientes y confiables. Contamos con más de 950 proyectos instalados en Chile, entre soluciones residenciales, pymes y electromovilidad. Solicita hoy tu cotización y asesoría gratuita para tu: proyecto solar Nikola"
-      ],
-      "sucursales": [
-        "Los Conquistadores #1730, Piso 21, Región Metropolitana, Providencia"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "The Class",
       "categoria": "Entretención y Deportes",
       "descuento": "20% dto.",
@@ -24106,6 +24090,29 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "Cantina Montt",
+      "categoria": "Sabores",
+      "descuento": "20% dto.",
+      "dia": [
+        "Jueves",
+        "Viernes"
+      ],
+      "dia_texto": "jueves y viernes",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 1 de mayo de 2027.",
+      "condiciones": [
+        "Cantina Montt combina sabores mediterráneos y coctelería de autor en una antigua casona de Providencia. Con 15 canillas de cerveza artesanal, sidra, sangría, negroni y vermú casero, este bar de barrio apoya a pequeños productores y ofrece un ambiente acogedor para compartir.",
+        "20% dto. jueves y viernes en compra presencial.",
+        "Solicita tu descuento al momento de pagar.",
+        "No acumulable con otras promociones.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Manuel Montt 1201, Región Metropolitana, Providencia"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "Impasto",
       "categoria": "Sabores",
       "descuento": "40% dto.",
@@ -24132,16 +24139,55 @@
       ]
     },
     {
-      "banco": "Banco Santander",
-      "comercio": "BazarED",
+      "banco": "Banco de Chile",
+      "comercio": "Nikola",
       "categoria": "Retail y Otras Marcas",
       "descuento": null,
       "dia": [],
-      "dia_texto": "30% de descuento en entradas y 30% de Cashback en compras BazarED",
+      "dia_texto": "Paga hasta en 36 cuotas sin interés",
+      "canal": null,
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
+      "condiciones": [
+        "¡Invierte en un futuro más rentable, seguro y sostenible! En Nikola te acompañamos con asesoría clara y personalizada para que evalúes un proyecto solar de alta calidad, ideal para tu casa o pyme. Somos parte de Energy Holding, grupo de origen belga con más de 10 años de experiencia en el mercado chileno, especializado en soluciones de energía solar eficientes y confiables. Contamos con más de 950 proyectos instalados en Chile, entre soluciones residenciales, pymes y electromovilidad. Solicita hoy tu cotización y asesoría gratuita para tu: proyecto solar Nikola"
+      ],
+      "sucursales": [
+        "Los Conquistadores #1730, Piso 21, Región Metropolitana, Providencia"
+      ]
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Reses y Brasas",
+      "categoria": "Sabores",
+      "descuento": "40% dcto",
+      "dia": [
+        "Miércoles"
+      ],
+      "dia_texto": "todos los miércoles",
       "canal": null,
       "vigencia": null,
       "condiciones": [
-        "Este evento reúne lo mejor de la moda, el diseño y la decoración.",
+        "Los mejores cortes de carnes premium asados en parrilla a la vista",
+        "Exclusivo con tus Tarjetas de Crédito Santander.",
+        "Válido en local.",
+        "No acumulable a otras promociones.",
+        "Tope descuento $40.000",
+        "5 norte 511, Viña del Mar",
+        "Yerbas Buenas 342, Los Andes",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Visa | BazarED",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "30% de descuento en entradas y 30% de Cashback en compras BazarED pagando con Visa",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Este evento reúne la mejor moda, el diseño y la decoración",
         "Fechas del evento: Entre el 05 al 08 de noviembre de 2026.",
         "Vigencia del cashback: 05 y 06 de noviembre de 2026.",
         "30% de descuento en entradas exclusivo para Tarjetas Visa Infinite y Visa Signature",
@@ -24151,6 +24197,27 @@
         "Tope: $30.000 de cashback por tarjeta durante la promoción.",
         "Fondo promocional: $15.000.000",
         "Términos y condiciones – Cashback Visa Infinite 30% de cashback en compras presenciales realizadas con tarjetas Visa Infinite mediante pago desde el celular, exclusivamente a través de tecnología Tap to Phone habilitada por SumUp, en comercios adheridos a la promoción en Bazar ED 2026. Promoción válida los días 5 y 6 de noviembre de 2026 o hasta agotar el fondo promocional de $15.000.000, lo que ocurra primero. Tope total de cashback de $30.000 por tarjeta durante la promoción. El cashback puede tardar en hacerse efectivo hasta 20 días hábiles y no aplica a transacciones reversadas, anuladas, fraudulentas o que no cumplan con los requisitos de la promoción. Términos y condiciones – Descuento en entradas 30% de descuento sobre el valor de la entrada general para Bazar ED 2026, adquiridas con tarjetas Visa Signature o Visa Infinite emitidas en Chile en Ticketmaster.cl o en las boleterías presenciales autorizadas. El descuento será aplicable exclusivamente hasta dos entradas generales diarias mientras dure la promoción. Promoción válida hasta el 9 de noviembre de 2026 o hasta agotar el stock disponible, lo que ocurra primero. Organizador responsable: Descuentos e Incentivos SpA."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Rubaiyat invita - A Luis Maldonado de Tributo.",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "30% de descuento pagando con American Express",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Rubaiyat Invita es un espacio para celebrar la cocina regional y el encuentro en torno a la mesa, abriendo nuestra casa a referentes gastronómicos de Latinoamérica.",
+        "Exclusivo pagando con tus Tarjetas: Platinum Card, WorldMember y WorldMember Limited Santander American Express",
+        "Viernes 13 de noviembre",
+        "Rubaiyat Chile, Nueva Costanera 4031, Vitacura",
+        "Horarios de ingreso: Cada 30 minutos entre 19:00 y 21:00 hrs",
+        "Maridaje: Vinos orgánicos de Viña Emiliana",
+        "Aforo: Exclusivo para 120 asistentes",
+        "Reserva en: docs.google.com/forms/d/e/1FAIpQLSc7cPjWdIkDFYU7L5DyCmpE_8lSslpCGcFiTDY_UYkJ5o-rHw/viewform?usp=publish-editor"
       ],
       "sucursales": []
     },
@@ -24832,29 +24899,6 @@
         "No acumulable a otras promociones.",
         "Tope descuento $40.000",
         "Avenida las Rastras 1285; Cruz 383",
-        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​"
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Reses y Brasas",
-      "categoria": "Sabores",
-      "descuento": "40% dcto",
-      "dia": [
-        "Miércoles"
-      ],
-      "dia_texto": "todos los miércoles",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Los mejores cortes de carnes premium asados en parrilla a la vista",
-        "Exclusivo con tus Tarjetas de Crédito Santander.",
-        "Válido en local.",
-        "No acumulable a otras promociones.",
-        "Tope descuento $40.000",
-        "Av. Croacia 0738, Viña del mar",
-        "Yerbas Buenas 342, Los Andes",
         "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​"
       ],
       "sucursales": []
@@ -30290,27 +30334,6 @@
         "Sin tope de descuento.",
         "Exclusivo en Pasta dental Natural Menta S/Flúor con adición de Hidroxiapatita (HA).",
         "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "RUBAIYAT INVITA — A LUIS MALDONADO DE TRIBUTO.",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "30% de descuento pagando con American Express",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Rubaiyat Invita es un espacio para celebrar la cocina regional y el encuentro en torno a la mesa, abriendo nuestra casa a referentes gastronómicos de Latinoamérica.",
-        "Exclusivo pagando con tus Tarjetas: Platinum Card, WorldMember y WorldMember Limited Santander American Express",
-        "Viernes 13 de noviembre",
-        "Rubaiyat Chile, Nueva Costanera 4031, Vitacura",
-        "Horarios de ingreso: Cada 30 minutos entre 19:00 y 21:00 hrs",
-        "Maridaje: Vinos orgánicos de Viña Emiliana",
-        "Aforo: Exclusivo para 120 asistentes",
-        "Reserva en: docs.google.com/forms/d/e/1FAIpQLSc7cPjWdIkDFYU7L5DyCmpE_8lSslpCGcFiTDY_UYkJ5o-rHw/viewform?usp=publish-editor"
       ],
       "sucursales": []
     },
