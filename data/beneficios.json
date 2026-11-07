@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-06T17:45",
+  "actualizado": "2026-11-07T16:40",
   "beneficios": [
     {
       "banco": "Banco de Chile",
@@ -22364,29 +22364,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Cervecería Kunstmann Valdivia",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Viernes"
-      ],
-      "dia_texto": "viernes de noviembre",
-      "canal": null,
-      "vigencia": "Promoción válida del 01 al 30 de noviembre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial 40% dto. viernes de noviembre.",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope $50.000 de dto"
-      ],
-      "sucursales": [
-        "Ruta T 350 #950, Región de los Ríos, Valdivia"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "BURTON",
       "categoria": "Retail y Otras Marcas",
       "descuento": "20% dto. miércoles a viernes",
@@ -23841,6 +23818,29 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "Cervecería Kunstmann Valdivia",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Lunes"
+      ],
+      "dia_texto": "lunes de noviembre",
+      "canal": null,
+      "vigencia": "Promoción válida del 01 al 30 de noviembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. todos los lunes de noviembre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope $50.000 de dto"
+      ],
+      "sucursales": [
+        "Ruta T 350 #950, Región de los Ríos, Valdivia"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "Cantina Montt",
       "categoria": "Sabores",
       "descuento": "20% dto.",
@@ -24220,29 +24220,6 @@
         "5 norte 511, Viña del Mar",
         "Yerbas Buenas 342, Los Andes",
         "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​"
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Visa | BazarED",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "30% de descuento en entradas y 30% de Cashback en compras BazarED pagando con Visa",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Este evento reúne la mejor moda, el diseño y la decoración",
-        "Fechas del evento: Entre el 05 al 08 de noviembre de 2026.",
-        "Vigencia del cashback: 05 y 06 de noviembre de 2026.",
-        "30% de descuento en entradas exclusivo para Tarjetas Visa Infinite y Visa Signature",
-        "30% de cashback en compras - Exclusivo Visa Infinite.",
-        "Exclusivo pagando con Visa Infinite, pagando desde el celular.",
-        "Tecnología: Exclusivamente a través de POS Tap to Phone habilitados por SumUp.",
-        "Tope: $30.000 de cashback por tarjeta durante la promoción.",
-        "Fondo promocional: $15.000.000",
-        "Términos y condiciones – Cashback Visa Infinite 30% de cashback en compras presenciales realizadas con tarjetas Visa Infinite mediante pago desde el celular, exclusivamente a través de tecnología Tap to Phone habilitada por SumUp, en comercios adheridos a la promoción en Bazar ED 2026. Promoción válida los días 5 y 6 de noviembre de 2026 o hasta agotar el fondo promocional de $15.000.000, lo que ocurra primero. Tope total de cashback de $30.000 por tarjeta durante la promoción. El cashback puede tardar en hacerse efectivo hasta 20 días hábiles y no aplica a transacciones reversadas, anuladas, fraudulentas o que no cumplan con los requisitos de la promoción. Términos y condiciones – Descuento en entradas 30% de descuento sobre el valor de la entrada general para Bazar ED 2026, adquiridas con tarjetas Visa Signature o Visa Infinite emitidas en Chile en Ticketmaster.cl o en las boleterías presenciales autorizadas. El descuento será aplicable exclusivamente hasta dos entradas generales diarias mientras dure la promoción. Promoción válida hasta el 9 de noviembre de 2026 o hasta agotar el stock disponible, lo que ocurra primero. Organizador responsable: Descuentos e Incentivos SpA."
       ],
       "sucursales": []
     },
