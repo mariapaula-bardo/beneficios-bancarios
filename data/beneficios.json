@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-08T16:50",
+  "actualizado": "2026-11-09T21:12",
   "beneficios": [
     {
       "banco": "Banco de Chile",
@@ -97,6 +97,31 @@
       ],
       "sucursales": [
         "Ruta V-155, Km 2, Camino a Los Bajos, Región de Los Lagos, Frutillar"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "CLINICA RAMIS",
+      "categoria": "Salud y Belleza",
+      "descuento": "Hasta 55% dto.",
+      "dia": [
+        "Lunes",
+        "Viernes"
+      ],
+      "dia_texto": "lunes y viernes",
+      "canal": null,
+      "vigencia": "Promoción válida hasta el 31 de octubre de 2027.",
+      "condiciones": [
+        "En Clínica Ramis nos apasiona cuidar de tu sonrisa y tu bienestar. Nuestro equipo de especialistas en odontología está aquí para ofrecerte tratamientos modernos y efectivos, desde ortodoncia y estética dental hasta implantes y endodoncia. Sabemos lo importante que es sentirte en buenas manos, por eso contamos con tecnología avanzada y un enfoque cálido y cercano. Además, como clínica integral, también ponemos a tu disposición servicios de medicina y estética facial. Te esperamos en el corazón de Valdivia (Beauchef 683) para acompañarte en cada paso hacia una salud plena y una sonrisa radiante. www.clinicaramis.cl",
+        "55% dto en blanqueamiento.",
+        "40% dto en limpieza y destartraje.",
+        "40% dto en depilación láser.",
+        "30% dto en evaluaciones.",
+        "Obtén estos beneficios pagando con tus Tarjetas del Chile.",
+        "No acumulable con otras promociones."
+      ],
+      "sucursales": [
+        "Beauchef #683, Región de los Ríos, Valdivia"
       ]
     },
     {
@@ -15348,39 +15373,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Marathon",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": "20% dto. adicional",
-      "dia": [
-        "Viernes",
-        "Sábado",
-        "Domingo"
-      ],
-      "dia_texto": "viernes a domingo",
-      "canal": "Ambos",
-      "vigencia": "Promoción válida del 13 de octubre al 08 de noviembre.",
-      "condiciones": [
-        "Tenemos las mejores marcas internacionales en zapatillas, para entrenar con estilo y comodidad.",
-        "20% dto. adicional de viernes a domingo en calzado, vestuario y accesorios en la categoría niños.",
-        "Para compras presenciales solicita tu descuento al momento de pagar con tus Tarjetas Banco de Chile.",
-        "Para compras online, obtén descuento ingresando los seis primeros dígitos de tu tarjeta al momento de finalizar compra en marathon.cl.",
-        "Descuento no aplica para valor del despacho.",
-        "Revisa cobertura de despacho en marathon.cl",
-        "Beneficio no es válido para el Outlet de Estación Central.",
-        "Descuento válido solo en categoría niños y accesorios.",
-        "No acumulable con otras promociones.",
-        "Descuento exclusivo pagando con tus Tarjetas del Chile."
-      ],
-      "sucursales": [
-        "Parque Arauco Nivel 1, Avenida Presidente Kennedy #5413, Región Metropolitana, Las Condes",
-        "Costanera Center Nivel 3, Avenida Andrés Bello #2425, Región Metropolitana, Providencia",
-        "Avenida Vicuña Mackena Oriente #6100, Local 2203 Cenco Florida (Ex florida center), Región Metropolitana, La Florida",
-        "Av. Américo Vespucio #399, local 415-B, Región Metropolitana, Maipú",
-        "Benidorm 961 Local 278 - 280, Región de Valparaíso, Viña del Mar"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "Ludovico Einaudi - 9 de marzo 2027",
       "categoria": "Entretención y Deportes",
       "descuento": null,
@@ -17471,27 +17463,6 @@
         "Yumbel #883, Región del Libertador General Bernardo O´Higgins, San Fernando",
         "Almirante Barroso #156, Región Metropolitana, Santiago"
       ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Shell",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": "$7.000 de dto.",
-      "dia": [],
-      "dia_texto": "en La Barra al pagar con la Nueva  App Shell",
-      "canal": null,
-      "vigencia": "Promoción válida hasta el 22 de noviembre de 2026.",
-      "condiciones": [
-        "$7.000 de dto. en La Barra al comprar combustible, productos en tiendas upa! u otros servicios de Shell con tu Tarjeta del Chile a través de la Nueva App Shell.",
-        "Cupón válido para compras desde $30.000 en labarra.cl",
-        "Recibirás tu cupón por correo electrónico dentro de los 7 días hábiles posteriores a tu compra en Shell.",
-        "Un cupón valido por semana.",
-        "1. Descarga la Nueva App Shell en tu teléfono móvil.",
-        "2. Regístrate con el código que recibirás por correo y crea tu clave. Si no llega el correo, revisa la carpeta de spam.",
-        "3. Enrola tu Tarjeta Banco Edwards en la sección Billetera de la Nueva App Shell.",
-        "4. Solicita al atendedor pagar con la Nueva App Shell y selecciona tu Tarjeta del Chile al momento del pago."
-      ],
-      "sucursales": []
     },
     {
       "banco": "Banco de Chile",
@@ -19637,23 +19608,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Traslado gratis al Aeropuerto",
-      "categoria": "Viajes",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "Con tu nuevo plan Travel Infinite, Travel Black o Travel Platinum",
-      "canal": null,
-      "vigencia": "Promoción válida hasta el 30 de noviembre de 2026.",
-      "condiciones": [
-        "Traslado gratis al Aeropuerto con tu Tarjeta de Crédito del Chile. Al contratratar un nuevo Plan de Tarjeta de Crédito obtén traslados gratis con Transvip.",
-        "Plan Travel Infinite: 4 traslados gratis al año.",
-        "Plan Travel Black: 4 traslados gratis al año.",
-        "Plan Travel Platinum: 2 traslados gratis al año."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "FLIXBUS",
       "categoria": "Viajes",
       "descuento": null,
@@ -21164,31 +21118,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "NIKE",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": "30% dto. adicional",
-      "dia": [
-        "Martes",
-        "Jueves",
-        "Domingo"
-      ],
-      "dia_texto": "martes, jueves y domingo",
-      "canal": "Online",
-      "vigencia": "Promoción válida hasta el 08 de noviembre de 2026.",
-      "condiciones": [
-        "30% dto. adicional martes, jueves y domingo online.",
-        "Revisa los productos con descuentos en nike.cl/bancodechile",
-        "Tu descuento se verá reflejado al momento de ingresar tu Tarjeta del Chile al realizar el pago.",
-        "Antes de pagar confirma que estas en el sitio nike.cl/bancodechile y que el descuento esté aplicado.",
-        "Revisa cobertura de despacho en Nike.cl",
-        "Descuento no aplica al valor del despacho.",
-        "Tope de dto. $60.000",
-        "Descuento exclusivo pagando con tus Tarjetas del Chile."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "Bsoul",
       "categoria": "Retail y Otras Marcas",
       "descuento": "20% dto.",
@@ -22364,6 +22293,26 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "La Barra",
+      "categoria": "Sabores",
+      "descuento": "30% dto. adicional",
+      "dia": [],
+      "dia_texto": "del 9 al 11 de noviembre",
+      "canal": null,
+      "vigencia": "Promoción válida del 9 al 11 de noviembre de 2026.",
+      "condiciones": [
+        "30% dto. adicional a otros descuentos pagando con tus Tarjetas del Chile del 9 al 11 de noviembre en labarra.cl y App La Barra.",
+        "Ingresa a labarra.cl o App La Barra.",
+        "Paga a través del Botón de Pago Banco de Chile con tus Tarjetas de Crédito o Débito del Banco de Chile. ¡Recibe tu pedido y disfruta!",
+        "2 transacciones por cliente durante la vigencia de la promoción.",
+        "Tope de dto. $60.000 por transacción.",
+        "Paga en 3 cuotas sin interés.",
+        "Tus compras en esta campaña tienen doble acumulación de Dólares-Premio."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "BURTON",
       "categoria": "Retail y Otras Marcas",
       "descuento": "20% dto. miércoles a viernes",
@@ -22744,6 +22693,27 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "Shell",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "$7.000 de dto.",
+      "dia": [],
+      "dia_texto": "en La Barra al pagar con la Nueva  App Shell",
+      "canal": null,
+      "vigencia": "Promoción válida hasta el 22 de noviembre de 2026.",
+      "condiciones": [
+        "$7.000 de dto. en La Barra al comprar combustible, productos en tiendas upa! u otros servicios de Shell con tu Tarjeta del Chile a través de la Nueva App Shell.",
+        "Cupón válido para compras desde $30.000 en labarra.cl",
+        "Recibirás tu cupón por correo electrónico dentro de los 7 días hábiles posteriores a tu compra en Shell.",
+        "Un cupón valido por semana.",
+        "1. Descarga la Nueva App Shell en tu teléfono móvil.",
+        "2. Regístrate con el código que recibirás por correo y crea tu clave. Si no llega el correo, revisa la carpeta de spam.",
+        "3. Enrola tu Tarjeta Banco Edwards en la sección Billetera de la Nueva App Shell.",
+        "4. Solicita al atendedor pagar con la Nueva App Shell y selecciona tu Tarjeta del Chile al momento del pago."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "Novu",
       "categoria": "Sabores",
       "descuento": "40% dto.",
@@ -22828,33 +22798,6 @@
       "canal": null,
       "vigencia": null,
       "condiciones": [],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Traslado gratis al Aeropuerto",
-      "categoria": "Viajes",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "Por tus compras en Travel Viajes y en Líneas Aéreas",
-      "canal": null,
-      "vigencia": "Promoción válida hasta el 30 de noviembre de 2026.",
-      "condiciones": [
-        "Todas tus compras en Travel Viajes y tus compras nacionales en cualquier Línea Aérea desde $300.000 te regalan traslados gratis desde o hacia el Aeropuerto de Santiago en Transvip, pagando con tus Tarjetas de Crédito Infinite, Signature y Platinum.",
-        "Paso 1: Descarga tu código. Paso 2: Ingresa en la App o sitio web de Transvip (www.transvip.cl), luego selecciona la opción traslado al aeropuerto, ingresa la dirección de origen/destino Paso 3: Al momento de confirmar la reserva ingresa el código de descuento.",
-        "Tu código estará disponible luego de 72 horas hábiles posteriores a la compra.",
-        "Tope de $50.000 por viaje. Si el monto del viaje supera los $50.000, la diferencia deberá ser pagada por el pasajero de manera directa a Transvip con sus Tarjetas de Crédito del Chile.",
-        "Para obtener tu traslado gratis debes solicitar tramo de Ida o de Regreso por separado en la opción \"Solo Ida\" en Web o APP Transvip.",
-        "Beneficio es válido en todas las compras en Aerolíneas y tus viajes nacionales e internacionales través de Travel Viajes.",
-        "Beneficio Líneas Aéreas: Válido solo para 1 compra nacional superior a $300.000 realizadas en el rubro líneas aéreas (Compras registradas en pesos en el estado de cuenta nacional. No aplica en compra en Dólares). Las compras no son acumulables.",
-        "El servicio será responsabilidad del operador Transvip.",
-        "Beneficio válido hasta el 30 de noviembre de 2026.",
-        "Los códigos deben utilizarse dentro del mismo mes en que son descargados, de todas maneras, el cliente puede realizar en una reserva que no sea en el mes en curso.",
-        "Los códigos descargados en meses anteriores ya están vencidos y no pueden ser utilizados.",
-        "Debe escribir a programa@travel.cl para gestionar la entrega de un nuevo código.",
-        "No, el beneficio aplica solo para traslados hacia o desde el aeropuerto y cada código corresponde a un tramo.",
-        "Compras Travel Viajes: válidas desde el 15.10.2025 al 30.11.2026. Líneas Aéreas: válido para compras en Chile para destinos nacionales e internacionales superiores a $300.000 en rubro líneas aéreas (Compras registradas en pesos en el estado de cuenta nacional. No aplica en compra en Dólares) desde el 15.10.2025 al 30.11.2026. Código válido para ser usado hasta el 30.11.2026. No aplica a las compras efectuadas a través de recaudadores o plataformas de pago como Mercado Pago y operadores (excepto Travel Viajes). El servicio del traslado es responsabilidad de Transvip. Dto con tope de $50.000 por viaje. Si el monto del viaje supera los $50.000, la diferencia debe ser pagada por el pasajero de manera directa a Transvip con su Tarjeta de Crédito del Banco de Chile. No acumulable con otras promociones. Revisa cobertura de Transvip.cl."
-      ],
       "sucursales": []
     },
     {
@@ -24123,37 +24066,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Transvip",
-      "categoria": "Viajes",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "15% dto. en Transvip + tag Descuento clientes",
-      "canal": null,
-      "vigencia": "Promoción válida hasta el 30 de noviembre de 2026.",
-      "condiciones": [
-        "15% dto en servicios:",
-        "15% dto. en servicios traslados desde y hacia aeropuertos, Taxi dentro de la ciudad y servicio de encomiendas.",
-        "Válido para Web y APP Transvip.",
-        "Para obtener tu dto. debes solicitar Tramo de Ida o de Regreso por separado ingresando a Transvip.cl o App Transvip a la opción Solo Ida, una vez completado el formulario ingresa el código en la sección Código de dto.",
-        "Tope de dto. $3.000 por código.",
-        "Códigos válidos para ser usados hasta el 30 de noviembre de 2026.",
-        "4 códigos por cliente al mes."
-      ],
-      "sucursales": [
-        "Aeropuerto Cerro Moreno Interior S/N, REGIÓN DE ANTOFAGASTA, Antofagasta, (2) 26773000",
-        "Control Uno (Transvip Pudahuel), REGIÓN METROPOLITANA, Pudahuel, (2) 26773000",
-        "Counter Aduana Internacional 1, REGIÓN METROPOLITANA, Pudahuel, (2) 26773000",
-        "Counter Aduana Internacional 2, REGIÓN METROPOLITANA, Pudahuel, (2) 26773000",
-        "Counter Aduana Nacional (Móvil 1), REGIÓN METROPOLITANA, Pudahuel, (2) 26773000",
-        "Counter Hall Nacional, REGIÓN METROPOLITANA, Pudahuel, (2) 26773000",
-        "Counter Internacional 1, REGIÓN METROPOLITANA, Pudahuel, (2) 26773000",
-        "Counter Internacional 2, REGIÓN METROPOLITANA, Pudahuel, (2) 26773000",
-        "Oficina Recaudación (Transvip Ad Internacional), REGIÓN METROPOLITANA, Pudahuel, (2) 26773000",
-        "Oficina Recaudación (Transvip Pudahuel), REGIÓN METROPOLITANA, Pudahuel, (2) 26773000"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "Acuario Vivamar",
       "categoria": "Entretención y Deportes",
       "descuento": "25% dto.",
@@ -24177,6 +24089,81 @@
       "sucursales": [
         "Km 3 Ruta F30-E,Quintero, (Punta Piedra ,Playa Ritoque), Región de Valparaiso, Ritoque"
       ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Transvip",
+      "categoria": "Viajes",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "15% dto. en Transvip",
+      "canal": null,
+      "vigencia": "Promoción válida hasta el 30 de noviembre de 2026.",
+      "condiciones": [
+        "15% dto en servicios:",
+        "15% dto. en servicios traslados desde y hacia aeropuertos, Taxi dentro de la ciudad y servicio de encomiendas.",
+        "Obtén hasta 4 códigos al mes para ahorrar en traslados al aeropuerto, taxis y encomiendas.",
+        "Tope de descuento: $3.000 por viaje.",
+        "Válido para Web y APP Transvip.",
+        "Para obtener tu dto. debes solicitar Tramo de Ida o de Regreso por separado ingresando a Transvip.cl o App Transvip a la opción Solo Ida, una vez completado el formulario ingresa el código en la sección Código de dto.",
+        "Códigos válidos para ser usados hasta el 30 de noviembre de 2026."
+      ],
+      "sucursales": [
+        "Aeropuerto Cerro Moreno Interior S/N, REGIÓN DE ANTOFAGASTA, Antofagasta, (2) 26773000",
+        "Control Uno (Transvip Pudahuel), REGIÓN METROPOLITANA, Pudahuel, (2) 26773000",
+        "Counter Aduana Internacional 1, REGIÓN METROPOLITANA, Pudahuel, (2) 26773000",
+        "Counter Aduana Internacional 2, REGIÓN METROPOLITANA, Pudahuel, (2) 26773000",
+        "Counter Aduana Nacional (Móvil 1), REGIÓN METROPOLITANA, Pudahuel, (2) 26773000",
+        "Counter Hall Nacional, REGIÓN METROPOLITANA, Pudahuel, (2) 26773000",
+        "Counter Internacional 1, REGIÓN METROPOLITANA, Pudahuel, (2) 26773000",
+        "Counter Internacional 2, REGIÓN METROPOLITANA, Pudahuel, (2) 26773000",
+        "Oficina Recaudación (Transvip Ad Internacional), REGIÓN METROPOLITANA, Pudahuel, (2) 26773000",
+        "Oficina Recaudación (Transvip Pudahuel), REGIÓN METROPOLITANA, Pudahuel, (2) 26773000"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Transvip",
+      "categoria": "Viajes",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "Traslados gratis en Transvip por ser cliente de Plan Travel",
+      "canal": null,
+      "vigencia": "Promoción válida hasta el 30 de noviembre de 2026.",
+      "condiciones": [
+        "Activa tu beneficio y obtén hasta 4 traslados gratis al año según tu Plan. Al contratratar un nuevo Plan de Tarjeta de Crédito obtén traslados gratis con Transvip.",
+        "Plan Travel Infinite: 4 traslados gratis al año.",
+        "Plan Travel Black: 4 traslados gratis al año.",
+        "Plan Travel Platinum: 2 traslados gratis al año."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Transvip",
+      "categoria": "Viajes",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "Traslado gratis en Transvip por compras con tus Tarjetas Visa",
+      "canal": null,
+      "vigencia": "Promoción válida hasta el 30 de noviembre de 2026.",
+      "condiciones": [
+        "Al comprar en Travel Viajes o vuelos nacionales desde $300.000, recibe un traslado gratis al Aeropuerto de Santiago. Beneficio para Tarjetas de Crédito Infinite, Signature y Platinum",
+        "Paso 1: Descarga tu código en los botones azules que están abajo. Paso 2: Ingresa en la App o sitio web de Transvip (www.transvip.cl), luego selecciona la opción traslado al aeropuerto, ingresa la dirección de origen/destino Paso 3: Al momento de confirmar la reserva ingresa el código de descuento.",
+        "Tu código estará disponible luego de 72 horas hábiles posteriores a la compra.",
+        "Tope de $50.000 por viaje. Si el monto del viaje supera los $50.000, la diferencia deberá ser pagada por el pasajero de manera directa a Transvip con sus Tarjetas de Crédito del Chile.",
+        "Para obtener tu traslado gratis debes solicitar tramo de Ida o de Regreso por separado en la opción \"Solo Ida\" en Web o APP Transvip.",
+        "Beneficio es válido en todas las compras en Aerolíneas y tus viajes nacionales e internacionales través de Travel Viajes.",
+        "Beneficio Líneas Aéreas: Válido solo para 1 compra nacional superior a $300.000 realizadas en el rubro líneas aéreas (Compras registradas en pesos en el estado de cuenta nacional. No aplica en compra en Dólares). Las compras no son acumulables.",
+        "El servicio será responsabilidad del operador Transvip.",
+        "Beneficio válido hasta el 30 de noviembre de 2026.",
+        "Los códigos deben utilizarse dentro del mismo mes en que son descargados, de todas maneras, el cliente puede realizar en una reserva que no sea en el mes en curso.",
+        "Los códigos descargados en meses anteriores ya están vencidos y no pueden ser utilizados.",
+        "Debe escribir a programa@travel.cl para gestionar la entrega de un nuevo código.",
+        "No, el beneficio aplica solo para traslados hacia o desde el aeropuerto y cada código corresponde a un tramo.",
+        "Compras Travel Viajes: válidas desde el 15.10.2025 al 30.11.2026. Líneas Aéreas: válido para compras en Chile para destinos nacionales e internacionales superiores a $300.000 en rubro líneas aéreas (Compras registradas en pesos en el estado de cuenta nacional. No aplica en compra en Dólares) desde el 15.10.2025 al 30.11.2026. Código válido para ser usado hasta el 30.11.2026. No aplica a las compras efectuadas a través de recaudadores o plataformas de pago como Mercado Pago y operadores (excepto Travel Viajes). El servicio del traslado es responsabilidad de Transvip. Dto con tope de $50.000 por viaje. Si el monto del viaje supera los $50.000, la diferencia debe ser pagada por el pasajero de manera directa a Transvip con su Tarjeta de Crédito del Banco de Chile. No acumulable con otras promociones. Revisa cobertura de Transvip.cl."
+      ],
+      "sucursales": []
     },
     {
       "banco": "Banco Santander",
@@ -24339,38 +24326,6 @@
         "Válido en www.zenit90.com",
         "CAE 1,53% Calculado por un monto referencial de compra de $1.000.000 en 36 cuotas. Costo total del Crédito: $1.023.760. Operación afecta a impuesto al crédito a cargo del cliente.",
         "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio; la administración del programa LATAM Pass es de exclusiva responsabilidad de LATAM Airlines Group S.A. sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl. Conoce más sobre Santander Rewards y su reglamento en: https://banco.santander.cl/rewards."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "miCoca-Cola.cl",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": "30% dcto.",
-      "dia": [],
-      "dia_texto": "y acumula 1 milla adicional",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "¡Refréscate con miCoca-Cola.cl!",
-        "Con tus Tarjetas de Crédito : Beneficios válidos por compras sobre $30.000 (ya aplicado el descuento)",
-        "Máximo $30.000 de descuento.",
-        "2 usos por cliente.",
-        "1 cupón por pedido.",
-        "No acumulable con otras promociones/descuentos, ni pago con Giftcards.",
-        "Válido para Bines de Tarjetas de Crédito del Banco Santander.",
-        "Para acceder al descuento se deben ingresar los 6 primeros dígitos de tu tarjeta como código de descuento.",
-        "Despacho gratis válido en pedidos programados y en compras sobre $30.000, una vez aplicado el descuento.",
-        "Acumula 1 millas LATAM Pass adicional por dólar gastado, pagando con tus Tarjetas de crédito Santander LATAM Pass",
-        "Con tus Tarjetas de Débito : Beneficios válidos por compras sobre $30.000 (ya aplicado el descuento)",
-        "Máximo $30.000 de descuento.",
-        "2 usos por cliente.",
-        "1 cupón por pedido.",
-        "No acumulable con otras promociones/descuentos, ni pago con Giftcards.",
-        "Válido para Bines de Tarjetas de Débito del Banco Santander.",
-        "Para acceder al descuento se deben ingresar los 6 primeros dígitos de tu tarjeta como código de descuento.",
-        "Despacho gratis válido en pedidos programados y en compras sobre $30.000, una vez aplicado el descuento.",
-        "Promoción válida solo para compras realizadas del 2 al 8 de noviembre 2026 en micoca-cola.cl pagando con Tarjetas de Crédito Santander LATAM Pass. Conoce las condiciones del descuento en micoca-cola.cl. La bonificación de millas estructural se realizará según nivel y tarjeta de Crédito Santander LATAM Pass del cliente, más 1 milla adicional por dólar gastado por compras realizadas en campaña. La acreditación de Millas LATAM Pass se realizará en el mes siguiente de la compra. Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio. La administración del programa LATAM Pass es de exclusiva responsabilidad de LATAM Airlines GroupS.A. sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Conoce más sobre Santander Rewards y su reglamento en: https:banco.santander.cl/rewards."
       ],
       "sucursales": []
     },
