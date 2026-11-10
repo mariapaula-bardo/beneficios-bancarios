@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-09T21:12",
+  "actualizado": "2026-11-10T18:21",
   "beneficios": [
     {
       "banco": "Banco de Chile",
@@ -6160,18 +6160,6 @@
       "sucursales": [
         "Baquedano #771, Región del Bío Bío, Tomé"
       ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Robbie Williams 27 de septiembre 2026",
-      "categoria": "Entretención y Deportes",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "Compra tus entradas con los mejores beneficios de tus Tarjetas del Chile",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [],
-      "sucursales": []
     },
     {
       "banco": "Banco de Chile",
@@ -21089,35 +21077,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Gnomo",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": "20% dto. adicional",
-      "dia": [
-        "Todos los días"
-      ],
-      "dia_texto": "todos los días",
-      "canal": "Ambos",
-      "vigencia": "Promoción válida hasta el 8 de noviembre de 2026.",
-      "condiciones": [
-        "Gnomo es una marca outdoor chilena inspirada en la naturaleza, pensada para acompañarte en cada aventura con diseño, calidad y durabilidad. Destinamos parte de nuestras ventas a la reforestación de árboles nativos en la Patagonia chilena.",
-        "20% dto. adicional todos los días en compra presencial y en gnomowear.cl/pages/banco-de-chile",
-        "Para compra presencial solicita tu descuento al momento de pagar.",
-        "Para compra online ingresa los 6 primeros dígitos de tu Tarjeta como cupón de descuento.",
-        "Descuento válido para compras sobre $25.000",
-        "Descuento no aplica para valor del despacho.",
-        "Revisa cobertura de despacho en gnomowear.cl",
-        "Descuento exclusivo pagando con tus Tarjetas del Chile."
-      ],
-      "sucursales": [
-        "Enrique Foster Norte #80, Región Metropolitana, Las Condes",
-        "Av. Nueva Costanera #3900, Local 2073 Nivel 3, Región Metropolitana, Vitacura",
-        "Av. Pdte. Jorge Alessandri Rodriguez 3177, Local E-124 Sector Lomas, Región del Biobío, Talcahuano",
-        "Plaza Yungay 609, Piso 3 Local 3061, Región de Los Lagos, Osorno",
-        "Av. Vicente Méndez #1545, Local 1053, Región de Chillán, Ñuble"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "Bsoul",
       "categoria": "Retail y Otras Marcas",
       "descuento": "20% dto.",
@@ -22947,6 +22906,31 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "El nuevo iPhone 18 Pro",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "Puede ser tuyo con el programa iPhone for life",
+      "canal": null,
+      "vigencia": "Hasta el 30 de noviembre de 2026",
+      "condiciones": [
+        "Renueva, ahorra, repite",
+        "Cambia tu iPhone cada 2 años y ahorra hasta un 30% del costo total de tu iPhone",
+        "Entrega tu iPhone en óptimas condiciones en parte de pago.",
+        "¡Desde los 24 meses podrás volver a renovarlo!",
+        "Desde $40.278 al mes sin interés.",
+        "CAE de 0,52%, Calculado por un monto referencial de compra de $1.449.990 en 36 cuotas. Costo Total del Crédito: $1.461.590. Operación afecta a impuesto al crédito.",
+        "Recuerda: Exclusivo en www.maconline.com pagando con tus Tarjetas de Crédito de Banco de Chile. Los modelos de iPhone que podrás suscribir al programa iPhone for Life son: iPhone 18 Pro y iPhone 18 Pro Max en todas las capacidades disponibles.",
+        "¿Cómo me inscribo a iPhone for Life?",
+        "1.Elige tu iPhone 18 Pro en la tienda MacOnline.",
+        "2.Inscríbete al Programa iPhone for Life, en el momento de completar la compra de tu iPhone 18 Pro.",
+        "3.Paga tu iPhone en 36 cuotas sin interés con Tarjetas de Crédito Banco de Chile (incluye Banco Edwards).",
+        "Una vez facturada la cuota mensual 24 en tu estado de cuenta de tu Tarjeta de Crédito Banco de Chile, accedes al período de recompra (renovación) de tu iPhone usado en buen estado en las tiendas MacOnline, el cual podrás entregar en pago de las cuotas mensuales pendientes."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "Natura",
       "categoria": "Salud y Belleza",
       "descuento": "10% dto. adicional",
@@ -24166,6 +24150,58 @@
       "sucursales": []
     },
     {
+      "banco": "Banco de Chile",
+      "comercio": "Gnomo",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "20% dto.",
+      "dia": [
+        "Lunes"
+      ],
+      "dia_texto": "lunes",
+      "canal": "Ambos",
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
+      "condiciones": [
+        "Gnomo es una marca outdoor chilena inspirada en la naturaleza, pensada para acompañarte en cada aventura con diseño, calidad y durabilidad. Destinamos parte de nuestras ventas a la reforestación de árboles nativos en la Patagonia chilena.",
+        "20% dto. lunes en compra presencial y en gnomowear.cl/pages/banco-de-chile",
+        "Para compra presencial solicita tu descuento al momento de pagar.",
+        "Para compra online ingresa los 6 primeros dígitos de tu Tarjeta como cupón de descuento.",
+        "Descuento válido para compras sobre $25.000",
+        "Descuento no aplica para valor del despacho.",
+        "Revisa cobertura de despacho en gnomowear.cl",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Enrique Foster Norte #80, Región Metropolitana, Las Condes",
+        "Av. Nueva Costanera #3900, Local 2073 Nivel 3, Región Metropolitana, Vitacura",
+        "Av. Pdte. Jorge Alessandri Rodriguez 3177, Local E-124 Sector Lomas, Región del Biobío, Talcahuano",
+        "Plaza Yungay 609, Piso 3 Local 3061, Región de Los Lagos, Osorno",
+        "Av. Vicente Méndez #1545, Local 1053, Región de Chillán, Ñuble"
+      ]
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Veranda",
+      "categoria": "Sabores",
+      "descuento": "40% dcto.",
+      "dia": [
+        "Domingo"
+      ],
+      "dia_texto": "todos los domingos",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Propuesta culinaria única que fusiona sabores locales e internacionales.",
+        "Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass.",
+        "Válido para consumo en local.",
+        "6 Norte 745, Viña del Mar.",
+        "No acumulable a otras promociones.",
+        "Ingresa los primeros 6 dígitos de tu Tarjeta como código de descuento.",
+        "Descuento máximo por pedido de $100.000.",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​"
+      ],
+      "sucursales": []
+    },
+    {
       "banco": "Banco Santander",
       "comercio": "De Pura Madre",
       "categoria": "Sabores",
@@ -24268,7 +24304,7 @@
         "El 20% dcto. se calcula antes de IVA sobre el valor del plan de administración.",
         "Beneficios sujetos a evaluación. Uno por propiedad. No acumulable con otras promociones.",
         "Más información y condiciones: https://houm.com/cl/alianzas/santander",
-        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad de Huerto Sur Cafeterías SPA y Sociedad Bustorf Larsen Cía., sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
+        "\"Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.\""
       ],
       "sucursales": []
     },
@@ -24551,29 +24587,6 @@
         "Descuento máximo por pedido de $40.000.",
         "Se excluyen propinas, menús, happy hours.",
         "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Veranda by Novotel",
-      "categoria": "Sabores",
-      "descuento": "40% dcto.",
-      "dia": [
-        "Domingo"
-      ],
-      "dia_texto": "todos los domingos",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Propuesta culinaria única que fusiona sabores locales e internacionales.",
-        "Exclusivo con tus Tarjetas de Crédito WorldMember Limited Santander LATAM Pass.",
-        "Válido para consumo en local.",
-        "6 Norte 745, Viña del Mar.",
-        "No acumulable a otras promociones.",
-        "Ingresa los primeros 6 dígitos de tu Tarjeta como código de descuento.",
-        "Descuento máximo por pedido de $100.000.",
-        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​"
       ],
       "sucursales": []
     },
