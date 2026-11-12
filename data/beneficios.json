@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-11T18:12",
+  "actualizado": "2026-11-12T18:39",
   "beneficios": [
     {
       "banco": "Banco de Chile",
@@ -3070,24 +3070,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Casa Nativa",
-      "categoria": "Sustentable",
-      "descuento": "30% dto.",
-      "dia": [
-        "Todos los días"
-      ],
-      "dia_texto": "todos los días en compra",
-      "canal": "Online",
-      "vigencia": "Promoción válida hasta el 30 de septiembre de 2027.",
-      "condiciones": [
-        "Casa Nativa viene a romper el mito de que los productos sustentables tienen peor desempeño que los tóxicos. Creamos productos funcionales, sustentables y con estilo.",
-        "Obtén tu descuento ingresando el código BCOCHILE30CNATIVA como cupón de descuento al momento de finalizar la compra en www.casa-nativa.cl",
-        "No acumulable con otras promociones."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "Centro de Estimulación Temprana AYELÉN",
       "categoria": "Salud y Belleza",
       "descuento": "Hasta 30% dto.",
@@ -5862,27 +5844,6 @@
       "sucursales": [
         "Las Heras 423, Curicó, Región del Maule, (2) 2881 4480"
       ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "PET FAMILY",
-      "categoria": "Mascotas",
-      "descuento": "Hasta 15% dto.",
-      "dia": [
-        "Todos los días"
-      ],
-      "dia_texto": "todos los días",
-      "canal": null,
-      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
-      "condiciones": [
-        "PetFamily es el ecosistema más grande de todo Chile, en él encontrarás todo lo necesario para tu perrito, desde educación canina, alimentos y juguetes cognitivos. Te acompañaremos en toda la vida perruna de tu peludito",
-        "Hasta 15% de descuento en toda la academia. Cursos grabados - Cursos en vivo - Sesiones personalizadas. Obtén tu descuento ingresando PETFAMILYBCH15 como cupón de dcto.",
-        "10% de descuento en todos los accesorios para mascota. Obtén tu descuento ingresando PETFAMILYBCH10 como cupón de dcto.",
-        "5% de dcto en alimentos. Obtén tu descuento ingresando PETFAMILYBCH5 como cupón de dcto.",
-        "Despacho gratis en alimento para mascotas en RM. Obtén tu descuento ingresando PETFAMILYBCHDG como cupón de dcto.",
-        "No acumulable con otras promociones."
-      ],
-      "sucursales": []
     },
     {
       "banco": "Banco de Chile",
@@ -22280,26 +22241,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "La Barra",
-      "categoria": "Sabores",
-      "descuento": "30% dto. adicional",
-      "dia": [],
-      "dia_texto": "del 9 al 11 de noviembre",
-      "canal": null,
-      "vigencia": "Promoción válida del 9 al 11 de noviembre de 2026.",
-      "condiciones": [
-        "30% dto. adicional a otros descuentos pagando con tus Tarjetas del Chile del 9 al 11 de noviembre en labarra.cl y App La Barra.",
-        "Ingresa a labarra.cl o App La Barra.",
-        "Paga a través del Botón de Pago Banco de Chile con tus Tarjetas de Crédito o Débito del Banco de Chile. ¡Recibe tu pedido y disfruta!",
-        "2 transacciones por cliente durante la vigencia de la promoción.",
-        "Tope de dto. $60.000 por transacción.",
-        "Paga en 3 cuotas sin interés.",
-        "Tus compras en esta campaña tienen doble acumulación de Dólares-Premio."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "BURTON",
       "categoria": "Retail y Otras Marcas",
       "descuento": "20% dto. miércoles a viernes",
@@ -22954,6 +22895,28 @@
         "2.Inscríbete al Programa iPhone for Life, en el momento de completar la compra de tu iPhone 18 Pro.",
         "3.Paga tu iPhone en 36 cuotas sin interés con Tarjetas de Crédito Banco de Chile (incluye Banco Edwards).",
         "Una vez facturada la cuota mensual 24 en tu estado de cuenta de tu Tarjeta de Crédito Banco de Chile, accedes al período de recompra (renovación) de tu iPhone usado en buen estado en las tiendas MacOnline, el cual podrás entregar en pago de las cuotas mensuales pendientes."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Casa Nativa",
+      "categoria": "Sustentable",
+      "descuento": "30% dto.",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días en compra",
+      "canal": "Online",
+      "vigencia": "Promoción válida hasta el 30 de septiembre de 2027.",
+      "condiciones": [
+        "Casa Nativa viene a romper el mito de que los productos sustentables tienen peor desempeño que los tóxicos. Creamos productos funcionales, sustentables y con estilo.",
+        "Ingresa a www.casa-nativa.cl",
+        "Agrega los productos a tu carrito.",
+        "Al finalizar la compra utiliza el código: BCOCHILE30CNATIVA",
+        "Completa el pago con tu Tarjeta del Chile.",
+        "Exclusivo para Tarjetas del Chile.",
+        "No acumulable con otras promociones."
       ],
       "sucursales": []
     },
@@ -23796,6 +23759,31 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "Bravar",
+      "categoria": "Sabores",
+      "descuento": "20% dto.",
+      "dia": [
+        "Jueves",
+        "Viernes",
+        "Sábado",
+        "Domingo"
+      ],
+      "dia_texto": "jueves a domingo",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 30 de abril de 2027.",
+      "condiciones": [
+        "La pasión por el deporte y la buena gastronomía se encuentran en Bravar Sports Bar. Ubicado en el Hotel Ibis Antofagasta, ofrece una propuesta para cada momento del día: desde desayunos buffet y menú ejecutivo hasta vibrantes previas y encuentros deportivos, acompañados de una exclusiva carta de comidas y tragos.",
+        "20% dto. jueves a domingo en compra presencial.",
+        "Solicita tu descuento al momento de pagar.",
+        "No acumulable con otras promociones.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "José Miguel Carrera 1627, Región de Antofagasta, Antofagasta"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "Cantina Montt",
       "categoria": "Sabores",
       "descuento": "20% dto.",
@@ -24207,6 +24195,77 @@
       ]
     },
     {
+      "banco": "Banco de Chile",
+      "comercio": "PriceSmart",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "¡PriceSmart el primer Club de compras por Membrecía llegó a Chile!",
+      "canal": null,
+      "vigencia": "Vigencia hasta el día de la apertura del primer Club o hasta agotar stock*",
+      "condiciones": [
+        "Podrás acceder a una selección de productos importados y nacionales de alta calidad al mejor precio posible; con los beneficios de las Tarjetas de Crédito del Chile. Adquiere tu Membrecía en PriceSmart con tus Tarjetas de Crédito del Chile y recibe un bono de Dólares Premio exclusivo para clientes Banco de Chile que adquieran una Membrecía: Para el hogar Diamond: 20 Dólares-Premio Diamond Platinum: 30 Dólares-Premio Para negocios Business: 20 Dólares-Premio Business Platinum: 30 Dólares-Premio Beneficio exclusivo para clientes con Tarjeta de Crédito Banco de Chile y Banco Edwards. Vigencia hasta el día de la apertura del primer Club o hasta agotar stock de 20.000 bonos de Dólares-Premio lo que ocurra primero. El otorgamiento de beneficios no bancarios es de responsabilidad de PriceSmart, sin intervención de Banco de Chile en ello ni en la ulterior intervención que se demande. El bono de Dólares- Premio es de responsabilidad de Travel Club y estará disponible en el estado de cuenta de la tarjeta de crédito siguiente o subsiguiente desde la compra. Infórmese sobre la garantía estatal de los depósitos en su banco o en cmfchile.cl Compra tu Membrecía aquí: https://www.pricesmart.com/es-cl#membership-plans"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Nevada Novias",
+      "categoria": "Cuotas Sin Interés",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "Acumula 1 milla adicional y 3 a 36 cuotas sin interés",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Nevada Novias",
+        "Exclusivo pagando con tus Tarjetas de Crédito Santander LATAM Pass.",
+        "Válido en https://nevadanovias.com/",
+        "Acumulación de 1 milla adicional válido en todas las compras y exclusivo pagando con tus Tarjetas de Crédito Santander LATAM Pass.",
+        "CAE 1,53% Calculado por un monto referencial de compra de $1.000.000 en 36 cuotas. Costo total del Crédito: $1.023.760. Operación afecta a impuesto al crédito a cargo del cliente.",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Kaufmann",
+      "categoria": "Cuotas Sin Interés",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "13 a 48 cuotas sin interés",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Mercedes Benz, Smart y seminuevos",
+        "Exclusivo con tus Tarjetas de Crédito Santander Chile.",
+        "Válido en concesionarias Kaufmann en compras de autos Mercedes Benz, Smart y seminuevos.",
+        "CAE 0,8%: Monto Total a pagar de $10.080.000, son referenciales y corresponden a una compra por $10.000.000 cursada en modalidad de pago de 48 cuotas mensuales, y consideran impuestos.",
+        "Se excluyen de la promoción los autos seminuevos de sucursal JPN.",
+        "Vigencia de la promoción hasta el 30 de noviembre de 2026, válido para autos nuevos Mercedes Benz, smart y Seminuevos. Se excluyen de la promoción los autos Seminuevos de sucursal JPN. CAE 0,8%: Monto Total a pagar de $10.080.000, son referenciales y corresponden a una compra por $10.000.000 cursada en modalidad de pago de 48 cuotas mensuales, y consideran impuestos. Límite mensual de compras que da derecho a acumulación de millas LATAM Pass; The Platinum Card American Express Santander LATAM Pass: monto menor entre: (a) la cantidad de 60.000 Dólares en cada periodo de facturación, y (b) el monto del respectivo cupo de la Tarjeta. Límite mensual de compras que da derecho a acumulación WorldMember Limited Santander LATAM Pass: monto menor entre: (a) la cantidad de 30.000 Dólares en cada periodo de facturación, y (b) el monto del respectivo cupo de la Tarjeta. Consulte por otros eventuales cargos. La acumulación de millas y otros beneficios no financieros anunciados son responsabilidad de LATAM AIRLINES GROUP S.A. o de terceros que los otorguen, sin que corresponda a Banco Santander Chile intervención alguna en ello, ni en la ulterior atención que ello demande. Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Duemint",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "Primer mese gratis",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Optimiza tu gestión financiera con Duemint, automatiza tu cobranza, conciliación y pagos, opera con Smart Finance. Beneficio Santander Empresas:",
+        "Exclusivo con tus Tarjetas de Crédito Santander Empresas.",
+        "Válido en: https://www.duemint.com/cotizar-software/alianza-santander",
+        "No acumulable con otras promociones.",
+        "Considera tramos de hasta 150 documentos facturados mensualmente.",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
+      ],
+      "sucursales": []
+    },
+    {
       "banco": "Banco Santander",
       "comercio": "La novicia rebelde 2027",
       "categoria": "Musica",
@@ -24233,44 +24292,6 @@
         "23-01-2027",
         "24-01-2027",
         "Promoción válida para compras realizadas vía web o presencialmente en Ticketera del Municipal con tope de 2 entradas por RUT de cliente, exclusivo pagando con Tarjetas Santander ingresando los primeros 6 dígitos de la Tarjeta o presentando tu tarjeta al momento de la compra. Descuento no aplica al cargo por servicio. Teatro Municipal de Santiago no se responsabiliza por transacciones realizadas fuera del canal de venta oficial. La garantía, servicio y calidad del producto es de exclusiva responsabilidad de Teatro Municipal de Santiago y de la venta de entradas es Ticketera del Municipal, sin responsabilidad para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Duemint",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "Primeros 2 meses gratis",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Optimiza tu gestión financiera con Duemint, automatiza tu cobranza, conciliación y pagos, opera con Smart Finance. Beneficio Santander Empresas:",
-        "Exclusivo con tus Tarjetas de Crédito Santander Empresas.",
-        "Válido en Beneficio clientes Santander: 2 meses gratis",
-        "No acumulable con otras promociones.",
-        "Considera tramos de hasta 150 documentos facturados mensualmente.",
-        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Nevada Novias",
-      "categoria": "Cuotas Sin Interés",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "Acumula 1 milla adicional y 3 a 36 cuotas sin interés",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Nevada Novias",
-        "Exclusivo pagando con tus Tarjetas de Crédito Santander LATAM Pass.",
-        "Válido en shop.dior.cl",
-        "Acumulación de 1 milla adicional válido en todas las compras y exclusivo pagando con tus Tarjetas de Crédito Santander LATAM Pass.",
-        "CAE 1,53% Calculado por un monto referencial de compra de $1.000.000 en 36 cuotas. Costo total del Crédito: $1.023.760. Operación afecta a impuesto al crédito a cargo del cliente.",
-        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
       ],
       "sucursales": []
     },
@@ -24421,25 +24442,6 @@
         "Válido en local, delivery web y retiro en local.",
         "No acumulable con otras promociones.",
         "Descuento máximo por pedido de $40.000"
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Kaufmann",
-      "categoria": "Cuotas Sin Interés",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "13 a 48 cuotas sin interés",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Mercedes Benz, Smart y seminuevos",
-        "Exclusivo con tus Tarjetas de Crédito Santander Chile.",
-        "Válido en concesionarias Kaufmann en compras de autos Mercedes Benz, Smart y seminuevos.",
-        "CAE 0,8%: Monto Total a pagar de $10.080.000, son referenciales y corresponden a una compra por $10.000.000 cursada en modalidad de pago de 48 cuotas mensuales, y consideran impuestos.",
-        "Se excluyen de la promoción los autos seminuevos de sucursal JPN.",
-        "Vigencia de la promoción hasta el 31 de agosto de 2026, válido para autos nuevos Mercedes Benz, smart y Seminuevos. Se excluyen de la promoción los autos Seminuevos de sucursal JPN. CAE 0,8%: Monto Total a pagar de $10.080.000, son referenciales y corresponden a una compra por $10.000.000 cursada en modalidad de pago de 48 cuotas mensuales, y consideran impuestos. Límite mensual de compras que da derecho a acumulación de millas LATAM Pass; The Platinum Card American Express Santander LATAM Pass: monto menor entre: (a) la cantidad de 60.000 Dólares en cada periodo de facturación, y (b) el monto del respectivo cupo de la Tarjeta. Límite mensual de compras que da derecho a acumulación WorldMember Limited Santander LATAM Pass: monto menor entre: (a) la cantidad de 30.000 Dólares en cada periodo de facturación, y (b) el monto del respectivo cupo de la Tarjeta. Consulte por otros eventuales cargos. La acumulación de millas y otros beneficios no financieros anunciados son responsabilidad de LATAM AIRLINES GROUP S.A. o de terceros que los otorguen, sin que corresponda a Banco Santander Chile intervención alguna en ello, ni en la ulterior atención que ello demande. Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
       ],
       "sucursales": []
     },
