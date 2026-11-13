@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-12T18:39",
+  "actualizado": "2026-11-13T18:17",
   "beneficios": [
     {
       "banco": "Banco de Chile",
@@ -4701,27 +4701,6 @@
         "No acumulable con otras promociones."
       ],
       "sucursales": []
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Laqu",
-      "categoria": "Mascotas",
-      "descuento": "20% dto",
-      "dia": [
-        "Todos los días"
-      ],
-      "dia_texto": "todos los días",
-      "canal": null,
-      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
-      "condiciones": [
-        "Ofrecemos productos naturales de higiene para mascotas, certificación 100% orgánicos, libres de polvo, químicos, perfumes o colorantes. Todos nuestros productos son compostables y cero residuos, elaborados a partir de algas marinas recuperadas lo que les otorga excelentes propiedades de absorción, durabilidad y abatimiento de olores.",
-        "20% dto. en Arenas y Sustratos Sanitarios para mascotas. 100% orgánicos y compostables en compra presencial y online.",
-        "Para compra online obtén tu descuento ingresando el código LAQUBANCODECHILE como código de dto.",
-        "No acumulable con otras promociones."
-      ],
-      "sucursales": [
-        "Of. 1404, Las Condes 9460, Región Metropolitana, Las Condes, Horario de atención: Lunes a Viernes de 9:00 a 13:00 hrs."
-      ]
     },
     {
       "banco": "Banco de Chile",
@@ -12702,6 +12681,27 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "Laqu",
+      "categoria": "Mascotas",
+      "descuento": "20% dto",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días",
+      "canal": null,
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
+      "condiciones": [
+        "Ofrecemos productos naturales de higiene para mascotas, certificación 100% orgánicos, libres de polvo, químicos, perfumes o colorantes. Todos nuestros productos son compostables y cero residuos, elaborados a partir de algas marinas recuperadas lo que les otorga excelentes propiedades de absorción, durabilidad y abatimiento de olores.",
+        "20% dto. en Arenas y Sustratos Sanitarios para mascotas. 100% orgánicos y compostables en compra presencial y online.",
+        "Para compra online obtén tu descuento ingresando el código LAQUBANCODECHILE como código de dto.",
+        "No acumulable con otras promociones."
+      ],
+      "sucursales": [
+        "Of. 1404, Las Condes 9460, Región Metropolitana, Las Condes, Horario de atención: Lunes a Viernes de 9:00 a 13:00 hrs."
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "MOTA",
       "categoria": "Retail y Otras Marcas",
       "descuento": "25% dto.",
@@ -14369,6 +14369,32 @@
         "Avenida Illapel 10, Local 215A, Región de Los Lagos, Puerto Montt",
         "Avenida Camilo Henriquez 3692, Local B-157A, Región Metropolitana, Puente Alto",
         "Plaza Yungay 609, Local 3065, Región de Los Lagos, Osorno"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Strider Bikes",
+      "categoria": "Entretención y Deportes",
+      "descuento": "20% dto.",
+      "dia": [
+        "Miércoles"
+      ],
+      "dia_texto": "miércoles",
+      "canal": "Ambos",
+      "vigencia": "Promoción válida hasta el 31 de octubre de 2027.",
+      "condiciones": [
+        "Strider Bikes es la marca número uno de bicicletas de equilibrio para niños en el mundo. Diseñadas para que los pequeños aprendan a andar en bicicleta de forma segura, divertida y sin rueditas. Ayudan a los niños a desarrollar equilibrio y confianza desde los 6 meses hasta los 7 años. Las bicicletas Strider son livianas, resistentes y se ajustan fácilmente para cada pequeño rider, acompañándolos desde sus primeros pasos sobre ruedas.",
+        "20% dto. los miércoles en compra presencial y en striderbikes.cl",
+        "Para compra presencial solicita tu descuento al momento de pagar.",
+        "Para compra online ingresa los 6 primeros dígitos de tu Tarjeta como cupón de descuento.",
+        "Descuento no aplica para valor del despacho.",
+        "Revisa cobertura de despacho en striderbikes.cl",
+        "No acumulable con otras promociones.",
+        "Beneficio no es válido para Black Friday.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Eliodoro Yañez 2972, oficina 103, Providencia, Región Metropolitana"
       ]
     },
     {
@@ -17173,18 +17199,6 @@
         "Av. Camilo Henríquez 3692, Local C-130 / C-134, Región Metropolitana, Puente Alto",
         "Avenida Presidente Jorge Alessandri Rodríguez 20040, Local 1035, Región Metropolitana, San Bernardo"
       ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Alejo Igoa - 12 de noviembre",
-      "categoria": "Entretención y Deportes",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "Compra tus entradas con los mejores beneficios de tus Tarjetas",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [],
-      "sucursales": []
     },
     {
       "banco": "Banco de Chile",
@@ -22900,28 +22914,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Casa Nativa",
-      "categoria": "Sustentable",
-      "descuento": "30% dto.",
-      "dia": [
-        "Todos los días"
-      ],
-      "dia_texto": "todos los días en compra",
-      "canal": "Online",
-      "vigencia": "Promoción válida hasta el 30 de septiembre de 2027.",
-      "condiciones": [
-        "Casa Nativa viene a romper el mito de que los productos sustentables tienen peor desempeño que los tóxicos. Creamos productos funcionales, sustentables y con estilo.",
-        "Ingresa a www.casa-nativa.cl",
-        "Agrega los productos a tu carrito.",
-        "Al finalizar la compra utiliza el código: BCOCHILE30CNATIVA",
-        "Completa el pago con tu Tarjeta del Chile.",
-        "Exclusivo para Tarjetas del Chile.",
-        "No acumulable con otras promociones."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "Natura",
       "categoria": "Salud y Belleza",
       "descuento": "10% dto. adicional",
@@ -24205,6 +24197,45 @@
       "vigencia": "Vigencia hasta el día de la apertura del primer Club o hasta agotar stock*",
       "condiciones": [
         "Podrás acceder a una selección de productos importados y nacionales de alta calidad al mejor precio posible; con los beneficios de las Tarjetas de Crédito del Chile. Adquiere tu Membrecía en PriceSmart con tus Tarjetas de Crédito del Chile y recibe un bono de Dólares Premio exclusivo para clientes Banco de Chile que adquieran una Membrecía: Para el hogar Diamond: 20 Dólares-Premio Diamond Platinum: 30 Dólares-Premio Para negocios Business: 20 Dólares-Premio Business Platinum: 30 Dólares-Premio Beneficio exclusivo para clientes con Tarjeta de Crédito Banco de Chile y Banco Edwards. Vigencia hasta el día de la apertura del primer Club o hasta agotar stock de 20.000 bonos de Dólares-Premio lo que ocurra primero. El otorgamiento de beneficios no bancarios es de responsabilidad de PriceSmart, sin intervención de Banco de Chile en ello ni en la ulterior intervención que se demande. El bono de Dólares- Premio es de responsabilidad de Travel Club y estará disponible en el estado de cuenta de la tarjeta de crédito siguiente o subsiguiente desde la compra. Infórmese sobre la garantía estatal de los depósitos en su banco o en cmfchile.cl Compra tu Membrecía aquí: https://www.pricesmart.com/es-cl#membership-plans"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Casa Nativa",
+      "categoria": "Sustentable",
+      "descuento": "30% dto.",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días en compra",
+      "canal": "Online",
+      "vigencia": "Promoción válida hasta el 30 de septiembre de 2027.",
+      "condiciones": [
+        "Casa Nativa viene a romper el mito de que los productos sustentables tienen peor desempeño que los tóxicos. Creamos productos funcionales, sustentables y con estilo.",
+        "Ingresa a www.casa-nativa.cl",
+        "Agrega los productos a tu carrito.",
+        "Al finalizar la compra utiliza el código: BCOCHILE30CNATIVA",
+        "Completa el pago con tu Tarjeta del Chile.",
+        "Exclusivo para Tarjetas del Chile.",
+        "No acumulable con otras promociones."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Saxoline",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "Acumula 1 milla LATAM Pass adicional",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "¡Compra tu equipaje y accesorios favoritos!",
+        "Acumulación de millas exclusivo con tus Tarjetas de Crédito Santander LATAM Pass.",
+        "Válido en www.saxoline.cl",
+        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. La bonificación de millas estructural se realizará según nivel y tarjeta de Crédito Santander LATAM Pass del cliente, más 1 milla adicional por dólar gastado por compras realizadas en campaña. Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio; la administración del programa LATAM Pass es de exclusiva responsabilidad de LATAM Airlines Group S.A. sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl. Conoce más sobre Santander Rewards y su reglamento en: https://banco.santander.cl/rewards."
       ],
       "sucursales": []
     },
@@ -30056,27 +30087,6 @@
         "Exclusivo pagando con tus Tarjetas de Crédito Santander LATAM Pass.",
         "Válido en www.xtrem.cl",
         "No acumulable con otras promociones.",
-        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. La bonificación de millas estructural se realizará según nivel y tarjeta de Crédito Santander LATAM Pass del cliente, más 1 milla adicional por dólar gastado por compras realizadas en campaña. Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio; la administración del programa LATAM Pass es de exclusiva responsabilidad de LATAM Airlines Group S.A. sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl. Conoce más sobre Santander Rewards y su reglamento en: https://banco.santander.cl/rewards."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Saxoline",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": "20% dcto.",
-      "dia": [
-        "Miércoles"
-      ],
-      "dia_texto": "todos los miércoles, acumula 1 milla LATAM Pass adicional",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "¡Compra tu equipaje y accesorios favoritos!",
-        "Exclusivo con tus Tarjetas de Crédito y Débito Santander.",
-        "Válido en www.saxoline.cl",
-        "Acumulación de millas exclusivo con tus Tarjetas de Crédito Santander LATAM Pass.",
-        "Ingresar los 6 primeros dígitos de tu tarjeta como código de descuento.",
         "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. La bonificación de millas estructural se realizará según nivel y tarjeta de Crédito Santander LATAM Pass del cliente, más 1 milla adicional por dólar gastado por compras realizadas en campaña. Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio; la administración del programa LATAM Pass es de exclusiva responsabilidad de LATAM Airlines Group S.A. sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl. Conoce más sobre Santander Rewards y su reglamento en: https://banco.santander.cl/rewards."
       ],
       "sucursales": []
