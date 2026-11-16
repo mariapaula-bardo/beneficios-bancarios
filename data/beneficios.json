@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-15T17:30",
+  "actualizado": "2026-11-16T20:44",
   "beneficios": [
     {
       "banco": "Banco de Chile",
@@ -3995,30 +3995,6 @@
       ],
       "sucursales": [
         "Alonso de Córdova 2337, RM, Vitacura"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Gatopardo Bistró",
-      "categoria": "Sabores",
-      "descuento": "20% dto.",
-      "dia": [
-        "Martes",
-        "Jueves"
-      ],
-      "dia_texto": "martes y jueves",
-      "canal": "Tienda física",
-      "vigencia": "Promoción válida hasta el 31 de marzo de 2027.",
-      "condiciones": [
-        "Gatopardo vuelve a la escena gastronómica con su reapertura en Alonso de Córdova. El nuevo Gatopardo Bistró trae una propuesta mediterránea contemporánea. Inspirado desde sus inicios en la novela Il Gattopardo, este renacer mantiene su esencia: cambiar para seguir siendo el mismo. Recuperamos ese espíritu de elegancia simple, buena mesa y cercanía que hizo de Gatopardo un punto de encuentro durante los años 90 y 2000. La propuesta se enfoca en sabores precisos, preparaciones honestas y una experiencia que recupera la hospitalidad clásica: mantel, atención dedicada y platos que evocan hogar, todo en un espacio moderno, sobrio y minimalista. Entre los destacados se encuentran los Locos en Chardonnay, los Fettuccine Frutti di Mare y reinterpretaciones modernas de clásicos como el Confit de pato y el conejo, en versiones actuales y sutiles.",
-        "20% dto. martes y jueves presencial.",
-        "Solicita tu descuento al momento de pagar.",
-        "No acumulable con otras promociones.",
-        "Excluye menú almuerzo.",
-        "Descuento exclusivo pagando con tus Tarjetas del Chile."
-      ],
-      "sucursales": [
-        "Alonso de Córdova 4308, Región Metropolitana, Vitacura"
       ]
     },
     {
@@ -9559,18 +9535,6 @@
         "Agustinas 1115, RM, Santiago",
         "Alessandri 4085, Valparaíso, Viña Del Mar"
       ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Creamfields Chile 2026 - 14 y 15 de noviembre",
-      "categoria": "Entretención y Deportes",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "Compra tus entradas con los mejores beneficios de tus Tarjetas",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [],
-      "sucursales": []
     },
     {
       "banco": "Banco de Chile",
@@ -22330,6 +22294,34 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "miCoca-Cola.cl",
+      "categoria": "Sabores",
+      "descuento": "30% dto.",
+      "dia": [],
+      "dia_texto": "en miCoca-Cola.cl más despacho gratis",
+      "canal": null,
+      "vigencia": "Promoción válida del 16 al 22 de noviembre de 2026.",
+      "condiciones": [
+        "30% dto. en miCoca-Cola.cl más despacho gratis pagando con tus Tarjetas del Chile, del 16 al 22 de noviembre. ¿Cómo obtener tu descuento?",
+        "Ingresa a miCoca-Cola.cl",
+        "Elige tu ciudad.",
+        "Agrega al carrito de compras los productos que quieras.",
+        "Luego, ingresa los 6 primeros dígitos de tu Tarjeta como código de descuento.",
+        "Recibe tu pedido y disfruta.",
+        "Despacho gratis por compras sobre $30.000 después de aplicado el dto.",
+        "Beneficio exclusivo pagando con tus Tarjetas del Chile.",
+        "Beneficio no acumulable con otras promociones.",
+        "Tope de descuento $30.000 por compra.",
+        "Válido para 2 compras por cliente.",
+        "Un código de descuento válido por pedido.",
+        "No aplica en compras con Gift Cards.",
+        "Revisa cobertura de despacho en miCoca-Cola.cl",
+        "Recuerda que con tus Tarjetas de Crédito puedes pagar en 3 cuotas sin interés (2) Para una compra de $100.000 en 3 cuotas de $33.333 CAE de 1.19%. Costo Total $100.198"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "Rolls Sushi & Nikkei",
       "categoria": "Sabores",
       "descuento": "40% dto.",
@@ -22884,31 +22876,6 @@
         "Revisa cobertura de despacho en adidas.cl",
         "Beneficio excluye eventos masivos como Cyber y Black Friday.",
         "Descuento exclusivo pagando con tus Tarjetas del Chile."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "El nuevo iPhone 18 Pro",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "Puede ser tuyo con el programa iPhone for life",
-      "canal": null,
-      "vigencia": "Hasta el 30 de noviembre de 2026",
-      "condiciones": [
-        "Renueva, ahorra, repite",
-        "Cambia tu iPhone cada 2 años y ahorra hasta un 30% del costo total de tu iPhone",
-        "Entrega tu iPhone en óptimas condiciones en parte de pago.",
-        "¡Desde los 24 meses podrás volver a renovarlo!",
-        "Desde $40.278 al mes sin interés.",
-        "CAE de 0,52%, Calculado por un monto referencial de compra de $1.449.990 en 36 cuotas. Costo Total del Crédito: $1.461.590. Operación afecta a impuesto al crédito.",
-        "Recuerda: Exclusivo en www.maconline.com pagando con tus Tarjetas de Crédito de Banco de Chile. Los modelos de iPhone que podrás suscribir al programa iPhone for Life son: iPhone 18 Pro y iPhone 18 Pro Max en todas las capacidades disponibles.",
-        "¿Cómo me inscribo a iPhone for Life?",
-        "1.Elige tu iPhone 18 Pro en la tienda MacOnline.",
-        "2.Inscríbete al Programa iPhone for Life, en el momento de completar la compra de tu iPhone 18 Pro.",
-        "3.Paga tu iPhone en 36 cuotas sin interés con Tarjetas de Crédito Banco de Chile (incluye Banco Edwards).",
-        "Una vez facturada la cuota mensual 24 en tu estado de cuenta de tu Tarjeta de Crédito Banco de Chile, accedes al período de recompra (renovación) de tu iPhone usado en buen estado en las tiendas MacOnline, el cual podrás entregar en pago de las cuotas mensuales pendientes."
       ],
       "sucursales": []
     },
@@ -24188,6 +24155,31 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "El nuevo iPhone 18 Pro",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "Puede ser tuyo con el programa iPhone for life",
+      "canal": null,
+      "vigencia": "Hasta el 30 de noviembre de 2026",
+      "condiciones": [
+        "Renueva, ahorra, repite",
+        "Cambia tu iPhone cada 2 años y ahorra hasta un 30% del costo total de tu iPhone",
+        "Entrega tu iPhone en óptimas condiciones en parte de pago.",
+        "¡Desde los 24 meses podrás volver a renovarlo!",
+        "Desde $40.278 al mes sin interés.",
+        "CAE de 0,52%, Calculado por un monto referencial de compra de $1.449.990 en 36 cuotas. Costo Total del Crédito: $1.461.590. Operación afecta a impuesto al crédito.",
+        "Recuerda: Exclusivo en www.maconline.com pagando con tus Tarjetas de Crédito de Banco de Chile. Los modelos de iPhone que podrás suscribir al programa iPhone for Life son: iPhone 18 Pro y iPhone 18 Pro Max en todas las capacidades disponibles.",
+        "¿Cómo me inscribo a iPhone for Life?",
+        "1.Elige tu iPhone 18 Pro en la tienda MacOnline.",
+        "2.Inscríbete al Programa iPhone for Life, en el momento de completar la compra de tu iPhone 18 Pro.",
+        "3.Paga tu iPhone en 36 cuotas sin interés con Tarjetas de Crédito Banco de Chile (incluye Banco Edwards).",
+        "Una vez facturada la cuota mensual 24 en tu estado de cuenta de tu Tarjeta de Crédito Banco de Chile, accedes al período de recompra (renovación) de tu iPhone usado en buen estado en las tiendas MacOnline, el cual podrás entregar en pago de las cuotas mensuales pendientes."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "PriceSmart",
       "categoria": "Retail y Otras Marcas",
       "descuento": null,
@@ -24219,6 +24211,70 @@
         "Completa el pago con tu Tarjeta del Chile.",
         "Exclusivo para Tarjetas del Chile.",
         "No acumulable con otras promociones."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Tamago Sushi House",
+      "categoria": "Sabores",
+      "descuento": "40% dcto",
+      "dia": [
+        "Miércoles"
+      ],
+      "dia_texto": "todos los miércoles",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Cocina nikkei",
+        "Exclusivo con tus Tarjetas de Crédito Santander.",
+        "Válido en local.",
+        "No acumulable a otras promociones.",
+        "Tope descuento $40.000",
+        "Avenida las Rastras 1285; Cruz 383",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "FestiGame 2026",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "25% dcto.",
+      "dia": [],
+      "dia_texto": "Hasta  hasta agotar stock",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Festival de video juegos, tecnología y cultura geek más grande de Chile.",
+        "Exclusivo con tus Tarjetas de Crédito y Débito Santander.",
+        "Hasta 10 tickets por rut, hasta agotar stock de 5.000 tickets.",
+        "Cenco Mall Florida, La Florida.",
+        "Evento Jueves 10 al domingo 13 de diciembre",
+        "Descuento en tienda oficial de FestiGame (merch oficial)",
+        "20% descuento en Photo Op. Oficial.",
+        "20% descuento en compra de entradas.",
+        "Hasta 25% de descuento en pagando con Tarjetas Santander Mastercard, exclusivo para clientes Santander hasta agotar stock. Aplican T&C. Entradas exclusivamente a través de Fever. Infórmese sobre la garantía estatal de los depósitos en su banco o en cmfchile.cl"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Vinopolis",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "Entradas con descuento exclusivo santander",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Exclusivo con tus Tarjetas de Crédito Santander.",
+        "No acumulable a otras promociones.",
+        "Mall Vivo Los Trapenses, Av. José Alcalde Délano N°10. Lo Barnechea",
+        "21 de noviembre de 19:00 a 23:00 horas",
+        "Degustación para mayores de 18 años.",
+        "Ingresa los primeros 6 dígitos de tu tarjeta como código de descuento",
+        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​"
       ],
       "sucursales": []
     },
@@ -24954,28 +25010,6 @@
         "No acumulable a otras promociones.",
         "Tope descuento $40.000",
         "Bernardo O´Higgins 1236, Osorno",
-        "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​"
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Tamango Sushi House",
-      "categoria": "Sabores",
-      "descuento": "40% dcto",
-      "dia": [
-        "Miércoles"
-      ],
-      "dia_texto": "todos los miércoles",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Cocina nikkei",
-        "Exclusivo con tus Tarjetas de Crédito Santander.",
-        "Válido en local.",
-        "No acumulable a otras promociones.",
-        "Tope descuento $40.000",
-        "Avenida las Rastras 1285; Cruz 383",
         "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl.​"
       ],
       "sucursales": []
@@ -30086,25 +30120,6 @@
         "No acumulable con otras promociones.",
         "Ingresando los 6 primeros dígitos de tu Tarjeta como código de descuento.",
         "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. La bonificación de millas estructural se realizará según nivel y tarjeta de Crédito Santander LATAM Pass del cliente, más 1 milla adicional por dólar gastado por compras realizadas en campaña. Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio; la administración del programa LATAM Pass es de exclusiva responsabilidad de LATAM Airlines Group S.A. sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl. Conoce más sobre Santander Rewards y su reglamento en: https://banco.santander.cl/rewards."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "Sound Advisors",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "Acumula 2 Millas LATAM Pass adicionales",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "¡Compra tu sistema de audio HiFi favoritos en Sound Advisors!",
-        "Exclusivo pagando con tus Tarjetas de Crédito Santander LATAM Pass.",
-        "Válido en www.soundadvisors.cl.",
-        "No acumulable con otras promociones.",
-        "Ingresa los 6 primeros dígitos de tu Tarjeta como código de descuento.",
-        "Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. La bonificación de millas estructural se realizará según nivel y tarjeta de Crédito Santander LATAM Pass del cliente, más 2 millas adicionales por dólar gastado por compras realizadas en campaña. Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio; la administración del programa LATAM Pass es de exclusiva responsabilidad de LATAM Airlines Group S.A. sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl. Conoce más sobre Santander Rewards y su reglamento en: https://banco.santander.cl/rewards."
       ],
       "sucursales": []
     },
