@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-16T20:44",
+  "actualizado": "2026-11-17T19:28",
   "beneficios": [
     {
       "banco": "Banco de Chile",
@@ -165,48 +165,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "BALANCE STUDIO",
-      "categoria": "Entretención y Deportes",
-      "descuento": "20% dto.",
-      "dia": [
-        "Todos los días"
-      ],
-      "dia_texto": "todos los días",
-      "canal": null,
-      "vigencia": "Promoción válida hasta el 30 de noviembre de 2026.",
-      "condiciones": [
-        "Balance Studio es un espacio dedicado al bienestar, ofreciendo disciplinas como Pilates, Yoga (incluyendo Prenatal), BodyPump y Aqua Training, diseñadas para mejorar la fuerza, flexibilidad y equilibrio. Con instructores certificados y un ambiente profesional, nuestras actividades están pensadas para adaptarse a diferentes necesidades y etapas de la vida. En Balance Studio, encontrarás un lugar para cuidar tu cuerpo y mente, promoviendo salud y armonía en cada sesión.",
-        "20% dto. en todos los planes, obtén este beneficio pagando con tus Tarjetas del Chile.",
-        "No acumulable con otras promociones."
-      ],
-      "sucursales": [
-        "Av Chile #1108, Wellness Center Spa Hotel Antay, Región de Arica y Parinacota, Arica"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Brastore",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": "20% dto.",
-      "dia": [
-        "Sábado"
-      ],
-      "dia_texto": "sábado",
-      "canal": "Online",
-      "vigencia": "Promoción válida hasta el 30 de noviembre de 2026.",
-      "condiciones": [
-        "E-commerce de las Tiendas Leonisa & Selmark Chile. 50 años de excelencia empoderando a la mujer con piezas únicas.",
-        "20% dto. sábado en Brastore.cl",
-        "Ingresa los 6 primeros dígitos de tu Tarjeta como cupón de descuento.",
-        "Descuento no aplica para valor del despacho.",
-        "Revisa cobertura de despacho en Brastore.cl",
-        "No acumulable con otras promociones.",
-        "Descuento exclusivo pagando con tus Tarjetas del Chile."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "Casa Perú",
       "categoria": "Sabores",
       "descuento": "20% dto.",
@@ -235,27 +193,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "OASIS SPA",
-      "categoria": "Salud y Belleza",
-      "descuento": "15% dto.",
-      "dia": [
-        "Todos los días"
-      ],
-      "dia_texto": "todos los días",
-      "canal": null,
-      "vigencia": "Promoción válida hasta el 30 de noviembre de 2026.",
-      "condiciones": [
-        "Oasis spa es el lugar que necesitas, estamos ubicados en primera línea frente al mar, siendo la opción ideal si buscas combinar La Paz y la relajación. Déjate envolver en un delicioso masaje, pensado especialmente para ti, realizado por kinesiólogas.",
-        "15% dto. en masajes relajantes, descontracturantes y suecos",
-        "Solicita tu dto. al momento de pagar con tus Tarjetas.",
-        "No acumulable con otras promociones."
-      ],
-      "sucursales": [
-        "San Martin #599, Región de Arica y Parinacota, Arica"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "VB BARBER",
       "categoria": "Salud y Belleza",
       "descuento": "20% dto.",
@@ -273,27 +210,6 @@
       ],
       "sucursales": [
         "ALONSO DE CORDOVA 2373, RM, VITACURA"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "YALE",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": "20% dto.",
-      "dia": [
-        "Todos los días"
-      ],
-      "dia_texto": "todos los días",
-      "canal": "Tienda física",
-      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
-      "condiciones": [
-        "Millones de personas confían en Yale todos los días para mantener seguro lo que es importante para ellos. Sus hogares, familias y pertenencias. Nuestras innovaciones han protegido hogares y han brindado tranquilidad durante 180 años. Abre tu mundo a la seguridad digital con YALE.",
-        "Solicita tu descuento al momento de pagar.",
-        "No acumulable con otras promociones.",
-        "Descuento exclusivo pagando con tus Tarjetas del Chile."
-      ],
-      "sucursales": [
-        "Las Condes Design, Av. Las Condes #9765, Región Metropolitana, Las Condes"
       ]
     },
     {
@@ -1073,33 +989,6 @@
       ],
       "sucursales": [
         "Avda Chicureo #3000, Local 8 Colina, Región Metropolitana, Colina"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "INTRIGMA",
-      "categoria": "Entretención y Deportes",
-      "descuento": "35% dto.",
-      "dia": [
-        "Lunes",
-        "Martes",
-        "Miércoles",
-        "Jueves",
-        "Domingo"
-      ],
-      "dia_texto": "domingo a jueves",
-      "canal": "Tienda física",
-      "vigencia": "Promoción válida hasta el 30 noviembre de 2026.",
-      "condiciones": [
-        "Somos Intrigma, el único Escape Room y nuevo panorama de la quinta región. En Intrigma se vive una experiencia inmersiva e interactiva, donde un grupo de personas ingresa a una sala temática a jugar siguiendo pistas y resolviendo acertijos hasta llegar a un objetivo final. Actualmente tenemos tres salas de escape con distintas temáticas e historias, y cada una tiene su propio objetivo de escape. Cada experiencia tiene una duración aproximada de 1 hora y 30 minutos, donde 60 minutos corresponden al tiempo dentro de la sala.",
-        "Para compra presencial solicita tu descuento al momento de pagar.",
-        "Debes reservar en intrigma.cl",
-        "No acumulable con otras promociones.",
-        "Tope de descuento de $40.000",
-        "Descuento exclusivo pagando con tus Tarjetas del Chile."
-      ],
-      "sucursales": [
-        "6 norte #298, Región de Valparaíso, Viña del Mar"
       ]
     },
     {
@@ -2045,26 +1934,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "ABA English",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": "25% dto.",
-      "dia": [
-        "Todos los días"
-      ],
-      "dia_texto": "todos los días",
-      "canal": "Online",
-      "vigencia": "Promoción válida hasta el 30 de noviembre de 2026.",
-      "condiciones": [
-        "Con más de 45 años de experiencia y nuestro propio método de enseñanza, ABA English se posiciona como la primera academia digital de inglés que ofrece una experiencia de aprendizaje completa, desde principiantes absolutos hasta la preparación para exámenes oficiales",
-        "25% dto. todos los días en abachile.cl",
-        "Obtén tu descuento ingresando AEBCHILE2026 como código de dto.",
-        "No acumulable con otras promociones.",
-        "Descuento exclusivo pagando con tus Tarjetas del Chile."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "4geeks",
       "categoria": "Retail y Otras Marcas",
       "descuento": null,
@@ -2446,28 +2315,6 @@
         "Revisa cobertura de despacho en shopdilmah.cl",
         "No aplica al valor del despacho.",
         "Beneficio Exclusivo pagando con tus Tarjetas del Chile."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Aethos",
-      "categoria": "Salud y Belleza",
-      "descuento": "20% dto.",
-      "dia": [
-        "Miércoles"
-      ],
-      "dia_texto": "miércoles",
-      "canal": "Online",
-      "vigencia": "Promoción válida hasta el 30 de noviembre de 2026.",
-      "condiciones": [
-        "Aethos es skincare diseñado para hombres que quieren verse bien sin complicarse. Nuestra rutina de 3 pasos y 2 minutos combina fórmulas limpias y eficientes que hidratan, fortalecen y protegen la piel todos los días. Resultados visibles, cero complicaciones.",
-        "20% dto. miércoles en skinaethos.com",
-        "Obtén tu descuento ingresando AETHOSBCH como código de dto.",
-        "Descuento no aplica para valor del despacho.",
-        "No acumulable con otras promociones.",
-        "Revisa cobertura de despacho en skinaethos.com",
-        "Descuento exclusivo pagando con tus Tarjetas del Chile."
       ],
       "sucursales": []
     },
@@ -2928,6 +2775,28 @@
         "20% dto todos los días en delivery pagando con tus tarjetas del Chile.",
         "Para compras online ingresa los 6 primeros dígitos de tus Tarjetas del Chile como cupón de descuento",
         "No acumulable con otras promociones."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Brastore",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "20% dto.",
+      "dia": [
+        "Sábado"
+      ],
+      "dia_texto": "sábado",
+      "canal": "Online",
+      "vigencia": "Promoción válida hasta el 30 de noviembre de 2027.",
+      "condiciones": [
+        "E-commerce de las Tiendas Leonisa & Selmark Chile. 50 años de excelencia empoderando a la mujer con piezas únicas.",
+        "20% dto. sábado en Brastore.cl",
+        "Ingresa los 6 primeros dígitos de tu Tarjeta como cupón de descuento.",
+        "Descuento no aplica para valor del despacho.",
+        "Revisa cobertura de despacho en Brastore.cl",
+        "No acumulable con otras promociones.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
       ],
       "sucursales": []
     },
@@ -4331,6 +4200,33 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "INTRIGMA",
+      "categoria": "Entretención y Deportes",
+      "descuento": "35% dto.",
+      "dia": [
+        "Lunes",
+        "Martes",
+        "Miércoles",
+        "Jueves",
+        "Domingo"
+      ],
+      "dia_texto": "domingo a jueves",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
+      "condiciones": [
+        "Somos Intrigma, el único Escape Room y nuevo panorama de la quinta región. En Intrigma se vive una experiencia inmersiva e interactiva, donde un grupo de personas ingresa a una sala temática a jugar siguiendo pistas y resolviendo acertijos hasta llegar a un objetivo final. Actualmente tenemos tres salas de escape con distintas temáticas e historias, y cada una tiene su propio objetivo de escape. Cada experiencia tiene una duración aproximada de 1 hora y 30 minutos, donde 60 minutos corresponden al tiempo dentro de la sala.",
+        "Para compra presencial solicita tu descuento al momento de pagar.",
+        "Debes reservar en intrigma.cl",
+        "No acumulable con otras promociones.",
+        "Tope de descuento de $40.000",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "6 norte #298, Región de Valparaíso, Viña del Mar"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "Jardin Mahuzier",
       "categoria": "Sabores",
       "descuento": "20% dto.",
@@ -4722,45 +4618,6 @@
       ],
       "sucursales": [
         "Carr. Austral, Metri, Región de los Lagos, Puerto Montt"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Leonisa",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": "20% dto.",
-      "dia": [
-        "Martes"
-      ],
-      "dia_texto": "martes",
-      "canal": "Tienda física",
-      "vigencia": "Promoción válida hasta el 30 de noviembre de 2026.",
-      "condiciones": [
-        "Marca con casi 70 años de experiencia, famosa por ropa íntima, shapewear y swimwear pensada para realzar la silueta con soporte, comodidad e inclusión de talles; una opción confiable para quienes buscan ajuste, durabilidad y empoderamiento.",
-        "20% dto. martes presencial.",
-        "Solicita tu descuento al momento de pagar.",
-        "No acumulable con otras promociones.",
-        "Descuento exclusivo pagando con tus Tarjetas del Chile."
-      ],
-      "sucursales": [
-        "Mall Plaza Antofagasta, Av. Balmaceda 2355, Región de Antofagasta, Antofagasta",
-        "Mall Plaza Copiapó, Calle Maipú 0110 local A-1133, Región de Atacama, Copiapó",
-        "Mall Plaza Los Dominicos, Región Metropolitana, Las Condes",
-        "Apumanque Shoping Center, Av. Manquehue Sur 31 Local 84, Región Metropolitana, Las Condes",
-        "Parque Arauco, Avenida Kennedy 5413 local 407, Región Metropolitana, Las condes",
-        "Av. Providencia 2079, Región Metropolitana, Providencia",
-        "Arauco Maipú, Av. Américo Vespucio 399 local 343, Región Metropolitana, Maipú",
-        "Mallplaza Sur, Av. Pdte. Jorge Alessandri 20040 local B-1058 - 1060, Región Metropolitana, San Bernardo",
-        "Mallplaza Oeste, Américo Vespucio 1501 Local A-237 / A-241a, Región Metropolitana, Cerrilos",
-        "Mallplaza Tobalaba, Camilo Henriquez 3296 local B-110, Región Metropolitana, Puente Alto",
-        "Mallplaza Vespucio, Avda. Vicuña Mackenna 7110 local 249-A, Región Metropolitana, La Florida",
-        "Mallplaza Egaña, Avenida Larraín 5862 local A-2013, Región Metropolitana, La Reina",
-        "Viña Centro Valparaiso 553 local 12, Viña del Mar, Región de Valparaíso, Viña del Mar",
-        "Mallplaza Los Ángeles, Valdivia 440 local 232-B, Región del Biobío, Los Ángeles",
-        "Mallplaza El Trébol, Av. Jorge Alessandri 3177 local A-221-219, Región del Biobío, Talcahuano",
-        "Barros Arana #1068, local 06-01, Región del Biobío, Concepción",
-        "Costanera Center, Avda. Andrés Bello 2425 Local 257, Región Metropolitana, Santiago",
-        "Vivo Mall San Fernando, Chillán 786 Local 1156, Región del Libertador Bernardo OHiggins, San Fernando"
       ]
     },
     {
@@ -5419,6 +5276,27 @@
       ],
       "sucursales": [
         "Av Vitacura #3600, Región Metropolitana, Vitacura"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "OASIS SPA",
+      "categoria": "Salud y Belleza",
+      "descuento": "15% dto.",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días",
+      "canal": null,
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
+      "condiciones": [
+        "Oasis spa es el lugar que necesitas, estamos ubicados en primera línea frente al mar, siendo la opción ideal si buscas combinar La Paz y la relajación. Déjate envolver en un delicioso masaje, pensado especialmente para ti, realizado por kinesiólogas.",
+        "15% dto. en masajes relajantes, descontracturantes y suecos",
+        "Solicita tu dto. al momento de pagar con tus Tarjetas.",
+        "No acumulable con otras promociones."
+      ],
+      "sucursales": [
+        "San Martin #599, Región de Arica y Parinacota, Arica"
       ]
     },
     {
@@ -6250,28 +6128,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Selmark",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": "20% dto.",
-      "dia": [
-        "Martes"
-      ],
-      "dia_texto": "martes",
-      "canal": "Tienda física",
-      "vigencia": "Promoción válida hasta el 30 de noviembre de 2026.",
-      "condiciones": [
-        "Marca europea con medio siglo de trayectoria, reconocida por su confección artesanal, patronaje cuidado y diseños que combinan elegancia, confort y sensualidad — una apuesta para mujeres que valoran calidad, estilo y sofisticación.",
-        "20% dto. martes en Selmark presencial.",
-        "Solicita tu descuento al momento de pagar.",
-        "No acumulable con otras promociones.",
-        "Descuento exclusivo pagando con tus Tarjetas del Chile."
-      ],
-      "sucursales": [
-        "Nueva Costanera, Av. Nueva Costanera #4021 Local 3, Región Metropolinada, Vitacura"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "SELVADO",
       "categoria": "Sabores",
       "descuento": "20% dto.",
@@ -6711,25 +6567,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "ÜÑÜ",
-      "categoria": "Sustentable",
-      "descuento": "20% dto.",
-      "dia": [
-        "Todos los días"
-      ],
-      "dia_texto": "todos los días en compra",
-      "canal": "Online",
-      "vigencia": "Promoción válida hasta el 30 de noviembre de 2026.",
-      "condiciones": [
-        "Trabajamos dando valor agregado al diseño, con técnicas antiguas, 100% hecho a mano en la isla y con baja huella de carbono. Parte de la utilidad de cada producto se destina a plantar árboles nativos en invierno y a hacer educación ambiental es escuelas rurales en verano. Somos Premio Nacional Del Medioambiente.",
-        "Obtén un 20% dto. al finalizar tu compra utilizando el código BANCODECHILE22 en unudelaisla.cl.",
-        "No acumulable con otras promociones.",
-        "Válido para compras hasta $500.000"
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "Varvacoa",
       "categoria": "Retail y Otras Marcas",
       "descuento": "Hasta 20% dto.",
@@ -6946,6 +6783,27 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "YALE",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "20% dto.",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 30 de enero de 2027.",
+      "condiciones": [
+        "Millones de personas confían en Yale todos los días para mantener seguro lo que es importante para ellos. Sus hogares, familias y pertenencias. Nuestras innovaciones han protegido hogares y han brindado tranquilidad durante 180 años. Abre tu mundo a la seguridad digital con YALE.",
+        "Solicita tu descuento al momento de pagar.",
+        "No acumulable con otras promociones.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Las Condes Design, Av. Las Condes #9765, Región Metropolitana, Las Condes"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "Zenclinic Dental",
       "categoria": "Salud y Belleza",
       "descuento": null,
@@ -7019,6 +6877,26 @@
         "Mall Florida Center, Av. Vicuña Mackenna #6100, Región Metropolitana, La Florida",
         "Mall Costanera Center, Av. Andrés Bello #2425, Región Metropolitana, Providencia"
       ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "ABA English",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "25% dto.",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días",
+      "canal": "Online",
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
+      "condiciones": [
+        "Con más de 45 años de experiencia y nuestro propio método de enseñanza, ABA English se posiciona como la primera academia digital de inglés que ofrece una experiencia de aprendizaje completa, desde principiantes absolutos hasta la preparación para exámenes oficiales",
+        "25% dto. todos los días en abachile.cl",
+        "Obtén tu descuento ingresando AEBCHILE2026 como código de dto.",
+        "No acumulable con otras promociones.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": []
     },
     {
       "banco": "Banco de Chile",
@@ -9538,57 +9416,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Intime",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": "20% dto.",
-      "dia": [
-        "Miércoles"
-      ],
-      "dia_texto": "miércoles",
-      "canal": "Ambos",
-      "vigencia": "Promoción válida hasta el 30 de noviembre de 2026.",
-      "condiciones": [
-        "Intime es una marca chilena de ropa interior femenina que combina comodidad, diseño y estilo, ofreciendo prendas que realzan la confianza, bienestar y femineidad de cada mujer.",
-        "20% dto. miércoles en compra presencial y en intime.cl",
-        "Para compra presencial solicita tu descuento al momento de pagar.",
-        "El descuento se verá reflejado al momento de ingresar tu Tarjeta del Chile al realizar el pago en intime.cl",
-        "Descuento no aplica para valor del despacho.",
-        "Revisa cobertura de despacho en intime.cl",
-        "No acumulable con otras promociones.",
-        "Descuento exclusivo pagando con tus Tarjetas del Chile."
-      ],
-      "sucursales": [
-        "Mall Plaza Oeste, Américo Vespucio 1501, Local D- 249/253, Región Metropolitana, Cerrillos",
-        "Mall Plaza Trebol, Av. Jorge Alessandri 3177, Local E 226 -228, Región del Biobio, Talcahuano",
-        "Mall Plaza Sur, Avenida Jorge Alessandri 20040, Local B-2009b/B-2011/B-2013, Región Metropolitana, San Bernardo",
-        "Espacio M, Compañía 1214 - Local 107B - Espacio M - esquina Morandé, Región Metropolitana, Santiago",
-        "Mall Plaza Vespucio, Avenida Vicuña Mackenna Oriente 7110, Local 354, Región Metropolitana, La Florida",
-        "Mall Portal Talca, Calle 1 Sur 1537, Local 207, Región del Maule, Talca",
-        "Mall Plaza Alameda, Alameda 3470. Local A248, Región Metropolitana, Estación Central",
-        "Mall Plaza Egaña, Av. Larraín 5862, Local A2016, Región Metropolitana, La Reina",
-        "City Point Ovalle, Benjamin Vicuña Mackenna 85, Local 104, Región de Coquimbo, Ovalle",
-        "Vivo San Fernando, Av. Bernardo OHiggins 701, local 2108, Región de OHiggins, San Fernando",
-        "Vivo Coquimbo, Varela 1524 Local 2116, Región de Coquimbo, Coquimbo",
-        "Mall Vivo Imperio, Huérfanos 830, Local 9, Región Metropolitana, Santiago",
-        "Mall Plaza Arica, Avenida Diego Portales N° 640 Local B-1021/B-1023, Región de Arica y Parinacota, Arica",
-        "Mall Paseo Puerto Varas, San Francisco 666, Local 223, Región de Los Lagos, Puerto Varas",
-        "Mall Plaza Norte, Av Américo Vespucio 1737, Local A1124, Región Metropolitana, Huechuraba",
-        "Mall Plaza Calama, Av Balmaceda 3242 Local B128-132, Región de Antofagasta, Calama",
-        "Mall Plaza Antofagasta, Av Balmaceda 2355 Local L139B, Región de Antofagasta, Antofagasta",
-        "Mall Plaza Serena, Alberto Solari 1400 Local C246A-250, Región de Antofagasta, Antofagasta",
-        "Arauco estacion central, Av. Libertador Bernardo OHiggins 3250 Local G0464-H0407. Bodega # 30 12m2, Región Metropolitana, Estación Central",
-        "Intermodal la cisterna, Avenida Américo Vespucio número 33, Intermodal La Cisterna Loc 128, Región Metropolitana, La Cisterna",
-        "Subcentro Lascondes, Avenida Apoquindo 4411. SubCentro Local 166 Bodega #6 Galería sur 7,3m2, Región Metropolitana, Las Condes",
-        "Mall del centro de Concepción, Calle Barros Arana N°1068, Local Nº 18-02, Región del Biobio, Concepción",
-        "Cenco Florida, Av. Vicuna Mackenna 6100, Local 2093, Región Metropolitana, La Florida",
-        "Plaza Americas Rancagua, Av. Nueva Alberto Einstein 290, Local 238, Región de OHiggins, Rancagua",
-        "Tienda Calle, Calle Gobernador Carlos Bories N° 837, Región de Magallanes y de la Antártica Chilena, Punta Arenas",
-        "Mall Arauco maipu, Av. Américo Vespucio 399, local 673, Región Metropolitana, Maipú",
-        "Mall Arauco Coronel, Av carlos prat 913 local 1217 piso 1, Región del Biobio, Coronel"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "Trybar Osorno",
       "categoria": "Sabores",
       "descuento": "20% dto.",
@@ -10724,6 +10551,57 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "Intime",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "20% dto.",
+      "dia": [
+        "Miércoles"
+      ],
+      "dia_texto": "miércoles",
+      "canal": "Ambos",
+      "vigencia": "Promoción válida hasta el 30 de noviembre de 2027.",
+      "condiciones": [
+        "Intime es una marca chilena de ropa interior femenina que combina comodidad, diseño y estilo, ofreciendo prendas que realzan la confianza, bienestar y femineidad de cada mujer.",
+        "20% dto. miércoles en compra presencial y en intime.cl",
+        "Para compra presencial solicita tu descuento al momento de pagar.",
+        "El descuento se verá reflejado al momento de ingresar tu Tarjeta del Chile al realizar el pago en intime.cl",
+        "Descuento no aplica para valor del despacho.",
+        "Revisa cobertura de despacho en intime.cl",
+        "No acumulable con otras promociones.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Mall Plaza Oeste, Américo Vespucio 1501, Local D- 249/253, Región Metropolitana, Cerrillos",
+        "Mall Plaza Trebol, Av. Jorge Alessandri 3177, Local E 226 -228, Región del Biobio, Talcahuano",
+        "Mall Plaza Sur, Avenida Jorge Alessandri 20040, Local B-2009b/B-2011/B-2013, Región Metropolitana, San Bernardo",
+        "Espacio M, Compañía 1214 - Local 107B - Espacio M - esquina Morandé, Región Metropolitana, Santiago",
+        "Mall Plaza Vespucio, Avenida Vicuña Mackenna Oriente 7110, Local 354, Región Metropolitana, La Florida",
+        "Mall Portal Talca, Calle 1 Sur 1537, Local 207, Región del Maule, Talca",
+        "Mall Plaza Alameda, Alameda 3470. Local A248, Región Metropolitana, Estación Central",
+        "Mall Plaza Egaña, Av. Larraín 5862, Local A2016, Región Metropolitana, La Reina",
+        "City Point Ovalle, Benjamin Vicuña Mackenna 85, Local 104, Región de Coquimbo, Ovalle",
+        "Vivo San Fernando, Av. Bernardo OHiggins 701, local 2108, Región de OHiggins, San Fernando",
+        "Vivo Coquimbo, Varela 1524 Local 2116, Región de Coquimbo, Coquimbo",
+        "Mall Vivo Imperio, Huérfanos 830, Local 9, Región Metropolitana, Santiago",
+        "Mall Plaza Arica, Avenida Diego Portales N° 640 Local B-1021/B-1023, Región de Arica y Parinacota, Arica",
+        "Mall Paseo Puerto Varas, San Francisco 666, Local 223, Región de Los Lagos, Puerto Varas",
+        "Mall Plaza Norte, Av Américo Vespucio 1737, Local A1124, Región Metropolitana, Huechuraba",
+        "Mall Plaza Calama, Av Balmaceda 3242 Local B128-132, Región de Antofagasta, Calama",
+        "Mall Plaza Antofagasta, Av Balmaceda 2355 Local L139B, Región de Antofagasta, Antofagasta",
+        "Mall Plaza Serena, Alberto Solari 1400 Local C246A-250, Región de Antofagasta, Antofagasta",
+        "Arauco estacion central, Av. Libertador Bernardo OHiggins 3250 Local G0464-H0407. Bodega # 30 12m2, Región Metropolitana, Estación Central",
+        "Intermodal la cisterna, Avenida Américo Vespucio número 33, Intermodal La Cisterna Loc 128, Región Metropolitana, La Cisterna",
+        "Subcentro Lascondes, Avenida Apoquindo 4411. SubCentro Local 166 Bodega #6 Galería sur 7,3m2, Región Metropolitana, Las Condes",
+        "Mall del centro de Concepción, Calle Barros Arana N°1068, Local Nº 18-02, Región del Biobio, Concepción",
+        "Cenco Florida, Av. Vicuna Mackenna 6100, Local 2093, Región Metropolitana, La Florida",
+        "Plaza Americas Rancagua, Av. Nueva Alberto Einstein 290, Local 238, Región de OHiggins, Rancagua",
+        "Tienda Calle, Calle Gobernador Carlos Bories N° 837, Región de Magallanes y de la Antártica Chilena, Punta Arenas",
+        "Mall Arauco maipu, Av. Américo Vespucio 399, local 673, Región Metropolitana, Maipú",
+        "Mall Arauco Coronel, Av carlos prat 913 local 1217 piso 1, Región del Biobio, Coronel"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "Azaleia",
       "categoria": "Retail y Otras Marcas",
       "descuento": "20% dto.",
@@ -11232,6 +11110,28 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "Aethos",
+      "categoria": "Salud y Belleza",
+      "descuento": "20% dto.",
+      "dia": [
+        "Miércoles"
+      ],
+      "dia_texto": "miércoles",
+      "canal": "Online",
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
+      "condiciones": [
+        "Aethos es skincare diseñado para hombres que quieren verse bien sin complicarse. Nuestra rutina de 3 pasos y 2 minutos combina fórmulas limpias y eficientes que hidratan, fortalecen y protegen la piel todos los días. Resultados visibles, cero complicaciones.",
+        "20% dto. miércoles en skinaethos.com",
+        "Obtén tu descuento ingresando AETHOSBCH como código de dto.",
+        "Descuento no aplica para valor del despacho.",
+        "No acumulable con otras promociones.",
+        "Revisa cobertura de despacho en skinaethos.com",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "MacOnline - Apple",
       "categoria": "Retail y Otras Marcas",
       "descuento": null,
@@ -11720,44 +11620,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Gama Mobility | Rent a Car",
-      "categoria": "Viajes",
-      "descuento": "35% dto.",
-      "dia": [
-        "Todos los días"
-      ],
-      "dia_texto": "todos los días",
-      "canal": "Ambos",
-      "vigencia": "Promoción válida hasta el 30 de noviembre de 2026.",
-      "condiciones": [
-        "Ofrecemos soluciones de movilidad pensadas para tu comodidad. Puedes planificar tu viaje de negocios, vacaciones o una escapada de fin de semana. Contamos con todas las categorías de vehículos que necesites, desde economy, crossover, SUV, camionetas y furgones. Nos diferenciamos por una Atención de Excelencia, donde nuestro equipo está comprometido en bridar el mejor servicio.",
-        "35% dto. todos los días en la tarifa base (tiempo y kilómetro) del arriendo del vehículo, válido para reserva presencial y en gamamobility.cl",
-        "Para compra presencial solicita tu descuento al momento de pagar.",
-        "Para la reserva online, ingresa los 6 primeros dígitos de tu Tarjeta en el botón “Tengo un código promocional”.",
-        "Beneficio no aplica sobre coberturas obligatorias (cobertura daños propios CDW y daños a terceros DAT) y no están considerados en el descuento los gastos en TAG, cargo aeropuerto u otros servicios adicionales.",
-        "No acumulable con otras promociones.",
-        "Descuento exclusivo pagando con tus Tarjetas del Chile."
-      ],
-      "sucursales": [
-        "Aeropuerto Internacional El Loa, Región de Antofagasta, Calama",
-        "Aeropuerto Cerro Moreno, Región de Antofagasta, Antofagasta",
-        "Pedro Aguirre Cerda 6100, Región de Antofagasta, Antofagasta",
-        "Aeropuerto Desierto de Atacama, Región de Atacama, Copiapó",
-        "Panamericana Norte Km 813 3604, Región de Atacama, Copiapó",
-        "Aeropuerto La Florida, Región de Coquimbo, La Serena",
-        "Aeropuerto Internacional Arturo Merino Benitez, Región Metropolitana, Santiago",
-        "Parque ENEA La Oración 1301, Región Metropolitana, Pudahuel",
-        "Aeropuerto Carriel Sur, Región del Biobío, Concepción",
-        "Aeropuerto Internacional La Araucanía, Región de la Araucanía, Temuco",
-        "Dagoberto Godoy 0406, Región de la Araucanía, Padre Las Casas",
-        "Aeropuerto Pichoy, Región de los Ríos, Valdivia",
-        "Aeropuerto El Tepual, Región de los Lagos, Puerto Montt",
-        "Génesis 160 - Parque Industrial, Región de los Lagos, Puerto Montt",
-        "Aeropuerto Mocopulli, Región de los Lagos, Chiloé"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "CONEY PARK",
       "categoria": "Entretención y Deportes",
       "descuento": "Paga $15.000 y juega $30.000",
@@ -12031,18 +11893,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Travel Viajes",
-      "categoria": "Viajes",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "Paquetes, vuelos, hoteles y más",
-      "canal": null,
-      "vigencia": "Promoción válida hasta el 31 de dic de 2026",
-      "condiciones": [],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "Parque Bulnes Correa",
       "categoria": "Entretención y Deportes",
       "descuento": "20% dto.",
@@ -12088,6 +11938,18 @@
       "sucursales": [
         "El Picaflor Parcela 10, Región Bernardo OHiggins, Litueche"
       ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Travel Viajes",
+      "categoria": "Viajes",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "Paquetes, vuelos, hoteles y más",
+      "canal": null,
+      "vigencia": "Promoción válida hasta el 31 de dic de 2026",
+      "condiciones": [],
+      "sucursales": []
     },
     {
       "banco": "Banco de Chile",
@@ -12663,6 +12525,25 @@
       "sucursales": [
         "Of. 1404, Las Condes 9460, Región Metropolitana, Las Condes, Horario de atención: Lunes a Viernes de 9:00 a 13:00 hrs."
       ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "ÜÑÜ",
+      "categoria": "Sustentable",
+      "descuento": "20% dto.",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días en compra",
+      "canal": "Online",
+      "vigencia": "Promoción válida hasta el 31 de mayo de 2027.",
+      "condiciones": [
+        "Trabajamos dando valor agregado al diseño, con técnicas antiguas, 100% hecho a mano en la isla y con baja huella de carbono. Parte de la utilidad de cada producto se destina a plantar árboles nativos en invierno y a hacer educación ambiental es escuelas rurales en verano. Somos Premio Nacional Del Medioambiente.",
+        "Obtén un 20% dto. al finalizar tu compra utilizando el código BANCODECHILE22 en unudelaisla.cl.",
+        "No acumulable con otras promociones.",
+        "Válido para compras hasta $500.000"
+      ],
+      "sucursales": []
     },
     {
       "banco": "Banco de Chile",
@@ -16456,26 +16337,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Preu Filadd",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": "20% dto.",
-      "dia": [
-        "Todos los días"
-      ],
-      "dia_texto": "todos los días",
-      "canal": "Online",
-      "vigencia": "Promoción válida hasta el 28 de febrero de 2027.",
-      "condiciones": [
-        "Todo lo que necesitas para preparar la PAES en un solo lugar: clases en vivo, material de estudio y acompañamiento, con una metodología 100% online y flexible.",
-        "20% dto. en todos los Packs, cursos de Preuniversitario y Programas Nota 7.",
-        "Obtén tu dto. ingresando los 6 primeros dígitos de tu Tarjeta como código de dto.",
-        "No acumulable con otras promociones.",
-        "Descuento exclusivo pagando con tus Tarjetas del Chile."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "Magíster en Ingeniería de la Energía UC.",
       "categoria": "Retail y Otras Marcas",
       "descuento": "20% dto.",
@@ -16982,6 +16843,44 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "Gama Mobility | Rent a Car",
+      "categoria": "Viajes",
+      "descuento": "35% dto.",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días",
+      "canal": "Ambos",
+      "vigencia": "Promoción válida hasta el 30 de noviembre de 2027.",
+      "condiciones": [
+        "Ofrecemos soluciones de movilidad pensadas para tu comodidad. Puedes planificar tu viaje de negocios, vacaciones o una escapada de fin de semana. Contamos con todas las categorías de vehículos que necesites, desde economy, crossover, SUV, camionetas y furgones. Nos diferenciamos por una Atención de Excelencia, donde nuestro equipo está comprometido en bridar el mejor servicio.",
+        "35% dto. todos los días en la tarifa base (tiempo y kilómetro) del arriendo del vehículo, válido para reserva presencial y en gamamobility.cl",
+        "Para compra presencial solicita tu descuento al momento de pagar.",
+        "Para la reserva online, ingresa los 6 primeros dígitos de tu Tarjeta en el botón “Tengo un código promocional”.",
+        "Beneficio no aplica sobre coberturas obligatorias (cobertura daños propios CDW y daños a terceros DAT) y no están considerados en el descuento los gastos en TAG, cargo aeropuerto u otros servicios adicionales.",
+        "No acumulable con otras promociones.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Aeropuerto Internacional El Loa, Región de Antofagasta, Calama",
+        "Aeropuerto Cerro Moreno, Región de Antofagasta, Antofagasta",
+        "Pedro Aguirre Cerda 6100, Región de Antofagasta, Antofagasta",
+        "Aeropuerto Desierto de Atacama, Región de Atacama, Copiapó",
+        "Panamericana Norte Km 813 3604, Región de Atacama, Copiapó",
+        "Aeropuerto La Florida, Región de Coquimbo, La Serena",
+        "Aeropuerto Internacional Arturo Merino Benitez, Región Metropolitana, Santiago",
+        "Parque ENEA La Oración 1301, Región Metropolitana, Pudahuel",
+        "Aeropuerto Carriel Sur, Región del Biobío, Concepción",
+        "Aeropuerto Internacional La Araucanía, Región de la Araucanía, Temuco",
+        "Dagoberto Godoy 0406, Región de la Araucanía, Padre Las Casas",
+        "Aeropuerto Pichoy, Región de los Ríos, Valdivia",
+        "Aeropuerto El Tepual, Región de los Lagos, Puerto Montt",
+        "Génesis 160 - Parque Industrial, Región de los Lagos, Puerto Montt",
+        "Aeropuerto Mocopulli, Región de los Lagos, Chiloé"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "TRAVEL SKY PLUS",
       "categoria": "Viajes",
       "descuento": null,
@@ -17069,99 +16968,6 @@
       "sucursales": [
         "Merced #318, Region Metropolitana, Santiago",
         "Hernando de Aguirre #129, Region Metropolitana, Providencia"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "La Fête Chocolat",
-      "categoria": "Sabores",
-      "descuento": "20% dto.",
-      "dia": [
-        "Lunes"
-      ],
-      "dia_texto": "lunes",
-      "canal": "Ambos",
-      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
-      "condiciones": [
-        "20% dto. los lunes en tiendas y online pagando con tus Tarjetas del Chile.",
-        "En compra online ingresa los 6 primeros dígitos de tu Tarjeta como código de descuento y en compra presencial indícalos al momento de pagar",
-        "Uso de un cupón diario por cliente.",
-        "Tope de descuento $20.000 por compra.",
-        "No válido en Clínica Las Condes, Puerto Natales.",
-        "Obtén despacho express gratis por compras sobre $30.000 en productos."
-      ],
-      "sucursales": [
-        "Av. La Dehesa 457, Local 5, Piso 1, Región Metropolitana, Lo Barnechea",
-        "Avenida Luis Pasteur 6666, Local B-2, Piso 1, Región Metropolitana, Vitacura",
-        "Isidora Goyenechea 2932, Local B, Piso 1, Región Metropolitana, Las Condes",
-        "Avenida Chamisero 10290, Local 7, Piso 1, Región Metropolitana, Colina",
-        "Cordillera 331, Módulo D-19, Piso 1, Región Metropolitana, Quilicura",
-        "Ricardo Lyon 21, Local 3, Piso 1, Región Metropolitana, Providencia",
-        "Eliodoro Yañez 2638, Local 110, Piso 1, Región Metropolitana, Providencia",
-        "Lofontecilla 441, Piso 1, Región Metropolitana, Las Condes",
-        "Príncipe de Gales 9140, Local 209, Piso 2, Región Metropolitana, La Reina",
-        "Nueva York 52, Local B-1, Piso 1, Región Metropolitana, Santiago Centro",
-        "Av. Presidente Kennedy 5.413, Local 112, Piso 2, Región Metropolitana, Las Condes",
-        "Camino El Alba 11969, Local 206-2, Piso 1, Región Metropolitana, Las Condes",
-        "Av. Pdte Kennedy 9001, Local 1120, Piso 1, Región Metropolitana, Las Condes",
-        "Agustinas 859, Piso 1, Región Metropolitana, Santiago Centro",
-        "Avenida Larraín 5862, Local A 1044, Piso 2, Región Metropolitana, La Reina",
-        "Avenida Andrés Bello 2465, Local 2212, Piso 2, Región Metropolitana, Providencia",
-        "El Llano Subercaseaux 3519 A, Local 1097, Piso 1, Región Metropolitana, San Miguel",
-        "Avenida Vicuña Mackenna 6100, Local 1073, Piso 1, Región Metropolitana, La Florida",
-        "Av. La Florida 8220, Local 18, Piso 2, Región Metropolitana, La Florida",
-        "Avenida Américo Vespucio 399, Local 510, Piso 1, Región Metropolitana, Maipú",
-        "Zona Embarque Nacional Aeropuerto, Zona de Embarque Nacional, Región Metropolitana, Pudahuel",
-        "Zona Embarque Internacional Aeropuerto, Zona de Embarque Internacional, Región Metropolitana, Pudahuel",
-        "Avenida Vicuña Mackenna 7110, Local 52, Piso 1, Región Metropolitana, La Florida",
-        "Camino La Paloma 5, Local 1, Piso 1, Región Metropolitana, Lo Barnechea",
-        "Av. Padre Hurtado Sur 875, Local B1020/B1024, Piso 1, Región Metropolitana, Las Condes",
-        "Los Trapenses 3145, Piso 1, Región Metropolitana, Lo Barnechea",
-        "Nueva Costanera 3900, Local TM 190, Piso 1, Región Metropolitana, Vitacura",
-        "Av. Pie Andino 4850, Local 116, Piso 1, Región Metropolitana, Lo Barnechea",
-        "Ñuble 1055, Local 3, Región Metropolitana, Santiago Centro",
-        "Avenida Apoquindo 2730, Local L-110, Piso 1, Región Metropolitana, Las Condes",
-        "Av. Angamos 02170, Local 120, Piso 1, Región de Antofagasta, Antofagasta",
-        "6 Poniente 150, Local 3, Piso 1, Región de Valparaíso, Viña del Mar",
-        "Paseo Las Rastras 1695, Local 2, Piso 1, Región del Maule, Talca",
-        "San Francisco 320, Piso 1, Región de Los Lagos, Puerto Varas",
-        "Carretera del Cobre Presidente Frei 750, Local 101, Región OHiggins, Rancagua",
-        "Av. San Juan 133, Local 43, Piso 1, Región OHiggins, Machalí",
-        "Av. Alemania 671, Local 2054, Piso 2, Región de La Araucanía, Temuco",
-        "Errázuriz 1040, Local 1009, Piso 1, Región de Los Ríos, Valdivia",
-        "Ruta F 30 E, Local 1, Piso 1, Región de Valparaíso, Puchuncaví",
-        "Blanca Estela 58, Local 2, Piso 1, Región de Valparaíso, Concón",
-        "Av. del Golf 5, Local 2, Piso 1, Región de Valparaíso, Santo Domingo",
-        "Avenida Bernardo OHiggins 201, Local 020, Piso 1, Región del Maule, Curicó",
-        "Av. Balmaceda 2355, Local 279, Piso 2, Región de Antofagasta, Antofagasta",
-        "Avda. Chorrillos 1759, Local 1020, Piso 1, Región de Antofagasta, Calama",
-        "Avenida Huanhualí 105, Local BA158 / BA162A, Piso 1, Región de Coquimbo, La Serena",
-        "Avda. Jorge Alessandri 3177, Local H-176/180, Piso 1, Región del Biobío, Talcahuano",
-        "Los Carrera Poniente 301, Local A 1049, Piso 1, Región del Biobío, Concepción",
-        "Diego Portales 640, Local B1009, Piso 1, Región de Arica, Arica",
-        "Moisés Chacón 149, Local 1, Piso 1, Región de Valparaíso, Zapallar",
-        "Avenida Las Brisas 11, Local 3, Piso 1, Región de Valparaíso, Santo Domingo",
-        "Pedro Sarmiento de Gamboa 399, Local 5, Piso 1, Región de Magallanes, Punta Arenas",
-        "Magallanes 46, Piso 1, Región de Magallanes, Puerto Natales",
-        "Barros Arana 1068, Local 21-01, Piso 1, Región del Biobío, Concepción",
-        "Juan Soler Manfredini 131, Local 304, Piso 1, Región de Los Lagos, Puerto Montt",
-        "Avenida Consistorial 2100, Módulo 1, Piso 2, Región Metropolitana, Peñalolén",
-        "Avenida Américo Vespucio 1501, Local B-114a, Piso 1, Región Metropolitana, Cerrillos",
-        "Av. Bernardo OHiggins 774, Local 1104, Piso 1, Región de La Araucanía, Pucón",
-        "Av. Héroes de la Concepción 2855, Local 11, Región de Tarapacá, Iquique",
-        "Av. Ramón Picarte 422, Local 106, Piso 1, Región de Los Ríos, Valdivia",
-        "Calle Mar Tirreno 3349, Local 1080, Piso 1, Región Metropolitana, Macul",
-        "Maipú 109, Local A-1184, Región de Atacama, Copiapó",
-        "Avenida Américo Vespucio 1737, Local A-1140 / A-1144, Piso 1, Región Metropolitana, Huechuraba",
-        "Avenida Independencia 565, Local TM-115A, Región Metropolitana, Independencia",
-        "Av. Apoquindo 4411, Local 155, Región Metropolitana, Las Condes",
-        "Avenida Varela 1524, Local 2140, Piso 2, Región de Coquimbo, Coquimbo",
-        "Av. Benidorm 805 y 961, Local 241, Región de Valparaíso, Viña del Mar",
-        "José Joaquín Pérez 12010, Local 1430, Piso 1, Región de Valparaíso, La Calera",
-        "Ruta F-30 esquina F-124, Local 6, Región de Valparaíso, Puchuncaví",
-        "14 Norte 976, Local 230, Región de Valparaíso, Viña del Mar",
-        "Av. Camilo Henríquez 3692, Local C-130 / C-134, Región Metropolitana, Puente Alto",
-        "Avenida Presidente Jorge Alessandri Rodríguez 20040, Local 1035, Región Metropolitana, San Bernardo"
       ]
     },
     {
@@ -17891,134 +17697,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Dunkin’",
-      "categoria": "Sabores",
-      "descuento": "30% dto.",
-      "dia": [
-        "Lunes",
-        "Miércoles"
-      ],
-      "dia_texto": "lunes y miércoles",
-      "canal": "Ambos",
-      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
-      "condiciones": [
-        "30% dto. lunes y miércoles presencial y online.",
-        "Para compra presencial, solicita en caja tu descuento al momento de pagar con tu Tarjeta Banco de Chile.",
-        "Para compra online ingresa los primeros 6 dígitos de tu tarjeta como código de descuento en dunkin.cl o en la app seleccionando como medio de pago “Tarjeta de Crédito o Débito” y pagando con tu Tarjeta del Chile.",
-        "No acumulable con otros descuentos, Caja de 24 Donuts, Merchandising ni Café de Grano envasado."
-      ],
-      "sucursales": [
-        "Arauco Estación, Av. Libertador Bernardo OHiggins 3322-3350 Mall Arauco Estación, Local 0117, Región Metropolitana, Estación Central",
-        "Tamarugo, Av. Vitacura 4607 local 3-4, Región Metropolitana, Vitacura",
-        "Huérfanos 896, local 20, Región Metropolitana, Santiago",
-        "Dunas Concón, Av. Gastón Hamel Nieto 527, L.U.C 125 1°piso, Local 4, Reñaca Bajo, Región de Valparaíso, Viña del Mar",
-        "Av. Independencia 895, Región Metropolitana, Independencia",
-        "Bulnes, Av. Paseo Bulnes 178, Región Metropolitana, Santiago",
-        "Florida Center, Av. Vicuña Mackenna 6100 L3103, Región Metropolitana, La Florida",
-        "Av. Chamisero 10370, Av. Chamisero 10370 local 22-23, Región Metropolitana, Colina",
-        "Plaza Vespucio, Vicuña Mackenna 7110, local E-9168, Región Metropolitana, La Florida",
-        "Pumay, Av. Cinco de abril N°33, local 1918, Región Metropolitana, Maipú",
-        "Recoleta Cerro Blanco, Av. Recoleta 888 local 06, Región Metropolitana, Recoleta",
-        "Av. Vitacura 6345, local 3, Región Metropolitana, Vitacura",
-        "Av. El bosque norte 075, Región Metropolitana, Las Condes",
-        "Providencia, Av. providencia 2098 L10-14, Región Metropolitana, Providencia",
-        "Portal La Reina, Av. Francisco Bilbao 8750 local 2048, Región Metropolitana, Las Condes",
-        "Portal La Dehesa, Av. LA Dehesa 1445 Local 1032, Región Metropolitana, Lo Barnechea",
-        "Paseo Quilin, Mar Tirreno 3349 1093, Región Metropolitana, Peñalolén",
-        "Portal Rancagua, Carretera El Cobre Avenida Presidente Eduardo Frei 750 Local 1038, Región de OHiggins, Rancagua",
-        "Piedra Roja, Av. Padre Sergio Correa 14500 Local 121, Región Metropolitana, Colina",
-        "Subcentro, Av. Apoquindo 4411 Local 196, Galeria Subcentro, Región Metropolitana, Las Condes",
-        "Jumbo Viña, Av. 1 Norte 2887 local 4024, Región de Valparaíso, Viña del Mar",
-        "Portal Belloto, AV. Ramon FREIRE 2414 Local 1044, Región de Valparaíso, Quilpué",
-        "Viña Shopping, AV. Benidor (Ex 15 norte) 961 local 102, Región de Valparaíso, Viña del Mar",
-        "Reñaca, AV. Borgoño 14990, Región de Valparaíso, Reñaca",
-        "Plaza El Trébol Terrazas, AV. Jorge Alessandri 3177 Local B-228, Región del Biobío, Concepción",
-        "Colón, AV. Colón 4455 Local 3, Región Metropolitana, Las Condes",
-        "Las Bellotas, Las Bellotas 228, Región Metropolitana, Providencia",
-        "Estado 48, Región Metropolitana, Santiago",
-        "Jumbo San Bernardo, Av. Diego Portales 3698 Local 1208, Región Metropolitana, San Bernardo",
-        "Metro Pajaritos, Estación Metro Pajaritos Local 7 (Gral. Oscar Bonilla 5900), Región Metropolitana, Lo Prado",
-        "Av. Eliodoro Yañez 2983 LOCAL 101, Región Metropolitana, Providencia",
-        "Paseo Costanera local, illapel 10 puerto+B71 E P - 03, Región de Los Lagos, Puerto Montt",
-        "Av. Concha y Toro 118, Región Metropolitana, Puente Alto",
-        "Cenit Vitacura, Av. Vitacura 2758 Local 101, Región Metropolitana, Las Condes",
-        "Viña Valparaíso, Av. Valpaiso 568, Región de Valparaíso, Viña del Mar",
-        "Av. Libertador Bernardo Ohiggins 711, Región Metropolitana, Santiago",
-        "Unión Literaria, Av. Manuel Montt 2222, Región Metropolitana, Ñuñoa",
-        "Arauco Quilicura, Av. Bernardo OHiggins 581 LOCAL 51, Región Metropolitana, Quilicura",
-        "Toesca 1844 local 8, Región Metropolitana, Santiago",
-        "Consistorial, Altos del parque sur 5800 local 16, Región Metropolitana, Peñalolén",
-        "Lider Pajaritos, Av. Pajaritos 4500, Región Metropolitana, Maipú",
-        "La Portada, Av. Pedro Aguirre Cerda 10.578 Local 119-120, Región de Antofagasta, Antofagasta",
-        "Jumbo Angamos, Av Angamos 1056 - Local 1056, Región de Antofagasta, Antofagasta",
-        "La Montaña, Av Eduardo Frei Montalva 16870, local 13, Región Metropolitana, Lampa",
-        "Plaza La Serena, Av. Alberto Solari 1400 local 105-113, Región de Coquimbo, La Serena",
-        "Buenaventura, San Ignacio 500 Modulo 6 N 39, Región Metropolitana, Quilicura",
-        "Iquique Cimenta, Heroes de la Concepcion N 2655, local 12-13, Región de Tarapacá, Iquique",
-        "Marina Arauco Local, Av. libertad 1348 Local 234, Región de Valparaíso, Viña del Mar",
-        "Jumbo Florida Center, Av. Vicuña Mackenna 6100 Local 114, Región Metropolitana, La Florida",
-        "Jumbo Maipú, Av. Américo Vespucio 1001 Local 1069, Región Metropolitana, Maipú",
-        "Marina Arauco Modulo, Av. Libertad 1348 Local B18, Región de Valparaíso, Viña del Mar",
-        "Patio Rancagua (Modulo Rancagua), Calle Sargento Jose Bernardo Cuevas N 483, local 139, Región de OHiggins, Rancagua",
-        "Jumbo Peñalolén, Av. Sanchez Fontecilla 12.000 Local 1035, Región Metropolitana, Peñalolén",
-        "Plaza El Trébol FoodCourt, Av. Jorge Alessandri 3177 Local D-105 B, Región del Biobío, Concepción",
-        "Arauco San Antonio Local, Av. Ramón Barros Luco 105 Local 41, Región de Valparaíso, San Antonio",
-        "Arauco San Antonio Módulo, Av. Ramón Barros Luco 105 ZLC 01, Región de Valparaíso, San Antonio",
-        "Plaza los Ángeles, Valdivia 440 A local 323-325, Región del Biobío, Los Ángeles",
-        "Plaza Bio Bio, Los carrera Poniente 301 Local A-1061, Región del Biobío, Concepción",
-        "Mall del Centro Concepción (MCC), Barros Aarana 1068 Local 73, Región del Biobío, Concepción",
-        "Portal Osorno, Plaza Yungay 609 Local 304, Región de Los Lagos, Osorno",
-        "Portal Temuco, Av. Alemania 0671 Local 3061, Región de la Araucanía, Temuco",
-        "Jumbo Chillán, Carrera Longitudinal 134 LOCAL 1007, Región de Ñuble, Chillán",
-        "Miraflores, Miraflores 210, Región Metropolitana, Santiago",
-        "Costanera Center módulo, Av. Andres Bello 2465 Local 6120 Piso 1, Región Metropolitana, Providencia",
-        "Irarrázaval, Irarrazabal 2401 local 16, Región Metropolitana, Ñuñoa",
-        "Paseo Costanera Modulo, Illapel 10 M 231 A, Región de Los Lagos, Puerto Montt",
-        "Arauco Coronel, Av. Carlos Prats 0901 Local 172, Región del Bío Bío, Coronel",
-        "Vivo Coquimbo, Av. Baquedano 86 Local TM 2248, Región de Coquimbo, Coquimbo",
-        "Plaza Copiapó, Maipú 110 Local T 220-224, Región de Atacama, Copiapó",
-        "Manuel Montt, Av. Providencia 1302, Región Metropolitana, Providencia",
-        "Vivo Centro, Puente 689 Local 157, Región Metropolitana, Santiago",
-        "Arauco Maipú (MAM), Américo Vespucio 399 Local 641, Región Metropolitana, Maipú",
-        "EU Antofagasta, Zenteno 21 local 2052, 2do piso, Región de Antofagasta, Antofagasta",
-        "EU Antofagasta Modulo, Zenteno 21, local 1028, Región de Antofagasta, Antofagasta",
-        "Jumbo Bilbao, Av. Francisco Bilbao 4144, local 6127 de J501, Región Metropolitana, Las Condes",
-        "Marbella, Sector Maitencillo Ruta F-30 E, esquina F-124, Marbella, Región de Valparaíso, Puchuncaví",
-        "Módulo Paseo Valdivia, Av. Ramón Picarte 422, Local M-01, Región de Los Ríos, Valdivia",
-        "Estacion Central Terminal, Av. San Francisco de Borja 122, Local N P-2, Región Metropolitana, Estación Central",
-        "Plaza Oeste Sweet Zone, Av. Américo Vespucio 1501, MP-292/MP-296, Región Metropolitana, Cerrillos",
-        "Parque Arauco, Av. Kennedy 5413 Local 609, Región Metropolitana, Las Condes",
-        "EU Maipú, Av. Ramón Freire (ex av. Pajaritos) 1790, Región Metropolitana, Maipú",
-        "Panorámico, Av. Nueva Providencia 2155, local 15, Región Metropolitana, Providencia",
-        "República, Av. Republica N 20 local 1, Región Metropolitana, Santiago",
-        "Plaza América Rancagua, Av. Alberto Einstein 287-290, Región de OHiggins, Rancagua",
-        "Alto Las Condes, Av. Kennedy 9001 Local 1116, Región Metropolitana, Las Condes",
-        "Plaza Norte, Av. Américo Vespucio 1737 Local 1001, Región Metropolitana, Huechuraba",
-        "Plaza Oeste Local, Av. Américo Vespucio 1501 L.C-265, Región Metropolitana, Cerrillos",
-        "Plaza Vespucio Lider, Av. Vicuña Mackenna 7110 L.C-106 B, Región Metropolitana, La Florida",
-        "Plaza Alameda módulo, Av. Libertador Bernardo Ohiggins 3470 AZ 109-113-115a, Región Metropolitana, Estación Central",
-        "Plaza Sur, Av. Presidente Jorge Alessandri 20040 Local B-2083, Región Metropolitana, San Bernardo",
-        "Portal Ñuñoa, Av. José Pedro Alessandri 1132 Local 2005, Región Metropolitana, Ñuñoa",
-        "Jumbo Concón, Av. Con-Con Reñaca 3850 Local 1028, Región de Valparaíso, Concón",
-        "Espacio M, Compañia 1214 Local 305, Región Metropolitana, Santiago",
-        "Vivo Trapenses, Av. Jose Alcalde Délano 10545 Local 128, Región Metropolitana, Lo Barnechea",
-        "Plaza Egaña, Av. Larraín 5862 Local S-1042, Región Metropolitana, Ñuñoa",
-        "Costanera Center Local, Av. Andres Bello 2465 Local 1173 PISO - 1, Región Metropolitana, Providencia",
-        "EU Gran Avenida, Gran Avenida 6150 Local 1068, Región Metropolitana, San Miguel",
-        "Paseo del Mar, Urmeneta 580 Local. 213, Región de Los Lagos, Puerto Montt",
-        "Plaza Tobalaba, Av. Camilo Henriquez 3692 Local BH 126-128-132, Región Metropolitana, Puente Alto",
-        "Valdivia Taboada, Camilo Henriquez 466 local 5, Región de Los Ríos, Valdivia",
-        "Plaza los Dominicos, Padre Hurtado Sur 875, Local A-3041-3045, Región Metropolitana, Las Condes",
-        "Plaza los Dominicos Modulo, Padre Hurtado Sur 875, Local BS 1420 y área mesas MP 949, Región Metropolitana, Las Condes",
-        "Portal Valdivia (Jumbo Valdivia), Errazuriz 1040 Local 1016, Región de Los Ríos, Valdivia",
-        "Valdivia Los Ríos, Av. Arauco 561 Local 365, Región de Los Ríos, Valdivia",
-        "Av. Eduardo Frei Montalva 01110, Local 3, Región de Magallanes y la Antártica Chilena, Punta Arenas",
-        "Av. Bulnes 02235, Km 3,5 Norte, Local 39, Región de Magallanes y la Antártica Chilena, Punta Arenas",
-        "El Faro, Av. Apoquindo 5701, Región Metropolitana, Las Condes"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "Despacho gratis",
       "categoria": "Retail y Otras Marcas",
       "descuento": null,
@@ -18060,6 +17738,30 @@
         "Amércio Vespucio #747, Local 2, Región Metropolitana, La Florida",
         "1/2 Oriente #1040, entre 11 y 12 Norte, Región de Valparaíso, Viña del Mar"
       ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Preu Filadd",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "20% dto.",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días",
+      "canal": "Online",
+      "vigencia": "Promoción válida hasta el 28 de febrero de 2027.",
+      "condiciones": [
+        "Todo lo que necesitas para preparar la PAES en un solo lugar: clases en vivo, material de estudio y acompañamiento, con una metodología 100% online y flexible.",
+        "Packs.",
+        "Cursos de Preuniversitario.",
+        "Programas Nota 7",
+        "Selecciona el curso o programa..",
+        "Ingresa los primeros 6 dígitos de tu tarjeta como código de descuento.",
+        "Completa el pago con tu Tarjeta del Chile.",
+        "Exclusivo para Tarjetas del Chile.",
+        "No acumulable con otras promociones."
+      ],
+      "sucursales": []
     },
     {
       "banco": "Banco de Chile",
@@ -18147,29 +17849,6 @@
         "Centro Nueva Taboada Camino Henriquez 466 Local 3, Región de Los Ríos, Valdivia",
         "Carretera El Cobre 750 Local 1129, Región del Libertador General Bernardo OHiggins, Rancagua"
       ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Viña Undurraga",
-      "categoria": "Sabores",
-      "descuento": "55% dto.",
-      "dia": [
-        "Miércoles"
-      ],
-      "dia_texto": "miércoles",
-      "canal": "Online",
-      "vigencia": "Promoción válida hasta el 30 de noviembre de 2026.",
-      "condiciones": [
-        "Descubre lo mejor de Undurraga Wine Group y explora la increíble selección de espumantes y vinos de las prestigiosas marcas Undurraga, Bouchon, Bisquertt y Volcanes. Cada copa es una nueva experiencia que celebra la tradición, la innovación y la pasión por el vino.",
-        "55% dto. miércoles en tiendaonline.undurraga.cl",
-        "Obtén tu descuento ingresando los 6 primeros dígitos de tus Tarjetas del Chile como código de dto.",
-        "Beneficio excluye categoría packs y undubar.",
-        "Descuento no aplica para valor del despacho.",
-        "No acumulable con otras promociones.",
-        "Revisa cobertura de despacho en tiendaonline.undurraga.cl",
-        "Descuento exclusivo pagando con tus Tarjetas del Chile."
-      ],
-      "sucursales": []
     },
     {
       "banco": "Banco de Chile",
@@ -18750,6 +18429,29 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "Viña Undurraga",
+      "categoria": "Sabores",
+      "descuento": "55% dto.",
+      "dia": [
+        "Miércoles"
+      ],
+      "dia_texto": "miércoles",
+      "canal": "Online",
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2027.",
+      "condiciones": [
+        "Descubre lo mejor de Undurraga Wine Group y explora la increíble selección de espumantes y vinos de las prestigiosas marcas Undurraga, Bouchon, Bisquertt y Volcanes. Cada copa es una nueva experiencia que celebra la tradición, la innovación y la pasión por el vino.",
+        "55% dto. miércoles en tiendaonline.undurraga.cl",
+        "Obtén tu descuento ingresando los 6 primeros dígitos de tus Tarjetas del Chile como código de dto.",
+        "Beneficio excluye categoría packs y undubar.",
+        "Descuento no aplica para valor del despacho.",
+        "No acumulable con otras promociones.",
+        "Revisa cobertura de despacho en tiendaonline.undurraga.cl",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "ÁGAPÉ",
       "categoria": "Sabores",
       "descuento": "20% dto.",
@@ -18798,32 +18500,6 @@
         "Paseo Estado #285, Región Metropolitana, Santiago",
         "Paseo Estado #211, Región Metropolitana, Santiago",
         "Av. Irarrázaval #2869, Región Metropolitana, Ñuñoa"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "PAD THAI",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Miércoles",
-        "Jueves",
-        "Viernes"
-      ],
-      "dia_texto": "miércoles a viernes de noviembre",
-      "canal": null,
-      "vigencia": "Promoción válida del 01 al 31 de octubre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial 40% dto. miércoles a viernes de noviembre.",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dto. $50.000 por mesa",
-        "El día 31/12 el beneficio no aplica para cenas o eventos de año nuevo."
-      ],
-      "sucursales": [
-        "Manuel Montt #231, Región Metropolitana, Providencia"
       ]
     },
     {
@@ -19088,29 +18764,6 @@
       ],
       "sucursales": [
         "Conrado Amthauer #850, Los Lagos, Osorno"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Greed Taproom",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Martes"
-      ],
-      "dia_texto": "martes de octubre",
-      "canal": null,
-      "vigencia": "Promoción válida del 01 al 30 de noviembre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial 40% dto. martes de octubre.",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dto. $50.000 por mesa"
-      ],
-      "sucursales": [
-        "Ignacio Zenteno #2661, Región de Los Lagos, Osorno"
       ]
     },
     {
@@ -19808,6 +19461,99 @@
       ],
       "sucursales": [
         "Terrazas San Cristobal, Constitución #241, Región Metropolitana, Providencia"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "La Fête Chocolat",
+      "categoria": "Sabores",
+      "descuento": "20% dto.",
+      "dia": [
+        "Lunes"
+      ],
+      "dia_texto": "lunes",
+      "canal": "Ambos",
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
+      "condiciones": [
+        "20% dto. los lunes en tiendas y online pagando con tus Tarjetas del Chile.",
+        "En compra online ingresa los 6 primeros dígitos de tu Tarjeta como código de descuento y en compra presencial indícalos al momento de pagar",
+        "Uso de un cupón diario por cliente.",
+        "Tope de descuento $20.000 por compra.",
+        "No válido en Clínica Las Condes, Puerto Natales.",
+        "Obtén despacho express gratis por compras sobre $30.000 en productos."
+      ],
+      "sucursales": [
+        "Av. La Dehesa 457, Local 5, Piso 1, Región Metropolitana, Lo Barnechea",
+        "Avenida Luis Pasteur 6666, Local B-2, Piso 1, Región Metropolitana, Vitacura",
+        "Isidora Goyenechea 2932, Local B, Piso 1, Región Metropolitana, Las Condes",
+        "Avenida Chamisero 10290, Local 7, Piso 1, Región Metropolitana, Colina",
+        "Cordillera 331, Módulo D-19, Piso 1, Región Metropolitana, Quilicura",
+        "Ricardo Lyon 21, Local 3, Piso 1, Región Metropolitana, Providencia",
+        "Eliodoro Yañez 2638, Local 110, Piso 1, Región Metropolitana, Providencia",
+        "Lofontecilla 441, Piso 1, Región Metropolitana, Las Condes",
+        "Príncipe de Gales 9140, Local 209, Piso 2, Región Metropolitana, La Reina",
+        "Nueva York 52, Local B-1, Piso 1, Región Metropolitana, Santiago Centro",
+        "Av. Presidente Kennedy 5.413, Local 112, Piso 2, Región Metropolitana, Las Condes",
+        "Camino El Alba 11969, Local 206-2, Piso 1, Región Metropolitana, Las Condes",
+        "Av. Pdte Kennedy 9001, Local 1120, Piso 1, Región Metropolitana, Las Condes",
+        "Agustinas 859, Piso 1, Región Metropolitana, Santiago Centro",
+        "Avenida Larraín 5862, Local A 1044, Piso 2, Región Metropolitana, La Reina",
+        "Avenida Andrés Bello 2465, Local 2212, Piso 2, Región Metropolitana, Providencia",
+        "El Llano Subercaseaux 3519 A, Local 1097, Piso 1, Región Metropolitana, San Miguel",
+        "Avenida Vicuña Mackenna 6100, Local 1073, Piso 1, Región Metropolitana, La Florida",
+        "Av. La Florida 8220, Local 18, Piso 2, Región Metropolitana, La Florida",
+        "Avenida Américo Vespucio 399, Local 510, Piso 1, Región Metropolitana, Maipú",
+        "Zona Embarque Nacional Aeropuerto, Zona de Embarque Nacional, Región Metropolitana, Pudahuel",
+        "Zona Embarque Internacional Aeropuerto, Zona de Embarque Internacional, Región Metropolitana, Pudahuel",
+        "Avenida Vicuña Mackenna 7110, Local 52, Piso 1, Región Metropolitana, La Florida",
+        "Camino La Paloma 5, Local 1, Piso 1, Región Metropolitana, Lo Barnechea",
+        "Av. Padre Hurtado Sur 875, Local B1020/B1024, Piso 1, Región Metropolitana, Las Condes",
+        "Los Trapenses 3145, Piso 1, Región Metropolitana, Lo Barnechea",
+        "Nueva Costanera 3900, Local TM 190, Piso 1, Región Metropolitana, Vitacura",
+        "Av. Pie Andino 4850, Local 116, Piso 1, Región Metropolitana, Lo Barnechea",
+        "Ñuble 1055, Local 3, Región Metropolitana, Santiago Centro",
+        "Avenida Apoquindo 2730, Local L-110, Piso 1, Región Metropolitana, Las Condes",
+        "Av. Angamos 02170, Local 120, Piso 1, Región de Antofagasta, Antofagasta",
+        "6 Poniente 150, Local 3, Piso 1, Región de Valparaíso, Viña del Mar",
+        "Paseo Las Rastras 1695, Local 2, Piso 1, Región del Maule, Talca",
+        "San Francisco 320, Piso 1, Región de Los Lagos, Puerto Varas",
+        "Carretera del Cobre Presidente Frei 750, Local 101, Región OHiggins, Rancagua",
+        "Av. San Juan 133, Local 43, Piso 1, Región OHiggins, Machalí",
+        "Av. Alemania 671, Local 2054, Piso 2, Región de La Araucanía, Temuco",
+        "Errázuriz 1040, Local 1009, Piso 1, Región de Los Ríos, Valdivia",
+        "Ruta F 30 E, Local 1, Piso 1, Región de Valparaíso, Puchuncaví",
+        "Blanca Estela 58, Local 2, Piso 1, Región de Valparaíso, Concón",
+        "Av. del Golf 5, Local 2, Piso 1, Región de Valparaíso, Santo Domingo",
+        "Avenida Bernardo OHiggins 201, Local 020, Piso 1, Región del Maule, Curicó",
+        "Av. Balmaceda 2355, Local 279, Piso 2, Región de Antofagasta, Antofagasta",
+        "Avda. Chorrillos 1759, Local 1020, Piso 1, Región de Antofagasta, Calama",
+        "Avenida Huanhualí 105, Local BA158 / BA162A, Piso 1, Región de Coquimbo, La Serena",
+        "Avda. Jorge Alessandri 3177, Local H-176/180, Piso 1, Región del Biobío, Talcahuano",
+        "Los Carrera Poniente 301, Local A 1049, Piso 1, Región del Biobío, Concepción",
+        "Diego Portales 640, Local B1009, Piso 1, Región de Arica, Arica",
+        "Moisés Chacón 149, Local 1, Piso 1, Región de Valparaíso, Zapallar",
+        "Avenida Las Brisas 11, Local 3, Piso 1, Región de Valparaíso, Santo Domingo",
+        "Pedro Sarmiento de Gamboa 399, Local 5, Piso 1, Región de Magallanes, Punta Arenas",
+        "Magallanes 46, Piso 1, Región de Magallanes, Puerto Natales",
+        "Barros Arana 1068, Local 21-01, Piso 1, Región del Biobío, Concepción",
+        "Juan Soler Manfredini 131, Local 304, Piso 1, Región de Los Lagos, Puerto Montt",
+        "Avenida Consistorial 2100, Módulo 1, Piso 2, Región Metropolitana, Peñalolén",
+        "Avenida Américo Vespucio 1501, Local B-114a, Piso 1, Región Metropolitana, Cerrillos",
+        "Av. Bernardo OHiggins 774, Local 1104, Piso 1, Región de La Araucanía, Pucón",
+        "Av. Héroes de la Concepción 2855, Local 11, Región de Tarapacá, Iquique",
+        "Av. Ramón Picarte 422, Local 106, Piso 1, Región de Los Ríos, Valdivia",
+        "Calle Mar Tirreno 3349, Local 1080, Piso 1, Región Metropolitana, Macul",
+        "Maipú 109, Local A-1184, Región de Atacama, Copiapó",
+        "Avenida Américo Vespucio 1737, Local A-1140 / A-1144, Piso 1, Región Metropolitana, Huechuraba",
+        "Avenida Independencia 565, Local TM-115A, Región Metropolitana, Independencia",
+        "Av. Apoquindo 4411, Local 155, Región Metropolitana, Las Condes",
+        "Avenida Varela 1524, Local 2140, Piso 2, Región de Coquimbo, Coquimbo",
+        "Av. Benidorm 805 y 961, Local 241, Región de Valparaíso, Viña del Mar",
+        "José Joaquín Pérez 12010, Local 1430, Piso 1, Región de Valparaíso, La Calera",
+        "Ruta F-30 esquina F-124, Local 6, Región de Valparaíso, Puchuncaví",
+        "14 Norte 976, Local 230, Región de Valparaíso, Viña del Mar",
+        "Av. Camilo Henríquez 3692, Local C-130 / C-134, Región Metropolitana, Puente Alto",
+        "Avenida Presidente Jorge Alessandri Rodríguez 20040, Local 1035, Región Metropolitana, San Bernardo"
       ]
     },
     {
@@ -21838,29 +21584,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Lumiére Bistró",
-      "categoria": "Sabores",
-      "descuento": "50% dto.",
-      "dia": [
-        "Viernes"
-      ],
-      "dia_texto": "viernes de noviembre",
-      "canal": null,
-      "vigencia": "Promoción válida desde el 01 al 30 de noviembre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial 50% dto. pagando con Tarjetas Visa Infinite todos los viernes de noviembre.",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA INFINITE del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dto. $65.000 por mesa"
-      ],
-      "sucursales": [
-        "Puerta del Sol #19, Región Metropolitana, Las Condes"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "Under Armour",
       "categoria": "Retail y Otras Marcas",
       "descuento": "20% dto.",
@@ -21952,29 +21675,6 @@
         "PLAZA YUNGAY 609 L3029, LOS LAGOS, OSORNO",
         "Local 168-170, AV. EDUARDO FREI MONTALVA N 01110, MAGALLANES, PUNTA ARENAS",
         "21 DE MAYO N447, AYSEN, COYHAIQUE"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Güeros - Ñuñoa",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Miércoles"
-      ],
-      "dia_texto": "miércoles de noviembre",
-      "canal": null,
-      "vigencia": "Promoción válida del 01 al 31 de octubre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial. 40% dto. miércoles de noviembre.",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dcto. $50.000 por mesa"
-      ],
-      "sucursales": [
-        "Av. Alcaldesa Balbina Vera 3561, Local 116, Región Metropolitana, Ñuñoa"
       ]
     },
     {
@@ -22153,68 +21853,131 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Skechers",
-      "categoria": "Entretención y Deportes",
-      "descuento": "40% dto.",
+      "comercio": "Dunkin’",
+      "categoria": "Sabores",
+      "descuento": "30% dto.",
       "dia": [
-        "Martes"
+        "Lunes",
+        "Miércoles"
       ],
-      "dia_texto": "martes",
-      "canal": "Tienda física",
+      "dia_texto": "lunes y miércoles",
+      "canal": "Ambos",
       "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
       "condiciones": [
-        "Skechers transforma la comodidad en una forma de expresión, combinando estilo e innovación para acompañarte en cada momento del día. Con tecnologías pensadas para hacer tu vida más cómoda y diseños que siguen las últimas tendencias, cada colección invita a moverse, disfrutar y vivir a tu manera. Descubre nuestras nuevas colecciones de calzado, ropa y accesorios para ti y toda tu familia.",
-        "40% dto. martes en compra presencial.",
-        "Tope de dto. $100.000.",
-        "Solicita tu descuento al momento de pagar.",
-        "No acumulable con otras promociones.",
-        "Beneficio excluye tiendas outlet.",
-        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+        "30% dto. lunes y miércoles presencial.",
+        "Para compra presencial, solicita en caja tu descuento al momento de pagar con tu Tarjeta Banco de Chile.",
+        "30% dto. lunes y miércoles online.",
+        "Para compra online ingresa los primeros 6 dígitos de tu tarjeta como código de descuento en dunkin.cl o en la app seleccionando como medio de pago “Tarjeta de Crédito o Débito” y pagando con tu Tarjeta del Chile.",
+        "No acumulable con otros descuentos, Caja de 24 Donuts, Merchandising ni Café de Grano envasado."
       ],
       "sucursales": [
-        "Florida Mall local 2041, Av. Vicuña Mackenna #6100, Región Metropolitana, La Florida",
-        "Alto Las Condes local 2030, Av. Kennedy #9001, Región Metropolitana, Las Condes",
-        "Portal Temuco local 2025, Av. Alemania #0671, Región de la Araucania, Temuco",
-        "Plaza Antofagasta locales 220 y 216A, Balmaceda #2355, Región de Antofagasta, Antofagasta",
-        "Plaza Oeste local D302, Av. Américo Vespucio #1501, Región Metropolitana, Cerrillos",
-        "Marina Arauco local 212, Av. Libertad #1348, Región de Valparaiso, Viña del Mar",
-        "Parque Arauco local 180, Av. Kennedy #5413, Región Metropolitana, Las Condes",
-        "Plaza Norte local 2098, Av. Américo Vespucio #1737, Región Metropolitana, Huechuraba",
-        "Plaza Trébol local E126, Av. Jorge Alessandri #3177, Región del BioBio, Talcahuano",
-        "Paseo Arauco Estación local 337, San Francisco de Borja #66, Región Metropolitana, Estación Central",
-        "Portal Ñuñoa local 2024, Av. José Pedro Alessandri #1166, Región Metropolitana, Ñuñoa",
-        "Paseo Costanera local 237E, Illapel #10, Región de Los Lagos, Puerto Montt",
-        "Costanera Center local 4181, Av. Andrés Bello #2447, Región Metropolitana, Providencia",
-        "Mall Plaza Calama local A 185-7, Av. Balmaceda #3242, Región de Antofagasta, Calama",
-        "Mall Arauco Maipú local 547, Av. Américo Vespucio #399, Región Metropolitana, Maipú",
-        "Ahumada, Ahumada #272, Región Metropolitana, Santiago Centro",
-        "Plaza del Centro local 36, Barros Arana #1068, Región del BioBio, Concepción",
-        "Plaza Maipú Santiago local 1056, Av. Pajaritos #1790, Región Metropolitana, Maipú",
-        "Portal Centro Talca local 115, Calle Uno Sur 1537, Región del Maule, Talca",
-        "Open Plaza Rancagua local 2100, Estado 275, Región de O’Higgins, Rancagua",
-        "Mall Plaza Egaña local 3049, Av. Larraín 5862, Región Metropolitana, La Reina",
-        "Mall Plaza Copiapó local C1012, Maipú 0110, Región de Atacama, Copiapó",
-        "Mall Plaza La Serena local C118, Av. Alberto Solari 1400, Región de Coquimbo, La Serena",
-        "Las Américas Iquique locales 183/185, Av. Héroes de la Concepción 2355, Región de Tarapacá, Iquique",
-        "Estado, Estado 252, Región Metropolitana, Santiago Centro",
-        "Puente Street, Puente 710, Región Metropolitana, Santiago",
-        "Mall Valparaíso local 104, Victoria 2937, Región de Valparaiso, Valparaíso",
-        "Barrio Independencia local 318, Independencia 565, Región Metropolitana, Santiago",
-        "Mall Costa Pacífico local 1270, Av. Carlos Prat 0901, Región del BioBio, Coronel",
-        "Mall Arauco Chillán locales 102 y 101, El Roble 770, Región de Ñuble, Chillán",
-        "Mall Plaza Arica local 1090, Av. Diego Portales 640, Región de Arica y Parinacota, Arica",
-        "Mall Curicó local 057, Av. Bernardo O´Higgins 201, Región del Maule, Curicó",
-        "Mall Quilpué, Av. Los Carrera 754, Región de Valparaiso, Quilpué",
-        "Mall Plaza Vespucio local 201, Av. Vicuña Mackenna 7110, Región Metropolitana, La Florida",
-        "Mall Vivo Coquimbo local 1120, Varela 1524, Región de Coquimbo, Coquimbo",
-        "E. Urbano Los Andes locales 90-5, Santa Teresa 683, Región de Valparaiso, Los Andes",
-        "Portal Osorno, Plaza Yungay 609, Región de Los Lagos, Osorno",
-        "Mercado Urbano Tobalaba local 106, Av. Apoquindo 2730, Región Metropolitana, Las Condes",
-        "Espacio Urbano Pioneros local 18, Av. Frei Montalva 01110, Región de Magallanes y de la Antártica, Punta Arenas",
-        "Mall Paseo Valdivia local 205, Av. Picarte 422, Región de Los Ríos, Valdivia",
-        "Mall Plaza Sur locales C 1019 y 1017, Av. Pdte. Alessandri 20040, Región Metropolitana, San Bernardo",
-        "Mall Plaza Maule locales A 1101, 1104 y 1103, Av. Circunvalación Oriente 1055, Región del Maule, Talca",
-        "Mall Los Dominicos locales 1040 y 1036, Av. Padre Hurtado Sur 875, Región Metropolitana, Las Condes"
+        "Arauco Estación, Av. Libertador Bernardo OHiggins 3322-3350 Mall Arauco Estación, Local 0117, Región Metropolitana, Estación Central",
+        "Tamarugo, Av. Vitacura 4607 local 3-4, Región Metropolitana, Vitacura",
+        "Huérfanos 896, local 20, Región Metropolitana, Santiago",
+        "Dunas Concón, Av. Gastón Hamel Nieto 527, L.U.C 125 1°piso, Local 4, Reñaca Bajo, Región de Valparaíso, Viña del Mar",
+        "Av. Independencia 895, Región Metropolitana, Independencia",
+        "Bulnes, Av. Paseo Bulnes 178, Región Metropolitana, Santiago",
+        "Florida Center, Av. Vicuña Mackenna 6100 L3103, Región Metropolitana, La Florida",
+        "Av. Chamisero 10370, Av. Chamisero 10370 local 22-23, Región Metropolitana, Colina",
+        "Plaza Vespucio, Vicuña Mackenna 7110, local E-9168, Región Metropolitana, La Florida",
+        "Pumay, Av. Cinco de abril N°33, local 1918, Región Metropolitana, Maipú",
+        "Recoleta Cerro Blanco, Av. Recoleta 888 local 06, Región Metropolitana, Recoleta",
+        "Av. Vitacura 6345, local 3, Región Metropolitana, Vitacura",
+        "Av. El bosque norte 075, Región Metropolitana, Las Condes",
+        "Providencia, Av. providencia 2098 L10-14, Región Metropolitana, Providencia",
+        "Portal La Reina, Av. Francisco Bilbao 8750 local 2048, Región Metropolitana, Las Condes",
+        "Portal La Dehesa, Av. LA Dehesa 1445 Local 1032, Región Metropolitana, Lo Barnechea",
+        "Paseo Quilin, Mar Tirreno 3349 1093, Región Metropolitana, Peñalolén",
+        "Portal Rancagua, Carretera El Cobre Avenida Presidente Eduardo Frei 750 Local 1038, Región de OHiggins, Rancagua",
+        "Piedra Roja, Av. Padre Sergio Correa 14500 Local 121, Región Metropolitana, Colina",
+        "Subcentro, Av. Apoquindo 4411 Local 196, Galeria Subcentro, Región Metropolitana, Las Condes",
+        "Jumbo Viña, Av. 1 Norte 2887 local 4024, Región de Valparaíso, Viña del Mar",
+        "Portal Belloto, AV. Ramon FREIRE 2414 Local 1044, Región de Valparaíso, Quilpué",
+        "Viña Shopping, AV. Benidor (Ex 15 norte) 961 local 102, Región de Valparaíso, Viña del Mar",
+        "Reñaca, AV. Borgoño 14990, Región de Valparaíso, Reñaca",
+        "Plaza El Trébol Terrazas, AV. Jorge Alessandri 3177 Local B-228, Región del Biobío, Concepción",
+        "Colón, AV. Colón 4455 Local 3, Región Metropolitana, Las Condes",
+        "Las Bellotas, Las Bellotas 228, Región Metropolitana, Providencia",
+        "Estado 48, Región Metropolitana, Santiago",
+        "Jumbo San Bernardo, Av. Diego Portales 3698 Local 1208, Región Metropolitana, San Bernardo",
+        "Metro Pajaritos, Estación Metro Pajaritos Local 7 (Gral. Oscar Bonilla 5900), Región Metropolitana, Lo Prado",
+        "Av. Eliodoro Yañez 2983 LOCAL 101, Región Metropolitana, Providencia",
+        "Paseo Costanera local, illapel 10 puerto+B71 E P - 03, Región de Los Lagos, Puerto Montt",
+        "Av. Concha y Toro 118, Región Metropolitana, Puente Alto",
+        "Cenit Vitacura, Av. Vitacura 2758 Local 101, Región Metropolitana, Las Condes",
+        "Viña Valparaíso, Av. Valpaiso 568, Región de Valparaíso, Viña del Mar",
+        "Av. Libertador Bernardo Ohiggins 711, Región Metropolitana, Santiago",
+        "Unión Literaria, Av. Manuel Montt 2222, Región Metropolitana, Ñuñoa",
+        "Arauco Quilicura, Av. Bernardo OHiggins 581 LOCAL 51, Región Metropolitana, Quilicura",
+        "Toesca 1844 local 8, Región Metropolitana, Santiago",
+        "Consistorial, Altos del parque sur 5800 local 16, Región Metropolitana, Peñalolén",
+        "Lider Pajaritos, Av. Pajaritos 4500, Región Metropolitana, Maipú",
+        "La Portada, Av. Pedro Aguirre Cerda 10.578 Local 119-120, Región de Antofagasta, Antofagasta",
+        "Jumbo Angamos, Av Angamos 1056 - Local 1056, Región de Antofagasta, Antofagasta",
+        "La Montaña, Av Eduardo Frei Montalva 16870, local 13, Región Metropolitana, Lampa",
+        "Plaza La Serena, Av. Alberto Solari 1400 local 105-113, Región de Coquimbo, La Serena",
+        "Buenaventura, San Ignacio 500 Modulo 6 N 39, Región Metropolitana, Quilicura",
+        "Iquique Cimenta, Heroes de la Concepcion N 2655, local 12-13, Región de Tarapacá, Iquique",
+        "Marina Arauco Local, Av. libertad 1348 Local 234, Región de Valparaíso, Viña del Mar",
+        "Jumbo Florida Center, Av. Vicuña Mackenna 6100 Local 114, Región Metropolitana, La Florida",
+        "Jumbo Maipú, Av. Américo Vespucio 1001 Local 1069, Región Metropolitana, Maipú",
+        "Marina Arauco Modulo, Av. Libertad 1348 Local B18, Región de Valparaíso, Viña del Mar",
+        "Patio Rancagua (Modulo Rancagua), Calle Sargento Jose Bernardo Cuevas N 483, local 139, Región de OHiggins, Rancagua",
+        "Jumbo Peñalolén, Av. Sanchez Fontecilla 12.000 Local 1035, Región Metropolitana, Peñalolén",
+        "Plaza El Trébol FoodCourt, Av. Jorge Alessandri 3177 Local D-105 B, Región del Biobío, Concepción",
+        "Arauco San Antonio Local, Av. Ramón Barros Luco 105 Local 41, Región de Valparaíso, San Antonio",
+        "Arauco San Antonio Módulo, Av. Ramón Barros Luco 105 ZLC 01, Región de Valparaíso, San Antonio",
+        "Plaza los Ángeles, Valdivia 440 A local 323-325, Región del Biobío, Los Ángeles",
+        "Plaza Bio Bio, Los carrera Poniente 301 Local A-1061, Región del Biobío, Concepción",
+        "Mall del Centro Concepción (MCC), Barros Aarana 1068 Local 73, Región del Biobío, Concepción",
+        "Portal Osorno, Plaza Yungay 609 Local 304, Región de Los Lagos, Osorno",
+        "Portal Temuco, Av. Alemania 0671 Local 3061, Región de la Araucanía, Temuco",
+        "Jumbo Chillán, Carrera Longitudinal 134 LOCAL 1007, Región de Ñuble, Chillán",
+        "Miraflores, Miraflores 210, Región Metropolitana, Santiago",
+        "Costanera Center módulo, Av. Andres Bello 2465 Local 6120 Piso 1, Región Metropolitana, Providencia",
+        "Irarrázaval, Irarrazabal 2401 local 16, Región Metropolitana, Ñuñoa",
+        "Paseo Costanera Modulo, Illapel 10 M 231 A, Región de Los Lagos, Puerto Montt",
+        "Arauco Coronel, Av. Carlos Prats 0901 Local 172, Región del Bío Bío, Coronel",
+        "Vivo Coquimbo, Av. Baquedano 86 Local TM 2248, Región de Coquimbo, Coquimbo",
+        "Plaza Copiapó, Maipú 110 Local T 220-224, Región de Atacama, Copiapó",
+        "Manuel Montt, Av. Providencia 1302, Región Metropolitana, Providencia",
+        "Vivo Centro, Puente 689 Local 157, Región Metropolitana, Santiago",
+        "Arauco Maipú (MAM), Américo Vespucio 399 Local 641, Región Metropolitana, Maipú",
+        "EU Antofagasta, Zenteno 21 local 2052, 2do piso, Región de Antofagasta, Antofagasta",
+        "EU Antofagasta Modulo, Zenteno 21, local 1028, Región de Antofagasta, Antofagasta",
+        "Jumbo Bilbao, Av. Francisco Bilbao 4144, local 6127 de J501, Región Metropolitana, Las Condes",
+        "Marbella, Sector Maitencillo Ruta F-30 E, esquina F-124, Marbella, Región de Valparaíso, Puchuncaví",
+        "Módulo Paseo Valdivia, Av. Ramón Picarte 422, Local M-01, Región de Los Ríos, Valdivia",
+        "Estacion Central Terminal, Av. San Francisco de Borja 122, Local N P-2, Región Metropolitana, Estación Central",
+        "Plaza Oeste Sweet Zone, Av. Américo Vespucio 1501, MP-292/MP-296, Región Metropolitana, Cerrillos",
+        "Parque Arauco, Av. Kennedy 5413 Local 609, Región Metropolitana, Las Condes",
+        "EU Maipú, Av. Ramón Freire (ex av. Pajaritos) 1790, Región Metropolitana, Maipú",
+        "Panorámico, Av. Nueva Providencia 2155, local 15, Región Metropolitana, Providencia",
+        "República, Av. Republica N 20 local 1, Región Metropolitana, Santiago",
+        "Plaza América Rancagua, Av. Alberto Einstein 287-290, Región de OHiggins, Rancagua",
+        "Alto Las Condes, Av. Kennedy 9001 Local 1116, Región Metropolitana, Las Condes",
+        "Plaza Norte, Av. Américo Vespucio 1737 Local 1001, Región Metropolitana, Huechuraba",
+        "Plaza Oeste Local, Av. Américo Vespucio 1501 L.C-265, Región Metropolitana, Cerrillos",
+        "Plaza Vespucio Lider, Av. Vicuña Mackenna 7110 L.C-106 B, Región Metropolitana, La Florida",
+        "Plaza Alameda módulo, Av. Libertador Bernardo Ohiggins 3470 AZ 109-113-115a, Región Metropolitana, Estación Central",
+        "Plaza Sur, Av. Presidente Jorge Alessandri 20040 Local B-2083, Región Metropolitana, San Bernardo",
+        "Portal Ñuñoa, Av. José Pedro Alessandri 1132 Local 2005, Región Metropolitana, Ñuñoa",
+        "Jumbo Concón, Av. Con-Con Reñaca 3850 Local 1028, Región de Valparaíso, Concón",
+        "Espacio M, Compañia 1214 Local 305, Región Metropolitana, Santiago",
+        "Vivo Trapenses, Av. Jose Alcalde Délano 10545 Local 128, Región Metropolitana, Lo Barnechea",
+        "Plaza Egaña, Av. Larraín 5862 Local S-1042, Región Metropolitana, Ñuñoa",
+        "Costanera Center Local, Av. Andres Bello 2465 Local 1173 PISO - 1, Región Metropolitana, Providencia",
+        "EU Gran Avenida, Gran Avenida 6150 Local 1068, Región Metropolitana, San Miguel",
+        "Paseo del Mar, Urmeneta 580 Local. 213, Región de Los Lagos, Puerto Montt",
+        "Plaza Tobalaba, Av. Camilo Henriquez 3692 Local BH 126-128-132, Región Metropolitana, Puente Alto",
+        "Valdivia Taboada, Camilo Henriquez 466 local 5, Región de Los Ríos, Valdivia",
+        "Plaza los Dominicos, Padre Hurtado Sur 875, Local A-3041-3045, Región Metropolitana, Las Condes",
+        "Plaza los Dominicos Modulo, Padre Hurtado Sur 875, Local BS 1420 y área mesas MP 949, Región Metropolitana, Las Condes",
+        "Portal Valdivia (Jumbo Valdivia), Errazuriz 1040 Local 1016, Región de Los Ríos, Valdivia",
+        "Valdivia Los Ríos, Av. Arauco 561 Local 365, Región de Los Ríos, Valdivia",
+        "Av. Eduardo Frei Montalva 01110, Local 3, Región de Magallanes y la Antártica Chilena, Punta Arenas",
+        "Av. Bulnes 02235, Km 3,5 Norte, Local 39, Región de Magallanes y la Antártica Chilena, Punta Arenas",
+        "El Faro, Av. Apoquindo 5701, Región Metropolitana, Las Condes"
       ]
     },
     {
@@ -22294,6 +22057,72 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "Skechers",
+      "categoria": "Entretención y Deportes",
+      "descuento": "40% dto.",
+      "dia": [
+        "Martes"
+      ],
+      "dia_texto": "martes",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
+      "condiciones": [
+        "Skechers transforma la comodidad en una forma de expresión, combinando estilo e innovación para acompañarte en cada momento del día. Con tecnologías pensadas para hacer tu vida más cómoda y diseños que siguen las últimas tendencias, cada colección invita a moverse, disfrutar y vivir a tu manera. Descubre nuestras nuevas colecciones de calzado, ropa y accesorios para ti y toda tu familia.",
+        "40% dto. martes en compra presencial.",
+        "Tope de dto. $100.000.",
+        "Solicita tu descuento al momento de pagar.",
+        "No acumulable con otras promociones.",
+        "Beneficio excluye tiendas outlet.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Florida Mall local 2041, Av. Vicuña Mackenna #6100, Región Metropolitana, La Florida",
+        "Alto Las Condes local 2030, Av. Kennedy #9001, Región Metropolitana, Las Condes",
+        "Portal Temuco local 2025, Av. Alemania #0671, Región de la Araucania, Temuco",
+        "Plaza Antofagasta locales 220 y 216A, Balmaceda #2355, Región de Antofagasta, Antofagasta",
+        "Plaza Oeste local D302, Av. Américo Vespucio #1501, Región Metropolitana, Cerrillos",
+        "Marina Arauco local 212, Av. Libertad #1348, Región de Valparaiso, Viña del Mar",
+        "Parque Arauco local 180, Av. Kennedy #5413, Región Metropolitana, Las Condes",
+        "Plaza Norte local 2098, Av. Américo Vespucio #1737, Región Metropolitana, Huechuraba",
+        "Plaza Trébol local E126, Av. Jorge Alessandri #3177, Región del BioBio, Talcahuano",
+        "Paseo Arauco Estación local 337, San Francisco de Borja #66, Región Metropolitana, Estación Central",
+        "Portal Ñuñoa local 2024, Av. José Pedro Alessandri #1166, Región Metropolitana, Ñuñoa",
+        "Paseo Costanera local 237E, Illapel #10, Región de Los Lagos, Puerto Montt",
+        "Costanera Center local 4181, Av. Andrés Bello #2447, Región Metropolitana, Providencia",
+        "Mall Plaza Calama local A 185-7, Av. Balmaceda #3242, Región de Antofagasta, Calama",
+        "Mall Arauco Maipú local 547, Av. Américo Vespucio #399, Región Metropolitana, Maipú",
+        "Ahumada, Ahumada #272, Región Metropolitana, Santiago Centro",
+        "Plaza del Centro local 36, Barros Arana #1068, Región del BioBio, Concepción",
+        "Plaza Maipú Santiago local 1056, Av. Pajaritos #1790, Región Metropolitana, Maipú",
+        "Portal Centro Talca local 115, Calle Uno Sur 1537, Región del Maule, Talca",
+        "Open Plaza Rancagua local 2100, Estado 275, Región de O’Higgins, Rancagua",
+        "Mall Plaza Egaña local 3049, Av. Larraín 5862, Región Metropolitana, La Reina",
+        "Mall Plaza Copiapó local C1012, Maipú 0110, Región de Atacama, Copiapó",
+        "Mall Plaza La Serena local C118, Av. Alberto Solari 1400, Región de Coquimbo, La Serena",
+        "Las Américas Iquique locales 183/185, Av. Héroes de la Concepción 2355, Región de Tarapacá, Iquique",
+        "Estado, Estado 252, Región Metropolitana, Santiago Centro",
+        "Puente Street, Puente 710, Región Metropolitana, Santiago",
+        "Mall Valparaíso local 104, Victoria 2937, Región de Valparaiso, Valparaíso",
+        "Barrio Independencia local 318, Independencia 565, Región Metropolitana, Santiago",
+        "Mall Costa Pacífico local 1270, Av. Carlos Prat 0901, Región del BioBio, Coronel",
+        "Mall Arauco Chillán locales 102 y 101, El Roble 770, Región de Ñuble, Chillán",
+        "Mall Plaza Arica local 1090, Av. Diego Portales 640, Región de Arica y Parinacota, Arica",
+        "Mall Curicó local 057, Av. Bernardo O´Higgins 201, Región del Maule, Curicó",
+        "Mall Quilpué, Av. Los Carrera 754, Región de Valparaiso, Quilpué",
+        "Mall Plaza Vespucio local 201, Av. Vicuña Mackenna 7110, Región Metropolitana, La Florida",
+        "Mall Vivo Coquimbo local 1120, Varela 1524, Región de Coquimbo, Coquimbo",
+        "E. Urbano Los Andes locales 90-5, Santa Teresa 683, Región de Valparaiso, Los Andes",
+        "Portal Osorno, Plaza Yungay 609, Región de Los Lagos, Osorno",
+        "Mercado Urbano Tobalaba local 106, Av. Apoquindo 2730, Región Metropolitana, Las Condes",
+        "Espacio Urbano Pioneros local 18, Av. Frei Montalva 01110, Región de Magallanes y de la Antártica, Punta Arenas",
+        "Mall Paseo Valdivia local 205, Av. Picarte 422, Región de Los Ríos, Valdivia",
+        "Mall Plaza Sur locales C 1019 y 1017, Av. Pdte. Alessandri 20040, Región Metropolitana, San Bernardo",
+        "Mall Plaza Maule locales A 1101, 1104 y 1103, Av. Circunvalación Oriente 1055, Región del Maule, Talca",
+        "Mall Los Dominicos locales 1040 y 1036, Av. Padre Hurtado Sur 875, Región Metropolitana, Las Condes"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "miCoca-Cola.cl",
       "categoria": "Sabores",
       "descuento": "30% dto.",
@@ -22342,28 +22171,6 @@
       ],
       "sucursales": [
         "Boulevard Los Ingles, Av. Chicureo Km 2, Región Metropolitana, Colina"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Doga Sushi",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Viernes"
-      ],
-      "dia_texto": "viernes de noviembre",
-      "canal": null,
-      "vigencia": "Promoción válida del 01 al 30 de noviembre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial 40% dto. viernes de noviembre.",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Tope de dto. $50.000"
-      ],
-      "sucursales": [
-        "Av Vitacura #2908, Región Metropolitana, Las Condes"
       ]
     },
     {
@@ -22463,6 +22270,53 @@
       ],
       "sucursales": [
         "Avenida Ferrocarril #2001, Outlet Paseo Alerce, Región de Los Lagos., Puerto Montt"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Justo – Primera compra",
+      "categoria": "Sabores",
+      "descuento": "Disfruta $8.000 dto.",
+      "dia": [],
+      "dia_texto": "en tu primera compra Justo App",
+      "canal": null,
+      "vigencia": "Promoción válida  hasta el 19 de noviembre de 2026.",
+      "condiciones": [
+        "Disfruta $8.000 de descuento en tu primera compra en Justo App.",
+        "Ingresando el código SOYBCH como cupón de descuento y pagando con tus Tarjetas del Chile.",
+        "Valido para 1 canje por usuario.",
+        "Válido en todos los locales disponibles en Justo App.",
+        "Compra mínima: $20.000",
+        "El descuento se verá reflejado al momento de la compra.",
+        "Válido únicamente para la primera compra en Justo App.",
+        "Beneficio exclusivo para delivery.",
+        "Descuento no acumulable en el costo de envío.",
+        "No acumulable con otros cupones de descuento.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Güeros - Ñuñoa",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Miércoles"
+      ],
+      "dia_texto": "miércoles de noviembre",
+      "canal": null,
+      "vigencia": "Promoción válida del 01 al 30 de noviembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial. 40% dto. miércoles de noviembre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dcto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Av. Alcaldesa Balbina Vera 3561, Local 116, Región Metropolitana, Ñuñoa"
       ]
     },
     {
@@ -22627,6 +22481,29 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "Greed Taproom",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Martes"
+      ],
+      "dia_texto": "martes de noviembre",
+      "canal": null,
+      "vigencia": "Promoción válida del 01 al 30 de noviembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. martes de noviembre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Ignacio Zenteno #2661, Región de Los Lagos, Osorno"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "Shell",
       "categoria": "Retail y Otras Marcas",
       "descuento": "$7.000 de dto.",
@@ -22667,29 +22544,6 @@
       ],
       "sucursales": [
         "Carrera #301, Maule, Curicó"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "LA CHINGANA DEL BARRIO",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Martes"
-      ],
-      "dia_texto": "martes de noviembre",
-      "canal": null,
-      "vigencia": "Promoción válida del 01 al 31 de octubre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial 40% dto. martes de octubre.",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dcto. $50.000 por mesa"
-      ],
-      "sucursales": [
-        "3 Poniente 563, Región de Valparaíso, Viña del Mar"
       ]
     },
     {
@@ -22878,6 +22732,67 @@
         "Descuento exclusivo pagando con tus Tarjetas del Chile."
       ],
       "sucursales": []
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Selmark",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "20% dto.",
+      "dia": [
+        "Martes"
+      ],
+      "dia_texto": "martes",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 30 de noviembre de 2027.",
+      "condiciones": [
+        "Marca europea con medio siglo de trayectoria, reconocida por su confección artesanal, patronaje cuidado y diseños que combinan elegancia, confort y sensualidad — una apuesta para mujeres que valoran calidad, estilo y sofisticación.",
+        "20% dto. martes en Selmark presencial.",
+        "Solicita tu descuento al momento de pagar.",
+        "No acumulable con otras promociones.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Nueva Costanera, Av. Nueva Costanera #4021 Local 3, Región Metropolinada, Vitacura"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Leonisa",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "20% dto.",
+      "dia": [
+        "Martes"
+      ],
+      "dia_texto": "martes",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 30 de noviembre de 2027.",
+      "condiciones": [
+        "Marca con casi 70 años de experiencia, famosa por ropa íntima, shapewear y swimwear pensada para realzar la silueta con soporte, comodidad e inclusión de talles; una opción confiable para quienes buscan ajuste, durabilidad y empoderamiento.",
+        "20% dto. martes presencial.",
+        "Solicita tu descuento al momento de pagar.",
+        "No acumulable con otras promociones.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Mall Plaza Antofagasta, Av. Balmaceda 2355, Región de Antofagasta, Antofagasta",
+        "Mall Plaza Copiapó, Calle Maipú 0110 local A-1133, Región de Atacama, Copiapó",
+        "Mall Plaza Los Dominicos, Región Metropolitana, Las Condes",
+        "Apumanque Shoping Center, Av. Manquehue Sur 31 Local 84, Región Metropolitana, Las Condes",
+        "Parque Arauco, Avenida Kennedy 5413 local 407, Región Metropolitana, Las condes",
+        "Av. Providencia 2079, Región Metropolitana, Providencia",
+        "Arauco Maipú, Av. Américo Vespucio 399 local 343, Región Metropolitana, Maipú",
+        "Mallplaza Sur, Av. Pdte. Jorge Alessandri 20040 local B-1058 - 1060, Región Metropolitana, San Bernardo",
+        "Mallplaza Oeste, Américo Vespucio 1501 Local A-237 / A-241a, Región Metropolitana, Cerrilos",
+        "Mallplaza Tobalaba, Camilo Henriquez 3296 local B-110, Región Metropolitana, Puente Alto",
+        "Mallplaza Vespucio, Avda. Vicuña Mackenna 7110 local 249-A, Región Metropolitana, La Florida",
+        "Mallplaza Egaña, Avenida Larraín 5862 local A-2013, Región Metropolitana, La Reina",
+        "Viña Centro Valparaiso 553 local 12, Viña del Mar, Región de Valparaíso, Viña del Mar",
+        "Mallplaza Los Ángeles, Valdivia 440 local 232-B, Región del Biobío, Los Ángeles",
+        "Mallplaza El Trébol, Av. Jorge Alessandri 3177 local A-221-219, Región del Biobío, Talcahuano",
+        "Barros Arana #1068, local 06-01, Región del Biobío, Concepción",
+        "Costanera Center, Avda. Andrés Bello 2425 Local 257, Región Metropolitana, Santiago",
+        "Vivo Mall San Fernando, Chillán 786 Local 1156, Región del Libertador Bernardo OHiggins, San Fernando"
+      ]
     },
     {
       "banco": "Banco de Chile",
@@ -23695,6 +23610,54 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "PAD THAI",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Miércoles",
+        "Jueves",
+        "Viernes"
+      ],
+      "dia_texto": "miércoles a viernes de noviembre",
+      "canal": null,
+      "vigencia": "Promoción válida del 01 al 30 de noviembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. miércoles a viernes de noviembre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dto. $50.000 por mesa",
+        "El día 31/12 el beneficio no aplica para cenas o eventos de año nuevo."
+      ],
+      "sucursales": [
+        "Manuel Montt #231, Región Metropolitana, Providencia"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Doga Sushi",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Viernes"
+      ],
+      "dia_texto": "viernes de noviembre",
+      "canal": null,
+      "vigencia": "Promoción válida del 01 al 30 de noviembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. viernes de noviembre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Tope de dto. $50.000"
+      ],
+      "sucursales": [
+        "Av Vitacura #2908, Región Metropolitana, Las Condes"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "Cervecería Kunstmann Valdivia",
       "categoria": "Sabores",
       "descuento": "40% dto.",
@@ -23762,6 +23725,29 @@
       ],
       "sucursales": [
         "Manuel Montt 1201, Región Metropolitana, Providencia"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Lumiére Bistró",
+      "categoria": null,
+      "descuento": "50% dto.",
+      "dia": [
+        "Viernes"
+      ],
+      "dia_texto": "viernes de noviembre",
+      "canal": null,
+      "vigencia": "Promoción válida desde el 01 al 30 de noviembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 50% dto. pagando con Tarjetas Visa Infinite todos los viernes de noviembre.",
+        "Solicita el descuento al momento de pagar.",
+        "Paga con tu Tarjeta Visa Infinite Banco de Chile.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "No acumulable con otras promociones.",
+        "Tope dto. $65.000 por mesa"
+      ],
+      "sucursales": [
+        "Puerta del Sol #19, Región Metropolitana, Las Condes"
       ]
     },
     {
@@ -24213,6 +24199,73 @@
         "No acumulable con otras promociones."
       ],
       "sucursales": []
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Restaurant Armandita",
+      "categoria": "Sabores",
+      "descuento": "20% dto.",
+      "dia": [
+        "Lunes",
+        "Martes",
+        "Miércoles"
+      ],
+      "dia_texto": "lunes a miércoles",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 12 de mayo de 2027.",
+      "condiciones": [
+        "Parrilladas Armandita es un clásico de Viña del Mar desde 1969. A pasos del mar, ofrece parrilla argentina, cortes de carne seleccionados y una variada carta de pescados y mariscos, combinando tradición, calidad y sabor.",
+        "20% dto. lunes a miércoles en compra presencial.",
+        "Solicita tu descuento al momento de pagar.",
+        "No acumulable con otras promociones.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Calle 6 Norte 119, Región de Valparaíso, Viña del Mar"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "BALANCE STUDIO",
+      "categoria": "Entretención y Deportes",
+      "descuento": "20% dto.",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días",
+      "canal": null,
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2027.",
+      "condiciones": [
+        "Balance Studio es un espacio dedicado al bienestar, ofreciendo disciplinas como Pilates, Yoga (incluyendo Prenatal), BodyPump y Aqua Training, diseñadas para mejorar la fuerza, flexibilidad y equilibrio. Con instructores certificados y un ambiente profesional, nuestras actividades están pensadas para adaptarse a diferentes necesidades y etapas de la vida. En Balance Studio, encontrarás un lugar para cuidar tu cuerpo y mente, promoviendo salud y armonía en cada sesión.",
+        "20% dto. en todos los planes, obtén este beneficio pagando con tus Tarjetas del Chile.",
+        "No acumulable con otras promociones."
+      ],
+      "sucursales": [
+        "Av Chile #1108, Wellness Center Spa Hotel Antay, Región de Arica y Parinacota, Arica"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "LA CHINGANA DEL BARRIO",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Martes"
+      ],
+      "dia_texto": "martes de noviembre",
+      "canal": null,
+      "vigencia": "Promoción válida del 01 al 30 de noviembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. martes de noviembre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dcto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "3 Poniente 563, Región de Valparaíso, Viña del Mar"
+      ]
     },
     {
       "banco": "Banco Santander",
