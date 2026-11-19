@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-18T19:11",
+  "actualizado": "2026-11-19T19:15",
   "beneficios": [
     {
       "banco": "Banco de Chile",
@@ -214,181 +214,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Kine Ceci Pereira",
-      "categoria": "Salud y Belleza",
-      "descuento": "Hasta 50% dto.",
-      "dia": [],
-      "dia_texto": "en prestaciones",
-      "canal": "Tienda física",
-      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
-      "condiciones": [
-        "Consulta de kinesiología y estética diseñada para la comodidad de nuestros pacientes. Realizamos tratamientos personalizados no invasivos tanto faciales como corporales. Nuestros equipos son de alta tecnología y cuentan con certificación. Contamos con profesionales de la salud ( kinesiólogos ) especializados en dermatofuncional.",
-        "50% de descuento en evaluación los días miércoles.",
-        "20% de descuento todos los días en prestaciones presenciales.",
-        "20% de descuento en limpiezas faciales, tratamiento para celulitis de 6 sesiones, y tratamiento de depilación laser diodo ice de 6 sesiones.",
-        "10% de descuento en tratamiento reductor de 8 sesiones.",
-        "Descuento no acumulable con otras promociones",
-        "Nos encontramos en Edificio Médico Alcántara y contamos con estacionamientos para pacientes en el piso -3 (estacionamiento 307 y 345)"
-      ],
-      "sucursales": [
-        "Av. Apoquindo #3990, oficina 801, Región Metropolitana, Las Condes"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "CELIV",
-      "categoria": "Salud y Belleza",
-      "descuento": "20% dto.",
-      "dia": [
-        "Martes"
-      ],
-      "dia_texto": "martes",
-      "canal": "Online",
-      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
-      "condiciones": [
-        "CELIV, Dermocosmética Natural que nace en el Sur de Chile. Productos para el cuidado facial, de origen natural y vegetal, veganos, libres de testeo animal y aptos para todo tipo de piel.",
-        "20% dto. en celiv.cl",
-        "Obtén tu descuento ingresando los seis primeros dígitos de tu Tarjeta como cupón de descuento antes de finalizar la compra.",
-        "No aplica descuentos sobre descuentos y/o promociones.",
-        "Descuento no aplica en valor del despacho.",
-        "Descuento exclusivo pagando con tus Tarjetas del Chile."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Clínica Odontológica Torrealba",
-      "categoria": "Salud y Belleza",
-      "descuento": "Hasta 60% dto.",
-      "dia": [
-        "Todos los días"
-      ],
-      "dia_texto": "todos los días",
-      "canal": null,
-      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
-      "condiciones": [
-        "Somos una clínica odontológica integral en la cual contamos con diferentes especialidades lo que permite entregar a nuestros pacientes todos los tratamientos necesarios para su salud dental.",
-        "Obtén dcto al momento de pagar con tus tarjetas del Banco en las siguientes prestaciones.",
-        "ODONTOLOGÍA GENERAL 60% DSCTO Resinas Incrustaciones Exodoncias",
-        "ORTODONCIA 30% DSCTO Instalación brackets metálicos y estéticos Controles mensuales bráckets metálicos y estéticos",
-        "ODONTOLOGÍA EN ESPECIALIDAD 40% DSCTO Endodoncia rehabilitación oral",
-        "PACK INICIAL PARA ADULTOS $47.000 Destartraje supragingival limpieza coronaria RX presupuesto",
-        "PACK INICIAL PARA NIÑOS $80.000 Destartraje supragingival limpieza coronaria RX sellantes flúor presupuesto",
-        "No acumulable con otras promociones."
-      ],
-      "sucursales": [
-        "Avenida Pedro Fontova #6651, local 33, Región Metropolitana, Huechuraba",
-        "Estoril, oficina 204, Región Metropolitana, Las Condes"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Kalani Wellness SPA",
-      "categoria": "Salud y Belleza",
-      "descuento": "Hasta 20% dto.",
-      "dia": [
-        "Lunes"
-      ],
-      "dia_texto": "todos los lunes en prestaciones seleccionadas",
-      "canal": null,
-      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
-      "condiciones": [
-        "Centro de estética integral en Punta Arenas, con más de 25 años de experiencia. Queremos que te sientas bella y superar tus expectativas Nuestras expertas te ayudarán a elegir el servicio que más se adapte a tus exigencias. Realizamos tratamientos con los últimos equipos del mercado. Tras un diagnóstico personalizado, combinamos las distintas técnicas para obtener el mejor resultado. Contamos con una amplia gama de servicios de belleza y estética que se adecuan a tus necesidades y presupuesto.",
-        "Obtén todos los lunes descuentos en las siguientes prestaciones presenciales.",
-        "20% dto. Spa capilar oriental.",
-        "15% dto. Presoterapia.",
-        "15% dto. masaje descontracturante o mixto.",
-        "15% dto. Reiki 60 minutos.",
-        "15% dto. limpieza facial profunda full vitaminas.",
-        "15% dto. Lifting de pestañas.",
-        "10% dto. manta térmica más presoterapia.",
-        "Solicita tu descuento al momento de pagar con tus Tarjetas del Chile.",
-        "Beneficio no acumulable con otras promociones."
-      ],
-      "sucursales": [
-        "Kuzma Slavic #784 A, Región de Magallanes y de la Antártica Chilena, Punta Arenas"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Bellapiel",
-      "categoria": "Salud y Belleza",
-      "descuento": "20% dto.",
-      "dia": [
-        "Lunes",
-        "Martes",
-        "Miércoles",
-        "Jueves"
-      ],
-      "dia_texto": "lunes a jueves en servicios",
-      "canal": null,
-      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
-      "condiciones": [
-        "Con 29 años de experiencia, BellaPiel ofrece servicios de depilación, manicure, pedicure, bronceado, peluquería, cejas y pestañas. Ubicados en Concón, Viña del Mar, Reñaca, Las Condes y Vitacura. Nuestro compromiso es brindar una experiencia única y personalizada, garantizando la satisfacción y bienestar de cada cliente.",
-        "20% dto. de lunes a jueves en servicio de depilación, manicure y pedicure, bronceado, cejas, pestañas y peluquería.",
-        "Solicita tu descuento al momento de pagar.",
-        "Beneficio aplica para compras desde $15.000",
-        "No acumulable con otras promociones y Gift card.",
-        "Descuento no aplica en productos.",
-        "Descuento exclusivo pagando con tus Tarjetas del Chile."
-      ],
-      "sucursales": [
-        "Angamos #242, local N 3, Región de Valparaíso, Viña Del Mar",
-        "Av. Concón Reñaca #4000, local 4c, Región de Valparaíso, Concón",
-        "Galería Pleno Centro #595, local N 37, Región de Valparaíso, Viña Del Mar",
-        "5 Norte #352, entre 3 y 4 Poniente, Región de Valparaíso, Viña Del Mar",
-        "Embajador Doussinague #1772, Local B, Región Metropolitana, Vitacura",
-        "Encomenderos #264, Local 2, Región Metropolitana, Las Condes"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Clínica Beladent",
-      "categoria": "Salud y Belleza",
-      "descuento": "Hasta 60% dto",
-      "dia": [],
-      "dia_texto": null,
-      "canal": "Tienda física",
-      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
-      "condiciones": [
-        "Ven a disfrutar de una atención personalizada en un ambiente familiar. Tecnología de punta en manos de los mejores especialistas, más de 14 años de trayectoria, y tratamientos 100% personalizados. Somos expertos en Implantes dentales, Diseño de Sonrisa y Ortodoncia.",
-        "60% dto en el arancel de Ortodoncia pagando con tus Tarjetas del Chile.",
-        "50% dto en todas Acciones Clínicas pagando con tus Tarjetas del Chile.",
-        "Pack Preventivo Banco de Chile",
-        "Incluye Evaluación y Diagnóstico.",
-        "Radiografías Bite Wing.",
-        "Higiene y Destartraje Supragingival.",
-        "Aplicación de Fluor Silano.",
-        "Valor pagando con Tarjetas Banco de Chile $75.000 (Valor normal $120.400)"
-      ],
-      "sucursales": [
-        "HUERFANOS 1022, RM, SANTIAGO",
-        "DEL INCA 4446, RM, LAS CONDES"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "AMAI Clínica Dental",
-      "categoria": "Salud y Belleza",
-      "descuento": "20% dto.",
-      "dia": [
-        "Todos los días"
-      ],
-      "dia_texto": "en compras todos los días",
-      "canal": "Tienda física",
-      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
-      "condiciones": [
-        "Clínica Dental Familiar caracterizada por la atención personalizada y de calidad, enfocada en hacer de la salud dental una experiencia cálida y amorosa, donde el compromiso con nuestros pacientes es nuestro pilar fundamental.",
-        "Obtén 20% dto. todos los días en todas las prestaciones presenciales.",
-        "Solicita tu descuento al momento de pagar con tus Tarjetas del Chile.",
-        "No acumulable con otras promociones."
-      ],
-      "sucursales": [
-        "Las pelargonias 842, Of 711, Región de Valparaíso, Concón"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "Smartdent",
       "categoria": "Salud y Belleza",
       "descuento": "Hasta 60% dto.",
@@ -410,201 +235,6 @@
         "Av. Libertador O´ Higgins #1449, (local 13), Región Metropolitana, Santiago",
         "Fidel Oteiza #1971, Región Metropolitana, Providencia"
       ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "AKALI",
-      "categoria": "Salud y Belleza",
-      "descuento": "Hasta 40% dto.",
-      "dia": [
-        "Todos los días"
-      ],
-      "dia_texto": "todos los días",
-      "canal": null,
-      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
-      "condiciones": [
-        "En Akali Centro de Estética realizamos tratamientos reductivos, anti-celulitis, lifting facial, masajes, drenajes linfáticos, maderoterapia, entre otros. Mezclando el uso de tecnología en la estética con los masajes, nos preocupamos de obtener resultados reales con métodos no invasivos y sin dolor.",
-        "40% dto en depilación láser.",
-        "30% dto en Lifting facial.",
-        "20% dto en masajes y limpiezas faciales.",
-        "15% dto en toda aparatología estética.",
-        "Obtén tu descuento pagando con las Tarjetas del Chile.",
-        "No aplica descuentos sobre descuentos y/o promociones.",
-        "Instagram @akaliestetica"
-      ],
-      "sucursales": [
-        "SALVADOR 95, RM, PROVIDENCIA",
-        "PARQUE DEL ESTE 1201, OHIGGINS, RANCAGUA"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Mares Medical Aesthetics",
-      "categoria": "Salud y Belleza",
-      "descuento": "Hasta 56% dto.",
-      "dia": [],
-      "dia_texto": "en prestaciones",
-      "canal": "Tienda física",
-      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
-      "condiciones": [
-        "En Clínica Mares, transformamos tu belleza con tratamientos especializados y tecnología avanzada. Nuestro equipo de expertos se dedica a proporcionar una atención personalizada, inspirada en la pureza del mar.",
-        "Hasta 56% de descuento en tratamientos estéticos no invasivos como bioestimuladores, toxina botulínica, rellenos dérmicos y mesoterapia facial y capilar.",
-        "40% de descuento en terapias láser para la eliminación de manchas, cicatrices y rejuvenecimiento facial.",
-        "Solicita tu descuento al momento de pagar con tus tarjetas del Banco.",
-        "No acumulable con otras promociones."
-      ],
-      "sucursales": [
-        "AV Bosques de Montemar #30, Oficina 1412, Región de Valparaíso, Viña del Mar"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "ODIN Odontología integral",
-      "categoria": "Salud y Belleza",
-      "descuento": "25% dto.",
-      "dia": [],
-      "dia_texto": "en prestaciones",
-      "canal": "Tienda física",
-      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
-      "condiciones": [
-        "ODIN Odontología integral, a la vanguardia en tratamientos de implantología, endodoncia, estética dental, coronas, carillas, blanqueamientos. ¡La sonrisa que mereces!",
-        "Obtén 25% de descuento en el total de tu tratamiento.",
-        "Solicita beneficio al momento de pagar con tus tarjetas del Banco.",
-        "Beneficio no acumulable con otras promociones.",
-        "Excluye gastos de laboratorio."
-      ],
-      "sucursales": [
-        "Maipú #868, Región de Magallanes y de la Antártica Chilena, Punta Arenas"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "FELTREX",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": "Hasta 40% dto.",
-      "dia": [
-        "Todos los días"
-      ],
-      "dia_texto": "todos los días en tus compras",
-      "canal": "Tienda física",
-      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
-      "condiciones": [
-        "Durante más de 56 años, en Feltrex hemos estado presente en la industria nacional, perfeccionando sus productos con la incorporación de la más avanzada tecnología. Nuestra amplia gama de productos incluye alfombras muro a muro, pisos laminados, pisos de madera natural, pisos vinílicos, aislantes térmicos, Geotextiles , Cortinas Roller, Persianas de Aluminio, Persianas de exterior, Toldos verticales y proyectantes. Contamos también con diferentes líneas de productos de terminación y mantención de alfombras y pisos de madera. Adicionalmente confeccionamos productos de cama (sábanas, almohadas y cojines entre otros).",
-        "Solicita tu descuento al momento de pagar con tus tarjetas del Banco.",
-        "40% cortinas telas traslucente.",
-        "30% en cortinas y persianas.",
-        "30% dto en pisos línea Dynamic Kronotex.",
-        "30% limpiadores de pisos.",
-        "20% reductor de sonido y film protector.",
-        "15% alfombras boucle.",
-        "15% en persianas de exterior y toldos.",
-        "Descuento no aplica sobre otros descuentos y promociones.",
-        "Beneficio válido solo para la sucursal ubicada en Las Condes Design."
-      ],
-      "sucursales": [
-        "Las Condes design Local 106-107, Av. las Condes #9765, Región Metropolitana, Las Condes, Teléfono +569 89296271"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "TEBISA",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": "20% dto.",
-      "dia": [
-        "Lunes",
-        "Martes",
-        "Miércoles"
-      ],
-      "dia_texto": "lunes a miércoles",
-      "canal": "Tienda física",
-      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
-      "condiciones": [
-        "¡Ven a renovar tu baño y cocina a nuestro showroom de Tebisa en Las Condes Design con tu tarjeta del Banco de Chile y obtén un 20% de descuento todos los lunes, martes y miércoles!",
-        "20% dto en todos los productos de baño y cocina.",
-        "Descuento no es valido con otros descuentos y promociones."
-      ],
-      "sucursales": [
-        "Las Condes Design, Av. las Condes #9765, Región Metropolitana, Las Condes"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "TRATUR",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": "22% dto",
-      "dia": [
-        "Todos los días"
-      ],
-      "dia_texto": "todos los días",
-      "canal": "Online",
-      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
-      "condiciones": [
-        "Te presentamos Tratur Travel Gear, una línea boutique de accesorios de viaje diseñada y fabricada en Chile.",
-        "Obtén tu descuento ingresando los 6 primeros dígitos de tu tarjeta como cupón de descuento al momento de finalizar la compra en tratur.com",
-        "No acumulable con otras promociones y/o cupones, Cyber, Black Friday o campañas Outlet.",
-        "Descuento no aplica al valor del despacho."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "YOYO TEA",
-      "categoria": "Sabores",
-      "descuento": "20% dto.",
-      "dia": [
-        "Todos los días"
-      ],
-      "dia_texto": "todos los días en compra",
-      "canal": "Online",
-      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
-      "condiciones": [
-        "Somos una marca chilena de té, infusiones y hierbas naturales. La mayor parte de nuestros insumos provienen de comunidades recolectoras de la zona centro-sur de Chile. Ofrecemos una carta con más de 23 sabores diferentes para elegir entre ellos, blends de té negro, té chai, té rojo con hibisco y berries, té verde, rooibos, matcha e infinitas hierbas para diferentes beneficios naturales.",
-        "Obtén tu descuento ingresando el código YOYOBCHILE como cupón de descuento al momento de finalizar la compra en yoyotea.cl",
-        "No acumulable con otras promociones.",
-        "No aplica sobre otro descuento activo en la web.",
-        "Descuento no aplica al valor del despacho."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Canasta Raíces Sanas",
-      "categoria": "Sabores",
-      "descuento": "20% dto.",
-      "dia": [],
-      "dia_texto": "en compras",
-      "canal": "Online",
-      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
-      "condiciones": [
-        "Somos tienda Canasta Raíces Sanas, emprendimiento dedicado a la salud y bienestar mediante un amplio catálogo de alimentos y productos sin gluten y veganos.",
-        "20% dto. en canastaraicessanas.cl",
-        "Obtén tu descuento ingresando los 6 primeros dígitos de tu Tarjeta como código de descuento y selecciona como medio de pago Onepay o Webpay al finalizar compra.",
-        "Descuento exclusivo pagando con tus Tarjetas del Chile.",
-        "No acumulable con otras promociones y/o descuentos.",
-        "Descuento no aplica en el valor del despacho."
-      ],
-      "sucursales": [
-        "Local 5, Condell 1137, Región Metropolitana, Providencia, Teléfono: +56966294031 /+56998379779"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "BIGU",
-      "categoria": "Sabores",
-      "descuento": "20% dto.",
-      "dia": [
-        "Todos los días"
-      ],
-      "dia_texto": "todos los días en compra",
-      "canal": "Online",
-      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
-      "condiciones": [
-        "Snacks saludables de rollos de fruta deshidratada. Sin azúcar añadida, sin gluten y apto para veganos. 1 de tus 5 porciones de fruta y verdura sugerida al día.",
-        "Obtén tu descuento ingresando los 6 primeros dígitos de tu tarjeta como cupón de descuento al momento de finalizar la compra en bigu.cl",
-        "No acumulable con otras promociones.",
-        "Descuento no aplica al valor del despacho."
-      ],
-      "sucursales": []
     },
     {
       "banco": "Banco de Chile",
@@ -2320,6 +1950,32 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "AKALI",
+      "categoria": "Salud y Belleza",
+      "descuento": "Hasta 40% dto.",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días",
+      "canal": null,
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2027.",
+      "condiciones": [
+        "En Akali Centro de Estética realizamos tratamientos reductivos, anti-celulitis, lifting facial, masajes, drenajes linfáticos, maderoterapia, entre otros. Mezclando el uso de tecnología en la estética con los masajes, nos preocupamos de obtener resultados reales con métodos no invasivos y sin dolor.",
+        "40% dto en depilación láser.",
+        "30% dto en Lifting facial.",
+        "20% dto en masajes y limpiezas faciales.",
+        "15% dto en toda aparatología estética.",
+        "Obtén tu descuento pagando con las Tarjetas del Chile.",
+        "No aplica descuentos sobre descuentos y/o promociones.",
+        "Instagram @akaliestetica"
+      ],
+      "sucursales": [
+        "SALVADOR 95, RM, PROVIDENCIA",
+        "PARQUE DEL ESTE 1201, OHIGGINS, RANCAGUA"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "Al Pesto",
       "categoria": "Sabores",
       "descuento": "20% dto.",
@@ -2386,6 +2042,27 @@
       ],
       "sucursales": [
         "Los Ilanes #86, Torre B Oficina 817, Región Metropolitana, Las Condes"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "AMAI Clínica Dental",
+      "categoria": "Salud y Belleza",
+      "descuento": "20% dto.",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "en compras todos los días",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2027.",
+      "condiciones": [
+        "Clínica Dental Familiar caracterizada por la atención personalizada y de calidad, enfocada en hacer de la salud dental una experiencia cálida y amorosa, donde el compromiso con nuestros pacientes es nuestro pilar fundamental.",
+        "Obtén 20% dto. todos los días en todas las prestaciones presenciales.",
+        "Solicita tu descuento al momento de pagar con tus Tarjetas del Chile.",
+        "No acumulable con otras promociones."
+      ],
+      "sucursales": [
+        "Las pelargonias 842, Of 711, Región de Valparaíso, Concón"
       ]
     },
     {
@@ -2716,6 +2393,57 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "Bellapiel",
+      "categoria": "Salud y Belleza",
+      "descuento": "20% dto.",
+      "dia": [
+        "Lunes",
+        "Martes",
+        "Miércoles",
+        "Jueves"
+      ],
+      "dia_texto": "lunes a jueves en servicios",
+      "canal": null,
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2027.",
+      "condiciones": [
+        "Con 29 años de experiencia, BellaPiel ofrece servicios de depilación, manicure, pedicure, bronceado, peluquería, cejas y pestañas. Ubicados en Concón, Viña del Mar, Reñaca, Las Condes y Vitacura. Nuestro compromiso es brindar una experiencia única y personalizada, garantizando la satisfacción y bienestar de cada cliente.",
+        "20% dto. de lunes a jueves en servicio de depilación, manicure y pedicure, bronceado, cejas, pestañas y peluquería.",
+        "Solicita tu descuento al momento de pagar.",
+        "Beneficio aplica para compras desde $15.000",
+        "No acumulable con otras promociones y Gift card.",
+        "Descuento no aplica en productos.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Angamos #242, local N 3, Región de Valparaíso, Viña Del Mar",
+        "Av. Concón Reñaca #4000, local 4c, Región de Valparaíso, Concón",
+        "Galería Pleno Centro #595, local N 37, Región de Valparaíso, Viña Del Mar",
+        "5 Norte #352, entre 3 y 4 Poniente, Región de Valparaíso, Viña Del Mar",
+        "Embajador Doussinague #1772, Local B, Región Metropolitana, Vitacura",
+        "Encomenderos #264, Local 2, Región Metropolitana, Las Condes"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "BIGU",
+      "categoria": "Sabores",
+      "descuento": "20% dto.",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días en compra",
+      "canal": "Online",
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2027.",
+      "condiciones": [
+        "Snacks saludables de rollos de fruta deshidratada. Sin azúcar añadida, sin gluten y apto para veganos. 1 de tus 5 porciones de fruta y verdura sugerida al día.",
+        "Obtén tu descuento ingresando los 6 primeros dígitos de tu tarjeta como cupón de descuento al momento de finalizar la compra en bigu.cl",
+        "No acumulable con otras promociones.",
+        "Descuento no aplica al valor del despacho."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "Blumen Haus",
       "categoria": "Retail y Otras Marcas",
       "descuento": "20% dto.",
@@ -2875,6 +2603,27 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "Canasta Raíces Sanas",
+      "categoria": "Sabores",
+      "descuento": "20% dto.",
+      "dia": [],
+      "dia_texto": "en compras",
+      "canal": "Online",
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2027.",
+      "condiciones": [
+        "Somos tienda Canasta Raíces Sanas, emprendimiento dedicado a la salud y bienestar mediante un amplio catálogo de alimentos y productos sin gluten y veganos.",
+        "20% dto. en canastaraicessanas.cl",
+        "Obtén tu descuento ingresando los 6 primeros dígitos de tu Tarjeta como código de descuento y selecciona como medio de pago Onepay o Webpay al finalizar compra.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile.",
+        "No acumulable con otras promociones y/o descuentos.",
+        "Descuento no aplica en el valor del despacho."
+      ],
+      "sucursales": [
+        "Local 5, Condell 1137, Región Metropolitana, Providencia, Teléfono: +56966294031 /+56998379779"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "Cantina Meraki",
       "categoria": "Sabores",
       "descuento": "20% dto.",
@@ -2914,6 +2663,27 @@
       "sucursales": [
         "Cochrane #1136, Región de los Lagos, Osorno"
       ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "CELIV",
+      "categoria": "Salud y Belleza",
+      "descuento": "20% dto.",
+      "dia": [
+        "Martes"
+      ],
+      "dia_texto": "martes",
+      "canal": "Online",
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2027.",
+      "condiciones": [
+        "CELIV, Dermocosmética Natural que nace en el Sur de Chile. Productos para el cuidado facial, de origen natural y vegetal, veganos, libres de testeo animal y aptos para todo tipo de piel.",
+        "20% dto. en celiv.cl",
+        "Obtén tu descuento ingresando los seis primeros dígitos de tu Tarjeta como cupón de descuento antes de finalizar la compra.",
+        "No aplica descuentos sobre descuentos y/o promociones.",
+        "Descuento no aplica en valor del despacho.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": []
     },
     {
       "banco": "Banco de Chile",
@@ -3069,6 +2839,31 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "Clínica Beladent",
+      "categoria": "Salud y Belleza",
+      "descuento": "Hasta 60% dto",
+      "dia": [],
+      "dia_texto": null,
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2027.",
+      "condiciones": [
+        "Ven a disfrutar de una atención personalizada en un ambiente familiar. Tecnología de punta en manos de los mejores especialistas, más de 14 años de trayectoria, y tratamientos 100% personalizados. Somos expertos en Implantes dentales, Diseño de Sonrisa y Ortodoncia.",
+        "60% dto en el arancel de Ortodoncia pagando con tus Tarjetas del Chile.",
+        "50% dto en todas Acciones Clínicas pagando con tus Tarjetas del Chile.",
+        "Pack Preventivo Banco de Chile",
+        "Incluye Evaluación y Diagnóstico.",
+        "Radiografías Bite Wing.",
+        "Higiene y Destartraje Supragingival.",
+        "Aplicación de Fluor Silano.",
+        "Valor pagando con Tarjetas Banco de Chile $75.000 (Valor normal $120.400)"
+      ],
+      "sucursales": [
+        "HUERFANOS 1022, RM, SANTIAGO",
+        "DEL INCA 4446, RM, LAS CONDES"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "Clínica Dental Cumbre",
       "categoria": "Salud y Belleza",
       "descuento": "Hasta 65% dto.",
@@ -3168,6 +2963,32 @@
       ],
       "sucursales": [
         "Las Bellotas #199, Oficina 72, Región Metropolitana, Providencia"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Clínica Odontológica Torrealba",
+      "categoria": "Salud y Belleza",
+      "descuento": "Hasta 60% dto.",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días",
+      "canal": null,
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2027.",
+      "condiciones": [
+        "Somos una clínica odontológica integral en la cual contamos con diferentes especialidades lo que permite entregar a nuestros pacientes todos los tratamientos necesarios para su salud dental.",
+        "Obtén dcto al momento de pagar con tus tarjetas del Banco en las siguientes prestaciones.",
+        "ODONTOLOGÍA GENERAL 60% DSCTO Resinas Incrustaciones Exodoncias",
+        "ORTODONCIA 30% DSCTO Instalación brackets metálicos y estéticos Controles mensuales bráckets metálicos y estéticos",
+        "ODONTOLOGÍA EN ESPECIALIDAD 40% DSCTO Endodoncia rehabilitación oral",
+        "PACK INICIAL PARA ADULTOS $47.000 Destartraje supragingival limpieza coronaria RX presupuesto",
+        "PACK INICIAL PARA NIÑOS $80.000 Destartraje supragingival limpieza coronaria RX sellantes flúor presupuesto",
+        "No acumulable con otras promociones."
+      ],
+      "sucursales": [
+        "Avenida Pedro Fontova #6651, local 33, Región Metropolitana, Huechuraba",
+        "Estoril, oficina 204, Región Metropolitana, Las Condes"
       ]
     },
     {
@@ -3689,6 +3510,34 @@
         "Avenida Jorge Alessandri #3177, Local 105, Región del Biobío, Talcahuano",
         "Avenida Américo Vespucio #1501, Local B-114b - 118ab-122ab, Región Metropolitana, Cerrillos",
         "Av. Circunvalación Oriente #1055, Local 2238 -2239, Región del Maule, Talca"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "FELTREX",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "Hasta 40% dto.",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días en tus compras",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2027.",
+      "condiciones": [
+        "Durante más de 56 años, en Feltrex hemos estado presente en la industria nacional, perfeccionando sus productos con la incorporación de la más avanzada tecnología. Nuestra amplia gama de productos incluye alfombras muro a muro, pisos laminados, pisos de madera natural, pisos vinílicos, aislantes térmicos, Geotextiles , Cortinas Roller, Persianas de Aluminio, Persianas de exterior, Toldos verticales y proyectantes. Contamos también con diferentes líneas de productos de terminación y mantención de alfombras y pisos de madera. Adicionalmente confeccionamos productos de cama (sábanas, almohadas y cojines entre otros).",
+        "Solicita tu descuento al momento de pagar con tus tarjetas del Banco.",
+        "40% cortinas telas traslucente.",
+        "30% en cortinas y persianas.",
+        "30% dto en pisos línea Dynamic Kronotex.",
+        "30% limpiadores de pisos.",
+        "20% reductor de sonido y film protector.",
+        "15% alfombras boucle.",
+        "15% en persianas de exterior y toldos.",
+        "Descuento no aplica sobre otros descuentos y promociones.",
+        "Beneficio válido solo para la sucursal ubicada en Las Condes Design."
+      ],
+      "sucursales": [
+        "Las Condes design Local 106-107, Av. las Condes #9765, Región Metropolitana, Las Condes, Teléfono +569 89296271"
       ]
     },
     {
@@ -4221,6 +4070,56 @@
       ],
       "sucursales": [
         "Pedro de Valdivia #911 / Mahuzier, Región del Biobío, Concepción"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Kalani Wellness SPA",
+      "categoria": "Salud y Belleza",
+      "descuento": "Hasta 20% dto.",
+      "dia": [
+        "Lunes"
+      ],
+      "dia_texto": "todos los lunes en prestaciones seleccionadas",
+      "canal": null,
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2027.",
+      "condiciones": [
+        "Centro de estética integral en Punta Arenas, con más de 25 años de experiencia. Queremos que te sientas bella y superar tus expectativas Nuestras expertas te ayudarán a elegir el servicio que más se adapte a tus exigencias. Realizamos tratamientos con los últimos equipos del mercado. Tras un diagnóstico personalizado, combinamos las distintas técnicas para obtener el mejor resultado. Contamos con una amplia gama de servicios de belleza y estética que se adecuan a tus necesidades y presupuesto.",
+        "Obtén todos los lunes descuentos en las siguientes prestaciones presenciales.",
+        "20% dto. Spa capilar oriental.",
+        "15% dto. Presoterapia.",
+        "15% dto. masaje descontracturante o mixto.",
+        "15% dto. Reiki 60 minutos.",
+        "15% dto. limpieza facial profunda full vitaminas.",
+        "15% dto. Lifting de pestañas.",
+        "10% dto. manta térmica más presoterapia.",
+        "Solicita tu descuento al momento de pagar con tus Tarjetas del Chile.",
+        "Beneficio no acumulable con otras promociones."
+      ],
+      "sucursales": [
+        "Kuzma Slavic #784 A, Región de Magallanes y de la Antártica Chilena, Punta Arenas"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Kine Ceci Pereira",
+      "categoria": "Salud y Belleza",
+      "descuento": "Hasta 50% dto.",
+      "dia": [],
+      "dia_texto": "en prestaciones",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2027.",
+      "condiciones": [
+        "Consulta de kinesiología y estética diseñada para la comodidad de nuestros pacientes. Realizamos tratamientos personalizados no invasivos tanto faciales como corporales. Nuestros equipos son de alta tecnología y cuentan con certificación. Contamos con profesionales de la salud ( kinesiólogos ) especializados en dermatofuncional.",
+        "50% de descuento en evaluación los días miércoles.",
+        "20% de descuento todos los días en prestaciones presenciales.",
+        "20% de descuento en limpiezas faciales, tratamiento para celulitis de 6 sesiones, y tratamiento de depilación laser diodo ice de 6 sesiones.",
+        "10% de descuento en tratamiento reductor de 8 sesiones.",
+        "Descuento no acumulable con otras promociones",
+        "Nos encontramos en Edificio Médico Alcántara y contamos con estacionamientos para pacientes en el piso -3 (estacionamiento 307 y 345)"
+      ],
+      "sucursales": [
+        "Av. Apoquindo #3990, oficina 801, Región Metropolitana, Las Condes"
       ]
     },
     {
@@ -4828,6 +4727,26 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "Mares Medical Aesthetics",
+      "categoria": "Salud y Belleza",
+      "descuento": "Hasta 56% dto.",
+      "dia": [],
+      "dia_texto": "en prestaciones",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2027.",
+      "condiciones": [
+        "En Clínica Mares, transformamos tu belleza con tratamientos especializados y tecnología avanzada. Nuestro equipo de expertos se dedica a proporcionar una atención personalizada, inspirada en la pureza del mar.",
+        "Hasta 56% de descuento en tratamientos estéticos no invasivos como bioestimuladores, toxina botulínica, rellenos dérmicos y mesoterapia facial y capilar.",
+        "40% de descuento en terapias láser para la eliminación de manchas, cicatrices y rejuvenecimiento facial.",
+        "Solicita tu descuento al momento de pagar con tus tarjetas del Banco.",
+        "No acumulable con otras promociones."
+      ],
+      "sucursales": [
+        "AV Bosques de Montemar #30, Oficina 1412, Región de Valparaíso, Viña del Mar"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "Margarita Bar",
       "categoria": "Sabores",
       "descuento": "20% dto.",
@@ -5299,6 +5218,26 @@
       ],
       "sucursales": [
         "San Martin #599, Región de Arica y Parinacota, Arica"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "ODIN Odontología integral",
+      "categoria": "Salud y Belleza",
+      "descuento": "25% dto.",
+      "dia": [],
+      "dia_texto": "en prestaciones",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2027.",
+      "condiciones": [
+        "ODIN Odontología integral, a la vanguardia en tratamientos de implantología, endodoncia, estética dental, coronas, carillas, blanqueamientos. ¡La sonrisa que mereces!",
+        "Obtén 25% de descuento en el total de tu tratamiento.",
+        "Solicita beneficio al momento de pagar con tus tarjetas del Banco.",
+        "Beneficio no acumulable con otras promociones.",
+        "Excluye gastos de laboratorio."
+      ],
+      "sucursales": [
+        "Maipú #868, Región de Magallanes y de la Antártica Chilena, Punta Arenas"
       ]
     },
     {
@@ -6309,6 +6248,28 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "TEBISA",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "20% dto.",
+      "dia": [
+        "Lunes",
+        "Martes",
+        "Miércoles"
+      ],
+      "dia_texto": "lunes a miércoles",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2027.",
+      "condiciones": [
+        "¡Ven a renovar tu baño y cocina a nuestro showroom de Tebisa en Las Condes Design con tu tarjeta del Banco de Chile y obtén un 20% de descuento todos los lunes, martes y miércoles!",
+        "20% dto en todos los productos de baño y cocina.",
+        "Descuento no es valido con otros descuentos y promociones."
+      ],
+      "sucursales": [
+        "Las Condes Design, Av. las Condes #9765, Región Metropolitana, Las Condes"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "Tendencias Gourmet",
       "categoria": "Sabores",
       "descuento": "20% dto.",
@@ -6474,6 +6435,25 @@
       "sucursales": [
         "Blaise Cendrars #7147, Región Metropolitana, Vitacura"
       ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "TRATUR",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "22% dto",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días",
+      "canal": "Online",
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2027.",
+      "condiciones": [
+        "Te presentamos Tratur Travel Gear, una línea boutique de accesorios de viaje diseñada y fabricada en Chile.",
+        "Obtén tu descuento ingresando los 6 primeros dígitos de tu tarjeta como cupón de descuento al momento de finalizar la compra en tratur.com",
+        "No acumulable con otras promociones y/o cupones, Cyber, Black Friday o campañas Outlet.",
+        "Descuento no aplica al valor del despacho."
+      ],
+      "sucursales": []
     },
     {
       "banco": "Banco de Chile",
@@ -6803,6 +6783,26 @@
       "sucursales": [
         "Las Condes Design, Av. Las Condes #9765, Región Metropolitana, Las Condes"
       ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "YOYO TEA",
+      "categoria": "Sabores",
+      "descuento": "20% dto.",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días en compra",
+      "canal": "Online",
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2027.",
+      "condiciones": [
+        "Somos una marca chilena de té, infusiones y hierbas naturales. La mayor parte de nuestros insumos provienen de comunidades recolectoras de la zona centro-sur de Chile. Ofrecemos una carta con más de 23 sabores diferentes para elegir entre ellos, blends de té negro, té chai, té rojo con hibisco y berries, té verde, rooibos, matcha e infinitas hierbas para diferentes beneficios naturales.",
+        "Obtén tu descuento ingresando el código YOYOBCHILE como cupón de descuento al momento de finalizar la compra en yoyotea.cl",
+        "No acumulable con otras promociones.",
+        "No aplica sobre otro descuento activo en la web.",
+        "Descuento no aplica al valor del despacho."
+      ],
+      "sucursales": []
     },
     {
       "banco": "Banco de Chile",
@@ -12434,25 +12434,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Cafetería Le Grand de La Fete Dólares-Premio",
-      "categoria": "Dólares-Premio",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "Consumo por $30.000",
-      "canal": null,
-      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
-      "condiciones": [
-        "Canjea tus Dólares-Premio en Cafetería Le Grand de La Fete.",
-        "Consumo por $30.000.",
-        "No incluye propina.",
-        "Tu código será enviado en un plazo de hasta 12 horas hábiles."
-      ],
-      "sucursales": [
-        "Camino Los Trapenses 3145, REGIÓN METROPOLITANA, Lo Barnechea"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "Caffellatte Atacama",
       "categoria": "Sabores",
       "descuento": "20% dto.",
@@ -14346,37 +14327,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "OrangePet",
-      "categoria": "Mascotas",
-      "descuento": "Hasta 20% dto.",
-      "dia": [
-        "Martes",
-        "Miércoles"
-      ],
-      "dia_texto": "martes y miércoles",
-      "canal": "Tienda física",
-      "vigencia": "Promoción válida hasta el 31 de julio de 2027.",
-      "condiciones": [
-        "OrangePet es una tienda especializada en productos, servicios y bienestar integral para mascotas. Nuestro compromiso es entregar una experiencia cercana, confiable y profesional, acompañando a cada tutor en el cuidado de sus animales con una amplia variedad de alimentos, accesorios, farmacia veterinaria y atención personalizada. Con enfoque en calidad, amor por los animales y constante innovación, OrangePet se ha convertido en un aliado esencial para quienes buscan lo mejor para sus mascotas.",
-        "20% dto. en accesorios",
-        "15% dto. en farmacia veterinaria",
-        "10% dto. en alimentos",
-        "Beneficio excluye ventas nocturnas, Cyber Day y Orange Day",
-        "Solicita tu descuento al momento de pagar.",
-        "No acumulable con otras promociones.",
-        "Descuento exclusivo pagando con tus Tarjetas del Chile."
-      ],
-      "sucursales": [
-        "Av Ecuador #539, Región de Ñuble, Chillán",
-        "Vicente Méndez #1545 Local 1308, Región de Ñuble, Chillán",
-        "Camino al venado #560, local A3, Región del Biobío, Concepción",
-        "Ramon Carrasco #99 lote 25D, Región del Biobío, Concepción",
-        "Av Juan Bosco #2239, Local 1 esquina Los Carrera, Región del Biobío, Concepción",
-        "Av. Vitacura #5812, Región Metropolitana, Vitacura"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "BUG ME",
       "categoria": "Mascotas",
       "descuento": "20% dto.",
@@ -15889,28 +15839,6 @@
       "sucursales": [
         "Libertad #1348, Oficina #1001, Región de Valparaíso, Viña del Mar"
       ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Lagün",
-      "categoria": "Entretención y Deportes",
-      "descuento": "30% dto.",
-      "dia": [
-        "Todos los días"
-      ],
-      "dia_texto": "todos los días",
-      "canal": "Online",
-      "vigencia": "Promoción válida hasta el 28 de febrero de 2027.",
-      "condiciones": [
-        "Lagün es una línea de hidratación saludable inspirada en la Patagonia, elaborada con frutos y botánicos, sin azúcar añadida y levemente gasificada. A través de sus Momentos —CALMA, FOCO, ACTIVA y RENUEVA— invita a elegir cómo sentirse y a hidratarse con propósito.",
-        "30% dto. todos los días en lagun.cl",
-        "Obtén tu descuento ingresando LAGUNBCH como código de dto.",
-        "Descuento no aplica para valor del despacho.",
-        "No acumulable con otras promociones.",
-        "Revisa cobertura de despacho en lagun.cl",
-        "Descuento exclusivo pagando con tus Tarjetas del Chile."
-      ],
-      "sucursales": []
     },
     {
       "banco": "Banco de Chile",
@@ -17816,77 +17744,6 @@
         "Moneda 984, Región Metropolitana, Santiago Centro",
         "Centro Nueva Taboada Camino Henriquez 466 Local 3, Región de Los Ríos, Valdivia",
         "Carretera El Cobre 750 Local 1129, Región del Libertador General Bernardo OHiggins, Rancagua"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Oh My Pizza",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Miércoles"
-      ],
-      "dia_texto": "miércoles",
-      "canal": "Ambos",
-      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
-      "condiciones": [
-        "40% dto. los miércoles en pizzas de especialidad, en compra en locales y online ohmypizza.cl",
-        "Para compra presencial solicita tu descuento al momento de pagar.",
-        "Para compra online ingresa los 6 primeros dígitos de tu Tarjeta como código de dto.",
-        "No acumulable con otras promociones.",
-        "Descuento no válido en el valor del despacho.",
-        "Revisa cobertura de despacho en ohmypizza.cl",
-        "Descuento exclusivo pagando con tus Tarjetas del Chile."
-      ],
-      "sucursales": [
-        "Av. Sucre 2513, Región Metropolitana, Ñuñoa",
-        "Av. La Florida 7537, Región Metropolitana, La Florida",
-        "Av. María Rozas Velásquez 558, Región Metropolitana, Lo Prado",
-        "Av. Portugal 1079, Región Metropolitana, Santiago Centro",
-        "Polcura 2289, Región Metropolitana, Peñalolén",
-        "Gran Av. José Miguel Carrera 4311, Local 102, Región Metropolitana, San Miguel",
-        "Av. Macul 4850, Región Metropolitana, Macul",
-        "Av. Camilo Henríquez 11585, Región Metropolitana, Puente Alto",
-        "Gran Av. José Miguel Carrera 8243, Región Metropolitana, La Cisterna",
-        "Los Militares 4374, Región Metropolitana, Las Condes",
-        "Av. Los Carrera 674, Región de Valparaíso, Quilpué",
-        "Av. Barros Arana 771, Región Metropolitana, San Bernardo",
-        "Av. Independencia 851, Región Metropolitana, Independencia",
-        "Av. General Cruz 451, Región de Valparaíso, Valparaíso",
-        "Av. Angamos 232, Región de Antofagasta, Antofagasta",
-        "Av. Héroes de la Concepción 2855, Región de Tarapacá, Iquique",
-        "Av. República 47, Región Metropolitana, Santiago Centro",
-        "Av. Capitán Ramón Freire 234, Región de Ohiggins, Rancagua",
-        "Av. Las Condes 12340, Local 6, Región Metropolitana, Las Condes",
-        "Cuatro Esquinas 1580, Región de Coquimbo, La Serena",
-        "Av. Miraflores 1185, Región Metropolitana, Peñaflor",
-        "Av. Ecuador 658, Región de Ñuble, Chillán",
-        "José María Escrivá de Balaguer 861, Región de Valparaíso, Concon",
-        "La Montaña Norte 2394, Local 20, Región Metropolitana, Lampa",
-        "Av. Senador Humberto Palza Corvacho 3411, Región de Arica y Parinacota, Arica",
-        "Av. Granaderos 1864, Región de Antofagasta, Calama",
-        "Av. Copayapu #1824, Región Atacama, Copiapó",
-        "Av. Alameda Libertador Bernardo O´Higgins 4719, Región Metropolitana, Estación Central",
-        "Av. Laguna Sur #8405, Región Metropolitana, Pudahuel"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Basking by Aurea Dólares-Premio",
-      "categoria": "Dólares-Premio",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "Consumo por $50.000",
-      "canal": null,
-      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
-      "condiciones": [
-        "Perseguimos la originalidad en la propuesta de la nueva Cocina de autor Chilena, plasmando en cada detalle de nuestros espacios y preparaciones nuestras visión de lo que debe ser uno experiencia culinaria, única, una experiencia Áurea.",
-        "Consumo por $50.000.",
-        "No incluye propina.",
-        "Tu código será enviado en un plazo de hasta 12 horas hábiles."
-      ],
-      "sucursales": [
-        "El Manantial #1781, REGIÓN METROPOLITANA, Vitacura, +569 35341318"
       ]
     },
     {
@@ -24038,50 +23895,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Transvip",
-      "categoria": "Viajes",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "Traslados gratis en Transvip por ser cliente de Plan Travel",
-      "canal": null,
-      "vigencia": "Promoción válida hasta el 30 de noviembre de 2026.",
-      "condiciones": [
-        "Activa tu beneficio y obtén hasta 4 traslados gratis al año según tu Plan. Al contratratar un nuevo Plan de Tarjeta de Crédito obtén traslados gratis con Transvip.",
-        "Plan Travel Infinite: 4 traslados gratis al año.",
-        "Plan Travel Black: 4 traslados gratis al año.",
-        "Plan Travel Platinum: 2 traslados gratis al año."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Transvip",
-      "categoria": "Viajes",
-      "descuento": null,
-      "dia": [],
-      "dia_texto": "Traslado gratis en Transvip por compras con tus Tarjetas Visa",
-      "canal": null,
-      "vigencia": "Promoción válida hasta el 30 de noviembre de 2026.",
-      "condiciones": [
-        "Al comprar en Travel Viajes o vuelos nacionales desde $300.000, recibe un traslado gratis al Aeropuerto de Santiago. Beneficio para Tarjetas de Crédito Infinite, Signature y Platinum",
-        "Paso 1: Descarga tu código en los botones azules que están abajo. Paso 2: Ingresa en la App o sitio web de Transvip (www.transvip.cl), luego selecciona la opción traslado al aeropuerto, ingresa la dirección de origen/destino Paso 3: Al momento de confirmar la reserva ingresa el código de descuento.",
-        "Tu código estará disponible luego de 72 horas hábiles posteriores a la compra.",
-        "Tope de $50.000 por viaje. Si el monto del viaje supera los $50.000, la diferencia deberá ser pagada por el pasajero de manera directa a Transvip con sus Tarjetas de Crédito del Chile.",
-        "Para obtener tu traslado gratis debes solicitar tramo de Ida o de Regreso por separado en la opción \"Solo Ida\" en Web o APP Transvip.",
-        "Beneficio es válido en todas las compras en Aerolíneas y tus viajes nacionales e internacionales través de Travel Viajes.",
-        "Beneficio Líneas Aéreas: Válido solo para 1 compra nacional superior a $300.000 realizadas en el rubro líneas aéreas (Compras registradas en pesos en el estado de cuenta nacional. No aplica en compra en Dólares). Las compras no son acumulables.",
-        "El servicio será responsabilidad del operador Transvip.",
-        "Beneficio válido hasta el 30 de noviembre de 2026.",
-        "Los códigos deben utilizarse dentro del mismo mes en que son descargados, de todas maneras, el cliente puede realizar en una reserva que no sea en el mes en curso.",
-        "Los códigos descargados en meses anteriores ya están vencidos y no pueden ser utilizados.",
-        "Debe escribir a programa@travel.cl para gestionar la entrega de un nuevo código.",
-        "No, el beneficio aplica solo para traslados hacia o desde el aeropuerto y cada código corresponde a un tramo.",
-        "Compras Travel Viajes: válidas desde el 15.10.2025 al 30.11.2026. Líneas Aéreas: válido para compras en Chile para destinos nacionales e internacionales superiores a $300.000 en rubro líneas aéreas (Compras registradas en pesos en el estado de cuenta nacional. No aplica en compra en Dólares) desde el 15.10.2025 al 30.11.2026. Código válido para ser usado hasta el 30.11.2026. No aplica a las compras efectuadas a través de recaudadores o plataformas de pago como Mercado Pago y operadores (excepto Travel Viajes). El servicio del traslado es responsabilidad de Transvip. Dto con tope de $50.000 por viaje. Si el monto del viaje supera los $50.000, la diferencia debe ser pagada por el pasajero de manera directa a Transvip con su Tarjeta de Crédito del Banco de Chile. No acumulable con otras promociones. Revisa cobertura de Transvip.cl."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "Gnomo",
       "categoria": "Retail y Otras Marcas",
       "descuento": "20% dto.",
@@ -24386,6 +24199,135 @@
       "sucursales": []
     },
     {
+      "banco": "Banco de Chile",
+      "comercio": "Transvip",
+      "categoria": "Viajes",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "Traslado gratis en Transvip por compras con tus Tarjetas Visa",
+      "canal": null,
+      "vigencia": "Promoción válida hasta el 30 de noviembre de 2026.",
+      "condiciones": [
+        "Al comprar en Travel Viajes o vuelos nacionales desde $300.000, recibe un traslado gratis al Aeropuerto de Santiago. Beneficio para Tarjetas de Crédito Infinite, Signature y Platinum",
+        "Paso 1: Descarga tu código en los botones azules que están abajo. Paso 2: Ingresa en la App o sitio web de Transvip (www.transvip.cl), luego selecciona la opción traslado al aeropuerto, ingresa la dirección de origen/destino Paso 3: Al momento de confirmar la reserva ingresa el código de descuento.",
+        "Tu código estará disponible luego de 72 horas hábiles posteriores a la compra.",
+        "Tope de $50.000 por viaje. Si el monto del viaje supera los $50.000, la diferencia deberá ser pagada por el pasajero de manera directa a Transvip con sus Tarjetas de Crédito del Chile.",
+        "Para obtener tu traslado gratis debes solicitar tramo de Ida o de Regreso por separado en la opción \"Solo Ida\" en Web o APP Transvip.",
+        "Beneficio es válido en todas las compras en Aerolíneas y tus viajes nacionales e internacionales través de Travel Viajes.",
+        "Beneficio Líneas Aéreas: Válido solo para 1 compra nacional superior a $300.000 realizadas en el rubro líneas aéreas (Compras registradas en pesos en el estado de cuenta nacional. No aplica en compra en Dólares). Las compras no son acumulables.",
+        "El servicio será responsabilidad del operador Transvip.",
+        "Beneficio válido hasta el 30 de noviembre de 2026.",
+        "Los códigos deben utilizarse dentro del mismo mes en que son descargados, de todas maneras, el cliente puede realizar en una reserva que no sea en el mes en curso.",
+        "Los códigos descargados en meses anteriores ya están vencidos y no pueden ser utilizados.",
+        "Debe escribir a programa@travel.cl para gestionar la entrega de un nuevo código.",
+        "No, el beneficio aplica solo para traslados hacia o desde el aeropuerto y cada código corresponde a un tramo.",
+        "Compras Travel Viajes: válidas desde el 15.10.2025 al 30.11.2026. Líneas Aéreas: válido para compras en Chile para destinos nacionales e internacionales superiores a $300.000 en rubro líneas aéreas (Compras registradas en pesos en el estado de cuenta nacional. No aplica en compra en Dólares) desde el 15.10.2025 al 30.11.2026. Código válido para ser usado hasta el 30.11.2026. No aplica a las compras efectuadas a través de recaudadores o plataformas de pago como Mercado Pago y operadores (excepto Travel Viajes). El servicio del traslado es responsabilidad de Transvip. Dto con tope de $50.000 por viaje. Si el monto del viaje supera los $50.000, la diferencia debe ser pagada por el pasajero de manera directa a Transvip con su Tarjeta de Crédito del Banco de Chile. No acumulable con otras promociones. Revisa cobertura de Transvip.cl."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Transvip",
+      "categoria": "Viajes",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "Traslados gratis en Transvip por ser cliente de Plan Travel",
+      "canal": null,
+      "vigencia": "Promoción válida hasta el 30 de noviembre de 2026.",
+      "condiciones": [
+        "Activa tu beneficio y obtén hasta 4 traslados gratis al año según tu Plan. Al contratratar un nuevo Plan de Tarjeta de Crédito obtén traslados gratis con Transvip.",
+        "Plan Travel Infinite: 4 traslados gratis al año.",
+        "Plan Travel Black: 4 traslados gratis al año.",
+        "Plan Travel Platinum: 2 traslados gratis al año."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "OrangePet",
+      "categoria": "Mascotas",
+      "descuento": "Hasta 20% dto.",
+      "dia": [
+        "Martes",
+        "Miércoles"
+      ],
+      "dia_texto": "martes y miércoles",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 31 de julio de 2027.",
+      "condiciones": [
+        "OrangePet es una tienda especializada en productos, servicios y bienestar integral para mascotas. Nuestro compromiso es entregar una experiencia cercana, confiable y profesional, acompañando a cada tutor en el cuidado de sus animales con una amplia variedad de alimentos, accesorios, farmacia veterinaria y atención personalizada. Con enfoque en calidad, amor por los animales y constante innovación, OrangePet se ha convertido en un aliado esencial para quienes buscan lo mejor para sus mascotas.",
+        "20% dto. en accesorios",
+        "15% dto. en farmacia veterinaria",
+        "10% dto. en alimentos",
+        "Beneficio excluye ventas nocturnas, Cyber Day y Orange Day",
+        "Solicita tu descuento al momento de pagar.",
+        "No acumulable con otras promociones.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": [
+        "Av Ecuador #539, Región de Ñuble, Chillán",
+        "Vicente Méndez #1545 Local 1308, Región de Ñuble, Chillán",
+        "Camino al venado #560, local A3, Región del Biobío, Concepción",
+        "Ramon Carrasco #99 lote 25D, Región del Biobío, Concepción",
+        "Av Juan Bosco #2239, Local 1 esquina Los Carrera, Región del Biobío, Concepción",
+        "Av. Vitacura #5812, Región Metropolitana, Vitacura"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Lagün",
+      "categoria": "Entretención y Deportes",
+      "descuento": "30% dto.",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días",
+      "canal": "Online",
+      "vigencia": "Promoción válida hasta el 28 de febrero de 2027.",
+      "condiciones": [
+        "Lagün es una línea de hidratación saludable inspirada en la Patagonia, elaborada con frutos y botánicos, sin azúcar añadida y levemente gasificada. A través de sus Momentos —CALMA, FOCO, ACTIVA y RENUEVA— invita a elegir cómo sentirse y a hidratarse con propósito.",
+        "30% dto. todos los días en lagun.cl",
+        "Obtén tu descuento ingresando LAGUNBCH como código de dto.",
+        "Descuento no aplica para valor del despacho.",
+        "No acumulable con otras promociones.",
+        "Revisa cobertura de despacho en lagun.cl",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Faith no more and Alice in chains - 4 de noviembre 2027",
+      "categoria": "Entretención y Deportes",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "Compra tus entradas con los mejores beneficios de tus Tarjetas",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "FestiGame 2026",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "25% dcto.",
+      "dia": [],
+      "dia_texto": "Hasta  hasta agotar stock",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Festival de video juegos, tecnología y cultura geek más grande de Chile.",
+        "Exclusivo con tus Tarjetas de Crédito y Débito Santander.",
+        "Hasta 10 tickets por rut, hasta agotar stock de 5.000 tickets.",
+        "Cenco Mall Florida, La Florida.",
+        "Evento Jueves 10 al domingo 13 de diciembre",
+        "Descuento en tienda oficial de FestiGame (merch oficial)",
+        "Hasta 25% de descuento en pagando con Tarjetas Santander Mastercard, exclusivo para clientes Santander hasta agotar stock. Aplican T&C. Entradas exclusivamente a través de Fever. Infórmese sobre la garantía estatal de los depósitos en su banco o en cmfchile.cl"
+      ],
+      "sucursales": []
+    },
+    {
       "banco": "Banco Santander",
       "comercio": "Skydive Chile",
       "categoria": "Retail y Otras Marcas",
@@ -24405,28 +24347,6 @@
         "Código de descuento SALTOSANTANDER2026",
         "Salto sujeto a condiciones climáticas.",
         "Las ofertas, ventas y descuentos, entregas de beneficios no financieros, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco Santander",
-      "comercio": "FestiGame 2026",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": "25% dcto.",
-      "dia": [],
-      "dia_texto": "Hasta  hasta agotar stock",
-      "canal": null,
-      "vigencia": null,
-      "condiciones": [
-        "Festival de video juegos, tecnología y cultura geek más grande de Chile.",
-        "Exclusivo con tus Tarjetas de Crédito y Débito Santander.",
-        "Hasta 10 tickets por rut, hasta agotar stock de 5.000 tickets.",
-        "Cenco Mall Florida, La Florida.",
-        "Evento Jueves 10 al domingo 13 de diciembre",
-        "Descuento en tienda oficial de FestiGame (merch oficial)",
-        "20% descuento en Photo Op. Oficial.",
-        "25% descuento en compra de entradas.",
-        "Hasta 25% de descuento en pagando con Tarjetas Santander Mastercard, exclusivo para clientes Santander hasta agotar stock. Aplican T&C. Entradas exclusivamente a través de Fever. Infórmese sobre la garantía estatal de los depósitos en su banco o en cmfchile.cl"
       ],
       "sucursales": []
     },
