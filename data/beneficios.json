@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-19T19:15",
+  "actualizado": "2026-11-20T18:55",
   "beneficios": [
     {
       "banco": "Banco de Chile",
@@ -235,207 +235,6 @@
         "Av. Libertador O´ Higgins #1449, (local 13), Región Metropolitana, Santiago",
         "Fidel Oteiza #1971, Región Metropolitana, Providencia"
       ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "GyC Automotriz",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": "20% dto.",
-      "dia": [],
-      "dia_texto": "en todos las prestaciones de servicio",
-      "canal": "Tienda física",
-      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
-      "condiciones": [
-        "GyC Automotriz el servicio automotriz multimarca mas grande de la Araucanía , especialistas en DYP y mecánica con licencia BOSCH , encontrará los mejores precios , repuestos y atención para su vehículo.",
-        "Obtén tu descuento pagando con tus Tarjetas del Banco.",
-        "No acumulable con otras promociones."
-      ],
-      "sucursales": [
-        "San Martin #566, Región de la Araucanía, Temuco",
-        "Av Guido Beck de Ramberga #1930, Región de la Araucanía, Temuco Padre las Casas"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Home Life",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": "20% dto",
-      "dia": [
-        "Todos los días"
-      ],
-      "dia_texto": "todos los días",
-      "canal": "Online",
-      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
-      "condiciones": [
-        "Home Life es la propuesta aromática que transforma tus espacios en lugares confortables y plenos de sensaciones agradables. Descubre cómo los aromas actúan contra el estrés, te ayudan a relajarte o estimularte, y aportan nueva energía, haciendo de tu casa el lugar placentero que deseas.",
-        "Obtén tu descuento ingresando el código HLBANCOCHILE como cupón de descuento al momento de finalizar la compra en homelifelatam.cl",
-        "Beneficio valido para compras desde $20.000",
-        "No acumulable con otras promociones.",
-        "Descuento no aplica al valor del despacho."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "DR. GRILL",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": "15% dto.",
-      "dia": [],
-      "dia_texto": "en tu primera limpieza",
-      "canal": null,
-      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
-      "condiciones": [
-        "Dr. Grill es una empresa que brinda servicios de limpieza, mantención y reparación de parrillas a domicilio.",
-        "Obtén tu descuento ingresando los 6 primeros dígitos de tu tarjeta del Banco como código promocional al momento de finalizar reserva del servicio en drgrill.cl o También se puede agendar al WhatsApp +56930369180 indicando los 6 primeros dígitos de tu tarjeta.",
-        "No acumulable con otras promociones."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Patio Ferretero",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": "Hasta 20% dto.",
-      "dia": [
-        "Todos los días"
-      ],
-      "dia_texto": "todos los días en compra",
-      "canal": "Online",
-      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
-      "condiciones": [
-        "En Patio Ferretero nos especializamos en la importación y comercialización de una amplia gama de herramientas manuales, eléctricas y a batería de primera categoría. Con un enfoque en la calidad, la innovación y la satisfacción del cliente, en PATIO FERRETERO nos dedicamos a proporcionarte las herramientas adecuadas para cualquier tarea. Ya sea que seas un profesional experimentado o un aficionado entusiasta, encontrarás en nosotros el socio perfecto para tus necesidades. ¡Únete a nosotros en PATIO FERRETERO y eleva tus proyectos al siguiente nivel con nuestras herramientas de primera calidad!",
-        "20% de dcto en productos de las marcas INGCO, MIRLO y WADFOW.",
-        "5% de dcto en las otras marcas publicadas en sitio web.",
-        "Para hacer valido el beneficio ingresa los 6 primeros digítos de tu tarjeta como cupón de descuento al momento de finalizar la compra en patioferretero.cl",
-        "No acumulable con otras promociones.",
-        "Descuento no aplica al valor del despacho."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "ZEISS VISION CENTER",
-      "categoria": "Salud y Belleza",
-      "descuento": "Hasta 40% dto.",
-      "dia": [
-        "Todos los días"
-      ],
-      "dia_texto": "todos los días",
-      "canal": "Tienda física",
-      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
-      "condiciones": [
-        "Tecnología alemana de punta ZEISS VISION CENTER en Alto Las Condes para lentes más personalizados, livianos y estéticos de acuerdo a tus necesidades visuales únicas. Somos expertos en personalización de lentes multifocales con hasta 2 años de garantía.",
-        "Solicita tu descuento al momento de pagar con tus tarjetas del Banco.",
-        "40% dto. en marcos y gafas de sol GUCCI y Balenciaga.",
-        "30% dto en marcos y gafas de sol Montblanc.",
-        "25% dto. Lentes Monofocales ZEISS ClearView*",
-        "25% dto. Lentes Multifocales ZEISS SmartLife*",
-        "25% dto. Lentes ZEISS Drivesafe para la vida diaria y la conducción.",
-        "25% dto. Lentes ZEISS MyoCare para la miopía infantil.",
-        "25% dto. Lentes Alto Índice ZEISS SmartLife para recetas altas.",
-        "25% dto. Lentes ZEISS SmartLife Young para niños y adolescentes.",
-        "20% dto. en marcos y gafas de sol MODO y ECO.",
-        "15% dto. en marcos y gafas de sol Lacoste, Nike, Calvin Klein, Loungchamp, Columnia y Converse."
-      ],
-      "sucursales": [
-        "Av. Pdte. Kennedy Lateral #9001, Región Metropolitana, Las Condes"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "MapuWeñimen",
-      "categoria": "Salud y Belleza",
-      "descuento": "20% dto.",
-      "dia": [
-        "Todos los días"
-      ],
-      "dia_texto": "todos los días",
-      "canal": null,
-      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
-      "condiciones": [
-        "Ven a relajarte y disfrutar de un entorno natural muy cerca de Santiago con tinajas de agua caliente, masajes y mucho más.",
-        "Obtén 20% de descuento de manera presencial en los siguientes servicios:",
-        "Tinajas de agua caliente",
-        "Sauna",
-        "Masajes",
-        "Cabalgatas",
-        "Solicita tu descuento al momento de pagar con tus tarjetas del Banco."
-      ],
-      "sucursales": [
-        "La Marinana s/n Camino a Roma, Región del Libertador General Bernardo OHiggins, San Fernando"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "SANASALUD",
-      "categoria": "Salud y Belleza",
-      "descuento": "Hasta 65% dto.",
-      "dia": [
-        "Lunes",
-        "Martes"
-      ],
-      "dia_texto": "todos los lunes y martes",
-      "canal": null,
-      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
-      "condiciones": [
-        "Sanasalud es una reconocida red de centros médicos y dentales con todas las especialidades disponibles, con más de 13 años de experiencia. Nuestra misión es entregar salud de calidad al alcance de todos.",
-        "Obtén dcto pagando con tus tarjetas del Banco en las siguientes prestaciones.",
-        "65% de dcto en tratamientos dentales.",
-        "60% de dcto en depilación laser.",
-        "20% de dcto en tratamientos estéticos.",
-        "Limpieza facial a $14.990.",
-        "Diagnostico, radiografías intraorales y limpieza dental a $9.990.",
-        "Verifica sucursal que cuenta con el servicio de acuerdo a tu interés.",
-        "No acumulable con otras promociones."
-      ],
-      "sucursales": [
-        "Av. Pedro de Valdivia #195, Región Metropolitana, Providencia",
-        "Santa Catalina Anibal Pinto #436, Región Metropolitana, Buin",
-        "Antonio Palmieri #250, Región Valparaíso, San Antonio",
-        "Puente #689, piso 4, Región Metropolitana, Santiago"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Diagnopro",
-      "categoria": "Salud y Belleza",
-      "descuento": "Hasta 20% dto.",
-      "dia": [
-        "Todos los días"
-      ],
-      "dia_texto": "todos los días en sucursal de Temuco",
-      "canal": null,
-      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
-      "condiciones": [
-        "Obtén un 15% de descuento en Resonancia Magnética y 20% de descuento en Scanner/ TAC sobre copago Fonasa o sobre arancel particular PREFERENCIAL pacientes Isapre.",
-        "Obtén descuento al pagar con tus tarjetas del Chile.",
-        "No acumulable con otras promociones.",
-        "Descuentos nos incluyen medio de contraste en el caso de TAC/SCANNER."
-      ],
-      "sucursales": [
-        "LAS HERAS 453, ARAUCANIA, TEMUCO"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Deysa Care",
-      "categoria": "Salud y Belleza",
-      "descuento": "20% dto",
-      "dia": [
-        "Todos los días"
-      ],
-      "dia_texto": "todos los días",
-      "canal": "Online",
-      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
-      "condiciones": [
-        "En Deysa Care fabricamos las mejores mascarillas del país aplicando tecnología e innovación. En nuestra web encontrarás variedades y colores, desde triple pliego celeste hasta KN95 rosada. También encontrarás nuestros packs PYME para tu negocio con atractivos descuentos por volumen. ¡Encuentra la tuya, protégete y aprovecha tu descuento!",
-        "20% dto. en mascarillas Deysa Care.",
-        "Ingresa los 6 primeros digitos de tu Tarjeta como código de descuento en www.deysacare.com",
-        "Beneficio no acumulable con otras promociones.",
-        "Descuento válido por compras superiores a $10.000.",
-        "No válido para productos Pyme"
-      ],
-      "sucursales": []
     },
     {
       "banco": "Banco de Chile",
@@ -3136,6 +2935,48 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "Deysa Care",
+      "categoria": "Salud y Belleza",
+      "descuento": "20% dto",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días",
+      "canal": "Online",
+      "vigencia": "Promoción válida hasta el 31 de mayo de 2027.",
+      "condiciones": [
+        "En Deysa Care fabricamos las mejores mascarillas del país aplicando tecnología e innovación. En nuestra web encontrarás variedades y colores, desde triple pliego celeste hasta KN95 rosada. También encontrarás nuestros packs PYME para tu negocio con atractivos descuentos por volumen. ¡Encuentra la tuya, protégete y aprovecha tu descuento!",
+        "20% dto. en mascarillas Deysa Care.",
+        "Ingresa los 6 primeros digitos de tu Tarjeta como código de descuento en www.deysacare.com",
+        "Beneficio no acumulable con otras promociones.",
+        "Descuento válido por compras superiores a $10.000.",
+        "No válido para productos Pyme"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Diagnopro",
+      "categoria": "Salud y Belleza",
+      "descuento": "Hasta 20% dto.",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días en sucursal de Temuco",
+      "canal": null,
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2027.",
+      "condiciones": [
+        "Obtén un 15% de descuento en Resonancia Magnética y 20% de descuento en Scanner/ TAC sobre copago Fonasa o sobre arancel particular PREFERENCIAL pacientes Isapre.",
+        "Obtén descuento al pagar con tus tarjetas del Chile.",
+        "No acumulable con otras promociones.",
+        "Descuentos nos incluyen medio de contraste en el caso de TAC/SCANNER."
+      ],
+      "sucursales": [
+        "LAS HERAS 453, ARAUCANIA, TEMUCO"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "Don Pedro",
       "categoria": "Sabores",
       "descuento": "20% dto.",
@@ -3195,6 +3036,22 @@
       "sucursales": [
         "Esmeralda #716, Región Metropolitana, Santiago, Santiago"
       ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "DR. GRILL",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "15% dto.",
+      "dia": [],
+      "dia_texto": "en tu primera limpieza",
+      "canal": null,
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2027.",
+      "condiciones": [
+        "Dr. Grill es una empresa que brinda servicios de limpieza, mantención y reparación de parrillas a domicilio.",
+        "Obtén tu descuento ingresando los 6 primeros dígitos de tu tarjeta del Banco como código promocional al momento de finalizar reserva del servicio en drgrill.cl o También se puede agendar al WhatsApp +56930369180 indicando los 6 primeros dígitos de tu tarjeta.",
+        "No acumulable con otras promociones."
+      ],
+      "sucursales": []
     },
     {
       "banco": "Banco de Chile",
@@ -3862,6 +3719,25 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "GyC Automotriz",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "20% dto.",
+      "dia": [],
+      "dia_texto": "en todos las prestaciones de servicio",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2027.",
+      "condiciones": [
+        "GyC Automotriz el servicio automotriz multimarca mas grande de la Araucanía , especialistas en DYP y mecánica con licencia BOSCH , encontrará los mejores precios , repuestos y atención para su vehículo.",
+        "Obtén tu descuento pagando con tus Tarjetas del Banco.",
+        "No acumulable con otras promociones."
+      ],
+      "sucursales": [
+        "San Martin #566, Región de la Araucanía, Temuco",
+        "Av Guido Beck de Ramberga #1930, Región de la Araucanía, Temuco Padre las Casas"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "Hacienda el Llano",
       "categoria": "Sabores",
       "descuento": "20% dto.",
@@ -3966,6 +3842,26 @@
         "Av. La Dehesa #440, oficina 324, Región Metropolitana, Lo Barnechea",
         "Arturo Prat #218, Región Metropolitana, Santiago"
       ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Home Life",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "20% dto",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días",
+      "canal": "Online",
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2027.",
+      "condiciones": [
+        "Home Life es la propuesta aromática que transforma tus espacios en lugares confortables y plenos de sensaciones agradables. Descubre cómo los aromas actúan contra el estrés, te ayudan a relajarte o estimularte, y aportan nueva energía, haciendo de tu casa el lugar placentero que deseas.",
+        "Obtén tu descuento ingresando el código HLBANCOCHILE como cupón de descuento al momento de finalizar la compra en homelifelatam.cl",
+        "Beneficio valido para compras desde $20.000",
+        "No acumulable con otras promociones.",
+        "Descuento no aplica al valor del despacho."
+      ],
+      "sucursales": []
     },
     {
       "banco": "Banco de Chile",
@@ -4723,6 +4619,30 @@
       ],
       "sucursales": [
         "Leonardo da vinci 7410, RM, Las Condes"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "MapuWeñimen",
+      "categoria": "Salud y Belleza",
+      "descuento": "20% dto.",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días",
+      "canal": null,
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2027.",
+      "condiciones": [
+        "Ven a relajarte y disfrutar de un entorno natural muy cerca de Santiago con tinajas de agua caliente, masajes y mucho más.",
+        "Obtén 20% de descuento de manera presencial en los siguientes servicios:",
+        "Tinajas de agua caliente",
+        "Sauna",
+        "Masajes",
+        "Cabalgatas",
+        "Solicita tu descuento al momento de pagar con tus tarjetas del Banco."
+      ],
+      "sucursales": [
+        "La Marinana s/n Camino a Roma, Región del Libertador General Bernardo OHiggins, San Fernando"
       ]
     },
     {
@@ -5599,6 +5519,27 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "Patio Ferretero",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "Hasta 20% dto.",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días en compra",
+      "canal": "Online",
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2027.",
+      "condiciones": [
+        "En Patio Ferretero nos especializamos en la importación y comercialización de una amplia gama de herramientas manuales, eléctricas y a batería de primera categoría. Con un enfoque en la calidad, la innovación y la satisfacción del cliente, en PATIO FERRETERO nos dedicamos a proporcionarte las herramientas adecuadas para cualquier tarea. Ya sea que seas un profesional experimentado o un aficionado entusiasta, encontrarás en nosotros el socio perfecto para tus necesidades. ¡Únete a nosotros en PATIO FERRETERO y eleva tus proyectos al siguiente nivel con nuestras herramientas de primera calidad!",
+        "20% de dcto en productos de las marcas INGCO, MIRLO y WADFOW.",
+        "5% de dcto en las otras marcas publicadas en sitio web.",
+        "Para hacer valido el beneficio ingresa los 6 primeros digítos de tu tarjeta como cupón de descuento al momento de finalizar la compra en patioferretero.cl",
+        "No acumulable con otras promociones.",
+        "Descuento no aplica al valor del despacho."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "Perutaly",
       "categoria": "Sabores",
       "descuento": "20% dto.",
@@ -6023,6 +5964,36 @@
         "Rudecindo Ortega 1738, REGIÓN DE LA ARAUCANÍA, Temuco",
         "Terminal Internacional, REGIÓN METROPOLITANA, Pudahuel",
         "Valdivia 440, REGIÓN DEL BIOBÍO, Los Angeles"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "SANASALUD",
+      "categoria": "Salud y Belleza",
+      "descuento": "Hasta 65% dto.",
+      "dia": [
+        "Lunes",
+        "Martes"
+      ],
+      "dia_texto": "todos los lunes y martes",
+      "canal": null,
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2027.",
+      "condiciones": [
+        "Sanasalud es una reconocida red de centros médicos y dentales con todas las especialidades disponibles, con más de 13 años de experiencia. Nuestra misión es entregar salud de calidad al alcance de todos.",
+        "Obtén dcto pagando con tus tarjetas del Banco en las siguientes prestaciones.",
+        "65% de dcto en tratamientos dentales.",
+        "60% de dcto en depilación laser.",
+        "20% de dcto en tratamientos estéticos.",
+        "Limpieza facial a $14.990.",
+        "Diagnostico, radiografías intraorales y limpieza dental a $9.990.",
+        "Verifica sucursal que cuenta con el servicio de acuerdo a tu interés.",
+        "No acumulable con otras promociones."
+      ],
+      "sucursales": [
+        "Av. Pedro de Valdivia #195, Región Metropolitana, Providencia",
+        "Santa Catalina Anibal Pinto #436, Región Metropolitana, Buin",
+        "Antonio Palmieri #250, Región Valparaíso, San Antonio",
+        "Puente #689, piso 4, Región Metropolitana, Santiago"
       ]
     },
     {
@@ -6803,6 +6774,35 @@
         "Descuento no aplica al valor del despacho."
       ],
       "sucursales": []
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "ZEISS VISION CENTER",
+      "categoria": "Salud y Belleza",
+      "descuento": "Hasta 40% dto.",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días",
+      "canal": "Tienda física",
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2027.",
+      "condiciones": [
+        "Tecnología alemana de punta ZEISS VISION CENTER en Alto Las Condes para lentes más personalizados, livianos y estéticos de acuerdo a tus necesidades visuales únicas. Somos expertos en personalización de lentes multifocales con hasta 2 años de garantía.",
+        "Solicita tu descuento al momento de pagar con tus tarjetas del Banco.",
+        "40% dto. en marcos y gafas de sol GUCCI y Balenciaga.",
+        "30% dto en marcos y gafas de sol Montblanc.",
+        "25% dto. Lentes Monofocales ZEISS ClearView*",
+        "25% dto. Lentes Multifocales ZEISS SmartLife*",
+        "25% dto. Lentes ZEISS Drivesafe para la vida diaria y la conducción.",
+        "25% dto. Lentes ZEISS MyoCare para la miopía infantil.",
+        "25% dto. Lentes Alto Índice ZEISS SmartLife para recetas altas.",
+        "25% dto. Lentes ZEISS SmartLife Young para niños y adolescentes.",
+        "20% dto. en marcos y gafas de sol MODO y ECO.",
+        "15% dto. en marcos y gafas de sol Lacoste, Nike, Calvin Klein, Loungchamp, Columnia y Converse."
+      ],
+      "sucursales": [
+        "Av. Pdte. Kennedy Lateral #9001, Región Metropolitana, Las Condes"
+      ]
     },
     {
       "banco": "Banco de Chile",
@@ -18380,31 +18380,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Expendio",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Martes",
-        "Viernes",
-        "Sábado"
-      ],
-      "dia_texto": "martes, viernes y sábado de noviembre",
-      "canal": null,
-      "vigencia": "Promoción válida del 01 al 30 de noviembre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial 40% dto. martes, viernes y sábado de noviembre.",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dto. $50.000 por mesa"
-      ],
-      "sucursales": [
-        "Av. Manuel Montt 727, RM, Providencia"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "Vitali´s",
       "categoria": "Sabores",
       "descuento": "40% dto.",
@@ -18451,29 +18426,6 @@
         "Avda. Vitacura #5461, Región Metropolitana, Vitacura",
         "Av. Principe De Gales #6500, Región Metropolitana, La Reina",
         "El Rodeo #12850, Local 74 y 75, Región Metropolitana, Lo Barnechea"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "CuracaRibs",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Jueves"
-      ],
-      "dia_texto": "jueves de noviembre",
-      "canal": null,
-      "vigencia": "Promoción válida del 01 al 30 de noviembre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial en Restaurantes CuracaRibs Ruta 68 y CuracaRibs Vitacura. 40% dto. jueves de noviembre.",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Tope de dcto. $50.000"
-      ],
-      "sucursales": [
-        "Ruta 68 km 45.500 km 45,5, Región Metropolitana, Curacaví",
-        "Los Abedules 3016, Región Metropolitana, Vitacura"
       ]
     },
     {
@@ -18550,77 +18502,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Greta",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Sábado"
-      ],
-      "dia_texto": "sábados de noviembre",
-      "canal": null,
-      "vigencia": "Promoción válida del 01 al 30 de noviembre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial 40% dto. sábados de noviembre.",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dto. $50.000 por mesa"
-      ],
-      "sucursales": [
-        "2 Nte. 3815, Región del Maule, Talca"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "The Clock",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Sábado"
-      ],
-      "dia_texto": "sábados de noviembre",
-      "canal": null,
-      "vigencia": "Promoción válida del 01 al 30 de noviembre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial. 40% dto. sábados de noviembre.",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dcto. $50.000 por mesa"
-      ],
-      "sucursales": [
-        "Conrado Amthauer #850, Los Lagos, Osorno"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Dominga Bistró",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Domingo"
-      ],
-      "dia_texto": "domingos de noviembre",
-      "canal": null,
-      "vigencia": "Promoción válida del 01 al 30 de noviembre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial 40% dto. domingos de noviembre.",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dto. $50.000 por mesa",
-        "Exclusivo Valdivia."
-      ],
-      "sucursales": [
-        "Filomena Valenzuela #221, Región de Tarapacá, Iquique",
-        "Avenida Benjamín Viel S/N, Región de Los Ríos, Valdivia"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "Pistacho",
       "categoria": "Sabores",
       "descuento": "40% dto.",
@@ -18686,52 +18567,6 @@
       ],
       "sucursales": [
         "Fresia #236, Región de la Araucanía, Pucón"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Carbón",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Viernes"
-      ],
-      "dia_texto": "viernes de noviembre",
-      "canal": null,
-      "vigencia": "Promoción válida del 01 al 30 de noviembre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial 40% dto. viernes de noviembre",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope $50.000 de dto"
-      ],
-      "sucursales": [
-        "Av. Central #184, Región de Valparaíso, Reñaca"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Costa Sushi",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Jueves"
-      ],
-      "dia_texto": "jueves de noviembre",
-      "canal": null,
-      "vigencia": "Promoción válida del 01 al 30 de noviembre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial 40% dto. jueves de noviembre",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope $50.000 de dto"
-      ],
-      "sucursales": [
-        "Bernardo O´Higgins #1274, Región de Valparaíso, Valparaíso"
       ]
     },
     {
@@ -18847,29 +18682,6 @@
       ],
       "sucursales": [
         "Avenida Borgoño #15460 Sector 5, Región de Valparaíso, Viña del Mar"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Da Alessandro",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Jueves"
-      ],
-      "dia_texto": "jueves de noviembre",
-      "canal": null,
-      "vigencia": "Promoción válida del 01 al 30 de noviembre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial 40% dto. jueves de noviembre",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope $50.000 de dto"
-      ],
-      "sucursales": [
-        "Ramón Freire #1105, Edificio Plaza Allegra, Región de los lagos, Puerto Varas"
       ]
     },
     {
@@ -19124,31 +18936,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Capri",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Martes",
-        "Miércoles"
-      ],
-      "dia_texto": "martes y miércoles de noviembre",
-      "canal": null,
-      "vigencia": "Promoción válida del 01 al 30 de noviembre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial 40% dto. martes y miércoles de noviembre.",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dto. $50.000 por mesa"
-      ],
-      "sucursales": [
-        "Gerónimo de Alderete 1423, Región Metropolitana, Vitacura",
-        "El Rodeo #13052, Región Metropolitana, Lo Barnechea"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "Peluquería Francesa",
       "categoria": "Sabores",
       "descuento": "40% dto.",
@@ -19170,33 +18957,6 @@
       ],
       "sucursales": [
         "Compañía de Jesús #2789, RM, Santiago, Teléfono: +56977989743"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Brasas del Arriero",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Lunes",
-        "Martes",
-        "Miércoles",
-        "Jueves",
-        "Viernes"
-      ],
-      "dia_texto": "lunes a viernes de noviembre",
-      "canal": null,
-      "vigencia": "Promoción válida del 01 al 30 de noviembre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial 40% dto. lunes a viernes de noviembre.",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dto. $50.000 por mesa"
-      ],
-      "sucursales": [
-        "Trinidad Ote. 1307, Región Metropolitana, La Florida, (2) 2710 2321"
       ]
     },
     {
@@ -19942,30 +19702,6 @@
       ],
       "sucursales": [
         "Av. Pedro Fontova 7280, Local 106-107, Región Metropolitana, Huechuraba"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "DO SUSHI",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Miércoles",
-        "Sábado"
-      ],
-      "dia_texto": "miércoles y sábado de noviembre",
-      "canal": null,
-      "vigencia": "Promoción válida del 01 al 30 de noviembre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial 40% dto. miércoles y sábado de noviembre.",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dto. $50.000 por mesa"
-      ],
-      "sucursales": [
-        "Avenida Suecia #155, Local 0167, Región Metropolitana, Providencia"
       ]
     },
     {
@@ -21181,29 +20917,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "El mesón de la Patagonia",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Jueves"
-      ],
-      "dia_texto": "jueves de noviembre",
-      "canal": null,
-      "vigencia": "Promoción válida del 01 al 30 de noviembre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial. 40% dto. jueves de noviembre.",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dcto. $50.000 por mesa"
-      ],
-      "sucursales": [
-        "Lo Barnechea #1223, Región Metropolitana, Lo Barnechea"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "Hush Puppies",
       "categoria": "Retail y Otras Marcas",
       "descuento": "20% dto.",
@@ -21863,30 +21576,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Justo – Primera compra",
-      "categoria": "Sabores",
-      "descuento": "Disfruta $8.000 dto.",
-      "dia": [],
-      "dia_texto": "en tu primera compra Justo App",
-      "canal": null,
-      "vigencia": "Promoción válida  hasta el 19 de noviembre de 2026.",
-      "condiciones": [
-        "Disfruta $8.000 de descuento en tu primera compra en Justo App.",
-        "Ingresando el código SOYBCH como cupón de descuento y pagando con tus Tarjetas del Chile.",
-        "Valido para 1 canje por usuario.",
-        "Válido en todos los locales disponibles en Justo App.",
-        "Compra mínima: $20.000",
-        "El descuento se verá reflejado al momento de la compra.",
-        "Válido únicamente para la primera compra en Justo App.",
-        "Beneficio exclusivo para delivery.",
-        "Descuento no acumulable en el costo de envío.",
-        "No acumulable con otros cupones de descuento.",
-        "Descuento exclusivo pagando con tus Tarjetas del Chile."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "Boga",
       "categoria": "Sabores",
       "descuento": "40% dto.",
@@ -21956,34 +21645,6 @@
       ],
       "sucursales": [
         "Av. Alcaldesa Balbina Vera 3561, Local 116, Región Metropolitana, Ñuñoa"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Chili's",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Miércoles"
-      ],
-      "dia_texto": "miércoles de noviembre",
-      "canal": null,
-      "vigencia": "Promoción válida del 01 al 30 de noviembre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial 40% dto. miércoles de noviembre",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dto. $50.000 por mesa"
-      ],
-      "sucursales": [
-        "Los Domínicos, Avenida Padre Hurtado Sur #785, Región Metropolitana, Las Condes",
-        "Alto Las Condes, Avenida Kennedy #9001 local 3207, Región Metropolitana, Las Condes",
-        "Parque Arauco, Avenida Kennedy #5413 local 461, Región Metropolitana, Las Condes",
-        "Costanera, Andrés Bello #2447 local 5128, Región Metropolitana, Providencia",
-        "Arauco Maipú, Avenida Américo Vespucio #399, Región Metropolitana, Maipú",
-        "Isidora, Isidora Goyenechea #2940, Región Metropolitana, Las Condes"
       ]
     },
     {
@@ -22162,29 +21823,6 @@
         "Apumanque, Av. Apoquindo 6087, local 4, Región Metropolitana, Las Condes",
         "Parque Arauco, Av. Pdte. Kennedy 5413, Parque Arauco, foodcourt, piso 4, zona C, Región Metropolitana, Las Condes",
         "CV Galería Vitacura, Alonso de Córdova 4355, Región Metropolitana, Vitacura"
-      ]
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "Greed Taproom",
-      "categoria": "Sabores",
-      "descuento": "40% dto.",
-      "dia": [
-        "Martes"
-      ],
-      "dia_texto": "martes de noviembre",
-      "canal": null,
-      "vigencia": "Promoción válida del 01 al 30 de noviembre de 2026.",
-      "condiciones": [
-        "Válido para consumo presencial 40% dto. martes de noviembre.",
-        "Solicita el descuento al momento de pagar en el restaurant.",
-        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
-        "No acumulable con otras promociones.",
-        "Te sugerimos realizar reserva para consumo presencial.",
-        "Tope dto. $50.000 por mesa"
-      ],
-      "sucursales": [
-        "Ignacio Zenteno #2661, Región de Los Lagos, Osorno"
       ]
     },
     {
@@ -23436,6 +23074,29 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "The Clock",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Sábado"
+      ],
+      "dia_texto": "sábados de noviembre",
+      "canal": null,
+      "vigencia": "Promoción válida del 01 al 30 de noviembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial. 40% dto. sábados de noviembre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dcto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Conrado Amthauer #850, Los Lagos, Osorno"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "Basildon",
       "categoria": "Sabores",
       "descuento": "40% dto.",
@@ -23462,17 +23123,17 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Cervecería Kunstmann Valdivia",
+      "comercio": "Carbón",
       "categoria": "Sabores",
       "descuento": "40% dto.",
       "dia": [
-        "Lunes"
+        "Viernes"
       ],
-      "dia_texto": "lunes de noviembre",
+      "dia_texto": "viernes de noviembre",
       "canal": null,
       "vigencia": "Promoción válida del 01 al 30 de noviembre de 2026.",
       "condiciones": [
-        "Válido para consumo presencial 40% dto. todos los lunes de noviembre.",
+        "Válido para consumo presencial 40% dto. viernes de noviembre",
         "Solicita el descuento al momento de pagar en el restaurant.",
         "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
         "No acumulable con otras promociones.",
@@ -23480,7 +23141,30 @@
         "Tope $50.000 de dto"
       ],
       "sucursales": [
-        "Ruta T 350 #950, Región de los Ríos, Valdivia"
+        "Av. Central #184, Región de Valparaíso, Reñaca"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Costa Sushi",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Jueves"
+      ],
+      "dia_texto": "jueves de noviembre",
+      "canal": null,
+      "vigencia": "Promoción válida del 01 al 30 de noviembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. jueves de noviembre",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope $50.000 de dto"
+      ],
+      "sucursales": [
+        "Bernardo O´Higgins #1274, Región de Valparaíso, Valparaíso"
       ]
     },
     {
@@ -23504,6 +23188,29 @@
       ],
       "sucursales": [
         "Carrera #301, Maule, Curicó"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Da Alessandro",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Jueves"
+      ],
+      "dia_texto": "jueves de noviembre",
+      "canal": null,
+      "vigencia": "Promoción válida del 01 al 30 de noviembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. jueves de noviembre",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope $50.000 de dto"
+      ],
+      "sucursales": [
+        "Ramón Freire #1105, Edificio Plaza Allegra, Región de los lagos, Puerto Varas"
       ]
     },
     {
@@ -23864,6 +23571,29 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "Cervecería Kunstmann Valdivia",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Lunes"
+      ],
+      "dia_texto": "lunes de noviembre",
+      "canal": null,
+      "vigencia": "Promoción válida del 01 al 30 de noviembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. todos los lunes de noviembre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope $50.000 de dto"
+      ],
+      "sucursales": [
+        "Ruta T 350 #950, Región de los Ríos, Valdivia"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "Transvip",
       "categoria": "Viajes",
       "descuento": null,
@@ -24200,6 +23930,61 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "Rosen",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "Paga hasta en 24 cuotas sin interés",
+      "canal": null,
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
+      "condiciones": [
+        "Exclusivo para Tarjetas de Crédito Banco de Chile.",
+        "Válido en rosen.cl y en tiendas Rosen y Babyrosen.",
+        "Compra de $1.000.000",
+        "24 cuotas de $41.667",
+        "CAE de 0,77%",
+        "Costo total del crédito de $1.008.000"
+      ],
+      "sucursales": [
+        "Av. Presidente Kennedy 5413, local 200B, Región Metropolitana, Las Condes",
+        "Av. Presidente Kennedy 9001, local 1176, Región Metropolitana, Las Condes",
+        "Av. Nueva Costanera 3403, Región Metropolitana, Vitacura",
+        "Av. Padre Hurtado Sur 875, local E2008-E2016, Región Metropolitana, Las Condes",
+        "Av. Andrés Bello 2447, local 3216, Región Metropolitana, Providencia",
+        "Av. La Dehesa 1938, locales 1 y 2, Región Metropolitana, Lo Barnechea",
+        "Av. Irarrázaval 1700, Región Metropolitana, Ñuñoa",
+        "Av. Los Leones 850, Región Metropolitana, Providencia",
+        "Av. Lo Espejo 943, local 110, Región Metropolitana, Maipú",
+        "Av. Américo Vespucio 1789, Región Metropolitana, Huechuraba",
+        "San Ignacio 300, local 102, Región Metropolitana, Quilicura",
+        "Av. Eduardo Frei Montalva 9709, local 104-106, Región Metropolitana, Quilicura",
+        "Av. Carlos Valdovinos 200, locales C2-C4, Región Metropolitana, San Joaquín",
+        "Av. La Florida 8988, local 1268, Región Metropolitana, La Florida",
+        "Av. Concha y Toro 3909, local 1105, Región Metropolitana, Puente Alto",
+        "Av. Angamos 2170, locales 137-139, Región de Antofagasta, Antofagasta",
+        "Av. Pedro Aguirre Cerda 10578, locales 305-310, Región de Antofagasta, Antofagasta",
+        "Ruta 5 Norte esquina Regimiento Arica, locales 1012, 1016, 1020 y 1024, Región de Coquimbo, La Serena",
+        "Av. Libertad 1348, local E-2, Región de Valparaíso, Viña del Mar",
+        "Camino Internacional 2440, local 29, Región de Valparaíso, Viña del Mar",
+        "Av. Gastón Hamel Nieto 527, local 251, Región de Valparaíso, Viña del Mar",
+        "Av. Vicente Méndez 1545, Región de Ñuble, Chillán",
+        "Av. Jorge Alessandri 3177, Región del Biobío, Talcahuano",
+        "Pedro de Cintra 35-85, Región del Biobío, Talcahuano",
+        "Freire 368, Región del Biobío, Concepción",
+        "Av. Portal de San Pedro 4850, local 21, Región del Biobío, San Pedro de la Paz",
+        "Av. Alemania 671, local 202, Región de La Araucanía, Temuco",
+        "Av. Rudecindo Ortega 04500, Región de La Araucanía, Temuco",
+        "Av. El Portal 2155, Región de La Araucanía, Temuco",
+        "Av. Rudecindo Ortega 01780, local 125, Región de La Araucanía, Temuco",
+        "Av. Ramón Picarte 2641, Región de Los Ríos, Valdivia",
+        "Av. Ferrocarril s/n, km 3,5, locales 139-140, Región de Los Lagos, Puerto Montt",
+        "Av. Juan de Soler Manfredini 131, local 210, Región de Los Lagos, Puerto Montt",
+        "Av. Nueva Costanera 3999, Región Metropolitana, Vitacura",
+        "Av. Presidente Kennedy 5413, local 360, Región Metropolitana, Las Condes"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "Transvip",
       "categoria": "Viajes",
       "descuento": null,
@@ -24306,6 +24091,264 @@
       "vigencia": null,
       "condiciones": [],
       "sucursales": []
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Maluma - 22 y 23 de abril 2027",
+      "categoria": "Entretención y Deportes",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "Compra tus entradas con los mejores beneficios de tus Tarjetas",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Greta",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Sábado"
+      ],
+      "dia_texto": "sábados de noviembre",
+      "canal": null,
+      "vigencia": "Promoción válida del 01 al 30 de noviembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. sábados de noviembre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "2 Nte. 3815, Región del Maule, Talca"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "El mesón de la Patagonia",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Jueves"
+      ],
+      "dia_texto": "jueves de noviembre",
+      "canal": null,
+      "vigencia": "Promoción válida del 01 al 30 de noviembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial. 40% dto. jueves de noviembre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dcto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Lo Barnechea #1223, Región Metropolitana, Lo Barnechea"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "DO SUSHI",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Miércoles",
+        "Sábado"
+      ],
+      "dia_texto": "miércoles y sábado de noviembre",
+      "canal": null,
+      "vigencia": "Promoción válida del 01 al 30 de noviembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. miércoles y sábado de noviembre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Avenida Suecia #155, Local 0167, Región Metropolitana, Providencia"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Expendio",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Martes",
+        "Viernes",
+        "Sábado"
+      ],
+      "dia_texto": "martes, viernes y sábado de noviembre",
+      "canal": null,
+      "vigencia": "Promoción válida del 01 al 30 de noviembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. martes, viernes y sábado de noviembre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Av. Manuel Montt 727, RM, Providencia"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Chili's",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Miércoles"
+      ],
+      "dia_texto": "miércoles de noviembre",
+      "canal": null,
+      "vigencia": "Promoción válida del 01 al 30 de noviembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. miércoles de noviembre",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Los Domínicos, Avenida Padre Hurtado Sur #785, Región Metropolitana, Las Condes",
+        "Alto Las Condes, Avenida Kennedy #9001 local 3207, Región Metropolitana, Las Condes",
+        "Parque Arauco, Avenida Kennedy #5413 local 461, Región Metropolitana, Las Condes",
+        "Costanera, Andrés Bello #2447 local 5128, Región Metropolitana, Providencia",
+        "Arauco Maipú, Avenida Américo Vespucio #399, Región Metropolitana, Maipú",
+        "Isidora, Isidora Goyenechea #2940, Región Metropolitana, Las Condes"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "CuracaRibs",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Jueves"
+      ],
+      "dia_texto": "jueves de noviembre",
+      "canal": null,
+      "vigencia": "Promoción válida del 01 al 30 de noviembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial en Restaurantes CuracaRibs Ruta 68 y CuracaRibs Vitacura. 40% dto. jueves de noviembre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Tope de dcto. $50.000"
+      ],
+      "sucursales": [
+        "Ruta 68 km 45.500 km 45,5, Región Metropolitana, Curacaví",
+        "Los Abedules 3016, Región Metropolitana, Vitacura"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Brasas del Arriero",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Lunes",
+        "Martes",
+        "Miércoles",
+        "Jueves",
+        "Viernes"
+      ],
+      "dia_texto": "lunes a viernes de noviembre",
+      "canal": null,
+      "vigencia": "Promoción válida del 01 al 30 de noviembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. lunes a viernes de noviembre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Trinidad Ote. 1307, Región Metropolitana, La Florida, (2) 2710 2321"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Capri",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Martes",
+        "Miércoles"
+      ],
+      "dia_texto": "martes y miércoles de noviembre",
+      "canal": null,
+      "vigencia": "Promoción válida del 01 al 30 de noviembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. martes y miércoles de noviembre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Gerónimo de Alderete 1423, Región Metropolitana, Vitacura",
+        "El Rodeo #13052, Región Metropolitana, Lo Barnechea"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Dominga Bistró",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Domingo"
+      ],
+      "dia_texto": "domingos de noviembre",
+      "canal": null,
+      "vigencia": "Promoción válida del 01 al 30 de noviembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. domingos de noviembre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dto. $50.000 por mesa",
+        "Exclusivo Valdivia."
+      ],
+      "sucursales": [
+        "Filomena Valenzuela #221, Región de Tarapacá, Iquique",
+        "Avenida Benjamín Viel S/N, Región de Los Ríos, Valdivia"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Greed Taproom",
+      "categoria": "Sabores",
+      "descuento": "40% dto.",
+      "dia": [
+        "Martes"
+      ],
+      "dia_texto": "martes de noviembre",
+      "canal": null,
+      "vigencia": "Promoción válida del 01 al 30 de noviembre de 2026.",
+      "condiciones": [
+        "Válido para consumo presencial 40% dto. martes de noviembre.",
+        "Solicita el descuento al momento de pagar en el restaurant.",
+        "Descuento es exclusivo pagando con tu Tarjeta de Crédito o Débito VISA del Chile.",
+        "No acumulable con otras promociones.",
+        "Te sugerimos realizar reserva para consumo presencial.",
+        "Tope dto. $50.000 por mesa"
+      ],
+      "sucursales": [
+        "Ignacio Zenteno #2661, Región de Los Lagos, Osorno"
+      ]
     },
     {
       "banco": "Banco Santander",
