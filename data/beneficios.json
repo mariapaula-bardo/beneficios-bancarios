@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-20T18:55",
+  "actualizado": "2026-11-21T17:49",
   "beneficios": [
     {
       "banco": "Banco de Chile",
@@ -24349,6 +24349,24 @@
       "sucursales": [
         "Ignacio Zenteno #2661, Región de Los Lagos, Osorno"
       ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "PC Factory",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": null,
+      "dia": [],
+      "dia_texto": "Paga hasta en 12 cuotas sin interés",
+      "canal": null,
+      "vigencia": "Promoción válida hasta el 31 de diciembre de 2026.",
+      "condiciones": [
+        "Encuentra notebooks, computadores, componentes, periféricos, monitores y productos gamer.",
+        "Exclusivo para Tarjetas de Crédito Banco de Chile.",
+        "Válido para compras en tiendas PC Factory de todo Chile y en pcfactory.cl",
+        "El beneficio aplica solo a productos seleccionados.",
+        "En tiendas puedes recibir asesoría para elegir tus productos."
+      ],
+      "sucursales": []
     },
     {
       "banco": "Banco Santander",
