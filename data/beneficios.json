@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-26T19:55",
+  "actualizado": "2026-11-27T19:43",
   "beneficios": [
     {
       "banco": "Banco de Chile",
@@ -774,6 +774,30 @@
         "LOC D 105, Jorge Alessandri 3177, Región del Bíobío, Talcahuano",
         "LOCAL T200, Balmaceda 2355, Región de Antofagasta, Antofagasta",
         "5 Norte Etapa Cuatro L-415, Avenida Bulnes KM 3, Región de Magallanes, Punta Arenas"
+      ]
+    },
+    {
+      "banco": "Banco de Chile",
+      "comercio": "Magíster en Administración de la Construcción (MAC UC)",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "30% dto.",
+      "dia": [],
+      "dia_texto": "en el valor del programa",
+      "canal": null,
+      "vigencia": "Promoción válida hasta el 10 de marzo de 2027.",
+      "condiciones": [
+        "El Magíster en Administración de la Construcción (MAC UC) es un programa único en Chile, ofrecido por la Escuela de Ingeniería y la Facultad de Arquitectura, Diseño y Estudios Urbanos de la UC, en colaboración con la Cámara Chilena de la Construcción. Combina la gestión de proyectos con temas de administración de empresas, dirigido a ejecutivos y profesionales del sector de la construcción en áreas públicas y privadas. Es la primera especialización de postgrado orientada específicamente a esta industria y es el único programa del área tecnológica en recibir la acreditación máxima de 10 años.",
+        "Obtén 30% dto. en el valor del programa Magíster en Administración de la Construcción de la Pontificia Universidad Católica de Chile (MAC UC) durante los períodos de admisión 2027.",
+        "Beneficio se verá reflejado a contar del segundo pago.",
+        "Descuento se verá aplicado al momento de iniciar proceso de pago en el portal de pagos UC.",
+        "Fecha límite de postulaciones hasta el 10 de marzo del 2027.",
+        "Fecha de ingreso 02 de abril 2027.",
+        "Revisa cómo postular ingresando a macuc.cl",
+        "Beneficio no acumulable con otras becas y/o promociones.",
+        "Beneficio no aplica al valor cuota de postulación."
+      ],
+      "sucursales": [
+        "Av. Libertador Bernardo OHiggins #340, Región Metropolitana, Santiago"
       ]
     },
     {
@@ -12026,6 +12050,28 @@
     },
     {
       "banco": "Banco de Chile",
+      "comercio": "Xclusive",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "25% dto.",
+      "dia": [
+        "Todos los días"
+      ],
+      "dia_texto": "todos los días",
+      "canal": "Online",
+      "vigencia": "Promoción válida hasta el 31 de agosto de 2027.",
+      "condiciones": [
+        "Xclusive es una marca que destaca por la calidad de sus productos. Sus billeteras, mochilas y fundas para computador se caracterizan por ser duraderas, funcionales y prácticas para el uso diario.",
+        "25% dto. todos los días en xclusive.cl",
+        "Obtén tu descuento ingresando los 6 primeros dígitos de tus Tarjetas del Chile como código de dto.",
+        "Descuento no aplica para valor del despacho.",
+        "No acumulable con otras promociones.",
+        "Revisa cobertura de despacho en xclusive.cl",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco de Chile",
       "comercio": "Odontogonia",
       "categoria": "Salud y Belleza",
       "descuento": "20% dto.",
@@ -16747,27 +16793,6 @@
     },
     {
       "banco": "Banco de Chile",
-      "comercio": "Shell",
-      "categoria": "Retail y Otras Marcas",
-      "descuento": "$7.000 de dto.",
-      "dia": [],
-      "dia_texto": "en La Barra al pagar con la Nueva  App Shell",
-      "canal": null,
-      "vigencia": "Promoción válida hasta el 22 de noviembre de 2026.",
-      "condiciones": [
-        "$7.000 de dto. en La Barra al comprar combustible, productos en tiendas upa! u otros servicios de Shell con tu Tarjeta del Chile a través de la Nueva App Shell.",
-        "Cupón válido para compras desde $30.000 en labarra.cl",
-        "Recibirás tu cupón por correo electrónico dentro de los 7 días hábiles posteriores a tu compra en Shell.",
-        "Un cupón valido por semana.",
-        "1. Descarga la Nueva App Shell en tu teléfono móvil.",
-        "2. Regístrate con el código que recibirás por correo y crea tu clave. Si no llega el correo, revisa la carpeta de spam.",
-        "3. Enrola tu Tarjeta Banco Edwards en la sección Billetera de la Nueva App Shell.",
-        "4. Solicita al atendedor pagar con la Nueva App Shell y selecciona tu Tarjeta del Chile al momento del pago."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco de Chile",
       "comercio": "CLINICA RAMIS",
       "categoria": "Salud y Belleza",
       "descuento": "Hasta 55% dto.",
@@ -16972,34 +16997,6 @@
         "Completa el pago con tu Tarjeta del Chile.",
         "Exclusivo para Tarjetas del Chile.",
         "No acumulable con otras promociones."
-      ],
-      "sucursales": []
-    },
-    {
-      "banco": "Banco de Chile",
-      "comercio": "miCoca-Cola.cl",
-      "categoria": "Sabores",
-      "descuento": "30% dto.",
-      "dia": [],
-      "dia_texto": "en miCoca-Cola.cl más despacho gratis",
-      "canal": null,
-      "vigencia": "Promoción válida del 16 al 22 de noviembre de 2026.",
-      "condiciones": [
-        "30% dto. en miCoca-Cola.cl más despacho gratis pagando con tus Tarjetas del Chile, del 16 al 22 de noviembre. ¿Cómo obtener tu descuento?",
-        "Ingresa a miCoca-Cola.cl",
-        "Elige tu ciudad.",
-        "Agrega al carrito de compras los productos que quieras.",
-        "Luego, ingresa los 6 primeros dígitos de tu Tarjeta como código de descuento.",
-        "Recibe tu pedido y disfruta.",
-        "Despacho gratis por compras sobre $30.000 después de aplicado el dto.",
-        "Beneficio exclusivo pagando con tus Tarjetas del Chile.",
-        "Beneficio no acumulable con otras promociones.",
-        "Tope de descuento $30.000 por compra.",
-        "Válido para 2 compras por cliente.",
-        "Un código de descuento válido por pedido.",
-        "No aplica en compras con Gift Cards.",
-        "Revisa cobertura de despacho en miCoca-Cola.cl",
-        "Recuerda que con tus Tarjetas de Crédito puedes pagar en 3 cuotas sin interés (2) Para una compra de $100.000 en 3 cuotas de $33.333 CAE de 1.19%. Costo Total $100.198"
       ],
       "sucursales": []
     },
@@ -25077,8 +25074,26 @@
       ]
     },
     {
+      "banco": "Banco de Chile",
+      "comercio": "Marathon",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "10% dto.",
+      "dia": [],
+      "dia_texto": "adicional en Black",
+      "canal": null,
+      "vigencia": "Promoción válida del 27 al 29 de noviembre.",
+      "condiciones": [
+        "Marathon es una marca especializada en la venta de productos deportivos de las principales marcas internacionales, ofreciendo una amplia gama de artículos para diversas disciplinas, como zapatillas, ropa deportiva y accesorios.",
+        "10% dto. adicional Black del 27 al 29 de noviembre.",
+        "Obtén descuento ingresando los seis primeros dígitos de tu tarjeta al momento de finalizar compra en marathon.cl",
+        "Descuento no aplica sobre el valor del despacho.",
+        "Descuento exclusivo pagando con tus Tarjetas del Chile."
+      ],
+      "sucursales": []
+    },
+    {
       "banco": "Banco Santander",
-      "comercio": "Surf festival 2027 Black Friday",
+      "comercio": "Surfestival 2027 Black Friday",
       "categoria": "Retail y Otras Marcas",
       "descuento": null,
       "dia": [],
@@ -25095,7 +25110,53 @@
         "Promoción Black Friday 30% de descuento VIP",
         "30% de descuento entrada general",
         "20% de descuento en estacionamientos",
-        "Promoción válida para compras realizadas solo en https://ticketplus.cl/events/surfestival2027 desde el 26 de noviembre de 2026 hasta el 29 de noviembre de 2026 pagando con Tarjetas Santander e ingresando como código de descuento los primeros 6 dígitos de la Tarjeta. Tope de 4 entradas por RUT de cliente. (*) Stock disponible para el 30% para 200 tickets VIP, 30% para 400 tickets generales y 20% para 200 tickets de estacionamiento. Descuento no aplica al cargo por servicio. La garantía, servicio y calidad del producto es de exclusiva responsabilidad de Surfesrtival y de la venta de entradas es Ticketplus sin responsabilidad para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
+        "Promoción válida para compras realizadas solo en https://ticketplus.cl/events/surfestival2027 desde el 26 de noviembre de 2026 hasta el 30 de noviembre de 2026 pagando con Tarjetas Santander e ingresando como código de descuento los primeros 6 dígitos de la Tarjeta. Tope de 4 entradas por RUT de cliente. (*) Stock disponible para el 30% para 200 tickets VIP, 30% para 400 tickets generales y 20% para 200 tickets de estacionamiento. Descuento no aplica al cargo por servicio. La garantía, servicio y calidad del producto es de exclusiva responsabilidad de Surfesrtival y de la venta de entradas es Ticketplus sin responsabilidad para Banco Santander Chile ni en la ulterior atención que ello demande. Infórmese sobre la garantía estatal de los depósitos en su banco o en www.cmfchile.cl"
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Bold",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "30% dcto.",
+      "dia": [
+        "Lunes",
+        "Domingo"
+      ],
+      "dia_texto": "este domingo 29 y lunes 30 de noviembre",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Zapatillas y ropa streetwear original de Nike, Jordan, adidas, New Balance y Puma.",
+        "Exclusivo con tus Tarjetas de Crédito Santander.",
+        "Válido en tiendas Bold",
+        "No acumulable a otras promociones.",
+        "Tope de descuento: $50.000 por boleta.",
+        "Exclusiones: lanzamientos Jordan (Air Jordan 3, 4, 5, 6 Rings, 11 y Son of Mars) y lentes Meta (Oakley Meta y Ray-Ban Meta).",
+        "Descuentos exclusivos pagando con Tarjetas de crédito Santander, válido los días 29 y 30 de Noviembre 2026. Bold: exclusivo en tiendas físicas, excluye lanzamientos Jordan (Air Jordan 3, 4, 5, 6 Rings, 11 y Son of Mars) y lentes Meta (Oakley Meta y Ray-Ban Meta), tope de descuento $50.000, no acumulable con otras promociones o descuentos. Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Revisa todos los términos y condiciones de las promociones en Santander. cl/Beneficios. Banco Santander Chile: infórmese sobre la garantía estatal de los depósitos en su banco o en www. cmfchile. cl."
+      ],
+      "sucursales": []
+    },
+    {
+      "banco": "Banco Santander",
+      "comercio": "Oakley",
+      "categoria": "Retail y Otras Marcas",
+      "descuento": "40% dcto.",
+      "dia": [
+        "Lunes",
+        "Domingo"
+      ],
+      "dia_texto": "este domingo 29 y lunes 30 de noviembre",
+      "canal": null,
+      "vigencia": null,
+      "condiciones": [
+        "Gafas de sol, ropa deportiva, máscaras, relojes y accesorios innovadores de hombre y mujer.",
+        "Exclusivo con tus Tarjetas de Crédito Santander.",
+        "Válido en tiendas Oakley",
+        "No acumulable a otras promociones.",
+        "Tope de descuento: $80.000 por boleta.",
+        "Exclusiones: anteojos Oakley Meta.",
+        "Descuentos exclusivos pagando con Tarjetas de crédito Santander, válido los días 29 y 30 de Noviembre 2026. Oakley: exclusivo en tiendas físicas, excluye anteojos Oakley y Rayban meta, tope de descuento $80.000, descuento no acumulable a otras promociones o descuentos. Las ofertas, ventas y descuentos, como asimismo la garantía, servicio y calidad del producto será de exclusiva responsabilidad del comercio, sin responsabilidad ni injerencia alguna para Banco Santander Chile ni en la ulterior atención que ello demande. Revisa todos los términos y condiciones de las promociones en Santander. cl/Beneficios. Banco Santander Chile: infórmese sobre la garantía estatal de los depósitos en su banco o en www. cmfchile. cl."
       ],
       "sucursales": []
     },
